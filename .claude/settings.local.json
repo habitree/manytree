@@ -9,7 +9,8 @@
       "Bash(npx wrangler login)",
       "Bash(npx wrangler pages project create manytree --production-branch main)",
       "Bash(npx @cloudflare/next-on-pages)",
-      "Bash(npx wrangler:*)"
+      "Bash(npx wrangler:*)",
+      "WebFetch(domain:adsense.google.com)"
     ]
   }
 }

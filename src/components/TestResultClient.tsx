@@ -8,6 +8,7 @@ import { determineResult, calculateScores } from "@/lib/calculate";
 import { UserAnswer, Result, Test } from "@/types/test";
 import ResultCard from "@/components/ResultCard";
 import ShareButtons from "@/components/ShareButtons";
+import AdBanner from "@/components/AdBanner";
 
 interface Props {
   testId: string;
@@ -65,6 +66,9 @@ export default function TestResultClient({ testId }: Props) {
       <div className="max-w-xl mx-auto">
         <ResultCard result={result} scores={scores} color={test.color} />
 
+        {/* 결과 아래 광고 */}
+        <AdBanner format="auto" className="my-8" />
+
         <div className="mt-8">
           <ShareButtons
             title={`${test.title} 결과: ${result.title}`}
@@ -88,6 +92,9 @@ export default function TestResultClient({ testId }: Props) {
             </button>
           </Link>
         </div>
+
+        {/* 하단 광고 */}
+        <AdBanner format="horizontal" className="mt-8" />
       </div>
     </div>
   );
