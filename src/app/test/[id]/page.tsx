@@ -1,9 +1,14 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getTestById } from "@/lib/tests";
+import { getTestById, getAllTests } from "@/lib/tests";
 
 interface Props {
   params: Promise<{ id: string }>;
+}
+
+export function generateStaticParams() {
+  const tests = getAllTests();
+  return tests.map((test) => ({ id: test.id }));
 }
 
 export async function generateMetadata({ params }: Props) {

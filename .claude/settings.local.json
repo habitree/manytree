@@ -3,7 +3,13 @@
     "allow": [
       "WebFetch(domain:www.metavv.com)",
       "Bash(npx create-next-app@latest:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote add:*)",
+      "Bash(npx wrangler login)",
+      "Bash(npx wrangler pages project create manytree --production-branch main)",
+      "Bash(npx @cloudflare/next-on-pages)",
+      "Bash(npx wrangler:*)"
     ]
   }
 }
