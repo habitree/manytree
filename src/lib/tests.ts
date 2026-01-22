@@ -1,7 +1,8 @@
 import { Test, TestSummary } from "@/types/test";
 import sampleMbti from "@/data/tests/sample-mbti.json";
+import dogPersonality from "@/data/tests/dog-personality.json";
 
-const tests: Test[] = [sampleMbti as Test];
+const tests: Test[] = [sampleMbti as Test, dogPersonality as Test];
 
 export function getAllTests(): TestSummary[] {
   return tests.map((test) => ({

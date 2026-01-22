@@ -22,6 +22,13 @@ export function determineResult(test: Test, answers: UserAnswer[]): Result {
     if (result) return result;
   }
 
+  // 강아지 성격 테스트 계산
+  if (isDogPersonalityTest(scores)) {
+    const dogType = calculateDogType(scores);
+    const result = test.results.find((r) => r.id === dogType);
+    if (result) return result;
+  }
+
   // 일반 점수 기반 계산: 가장 높은 점수를 가진 결과 반환
   let maxScore = -Infinity;
   let maxResultId = test.results[0].id;
@@ -41,6 +48,48 @@ function isMbtiTest(scores: Record<string, number>): boolean {
   const mbtiKeys = ["E", "I", "N", "S", "T", "F", "J", "P"];
   const scoreKeys = Object.keys(scores);
   return mbtiKeys.some((key) => scoreKeys.includes(key));
+}
+
+function isDogPersonalityTest(scores: Record<string, number>): boolean {
+  const dogKeys = ["energy", "calm", "social", "shy", "loyal", "independent", "curious", "cautious", "cute", "cool"];
+  const scoreKeys = Object.keys(scores);
+  return dogKeys.some((key) => scoreKeys.includes(key));
+}
+
+function calculateDogType(scores: Record<string, number>): string {
+  const energy = scores["energy"] || 0;
+  const calm = scores["calm"] || 0;
+  const social = scores["social"] || 0;
+  const shy = scores["shy"] || 0;
+  const loyal = scores["loyal"] || 0;
+  const independent = scores["independent"] || 0;
+  const curious = scores["curious"] || 0;
+  const cautious = scores["cautious"] || 0;
+  const cute = scores["cute"] || 0;
+  const cool = scores["cool"] || 0;
+
+  // 에너지 vs 차분
+  const isEnergetic = energy > calm;
+  // 사교적 vs 소심
+  const isSocial = social > shy;
+  // 충성 vs 독립
+  const isLoyal = loyal > independent;
+  // 호기심 vs 신중
+  const isCurious = curious > cautious;
+  // 귀여움 vs 쿨함
+  const isCute = cute > cool;
+
+  // 결과 조합
+  if (isEnergetic && isSocial) return "energy-social";
+  if (isEnergetic && !isSocial) return "energy-shy";
+  if (!isEnergetic && isSocial) return "calm-social";
+  if (!isEnergetic && !isSocial && !isLoyal) return "calm-shy";
+  if (isLoyal && isCute) return "loyal-cute";
+  if (isLoyal && !isCute) return "loyal-cool";
+  if (!isLoyal && isCurious) return "independent-curious";
+  if (!isLoyal && !isCurious) return "independent-cautious";
+
+  return "loyal-cute"; // 기본값
 }
 
 function calculateMbtiType(scores: Record<string, number>): string {

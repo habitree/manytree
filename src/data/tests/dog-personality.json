@@ -1,0 +1,235 @@
+{
+  "id": "dog-personality",
+  "title": "우리 강아지는 어떤 강아지?",
+  "description": "12가지 질문으로 알아보는 우리 강아지의 숨겨진 성격! 댕댕이의 진짜 모습을 발견해보세요.",
+  "thumbnail": "/images/dog-thumbnail.png",
+  "color": "#8B572A",
+  "questions": [
+    {
+      "id": 1,
+      "text": "산책 나가자고 하면 우리 강아지의 반응은?",
+      "options": [
+        {
+          "text": "미친 듯이 뛰어다니며 흥분한다",
+          "scores": { "energy": 2, "calm": 0 }
+        },
+        {
+          "text": "꼬리는 흔들지만 차분하게 기다린다",
+          "scores": { "energy": 0, "calm": 2 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "처음 보는 사람이 집에 오면?",
+      "options": [
+        {
+          "text": "꼬리 흔들며 반갑게 다가간다",
+          "scores": { "social": 2, "shy": 0 }
+        },
+        {
+          "text": "경계하며 거리를 두고 지켜본다",
+          "scores": { "social": 0, "shy": 2 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "혼자 집에 있을 때 우리 강아지는?",
+      "options": [
+        {
+          "text": "문 앞에서 보호자를 기다린다",
+          "scores": { "loyal": 2, "independent": 0 }
+        },
+        {
+          "text": "자기 자리에서 편하게 쉰다",
+          "scores": { "loyal": 0, "independent": 2 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "새로운 장난감을 주면?",
+      "options": [
+        {
+          "text": "신나서 바로 물고 놀기 시작한다",
+          "scores": { "curious": 2, "cautious": 0 }
+        },
+        {
+          "text": "냄새 맡고 살펴본 후 천천히 다가간다",
+          "scores": { "curious": 0, "cautious": 2 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "다른 강아지를 만나면?",
+      "options": [
+        {
+          "text": "꼬리 흔들며 적극적으로 인사한다",
+          "scores": { "social": 2, "shy": 0 }
+        },
+        {
+          "text": "보호자 뒤에 숨거나 무시한다",
+          "scores": { "social": 0, "shy": 2 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "간식을 줄 때 우리 강아지는?",
+      "options": [
+        {
+          "text": "애교 부리며 졸졸 따라다닌다",
+          "scores": { "cute": 2, "cool": 0 }
+        },
+        {
+          "text": "의젓하게 앉아서 기다린다",
+          "scores": { "cute": 0, "cool": 2 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "낯선 소리가 들리면?",
+      "options": [
+        {
+          "text": "짖으며 가족을 지키려 한다",
+          "scores": { "loyal": 2, "independent": 0 }
+        },
+        {
+          "text": "귀만 쫑긋하고 별 반응 없다",
+          "scores": { "loyal": 0, "independent": 2 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "공원에서 우리 강아지는?",
+      "options": [
+        {
+          "text": "이리저리 뛰어다니며 탐험한다",
+          "scores": { "energy": 2, "calm": 0, "curious": 1 }
+        },
+        {
+          "text": "보호자 곁에서 여유롭게 걷는다",
+          "scores": { "energy": 0, "calm": 2, "cautious": 1 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "잠자리 스타일은?",
+      "options": [
+        {
+          "text": "보호자 품이나 바로 옆에서 잔다",
+          "scores": { "cute": 2, "cool": 0 }
+        },
+        {
+          "text": "자기만의 공간에서 혼자 잔다",
+          "scores": { "cute": 0, "cool": 2 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "훈련할 때 우리 강아지는?",
+      "options": [
+        {
+          "text": "빨리 배우고 칭찬받으려 노력한다",
+          "scores": { "loyal": 2, "curious": 1 }
+        },
+        {
+          "text": "기분 내킬 때만 따라한다",
+          "scores": { "independent": 2, "cool": 1 }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "비 오는 날 우리 강아지는?",
+      "options": [
+        {
+          "text": "그래도 산책 가고 싶어한다",
+          "scores": { "energy": 2, "curious": 1 }
+        },
+        {
+          "text": "집에서 뒹굴거리며 쉰다",
+          "scores": { "calm": 2, "cautious": 1 }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "사진 찍을 때 우리 강아지는?",
+      "options": [
+        {
+          "text": "카메라 보며 자연스럽게 포즈!",
+          "scores": { "social": 2, "cute": 1 }
+        },
+        {
+          "text": "고개 돌리거나 피해버린다",
+          "scores": { "shy": 2, "independent": 1 }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "energy-social",
+      "title": "파티 피플 댕댕이",
+      "description": "어디서든 주인공! 에너지 넘치고 사교적인 우리 강아지는 모든 사람과 강아지의 친구예요. 산책 나가면 동네 인싸, 집에 오면 분위기 메이커! 활발한 성격 덕분에 어디를 가든 인기 만점이랍니다.",
+      "image": "/images/results/dog-party.png",
+      "tags": ["에너지 폭발", "사교왕", "인싸견"]
+    },
+    {
+      "id": "energy-shy",
+      "title": "열정적인 탐험가 댕댕이",
+      "description": "호기심 가득! 새로운 것을 발견하면 눈이 반짝반짝 빛나는 우리 강아지. 사람보다는 세상 탐험에 더 관심이 많아요. 산책 중 모든 냄새를 맡고, 모든 구석을 확인해야 직성이 풀리는 열정파예요!",
+      "image": "/images/results/dog-explorer.png",
+      "tags": ["호기심왕", "탐험가", "모험러버"]
+    },
+    {
+      "id": "calm-social",
+      "title": "젠틀독 댕댕이",
+      "description": "차분하지만 다정한 우리 강아지는 모든 이에게 사랑받는 젠틀독이에요. 흥분하지 않고도 충분히 친근하게 인사할 줄 알고, 어느 상황에서도 의젓한 모습을 보여줘요. 어른스러운 매력의 소유자!",
+      "image": "/images/results/dog-gentle.png",
+      "tags": ["차분함", "다정함", "젠틀독"]
+    },
+    {
+      "id": "calm-shy",
+      "title": "힐링 요정 댕댕이",
+      "description": "조용하고 평화로운 우리 강아지는 그 존재만으로 힐링이 되는 아이예요. 시끄러운 것보다 조용한 오후를 좋아하고, 보호자 옆에서 함께 쉬는 시간이 가장 행복해요. 마음의 안식을 주는 특별한 친구!",
+      "image": "/images/results/dog-healing.png",
+      "tags": ["힐링", "평화주의", "조용한 행복"]
+    },
+    {
+      "id": "loyal-cute",
+      "title": "세상 귀여운 충견 댕댕이",
+      "description": "보호자만 바라보는 충성스러운 눈망울! 거기에 애교까지 넘치는 우리 강아지는 최고의 동반자예요. 항상 곁에 있고 싶어하고, 사랑 표현에 인색하지 않아요. 당신의 영원한 팬이자 최고의 친구!",
+      "image": "/images/results/dog-loyal-cute.png",
+      "tags": ["충성파", "애교왕", "영원한 팬"]
+    },
+    {
+      "id": "loyal-cool",
+      "title": "믿음직한 경호원 댕댕이",
+      "description": "쿨한 외모 속에 뜨거운 충성심! 우리 강아지는 가족을 지키는 것이 사명인 진정한 경호원이에요. 평소엔 의젓하지만 가족에게 위험이 느껴지면 가장 먼저 앞에 나서는 듬직한 수호천사!",
+      "image": "/images/results/dog-guard.png",
+      "tags": ["수호천사", "듬직함", "쿨내나는 충견"]
+    },
+    {
+      "id": "independent-curious",
+      "title": "자유로운 영혼 댕댕이",
+      "description": "구속은 싫어! 자유롭게 세상을 탐험하고 싶은 우리 강아지는 독립적이면서도 호기심이 넘쳐요. 혼자만의 시간도 즐기고, 새로운 것에 대한 탐구심도 강해요. 멋진 자유로운 영혼의 소유자!",
+      "image": "/images/results/dog-free.png",
+      "tags": ["자유영혼", "독립적", "호기심"]
+    },
+    {
+      "id": "independent-cautious",
+      "title": "고양이 같은 댕댕이",
+      "description": "강아지인데 왠지 고양이 같은 우리 아이! 독립적이고 신중한 성격으로 자기만의 페이스를 유지해요. 애정 표현은 절제하지만, 가끔 다가올 때 그 귀여움은 배가 되죠. 도도함이 매력인 특별한 댕댕이!",
+      "image": "/images/results/dog-cat.png",
+      "tags": ["도도함", "신중함", "고양이 같은"]
+    }
+  ]
+}
