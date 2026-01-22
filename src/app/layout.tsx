@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import Link from "next/link";
 import "./globals.css";
 
@@ -39,11 +38,10 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <head>
-        <Script
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4166976105261105"
           crossOrigin="anonymous"
-          strategy="afterInteractive"
         />
       </head>
       <body className="font-sans antialiased bg-gray-50">
