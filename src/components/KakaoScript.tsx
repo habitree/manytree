@@ -34,20 +34,16 @@ interface KakaoShareOptions {
   }>;
 }
 
-export default function KakaoScript() {
-  const kakaoJsKey = process.env.NEXT_PUBLIC_KAKAO_JS_KEY;
+// 카카오 JavaScript 키 (클라이언트 노출용 - 도메인 제한으로 보안 유지)
+const KAKAO_JS_KEY = process.env.NEXT_PUBLIC_KAKAO_JS_KEY || "8343cb1720872c3417a8505b23ac0ea1";
 
+export default function KakaoScript() {
   const handleKakaoLoad = () => {
-    if (window.Kakao && !window.Kakao.isInitialized() && kakaoJsKey) {
-      window.Kakao.init(kakaoJsKey);
+    if (window.Kakao && !window.Kakao.isInitialized() && KAKAO_JS_KEY) {
+      window.Kakao.init(KAKAO_JS_KEY);
       console.log("Kakao SDK initialized:", window.Kakao.isInitialized());
     }
   };
-
-  if (!kakaoJsKey) {
-    console.warn("Kakao JS Key is not set. Please set NEXT_PUBLIC_KAKAO_JS_KEY in your environment variables.");
-    return null;
-  }
 
   return (
     <Script
