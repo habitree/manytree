@@ -16,7 +16,11 @@
       "WebSearch",
       "WebFetch(domain:unsplash.com)",
       "WebFetch(domain:developers.kakao.com)",
-      "WebFetch(domain:developers.cloudflare.com)"
+      "WebFetch(domain:developers.cloudflare.com)",
+      "Bash(git -C \"C:/Users/N100274/OneDrive/2.PJT/manytree\" status)",
+      "Bash(git -C \"C:/Users/N100274/OneDrive/2.PJT/manytree\" log --oneline -5)",
+      "Bash(git -C \"C:/Users/N100274/OneDrive/2.PJT/manytree\" add doc/idea/)",
+      "Bash(git -C \"C:/Users/N100274/OneDrive/2.PJT/manytree\" commit -m \"$\\(cat <<''EOF''\ndocs: ReadingTree 신규 기능 아이디어 문서 추가\n\n5가지 관점에서 조사한 신규 기능 아이디어 통합 문서:\n- 게이미피케이션 \\(스트릭, 배지, 나무 성장\\)\n- 소셜/커뮤니티 \\(팔로우, 피드, 독서 클럽\\)\n- AI 혁신 \\(추천 시스템, AI 어시스턴트\\)\n- 데이터 분석 \\(Year in Books, 독서 캘린더\\)\n- 크리에이터 이코노미 \\(후원, 큐레이션\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }

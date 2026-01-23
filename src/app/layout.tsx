@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   authors: [{ name: "ManyTree" }],
   creator: "ManyTree",
   publisher: "ManyTree",
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+    apple: "/icon.svg",
+  },
   openGraph: {
     title: "ManyTree - 심리테스트",
     description: "다양한 심리테스트와 MBTI 테스트를 즐겨보세요!",
