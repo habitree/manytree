@@ -5,7 +5,6 @@ import { useRouter } from "next/navigation";
 import { getTestById } from "@/lib/tests";
 import { UserAnswer } from "@/types/test";
 import QuestionCard from "@/components/QuestionCard";
-import ProgressBar from "@/components/ProgressBar";
 
 interface Props {
   testId: string;
@@ -72,24 +71,18 @@ export default function TestPlayClient({ testId }: Props) {
   const currentQuestion = test.questions[currentIndex];
 
   return (
-    <div className="min-h-screen py-8 px-4">
-      <div className="max-w-xl mx-auto">
-        <div className="mb-8">
-          <ProgressBar
-            current={currentIndex + 1}
-            total={test.questions.length}
+    <div className="min-h-screen py-8 md:py-16 px-4 md:px-6">
+      <div className="max-w-2xl mx-auto">
+        <div className="bg-white p-6 md:p-10 rounded-[2rem] shadow-large border border-gray-100">
+          <QuestionCard
+            key={currentQuestion.id}
+            question={currentQuestion}
+            questionNumber={currentIndex + 1}
+            totalQuestions={test.questions.length}
+            onSelect={handleSelectOption}
             color={test.color}
           />
         </div>
-
-        <QuestionCard
-          key={currentQuestion.id}
-          question={currentQuestion}
-          questionNumber={currentIndex + 1}
-          totalQuestions={test.questions.length}
-          onSelect={handleSelectOption}
-          color={test.color}
-        />
 
         {currentIndex > 0 && (
           <button
@@ -97,19 +90,19 @@ export default function TestPlayClient({ testId }: Props) {
               setCurrentIndex((prev) => prev - 1);
               setAnswers((prev) => prev.slice(0, -1));
             }}
-            className="mt-8 text-gray-400 hover:text-gray-600 text-sm flex items-center gap-1 mx-auto"
+            className="mt-8 text-earth-gray hover:text-forest-green text-base font-bold flex items-center justify-center gap-2 mx-auto transition-colors py-3 px-6 rounded-xl hover:bg-soft-beige"
           >
             <svg
-              width="16"
-              height="16"
+              width="20"
+              height="20"
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
-              strokeWidth="2"
+              strokeWidth="2.5"
             >
               <polyline points="15,18 9,12 15,6" />
             </svg>
-            이전 질문으로
+            이전 질문
           </button>
         )}
       </div>

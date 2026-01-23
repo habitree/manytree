@@ -13,17 +13,17 @@ export default function ProgressBar({
 
   return (
     <div className="w-full">
-      <div className="flex justify-between items-center mb-2">
-        <span className="text-sm text-gray-500">
-          {current} / {total}
+      <div className="flex justify-between items-end mb-3">
+        <span className="text-xl font-bold text-earth-gray">
+          질문 {current} / {total}
         </span>
-        <span className="text-sm font-medium" style={{ color }}>
-          {percentage}%
+        <span className="text-2xl font-black" style={{ color }}>
+          {percentage}% 완료
         </span>
       </div>
-      <div className="w-full h-2 bg-gray-200 rounded-full overflow-hidden">
+      <div className="w-full h-5 bg-gray-100 rounded-full overflow-hidden shadow-inner border border-gray-200">
         <div
-          className="h-full rounded-full transition-all duration-500 ease-out"
+          className="h-full rounded-full transition-all duration-700 ease-out shadow-sm"
           style={{
             width: `${percentage}%`,
             backgroundColor: color,

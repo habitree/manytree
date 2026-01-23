@@ -14,6 +14,7 @@ export interface Result {
   title: string;
   description: string;
   image: string;
+  emoji?: string;
   tags?: string[];
 }
 
@@ -23,6 +24,7 @@ export interface Test {
   description: string;
   thumbnail: string;
   color?: string;
+  emoji?: string;
   questions: Question[];
   results: Result[];
 }
@@ -33,6 +35,7 @@ export interface TestSummary {
   description: string;
   thumbnail: string;
   color?: string;
+  emoji?: string;
   questionCount: number;
 }
 

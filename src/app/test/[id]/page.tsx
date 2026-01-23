@@ -1,6 +1,7 @@
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getTestById, getAllTests } from "@/lib/tests";
+import { getTestById, getAllTests, getTestEmoji } from "@/lib/tests";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -22,6 +23,7 @@ export async function generateMetadata({ params }: Props) {
     openGraph: {
       title: test.title,
       description: test.description,
+      images: test.thumbnail ? [{ url: test.thumbnail }] : [],
     },
   };
 }
@@ -34,51 +36,102 @@ export default async function TestIntroPage({ params }: Props) {
     notFound();
   }
 
+  const emoji = getTestEmoji(test.id);
+
   return (
-    <div className="min-h-screen flex items-center justify-center py-12 px-4">
-      <div className="max-w-md w-full">
-        <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
+    <div className="min-h-screen flex items-center justify-center py-12 px-4 md:py-16 md:px-6">
+      <div className="max-w-xl w-full scale-in">
+        <div className="bg-white rounded-[2rem] shadow-large overflow-hidden border border-gray-100">
           {/* 썸네일 영역 */}
           <div
-            className="h-56 flex items-center justify-center"
-            style={{ backgroundColor: test.color || "#6366f1" }}
+            className="h-56 md:h-64 relative overflow-hidden"
+            style={{ backgroundColor: test.color || "#2D5A27" }}
           >
-            <div className="text-center text-white">
-              <div className="text-7xl mb-4">🧠</div>
+            {/* 썸네일 이미지 */}
+            {test.thumbnail && (
+              <Image
+                src={test.thumbnail}
+                alt={test.title}
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 600px"
+                priority
+              />
+            )}
+
+            {/* 그라데이션 오버레이 */}
+            <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/30 to-black/60" />
+
+            {/* 이모지 배지 */}
+            <div className="absolute bottom-4 left-4">
+              <div className="w-20 h-20 bg-white/95 backdrop-blur-sm rounded-2xl flex items-center justify-center shadow-lg">
+                <span className="text-5xl">{emoji}</span>
+              </div>
+            </div>
+
+            {/* 질문 수 배지 */}
+            <div className="absolute top-4 right-4">
+              <span className="inline-flex items-center gap-1.5 text-sm font-bold text-white bg-black/30 backdrop-blur-sm px-4 py-2 rounded-full">
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                {test.questions.length}문항
+              </span>
             </div>
           </div>
 
           {/* 콘텐츠 영역 */}
-          <div className="p-8">
-            <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center mb-4">
+          <div className="p-6 md:p-10">
+            <h1 className="text-2xl md:text-3xl font-extrabold text-deep-charcoal text-center mb-4 leading-tight">
               {test.title}
             </h1>
-            <p className="text-gray-500 text-center mb-6 leading-relaxed">
+            <p className="text-base md:text-lg text-earth-gray text-center mb-8 leading-relaxed">
               {test.description}
             </p>
 
             {/* 테스트 정보 */}
-            <div className="flex justify-center gap-6 mb-8">
+            <div className="flex justify-center gap-8 md:gap-12 mb-8 bg-soft-beige p-5 rounded-2xl">
               <div className="text-center">
-                <p className="text-2xl font-bold" style={{ color: test.color }}>
+                <p
+                  className="text-2xl md:text-3xl font-extrabold"
+                  style={{ color: test.color || "#2D5A27" }}
+                >
                   {test.questions.length}
                 </p>
-                <p className="text-xs text-gray-400">질문</p>
+                <p className="text-xs md:text-sm font-bold text-earth-gray mt-1">질문</p>
               </div>
+              <div className="w-px bg-gray-200" />
               <div className="text-center">
-                <p className="text-2xl font-bold" style={{ color: test.color }}>
+                <p
+                  className="text-2xl md:text-3xl font-extrabold"
+                  style={{ color: test.color || "#2D5A27" }}
+                >
                   {test.results.length}
                 </p>
-                <p className="text-xs text-gray-400">결과 유형</p>
+                <p className="text-xs md:text-sm font-bold text-earth-gray mt-1">결과 유형</p>
+              </div>
+              <div className="w-px bg-gray-200" />
+              <div className="text-center">
+                <p
+                  className="text-2xl md:text-3xl font-extrabold"
+                  style={{ color: test.color || "#2D5A27" }}
+                >
+                  ~3분
+                </p>
+                <p className="text-xs md:text-sm font-bold text-earth-gray mt-1">소요시간</p>
               </div>
             </div>
 
             {/* 시작 버튼 */}
             <Link href={`/test/${test.id}/play`}>
               <button
-                className="w-full py-4 rounded-xl text-white font-bold text-lg transition-transform hover:scale-[1.02] active:scale-[0.98]"
-                style={{ backgroundColor: test.color || "#6366f1" }}
+                className="w-full py-4 md:py-5 rounded-2xl text-white font-bold text-lg md:text-xl shadow-lg transition-all duration-300 hover:scale-[1.02] hover:shadow-xl active:scale-[0.98] flex items-center justify-center gap-3"
+                style={{ backgroundColor: test.color || "#2D5A27" }}
               >
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
                 테스트 시작하기
               </button>
             </Link>
@@ -86,9 +139,12 @@ export default async function TestIntroPage({ params }: Props) {
             {/* 홈으로 */}
             <Link
               href="/"
-              className="block text-center mt-4 text-sm text-gray-400 hover:text-gray-600"
+              className="flex items-center justify-center gap-2 mt-6 text-base font-bold text-earth-gray hover:text-forest-green transition-colors py-3"
             >
-              다른 테스트 보기
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+              </svg>
+              다른 테스트 보러가기
             </Link>
           </div>
         </div>

@@ -11,7 +11,11 @@
       "Bash(npx @cloudflare/next-on-pages)",
       "Bash(npx wrangler:*)",
       "WebFetch(domain:adsense.google.com)",
-      "WebFetch(domain:manytree.pages.dev)"
+      "WebFetch(domain:manytree.pages.dev)",
+      "Skill(web-search)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:developers.kakao.com)"
     ]
   }
 }

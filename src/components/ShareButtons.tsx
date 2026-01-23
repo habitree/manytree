@@ -6,19 +6,47 @@ interface ShareButtonsProps {
   title: string;
   description: string;
   url?: string;
+  imageUrl?: string;
 }
 
-export default function ShareButtons({ title, description, url }: ShareButtonsProps) {
+export default function ShareButtons({ title, description, url, imageUrl }: ShareButtonsProps) {
   const [copied, setCopied] = useState(false);
   const [canShare, setCanShare] = useState(false);
   const [shareUrl, setShareUrl] = useState(url || "");
+  const [kakaoReady, setKakaoReady] = useState(false);
 
   useEffect(() => {
     if (!url) {
       setShareUrl(window.location.href);
     }
     setCanShare(typeof navigator.share === "function");
-  }, [url]);
+
+    // 카카오 SDK 초기화 상태 체크
+    const checkKakao = () => {
+      if (typeof window !== "undefined" && window.Kakao && window.Kakao.isInitialized()) {
+        setKakaoReady(true);
+      }
+    };
+
+    // 초기 체크
+    checkKakao();
+
+    // SDK 로드 후 체크를 위한 interval
+    const interval = setInterval(() => {
+      checkKakao();
+      if (kakaoReady) {
+        clearInterval(interval);
+      }
+    }, 500);
+
+    // 3초 후 interval 정리
+    const timeout = setTimeout(() => clearInterval(interval), 3000);
+
+    return () => {
+      clearInterval(interval);
+      clearTimeout(timeout);
+    };
+  }, [url, kakaoReady]);
 
   const handleCopyLink = async () => {
     try {
@@ -37,19 +65,18 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
   };
 
   const handleShareKakao = () => {
-    if (typeof window !== "undefined" && (window as any).Kakao) {
-      const Kakao = (window as any).Kakao;
-      if (!Kakao.isInitialized()) {
-        // Kakao SDK 초기화가 필요합니다
-        console.log("Kakao SDK not initialized");
+    if (typeof window !== "undefined" && window.Kakao) {
+      if (!window.Kakao.isInitialized()) {
+        alert("카카오 SDK가 아직 초기화되지 않았습니다.\n잠시 후 다시 시도해주세요.");
         return;
       }
-      Kakao.Share.sendDefault({
+
+      window.Kakao.Share.sendDefault({
         objectType: "feed",
         content: {
           title,
           description,
-          imageUrl: "",
+          imageUrl: imageUrl || "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop&q=80",
           link: {
             mobileWebUrl: shareUrl,
             webUrl: shareUrl,
@@ -66,7 +93,7 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
         ],
       });
     } else {
-      alert("카카오톡 공유는 카카오 SDK 설정이 필요합니다.");
+      alert("카카오톡 공유 기능을 사용할 수 없습니다.\n페이지를 새로고침 후 다시 시도해주세요.");
     }
   };
 
@@ -92,8 +119,11 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
         {/* 카카오톡 */}
         <button
           onClick={handleShareKakao}
-          className="w-12 h-12 flex items-center justify-center rounded-full bg-[#FEE500] hover:opacity-90 transition-opacity"
+          className={`w-12 h-12 flex items-center justify-center rounded-full bg-[#FEE500] transition-all duration-300 ${
+            kakaoReady ? "hover:opacity-90 hover:scale-105" : "opacity-70"
+          }`}
           aria-label="카카오톡으로 공유"
+          title={kakaoReady ? "카카오톡으로 공유" : "카카오 SDK 로딩 중..."}
         >
           <svg width="24" height="24" viewBox="0 0 24 24" fill="#3C1E1E">
             <path d="M12 3C6.48 3 2 6.58 2 11c0 2.84 1.9 5.32 4.7 6.74-.15.55-.65 2.37-.74 2.76-.12.49.18.48.38.35.16-.1 2.54-1.73 3.57-2.43.68.1 1.39.15 2.09.15 5.52 0 10-3.58 10-8 0-4.42-4.48-8-10-8z"/>
@@ -103,7 +133,7 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
         {/* 트위터/X */}
         <button
           onClick={handleShareTwitter}
-          className="w-12 h-12 flex items-center justify-center rounded-full bg-black hover:opacity-90 transition-opacity"
+          className="w-12 h-12 flex items-center justify-center rounded-full bg-black hover:opacity-90 hover:scale-105 transition-all duration-300"
           aria-label="X(트위터)로 공유"
         >
           <svg width="18" height="18" viewBox="0 0 24 24" fill="white">
@@ -114,11 +144,11 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
         {/* 링크 복사 */}
         <button
           onClick={handleCopyLink}
-          className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-200 hover:bg-gray-300 transition-colors"
+          className="w-12 h-12 flex items-center justify-center rounded-full bg-gray-200 hover:bg-gray-300 hover:scale-105 transition-all duration-300"
           aria-label="링크 복사"
         >
           {copied ? (
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10b981" strokeWidth="2">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10b981" strokeWidth="2.5">
               <polyline points="20,6 9,17 4,12"/>
             </svg>
           ) : (
@@ -133,7 +163,7 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
         {canShare && (
           <button
             onClick={handleNativeShare}
-            className="w-12 h-12 flex items-center justify-center rounded-full bg-primary-500 hover:bg-primary-600 transition-colors"
+            className="w-12 h-12 flex items-center justify-center rounded-full bg-forest-green hover:bg-forest-green/90 hover:scale-105 transition-all duration-300"
             aria-label="공유하기"
           >
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
@@ -148,7 +178,7 @@ export default function ShareButtons({ title, description, url }: ShareButtonsPr
       </div>
 
       {copied && (
-        <p className="text-sm text-green-500 fade-in">링크가 복사되었습니다!</p>
+        <p className="text-sm text-green-500 fade-in font-medium">링크가 복사되었습니다!</p>
       )}
     </div>
   );
