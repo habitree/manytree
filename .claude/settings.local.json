@@ -15,7 +15,8 @@
       "Skill(web-search)",
       "WebSearch",
       "WebFetch(domain:unsplash.com)",
-      "WebFetch(domain:developers.kakao.com)"
+      "WebFetch(domain:developers.kakao.com)",
+      "WebFetch(domain:developers.cloudflare.com)"
     ]
   }
 }
