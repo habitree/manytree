@@ -1,0 +1,303 @@
+{
+  "id": "attachment-style",
+  "title": "당신의 사랑 패턴을 읽다, 애착 유형 검사",
+  "description": "존 볼비의 애착 이론으로 알아보는 관계 유형! 연애와 인간관계에 영향을 주는 당신의 애착 스타일을 발견해보세요.",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "가까운 사람이 문제가 생겼을 때, 당신의 첫 반응은?",
+      "options": [
+        {
+          "text": "도와주고 싶어서 즉시 달려간다. 상대를 제일 먼저 안심시키고 싶어!",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "먼저 상황을 파악하고 침착하게 해결책을 찾는다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "상대가 먼저 도움을 요청할 때까지 기다린다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "어떻게 도와줄지 몰라 불안해하면서도 거리를 둔다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "연인이나 친한 사람이 당신을 무시한다고 느낄 때?",
+      "options": [
+        {
+          "text": "매우 상처받고, 지속적으로 확인하고 싶어진다.",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 1 }
+        },
+        {
+          "text": "한 번 정도는 괜찮지만, 계속되면 차분히 얘기한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "별로 신경 쓰지 않는다. 상대도 자유롭게 살아야지.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "시간에 따라 다르다. 어떨 땐 괜찮다가 어떨 땐 억울하다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 0, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "헤어짐이나 관계 단절이 생기면?",
+      "options": [
+        {
+          "text": "매우 오래 힘들고, 상대를 계속 생각하며 회복이 느리다.",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 1 }
+        },
+        {
+          "text": "상처받지만 시간이 지나면서 차분히 극복한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "크게 영향받지 않는다. 혼자가 편한 면도 있다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "처음엔 무감정하다가 나중에 갑자기 감정이 쏟아진다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "새로운 인간관계를 맺을 때 당신의 성향은?",
+      "options": [
+        {
+          "text": "빨리 가까워지고 싶어서 자주 연락하고 만나고 싶다.",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "조화롭게 자연스럽게 관계가 발전하면 좋다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "신중하고 천천히 상대를 파악하고 거리를 유지한다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "접근했다가 물러났다를 반복한다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "혼자 있을 때 일반적으로 느끼는 감정은?",
+      "options": [
+        {
+          "text": "외롭고 불안하다. 누군가와 함께하고 싶다.",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 1 }
+        },
+        {
+          "text": "편안하고 자신감이 있다. 혼자도 행복하다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "혼자인 게 편하다. 사람들과의 관계가 피곤하다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "기분에 따라 다르다. 때론 외롭고 때론 편하다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "친밀한 관계에서 독립성을 어떻게 생각하는가?",
+      "options": [
+        {
+          "text": "함께 있는 시간이 최우선이다. 독립성보다 친밀성이 중요해!",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "각자의 독립성과 친밀함의 균형이 가장 이상적이다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "개인의 독립성과 자유가 가장 중요하다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "상황에 따라 요구하는 것과 거리두는 것을 반복한다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "상대가 당신의 의견에 동의하지 않을 때?",
+      "options": [
+        {
+          "text": "불안하고 화난다. 상대가 나를 거부한다고 느껴진다.",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 1 }
+        },
+        {
+          "text": "의견이 다를 수 있다고 생각하고 대화한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "상대의 의견이 뭐든 상관없다. 내 생각이 맞으면 된다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "처음엔 무시했다가 나중에 억울해진다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "감정을 표현하는 당신의 방식은?",
+      "options": [
+        {
+          "text": "솔직하게 자주 표현한다. 숨기는 게 어렵다.",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "적절히 표현하면서 상대의 반응을 존중한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "감정을 잘 드러내지 않는다. 침묵이 편하다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "표현하고 싶지만 어떻게 해야 할지 몰라 어색하다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "신뢰 문제가 생기면?",
+      "options": [
+        {
+          "text": "매우 상처받고 관계 복구를 위해 계속 노력한다.",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 1 }
+        },
+        {
+          "text": "신뢰 문제에 대해 솔직히 대화하고 해결한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "관계를 정리하거나 담담하게 거리를 둔다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "복구하고 싶지만 동시에 떠나고 싶은 마음이 들어 헷갈린다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "타인과의 깊은 연결을 맺는 것에 대해?",
+      "options": [
+        {
+          "text": "매우 원하고, 깊이 빠져드는 경향이 있다.",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "자연스럽고 건강한 깊이의 연결을 추구한다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "너무 깊은 연결은 피한다. 표면적 관계가 편하다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "원하기도 하고 무서워하기도 한다. 모순적이다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "아래 중 자신의 관계 스타일을 가장 잘 설명하는 것은?",
+      "options": [
+        {
+          "text": "상대를 완전히 믿고 함께 성장하는 관계",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "상대가 내 곁을 떠날까봐 자주 확인하는 관계",
+          "scores": { "anxious": 2, "secure": 0, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "거리를 유지하면서 독립적으로 유지하는 관계",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "원하기도 하고 밀어내기도 하는 일관되지 않은 관계",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 0, "fearful": 2 }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "관계에서 문제 해결 방식은?",
+      "options": [
+        {
+          "text": "문제가 생기면 즉시 대화하고 해결해야 안심된다.",
+          "scores": { "anxious": 2, "secure": 1, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "냉착하게 상황을 분석하고 함께 해결책을 찾는다.",
+          "scores": { "anxious": 0, "secure": 2, "avoidant": 0, "fearful": 0 }
+        },
+        {
+          "text": "가능하면 문제를 외면하거나 혼자 해결한다.",
+          "scores": { "anxious": 0, "secure": 0, "avoidant": 2, "fearful": 0 }
+        },
+        {
+          "text": "대화하고 싶지만 두렵고, 회피와 표현이 반복된다.",
+          "scores": { "anxious": 1, "secure": 0, "avoidant": 1, "fearful": 2 }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "안정형 - 건강한 관계의 기반, 안정적 애정인",
+      "description": "당신은 자신감 있게 타인을 신뢰하고, 혼자이면서도 함께하는 것의 가치를 잘 아는 유형이에요. 관계에서 불안감이 적고, 문제가 생기면 차분하게 대화하며 해결해요. 당신의 안정적인 에너지는 주변 사람들에게 큰 믿음과 안정감을 줍니다. 어떤 관계에서든 건강한 기반을 만들어가는 능력이 뛰어나며, 장기적이고 만족스러운 인간관계를 형성합니다. 당신 같은 사람과 함께하면 누구나 마음이 편안해져요!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": ["신뢰", "안정감", "성숙한 관계"]
+    },
+    {
+      "id": "anxious",
+      "title": "불안형 - 사랑으로 충만한 따뜻한 영혼",
+      "description": "당신은 깊은 감정이 풍부하고, 타인과의 연결을 간절히 원하는 감정 풍부한 사람이에요. 상대를 소중히 여기고 관심과 사랑을 적극적으로 표현하는 능력이 뛰어나죠. 때때로 불안감을 느끼지만, 그것은 당신이 얼마나 깊이 사랑하는지 보여주는 증거예요. 당신의 따뜻함과 헌신은 상대에게 특별함을 느끼게 해줍니다. 자신의 감정을 잘 이해하고 표현할 때, 당신은 최고의 파트너이자 친구가 될 거예요!",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": ["따뜻함", "헌신", "감정 풍부"]
+    },
+    {
+      "id": "avoidant",
+      "title": "회피형 - 독립적이고 자유로운 자유로운 영혼",
+      "description": "당신은 독립심이 강하고, 자신의 공간과 자유를 소중히 여기는 독립적인 사람이에요. 감정을 신중하게 드러내지만, 그 안에는 깊은 신뢰와 배려가 담겨 있습니다. 당신은 타인에게 과도한 의존을 요구하지 않으며, 상대의 독립성도 존중해요. 혼자만의 시간을 통해 자신을 재충전하고, 관계에서도 건강한 거리감을 유지하는 능력이 있어요. 당신의 침착함과 자율성은 주변 사람들에게 긍정적인 영향을 미치며, 성숙한 인간관계의 역할 모델이 될 수 있어요!",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": ["독립성", "자유", "침착함"]
+    },
+    {
+      "id": "fearful",
+      "title": "혼란형 - 깊이 있고 성장하는 복잡한 감정의 주인공",
+      "description": "당신은 깊이 있고 복잡한 감정 세계를 가진 사람이에요. 때로는 친밀함을 원하다가도 때로는 거리를 두고 싶어하며, 이러한 모순은 당신의 풍부한 내면을 보여주는 것입니다. 당신은 매우 민감하고 직관력이 뛰어나며, 삶의 깊은 의미를 추구하는 성향이 있어요. 자신의 감정 패턴을 이해하고 받아들일 때, 당신의 복잡함은 특별한 창의성과 통찰력으로 변환됩니다. 당신을 이해하는 사람들은 당신의 진정성과 깊이에 매료되며, 함께하면서 함께 성장하는 관계를 경험하게 될 거예요!",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": ["내성적", "성장", "직관력"]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "id": "burnout-risk",
+  "title": "당신의 번아웃 위험도는?",
+  "description": "마슬라흐 번아웃 인벤토리를 기반으로 직무 스트레스로 인한 번아웃 정도를 측정합니다. 감정소진, 냉소주의, 성취감 감소 세 가지 차원에서 당신의 상태를 진단받아보세요.",
+  "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=500&h=500&fit=crop",
+  "color": "#FF6B6B",
+  "questions": [
+    {
+      "id": 1,
+      "text": "업무를 하면서 감정적으로 지쳐 있다고 느낀 적이 얼마나 자주 있습니까?",
+      "options": [
+        {
+          "text": "거의 없음. 대부분 기분이 좋음",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "가끔 피곤함을 느끼지만 회복됨",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 피로감을 느낌",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "항상 소진된 상태, 에너지 부족",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "출근하는 것이 얼마나 힘들다고 느껴집니까?",
+      "options": [
+        {
+          "text": "즐거움. 하루를 기대함",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "보통. 때로 힘들 수 있음",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "상당히 힘듦. 자주 늦음",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "매우 힘듦. 출근을 회피하고 싶음",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "업무 중 집중력이나 기억력 저하를 경험한 적이 있습니까?",
+      "options": [
+        {
+          "text": "거의 없음. 집중력이 좋은 편",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "가끔 있음. 휴식으로 회복 가능",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 경험함. 업무 효율 저하",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "항상 집중력 부족. 실수 증가",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "당신의 업무나 동료에 대해 냉소적이거나 부정적인 감정을 느낍니까?",
+      "options": [
+        {
+          "text": "전혀 아님. 대체로 긍정적",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "약간의 부정적 감정 있음",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 냉소적으로 느낌",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "거의 모든 것에 냉소적이고 부정적",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "업무에서 성취감이나 성과를 느끼고 있습니까?",
+      "options": [
+        {
+          "text": "매우 충만함. 의미 있는 일",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "보통. 때로 만족함",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "성취감 부족. 의욕 저하",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "전혀 없음. 무의미하게 느껴짐",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "개인적 또는 신체적 건강 문제(수면, 소화, 면역력)를 경험하고 있습니까?",
+      "options": [
+        {
+          "text": "건강함. 특별한 문제 없음",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "가끔 피로감이나 수면 문제",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 피곤하고 감기 자주 걸림",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "심각한 불면증, 잦은 질병",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "업무 외 시간에 스트레스나 업무에 대한 생각을 자주 하게 됩니까?",
+      "options": [
+        {
+          "text": "거의 하지 않음. 휴식 시간 즐김",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "가끔 생각남. 대체로 분리됨",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 떠올림. 휴식이 충분하지 않음",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "항상 생각남. 휴식 불가능",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "감정 조절이 어려운 편입니까? (작은 일에도 화남, 눈물, 예민함)",
+      "options": [
+        {
+          "text": "잘 조절함. 침착한 편",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "대체로 잘 조절하지만 때로 예민함",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "감정 변화 크고 예민함",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자주 화나고 감정 조절 어려움",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "현재 업무량과 책임감이 적당하다고 느껴집니까?",
+      "options": [
+        {
+          "text": "적당함. 충분히 관리 가능",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "약간 많음. 노력으로 해결 가능",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "많음. 자주 남음. 스트레스 있음",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "과다함. 도저히 관리 불가능",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "당신의 업무 능력과 역량을 얼마나 신뢰하고 있습니까?",
+      "options": [
+        {
+          "text": "충분히 신뢰함. 유능하다고 느낌",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "대체로 신뢰함. 때로 의심",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "자신감 부족. 능력 의심",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "거의 신뢰 못함. 무능하다고 느낌",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "지난 3개월간 업무로 인한 스트레스가 증가했다고 느껴집니까?",
+      "options": [
+        {
+          "text": "감소했거나 안정적",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "약간 증가",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "상당히 증가",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "매우 크게 증가",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "일과 개인생활의 균형을 잘 맞추고 있다고 느껴집니까?",
+      "options": [
+        {
+          "text": "잘 맞춤. 만족함",
+          "scores": {
+            "healthy": 3,
+            "caution": 0,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "대체로 맞춤. 가끔 힘듦",
+          "scores": {
+            "healthy": 1,
+            "caution": 2,
+            "warning": 0,
+            "danger": 0
+          }
+        },
+        {
+          "text": "잘 맞추지 못함. 개인시간 부족",
+          "scores": {
+            "healthy": 0,
+            "caution": 1,
+            "warning": 2,
+            "danger": 0
+          }
+        },
+        {
+          "text": "거의 맞지 않음. 극심한 불균형",
+          "scores": {
+            "healthy": 0,
+            "caution": 0,
+            "warning": 1,
+            "danger": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "healthy",
+      "title": "건강한 직무 상태 (건강)",
+      "description": "축하합니다! 당신은 업무에 대한 만족감과 성취감을 유지하고 있으며, 스트레스를 건강하게 관리하고 있습니다. 이는 좋은 일과 개인생활의 균형, 그리고 긍정적인 마음가짐의 결과입니다.\n\n현재의 좋은 상태를 유지하기 위해 정기적인 휴식, 운동, 명상 등을 꾸준히 실천해보세요. 당신의 웰빙이 더 나은 직무 성과로 이어질 것입니다.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop",
+      "tags": [
+        "긍정적 에너지",
+        "일-삶 균형",
+        "높은 성취감",
+        "업무 만족도"
+      ]
+    },
+    {
+      "id": "caution",
+      "title": "주의 단계 (조기 신호)",
+      "description": "현재 약간의 피로감과 스트레스 신호가 감지됩니다. 아직 관리 가능한 수준이지만, 이는 조기 경고 신호로 봐야 합니다. 지금 적절한 조치를 취하면 더 심각한 번아웃으로 진행되는 것을 예방할 수 있습니다.\n\n충분한 수면, 정기적인 운동, 취미 활동에 시간을 할애하세요. 동료나 상사와 업무량에 대해 대화해보고, 우선순위를 재정립해보세요. 작은 휴식도 큰 도움이 됩니다.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "조기 신호",
+        "피로 초기 단계",
+        "예방 필요",
+        "스트레스 관리"
+      ]
+    },
+    {
+      "id": "warning",
+      "title": "경고 단계 (조치 필수)",
+      "description": "지속적인 스트레스와 피로가 누적되고 있으며, 업무에 대한 관심과 성취감이 감소하고 있습니다. 이 단계는 번아웃으로 진행될 위험이 있으므로 즉시 조치가 필요합니다.\n\n이는 당신이 약한 것이 아니라, 도움이 필요한 신호입니다. 상사나 인사팀에 업무 조정을 요청하고, 전문가(상담사, 의사)와 상담을 시작해보세요. 업무 시간 단축, 업무 재배치, 휴가 계획 등을 고려해봅시다. 당신의 건강이 가장 중요합니다.",
+      "image": "https://images.unsplash.com/photo-1611339555312-e607c90352fd?w=500&h=500&fit=crop",
+      "tags": [
+        "경고 단계",
+        "진행 중인 번아웃",
+        "즉시 대처 필요",
+        "전문가 상담 권장"
+      ]
+    },
+    {
+      "id": "danger",
+      "title": "위험 단계 (긴급 개입 필요)",
+      "description": "심각한 번아웃 상태입니다. 극심한 피로, 무기력함, 업무 능력 저하, 신체적 증상 등이 나타나고 있습니다. 이는 더 이상 미룰 수 없는 상황으로, 즉시 전문가의 도움이 필요합니다.\n\n지금 당신은 매우 어려운 상황에 있지만, 이는 해결 가능합니다. 1) 의사나 정신건강 전문가와 상담하세요. 2) 회사 EAP(Employee Assistance Program) 프로그램을 활용하세요. 3) 휴직이나 병가를 고려하세요. 4) 신뢰할 수 있는 사람들과 대화하세요. 당신의 건강과 행복이 가장 우선이며, 이 상태에서 벗어나는 것은 충분히 가능합니다.",
+      "image": "https://images.unsplash.com/photo-1584622860551-62410f8e5ae5?w=500&h=500&fit=crop",
+      "tags": [
+        "심각한 번아웃",
+        "긴급 개입",
+        "전문가 필수",
+        "회복 가능",
+        "희망의 메시지"
+      ]
+    }
+  ]
+}

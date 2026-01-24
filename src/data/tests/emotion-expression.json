@@ -1,0 +1,303 @@
+{
+  "id": "emotion-expression",
+  "title": "나의 감정 표현 스타일",
+  "description": "우리는 모두 감정을 다르게 표현합니다. 당신은 감정을 어떤 방식으로 표현하는지 알아보세요. 이 테스트를 통해 당신의 독특한 감정 표현 방식과 그 특징을 발견하고, 더 건강한 감정 관계를 위한 인사이트를 얻을 수 있습니다.",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "직장에서 동료가 당신의 아이디어를 인정하지 않을 때, 당신은 주로 어떻게 반응하나요?",
+      "options": [
+        {
+          "text": "그 순간 기분이 좋지 않다는 것을 동료에게 솔직하게 표현한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "기분이 상하지만 표정에 드러내지 않으려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "이 상황을 배우고 성장할 기회로 생각하며 마음을 다잡는다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "그 상황 자체를 생각하지 않으려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "가까운 사람과 다투었을 때, 당신의 일반적인 반응은 무엇인가요?",
+      "options": [
+        {
+          "text": "자신의 감정을 차근차근 설명하고 상대방의 의견도 들으려 한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "화난 감정을 드러내지 않으려고 애쓰면서 침묵으로 일관한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "상대방의 입장을 이해하려고 노력하며 긍정적으로 해석한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "그 상황에서 벗어나기 위해 다른 일을 시작한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "기쁜 소식을 들었을 때, 당신은 주로 어떻게 표현하나요?",
+      "options": [
+        {
+          "text": "크게 웃고 기뻐하며 주변 사람들에게 기꺼이 나눈다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "기쁘지만 표정을 크게 드러내지 않고 조용히 기뻐한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "기쁨에 감사하며 그것이 당연하다고 여기려 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "기쁜 감정이 빨리 지나가도록 현실적인 것에 집중한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "스트레스를 받았을 때 당신의 대처 방식은 무엇인가요?",
+      "options": [
+        {
+          "text": "신뢰하는 사람과 이야기하면서 감정을 풀어낸다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "혼자 있으면서 감정을 내부에 가두고 소화한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "스트레스 상황에서 배울 점을 찾으려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "취미생활이나 게임 같은 다른 활동으로 마음을 돌린다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "실수를 했을 때 당신의 반응은 어떠한가요?",
+      "options": [
+        {
+          "text": "자신의 실수를 인정하고 진심 어린 사과를 한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "실수한 것이 보이지 않으려고 하면서 조용히 처리한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "실수를 통해 배우고 다음에 더 잘하겠다고 다짐한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "실수한 것 자체를 빨리 잊고 넘어가려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "누군가가 당신을 비판했을 때, 당신은 어떻게 반응하나요?",
+      "options": [
+        {
+          "text": "자신의 감정을 표현하면서 상대방의 피드백을 듣는다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "상처받지 않은 척 표면적으로 웃으면서 넘어간다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "비판에서 유용한 조언이 있는지 찾으려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "그 비판에 대해 생각하지 않으려고 의식적으로 회피한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "외로움을 느낄 때 당신은 주로 어떻게 하나요?",
+      "options": [
+        {
+          "text": "친구나 가족에게 연락하여 그 감정을 나누고 함께 시간을 보낸다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "혼자 있으면서 그 감정을 자연스럽게 넘기려고 한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "외로움을 통해 자신을 깊이 있게 이해하는 시간으로 삼는다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "책이나 영상 같은 것에 몰입해서 외로움을 잊으려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "누군가와 깊은 감정적 연결을 원할 때, 당신은 어떻게 행동하나요?",
+      "options": [
+        {
+          "text": "자신의 내면을 솔직하게 드러내고 감정을 나눈다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "감정을 표현하되 적절한 거리감을 유지하려고 한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "상대방을 배려하는 마음으로 연결되려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "감정적 연결보다는 현재에 충실하려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "분노를 느낄 때 당신은 주로 어떻게 표현하나요?",
+      "options": [
+        {
+          "text": "분노의 원인을 명확히 하고 상대방에게 직접 표현한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "분노를 참으면서 조용히 상황을 진정시킨다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "분노의 뒤에 있는 상대방의 의도를 이해하려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "분노가 생긴 상황 자체를 외면하려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "불안을 느낄 때 당신의 일반적인 반응은 무엇인가요?",
+      "options": [
+        {
+          "text": "불안한 마음을 누군가와 나누면서 안심하려고 한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "불안감을 억누르고 침착함을 유지하려고 애쓴다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "불안감의 뿌리를 찾아 차근차근 해결하려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "불안한 생각을 밀어내고 현재의 일에 집중한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "당신이 실패했다고 느낄 때, 당신은 주변 사람들에게 어떻게 표현하나요?",
+      "options": [
+        {
+          "text": "자신의 감정과 경험을 솔직하게 이야기한다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "실패를 드러내지 않으려고 하면서 다른 주제로 돌린다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "실패 경험을 통해 배운 것을 긍정적으로 공유한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "실패 경험 자체를 누군가에게 말하지 않는다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "당신의 감정이 다른 사람을 상하게 할 수 있다는 것을 깨달았을 때, 당신은 어떻게 반응하나요?",
+      "options": [
+        {
+          "text": "상대방에게 자신의 감정을 설명하고 진심 어린 대화를 나눈다",
+          "scores": { "expressive": 3, "suppressive": 0, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "감정 표현을 더욱 조심하고 절제하려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 3, "transformative": 0, "avoidant": 0 }
+        },
+        {
+          "text": "상대방의 감정을 이해하고 더 나은 방식으로 표현하려고 노력한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 3, "avoidant": 0 }
+        },
+        {
+          "text": "그 상황 전체를 피하고 감정적 거리를 두려고 한다",
+          "scores": { "expressive": 0, "suppressive": 0, "transformative": 0, "avoidant": 3 }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "솔직한 감정 표현가",
+      "description": "당신은 자신의 감정을 자연스럽고 솔직하게 표현하는 사람입니다. 기쁨, 슬픔, 분노 등 모든 감정을 인정하고 함께 나누려 하는 성향을 가지고 있습니다.\n\n당신의 가장 큰 강점은 감정을 억누르지 않아 심리적 부담이 적다는 것입니다. 또한 주변 사람들과 더 깊고 진정한 관계를 맺을 수 있으며, 감정을 통해 타인을 더 잘 이해하고 공감할 수 있습니다. 신뢰성 있고 친근한 이미지로 사람들이 당신을 찾게 됩니다.\n\n관계에서 더욱 빛나기 위한 팁:\n- 감정을 표현할 때 상대방의 준비 상태를 먼저 확인하고 적절한 시간과 장소를 선택하세요.\n- 감정 표현과 함께 상대방의 의견도 충분히 들을 준비를 하세요.\n- 부정적인 감정을 표현할 때도 상대방을 존중하는 태도를 유지하세요.\n- 당신의 감정 표현이 상대방에게 영감을 주고 위로가 될 수 있음을 기억하세요.",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": ["솔직함", "감정 공유", "깊은 관계", "자기표현", "공감 능력"]
+    },
+    {
+      "id": "suppressive",
+      "title": "신중한 감정 조절가",
+      "description": "당신은 감정을 신중하게 관리하고 절제하는 사람입니다. 자신의 감정을 적절히 통제하려 하며, 상황에 따라 감정 표현의 정도를 조정하는 능력이 뛰어납니다.\n\n당신의 강점은 감정에 휘둘리지 않고 냉정한 판단을 유지할 수 있다는 것입니다. 어려운 상황에서도 침착함을 잃지 않으며, 책임감 있게 상황을 처리합니다. 또한 타인의 감정을 배려하며 관계에서 안정적인 존재가 됩니다.\n\n관계에서 더욱 빛나기 위한 팁:\n- 신뢰하는 사람들과는 조금 더 감정을 열어 보세요. 완전히 솔직해질 필요는 없지만 약간의 취약함 공유가 관계를 더 깊게 만듭니다.\n- 감정을 완전히 억누르기보다는 건강하게 처리하는 방식을 찾으세요 (운동, 창작활동, 명상 등).\n- 상대방이 당신의 감정을 알고 싶어할 수도 있다는 것을 기억하세요. 당신을 더 알고 싶어 하는 사람의 마음을 존중하세요.\n- 감정을 느끼는 것이 약함이 아니라 인간다움이라는 것을 자신에게 말해주세요.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": ["침착함", "자기통제", "신중함", "안정성", "책임감"]
+    },
+    {
+      "id": "transformative",
+      "title": "성장하는 감정 변환가",
+      "description": "당신은 감정을 재해석하고 더 나은 관점으로 변환하는 사람입니다. 부정적인 상황에서도 배움의 기회를 찾으며, 감정 속에 담긴 의미를 깊이 있게 이해하려 합니다.\n\n당신의 강점은 탁월한 회복력과 긍정적 사고입니다. 어려움을 성장의 기회로 바꾸며, 감정적 어려움을 통해 더욱 성숙해집니다. 또한 상대방의 의도를 선의로 해석하는 경향이 있어 관계 속에서 갈등을 줄이고 이해를 높입니다. 당신은 주변 사람들에게 희망과 영감을 줍니다.\n\n관계에서 더욱 빛나기 위한 팁:\n- 모든 상황을 긍정적으로만 변환하려 하지 마세요. 때로는 부정적인 감정을 그대로 느끼고 인정하는 것도 중요합니다.\n- 상대방의 감정을 너무 재해석하지 마세요. 때로 사람들은 위로보다 경청과 공감을 원합니다.\n- 당신의 성장 지향성을 상대방에게 강요하지 마세요. 각자의 속도가 다르다는 것을 이해하세요.\n- 현실적인 어려움도 인정하면서 희망을 잃지 않는 균형을 유지하세요.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": ["성장 지향", "긍정성", "회복력", "공감", "변환력"]
+    },
+    {
+      "id": "avoidant",
+      "title": "독립적인 감정 자율가",
+      "description": "당신은 감정적 문제로부터 거리를 유지하고 현재에 집중하는 사람입니다. 감정에 얽매이기보다는 실질적인 것에 주의를 기울이며, 자신의 감정 처리 방식이 상당히 자율적입니다.\n\n당신의 강점은 감정에 흔들리지 않는 안정성과 독립심입니다. 위기 상황에서 실용적인 판단을 하며, 자신의 문제를 스스로 해결하려는 주도적 태도를 가집니다. 또한 타인에게 감정적 의존을 강요하지 않아 건강한 거리감을 유지할 수 있습니다.\n\n관계에서 더욱 빛나기 위한 팁:\n- 가까운 사람들과 감정을 나누는 시간을 의도적으로 만들어 보세요. 이것은 약함이 아니라 관계를 깊게 하는 방식입니다.\n- 상대방이 감정적 지지를 원할 수도 있다는 것을 인식하세요. 당신은 충분히 감정을 표현할 능력이 있습니다.\n- 어려운 감정을 회피하기보다는 마주보고 처리하는 연습을 해보세요.\n- 당신의 독립성을 유지하면서도 타인과 감정적 연결을 만드는 것은 가능합니다. 작은 것부터 시작하세요.\n- 감정을 다루는 것도 실용적인 생활 기술 중 하나라고 생각해 보세요.",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": ["독립성", "실용성", "자율성", "안정성", "자기관리"]
+    }
+  ]
+}
