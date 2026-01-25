@@ -8,168 +8,254 @@
     {
       "id": 1,
       "text": "월요병 심한 아침, 알람을 끄고 당신의 첫 생각은?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
       "options": [
         {
           "text": "오늘 회의에서 내가 발표한 기획안 어떻게 될까, 기대되는데!",
-          "scores": { "leader": 2, "ambitious": 1 }
+          "scores": {
+            "leader": 2,
+            "ambitious": 1
+          }
         },
         {
           "text": "오늘은 조용히 맡은 일만 딱 하고 칼퇴해야지...",
-          "scores": { "supporter": 2, "balanced": 1 }
+          "scores": {
+            "supporter": 2,
+            "balanced": 1
+          }
         }
       ]
     },
     {
       "id": 2,
       "text": "긴급 회의! '새 프로젝트 아이디어 없어?' 팀장이 묻는다. 당신은?",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
       "options": [
         {
           "text": "손부터 번쩍! '제가 생각해둔 게 있는데요!' (아이디어 3개 준비됨)",
-          "scores": { "creative": 2, "leader": 1 }
+          "scores": {
+            "creative": 2,
+            "leader": 1
+          }
         },
         {
           "text": "관련 데이터 먼저 분석해볼게요, 근거 있는 제안이 좋으니까요",
-          "scores": { "analytical": 2, "planner": 1 }
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
         }
       ]
     },
     {
       "id": 3,
       "text": "업무 중 집중력 MAX! 당신의 생산성이 폭발하는 순간은?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
       "options": [
         {
           "text": "팀원들과 브레인스토밍할 때! 대화 속에서 번뜩이는 아이디어!",
-          "scores": { "team": 2, "creative": 1 }
+          "scores": {
+            "team": 2,
+            "creative": 1
+          }
         },
         {
           "text": "이어폰 꽂고 나만의 버블 속으로! 방해 금지!",
-          "scores": { "solo": 2, "analytical": 1 }
+          "scores": {
+            "solo": 2,
+            "analytical": 1
+          }
         }
       ]
     },
     {
       "id": 4,
       "text": "'오늘까지 급하게 해줘!' 갑자기 날아온 긴급 업무! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
       "options": [
         {
           "text": "기존 일정 조정하고 우선순위 재배치! 플랜B 가동!",
-          "scores": { "planner": 2, "analytical": 1 }
+          "scores": {
+            "planner": 2,
+            "analytical": 1
+          }
         },
         {
           "text": "OK! 일단 시작하고 보자! 하다 보면 길이 보여!",
-          "scores": { "flexible": 2, "creative": 1 }
+          "scores": {
+            "flexible": 2,
+            "creative": 1
+          }
         }
       ]
     },
     {
       "id": 5,
       "text": "프로젝트 진행 중 예상치 못한 문제 발생! 팀 분위기 심상치 않다. 당신은?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
       "options": [
         {
           "text": "내가 정리할게! 문제 원인 파악하고 해결책 제시!",
-          "scores": { "leader": 2, "planner": 1 }
+          "scores": {
+            "leader": 2,
+            "planner": 1
+          }
         },
         {
           "text": "말보다 행동! 내 담당 부분 문제부터 빠르게 해결!",
-          "scores": { "supporter": 2, "solo": 1 }
+          "scores": {
+            "supporter": 2,
+            "solo": 1
+          }
         }
       ]
     },
     {
       "id": 6,
       "text": "드디어 점심시간! 당신의 런치 스타일은?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
       "options": [
         {
           "text": "팀원들과 새로 오픈한 맛집 탐방! 수다가 힐링이지!",
-          "scores": { "team": 2, "flexible": 1 }
+          "scores": {
+            "team": 2,
+            "flexible": 1
+          }
         },
         {
           "text": "혼밥 or 짧은 산책으로 리프레시! 오후 업무 준비!",
-          "scores": { "solo": 2, "balanced": 1 }
+          "scores": {
+            "solo": 2,
+            "balanced": 1
+          }
         }
       ]
     },
     {
       "id": 7,
       "text": "연봉 협상 시즌! 당신의 전략은?",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
       "options": [
         {
           "text": "내 성과 자료 완벽 준비! 당당하게 어필하고 협상한다!",
-          "scores": { "ambitious": 2, "leader": 1 }
+          "scores": {
+            "ambitious": 2,
+            "leader": 1
+          }
         },
         {
           "text": "열심히 했으니 알아서 인정해주겠지... 기다려본다",
-          "scores": { "balanced": 2, "supporter": 1 }
+          "scores": {
+            "balanced": 2,
+            "supporter": 1
+          }
         }
       ]
     },
     {
       "id": 8,
       "text": "회사에서 새 툴 도입한다! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
       "options": [
         {
           "text": "오 재밌겠다! 새로운 거 배우는 거 좋아! 어서 써보고 싶어!",
-          "scores": { "creative": 2, "flexible": 1 }
+          "scores": {
+            "creative": 2,
+            "flexible": 1
+          }
         },
         {
           "text": "기존 방식이 익숙한데... ROI가 있을까? 일단 지켜본다",
-          "scores": { "analytical": 2, "planner": 1 }
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
         }
       ]
     },
     {
       "id": 9,
       "text": "후배가 '선배, 이거 어떻게 해요?' 질문 폭탄! 당신은?",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
       "options": [
         {
           "text": "와봐, 같이 보자! 차근차근 설명해줄게!",
-          "scores": { "supporter": 2, "team": 1 }
+          "scores": {
+            "supporter": 2,
+            "team": 1
+          }
         },
         {
           "text": "핵심만 콕! 알려주고 스스로 해보게 한다 (성장해야지!)",
-          "scores": { "solo": 1, "analytical": 1, "leader": 1 }
+          "scores": {
+            "solo": 1,
+            "analytical": 1,
+            "leader": 1
+          }
         }
       ]
     },
     {
       "id": 10,
       "text": "오늘도 야근 확정... 당신의 마음가짐은?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
       "options": [
         {
           "text": "목표 달성이 우선! 필요하다면 기꺼이!",
-          "scores": { "ambitious": 2, "planner": 1 }
+          "scores": {
+            "ambitious": 2,
+            "planner": 1
+          }
         },
         {
           "text": "야근 = 비효율의 증거! 업무 시간 내 해결이 진짜 실력!",
-          "scores": { "balanced": 2, "flexible": 1 }
+          "scores": {
+            "balanced": 2,
+            "flexible": 1
+          }
         }
       ]
     },
     {
       "id": 11,
       "text": "팀 워크숍 & 회식 공지! 당신의 속마음은?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
       "options": [
         {
           "text": "좋아! 내가 분위기 띄워줘야지! 2차 어디 갈까?",
-          "scores": { "team": 2, "leader": 1 }
+          "scores": {
+            "team": 2,
+            "leader": 1
+          }
         },
         {
           "text": "적당히 참여하고 나만의 에너지 충전 시간도 필요해!",
-          "scores": { "solo": 1, "balanced": 2 }
+          "scores": {
+            "solo": 1,
+            "balanced": 2
+          }
         }
       ]
     },
     {
       "id": 12,
       "text": "5년 후의 나, 어떤 모습이고 싶어?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
       "options": [
         {
           "text": "팀장? 임원? 더 큰 프로젝트를 이끄는 리더가 되고 싶어!",
-          "scores": { "ambitious": 2, "leader": 2 }
+          "scores": {
+            "ambitious": 2,
+            "leader": 2
+          }
         },
         {
           "text": "내 분야 전문가로 인정받는 스페셜리스트가 되고 싶어!",
-          "scores": { "balanced": 1, "analytical": 2, "supporter": 1 }
+          "scores": {
+            "balanced": 1,
+            "analytical": 2,
+            "supporter": 1
+          }
         }
       ]
     }
@@ -180,56 +266,88 @@
       "title": "타고난 리더, 미래의 CEO 후보!",
       "description": "당신은 조직을 이끌도록 태어난 사람! 위기 상황에서도 흔들림 없이 방향을 제시하고, 팀원들에게 영감을 주는 천부적인 리더십의 소유자예요. 당신이 '할 수 있다!'고 하면 정말 되는 마법이 일어나죠. 결단력과 추진력으로 무장한 당신, 5년 후엔 더 높은 곳에서 빛나고 있을 거예요! 미래의 CEO는 바로 당신!",
       "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
-      "tags": ["CEO 재목", "카리스마 리더", "결단력의 화신"]
+      "tags": [
+        "CEO 재목",
+        "카리스마 리더",
+        "결단력의 화신"
+      ]
     },
     {
       "id": "supporter-team",
       "title": "팀의 심장! 모두가 인정하는 숨은 MVP",
       "description": "당신이 없으면 팀이 안 돌아가요! 묵묵히 팀을 위해 헌신하고, 동료들의 버팀목이 되어주는 진정한 팀플레이어! 당신의 가치는 눈에 잘 띄지 않지만, 모든 성과의 뒤에는 당신이 있다는 걸 다들 알아요. 협업의 진정한 가치를 아는 당신, 어느 조직에서든 가장 필요한 인재랍니다!",
       "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
-      "tags": ["팀의 MVP", "신뢰의 아이콘", "협업 장인"]
+      "tags": [
+        "팀의 MVP",
+        "신뢰의 아이콘",
+        "협업 장인"
+      ]
     },
     {
       "id": "creative-flexible",
       "title": "아이디어 폭발! 조직의 혁신 엔진",
       "description": "당신의 머릿속은 아이디어 공장! 다들 '안 돼'라고 할 때 '이건 어때?'를 외치는 진정한 혁신가예요. 변화에 유연하게 대응하고, 새로운 도전을 두려워하지 않는 당신! 회사의 정체를 깨는 건 바로 당신 같은 사람이에요. 당신의 창의력이 회사의 미래를 바꿀 수 있어요!",
       "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
-      "tags": ["아이디어 폭발", "혁신 아이콘", "변화 주도자"]
+      "tags": [
+        "아이디어 폭발",
+        "혁신 아이콘",
+        "변화 주도자"
+      ]
     },
     {
       "id": "analytical-planner",
       "title": "데이터로 승부하는 묵묵한 실력파!",
       "description": "당신은 화려하게 말하지 않아도 결과물로 증명하는 진정한 프로! 깊이 있는 분석력과 체계적인 계획으로 실수 없이 목표를 달성해요. 당신이 검토한 자료는 100% 신뢰할 수 있고, 당신이 세운 계획은 반드시 성공해요. 조용한 카리스마로 조직을 움직이는 숨은 실력자!",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-      "tags": ["데이터 마스터", "프로페셔널", "실력파"]
+      "tags": [
+        "데이터 마스터",
+        "프로페셔널",
+        "실력파"
+      ]
     },
     {
       "id": "solo-analytical",
       "title": "깊이의 끝판왕, 누구도 대체 불가한 전문가",
       "description": "당신은 자신만의 영역에서 압도적인 전문성을 자랑하는 스페셜리스트! 조용하지만 당신이 입을 열면 모두가 귀 기울이고, 당신의 한마디가 회의의 결론이 되기도 해요. 깊이 있는 집중력으로 쌓아온 전문성은 누구도 따라올 수 없죠. 대체 불가능한 존재, 그게 바로 당신이에요!",
       "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
-      "tags": ["전문가 중의 전문가", "깊이의 끝판왕", "대체 불가"]
+      "tags": [
+        "전문가 중의 전문가",
+        "깊이의 끝판왕",
+        "대체 불가"
+      ]
     },
     {
       "id": "balanced-flexible",
       "title": "워라밸 마스터! 가장 현명한 직장인",
       "description": "당신은 일도 잘하면서 삶도 즐기는 진정한 프로예요! 업무 시간에는 누구보다 효율적이고, 퇴근 후에는 자신만의 시간을 알차게 보내죠. 번아웃 없이 지속 가능한 커리어를 만들어가는 현명한 선택! 당신의 삶의 방식을 부러워하는 사람이 많을 거예요. 진정한 인생 승리자!",
       "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
-      "tags": ["워라밸 장인", "효율의 끝판왕", "인생 승리자"]
+      "tags": [
+        "워라밸 장인",
+        "효율의 끝판왕",
+        "인생 승리자"
+      ]
     },
     {
       "id": "team-creative",
       "title": "회사의 비타민! 모두가 원하는 동료",
       "description": "당신이 있으면 팀 분위기가 200% 살아나요! 창의적인 아이디어로 팀에 활력을 불어넣고, 함께 일하면 즐거운 에너지 메이커! 동료들이 당신과 같은 팀이 되고 싶어하는 이유, 당신의 긍정 에너지와 창의력 때문이에요. 어느 조직에서든 사랑받는 인싸 직장인!",
       "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
-      "tags": ["회사 비타민", "분위기 메이커", "팀의 인싸"]
+      "tags": [
+        "회사 비타민",
+        "분위기 메이커",
+        "팀의 인싸"
+      ]
     },
     {
       "id": "ambitious-planner",
       "title": "야망 있는 전략가, 성공의 로드맵을 가진 자!",
       "description": "당신은 명확한 목표와 치밀한 계획을 가진 진정한 전략가! 5년 후, 10년 후 커리어 로드맵을 이미 그려놓았고, 한 발 한 발 착실히 나아가고 있어요. 성공은 우연이 아닌 계획의 결과라는 걸 아는 당신! 당신이 정한 목표는 반드시 이루어질 거예요. 미래가 기대되는 사람!",
       "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
-      "tags": ["전략가", "야망의 화신", "성공 예약"]
+      "tags": [
+        "전략가",
+        "야망의 화신",
+        "성공 예약"
+      ]
     }
   ]
 }

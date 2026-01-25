@@ -8,242 +8,473 @@
     {
       "id": 1,
       "text": "회사/학교에서 당신은 어떤 평가를 받나요?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
       "options": [
         {
           "text": "'있는 그대로의 나'라는 평가를 받아요. 솔직하고 꾸밈없이 보여요.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "좀 더 완벽하고 진지한 이미지로 보여주려고 노력해요.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "재미있고 밝은 사람이라고 생각해요. 근데 진짜 나는 좀 다른데요.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "상황에 따라 다양하게 보여줘요. 계속 변해가는 중이에요.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 2,
       "text": "힘들 때 당신은 어떻게 하나요?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
       "options": [
         {
           "text": "주변 사람들에게 솔직하게 도움을 청해요. 약해 보이는 것도 괜찮아.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "혼자만의 시간에 처리하고, 남에게는 괜찮다고 보여줘요.",
-          "scores": { "harmonious": 0, "hidden": 1, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "밝게 웃으며 넘어가요. 내 약점을 들킬 수 없어!",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "그 순간의 감정에 따라 다르게 대응해요.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 1, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 3,
       "text": "친구들과 있을 때와 혼자 있을 때, 당신의 변화는?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
       "options": [
         {
           "text": "똑같아. 누가 봐도 나는 나야. 굳이 연기할 필요 없지.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "엄청 달라. 친구들 앞에선 더 밝은 척, 활발한 척해.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "좀 다르지. 사회성 있는 모습을 유지하려고 신경 써.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "그때그때 달라. 누구와 있느냐에 따라 내 모습이 변해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 4,
       "text": "당신의 꿈이나 진짜 관심사는 당신의 이미지와 맞나요?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
       "options": [
         {
           "text": "완벽하게 맞아. 하는 일과 좋아하는 것이 일치해.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "전혀 달라. 내가 좋아하는 것들을 잘 숨겨둬.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "약간 다르지. 사회적으로 인정받는 것들을 더 드러내.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "계속 변해. 뭐가 내 진짜 관심사인지 잘 모르겠어.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 5,
       "text": "SNS에 올리는 당신과 실제 당신의 차이는?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
       "options": [
         {
           "text": "거의 없어. 내 일상 그대로를 공유해.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "확연히 달라. SNS는 나의 '쇼'라고 생각해.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "조금 더 멋진 나로 보이려고 편집해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "그때마다 다르지. 기분에 따라 올릴 것도 다르고.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 6,
       "text": "당신이 하고 싶은 말을 못할 때가 많나요?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
       "options": [
         {
           "text": "거의 없어. 하고 싶은 말은 솔직하게 표현해.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "자주 있지. 상처받을까 봐 말을 많이 삼켜.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "그럴 때가 있지. 적절한 시간과 방식을 고려해서 말해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "항상 고민해. 뭐가 진짜 내 생각인지 불안해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 7,
       "text": "새로운 환경(학교, 직장, 모임)에 처음 갈 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
       "options": [
         {
           "text": "있는 그대로의 나로 나타나. 연기할 에너지가 없어.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "조심스럽고 폐쇄적으로 행동해. 관찰 모드 진입!",
-          "scores": { "harmonious": 0, "hidden": 1, "protective": 1, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
         },
         {
           "text": "예의 있고 조심스러운 모습으로 시작해. 나중에 풀어.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "누가 어떤 반응을 보일지에 따라 내 태도도 달라져.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 8,
       "text": "당신은 '진정성'이 중요하다고 생각하나요?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
       "options": [
         {
           "text": "매우 중요해. 그래서 항상 진짜 나로 살아.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "중요하지만, 나는 자기기만으로 정신건강을 지켜.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "중요하지만, 때에 맞는 가면도 필요하다고 봐.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "뭐가 진짜 나인지 아직도 찾는 중이야.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 9,
       "text": "타인의 기대나 평가가 당신의 행동에 영향을 미치나요?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
       "options": [
         {
           "text": "거의 없어. 나 하고 싶은 대로 해.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "엄청 미쳐. 남들이 어떻게 생각할지 자꾸 신경 써.",
-          "scores": { "harmonious": 0, "hidden": 1, "protective": 1, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
         },
         {
           "text": "고려는 하지만, 기본적으로는 내 판단을 따라.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "상황마다 달라. 때론 신경 쓰고, 때론 신경 안 써.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 10,
       "text": "만약 당신의 '진짜 모습'과 '사회적 이미지'가 충돌한다면?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
       "options": [
         {
           "text": "진짜 나를 선택해. 내 삶이 더 중요해.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "이미지를 선택하고 진짜 나는 숨겨. 그게 더 안전해.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "균형을 맞춰보려고 노력해. 둘 다 포기하긴 싫어.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "그때의 내 심정과 상황에 따라 선택해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     },
     {
       "id": 11,
       "text": "당신 자신을 한 문장으로 설명한다면?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
       "options": [
         {
           "text": "'있는 그대로가 나'... 복잡한 게 없어.",
-          "scores": { "harmonious": 2, "hidden": 0, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "'표면 vs 내면이 완전 다른 사람'... 이중성이 있어.",
-          "scores": { "harmonious": 0, "hidden": 2, "protective": 0, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
         },
         {
           "text": "'상황에 맞는 버전의 나'... 프로페셔널해.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 2, "exploring": 0 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
         },
         {
           "text": "'계속 변하는 나'... 아직도 발견하는 중이야.",
-          "scores": { "harmonious": 0, "hidden": 0, "protective": 0, "exploring": 2 }
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
         }
       ]
     }
@@ -254,28 +485,48 @@
       "title": "투명인간! 겉과 속이 같은 당신",
       "description": "축하합니다! 당신은 심리학에서 말하는 '가장 건강한 상태'의 사람이에요. 당신의 가장 큰 장점은 <b>진정성</b>입니다. 무엇을 해도 자신감 있게 행동하고, 사람들이 당신을 믿고 따릅니다. 겉과 속이 일치하는 사람은 정신 건강이 뛰어나고, 대인관계에서 신뢰받으며, 스트레스가 적어요. 당신처럼 살아가는 것이 가장 행복한 삶의 비결입니다. 당신의 투명함과 솔직함은 세상의 진정한 자산이에요!",
       "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
-      "tags": ["진정성의 아이콘", "신뢰받는 사람", "건강한 정신", "있는 그대로의 삶"]
+      "tags": [
+        "진정성의 아이콘",
+        "신뢰받는 사람",
+        "건강한 정신",
+        "있는 그대로의 삶"
+      ]
     },
     {
       "id": "hidden",
       "title": "베일에 감싸인 당신, 신비로운 영혼",
       "description": "당신은 자기 보호 본능이 강한 신비로운 타입이에요. 겉으로는 밝고 재미있는 척하지만, 내면은 깊고 섬세한 영혼이죠. 이것은 약점이 아닙니다! 당신의 <b>관찰력</b>과 <b>감정의 깊이</b>는 특별한 능력이에요. 다만, 한 가지 조언은 진정으로 믿을 수 있는 사람 앞에서는 당신의 진짜 모습을 꺼내놓으세요. 진정한 친밀감은 취약성의 공유에서 시작됩니다. 당신의 숨겨진 진주 같은 모습을 누군가와 나누는 경험, 정말 소중할 거예요!",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
-      "tags": ["신비로운 매력", "깊은 영혼", "관찰자의 시선", "감정의 보석"]
+      "tags": [
+        "신비로운 매력",
+        "깊은 영혼",
+        "관찰자의 시선",
+        "감정의 보석"
+      ]
     },
     {
       "id": "protective",
       "title": "현명한 보호자, 상황의 달인",
       "description": "당신은 상황에 맞는 적절한 이미지를 유지하는 <b>현명한 보호자</b>에요. 이것은 사회성이 뛰어나고 상황 판단 능력이 좋다는 뜻입니다. 당신은 프로페셔널하고, 자신의 이미지를 관리할 줄 알며, 사회생활에서 성공할 가능성이 높아요. 당신의 '선택적 진정성'은 전략입니다. 다만 한 가지 주의할 점은 가면을 계속 쓰면 자신도 혼동할 수 있다는 것. 때때로 마음 편한 사람 앞에서는 가면을 벗고 진짜 당신을 놓아주세요. 그럴 때 진정한 휴식과 치유가 찾아옵니다!",
       "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
-      "tags": ["상황의 달인", "사회성 천재", "이미지 관리자", "현명한 선택"]
+      "tags": [
+        "상황의 달인",
+        "사회성 천재",
+        "이미지 관리자",
+        "현명한 선택"
+      ]
     },
     {
       "id": "exploring",
       "title": "끊임없이 진화하는 탐색자",
       "description": "당신은 자신을 계속 발견해가고 있는 <b>성장형 인간</b>이에요! 아직 자신이 누구인지 완전히 정의 내리지 않았고, 상황과 사람에 따라 다양한 면을 드러냅니다. 이것은 <b>가능성의 풍부함</b>을 의미합니다. 당신은 유연하고, 적응력이 뛰어나고, 새로운 것을 받아들이는 데 두려움이 없어요. 당신의 다음 단계는 '통합'입니다. 지금까지 발견한 당신의 여러 모습들을 이해하고, 점차 하나로 통합해가세요. 자신을 알아가는 여정 자체가 당신의 가장 큰 자산이랍니다!",
       "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
-      "tags": ["성장 중인 영혼", "무한한 가능성", "자기 발견", "유연한 적응자"]
+      "tags": [
+        "성장 중인 영혼",
+        "무한한 가능성",
+        "자기 발견",
+        "유연한 적응자"
+      ]
     }
   ]
 }

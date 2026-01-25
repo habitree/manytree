@@ -2,6 +2,7 @@
 
 import { Question } from "@/types/test";
 import { useState } from "react";
+import Image from "next/image";
 
 interface QuestionCardProps {
   question: Question;
@@ -91,6 +92,22 @@ export default function QuestionCard({
           </div>
         </div>
       </div>
+
+      {/* Question Image */}
+      {question.image && (
+        <div className="mb-6 flex justify-center">
+          <div className="relative w-full max-w-md h-48 md:h-56 overflow-hidden rounded-2xl shadow-lg">
+            <Image
+              src={question.image}
+              alt=""
+              fill
+              className="object-cover transition-transform duration-500 hover:scale-105"
+              sizes="(max-width: 768px) 100vw, 500px"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent pointer-events-none" />
+          </div>
+        </div>
+      )}
 
       {/* Question Text */}
       <div className="text-center mb-10">

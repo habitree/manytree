@@ -8,264 +8,468 @@
     {
       "id": 1,
       "text": "새로운 프로젝트나 도전이 생겼을 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
       "options": [
         {
           "text": "주저 없이 앞장서서 리더 역할을 하고 싶어!",
-          "scores": { "lion": 2, "eagle": 1, "wolf": 1 }
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
         },
         {
           "text": "신중하게 계획을 세우고 진행 상황을 관찰해",
-          "scores": { "owl": 2, "fox": 1, "panda": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
         },
         {
           "text": "팀을 위해 최선을 다하며 함께 성장하고 싶어",
-          "scores": { "dog": 2, "dolphin": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "내 방식대로 독립적으로 진행하는 게 편해",
-          "scores": { "cat": 2, "fox": 1, "eagle": 1 }
+          "scores": {
+            "cat": 2,
+            "fox": 1,
+            "eagle": 1
+          }
         }
       ]
     },
     {
       "id": 2,
       "text": "친구나 동료가 어려움에 처했을 때 당신의 첫 반응은?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
       "options": [
         {
           "text": "즉시 달려가 힘내라고 응원해주고 싶어!",
-          "scores": { "dog": 2, "dolphin": 1, "lion": 1 }
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "lion": 1
+          }
         },
         {
           "text": "상황을 먼저 분석한 후 구체적인 조언을 해",
-          "scores": { "owl": 2, "fox": 1, "panda": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
         },
         {
           "text": "필요한 순간에 조용히 옆에서 지켜줘",
-          "scores": { "bear": 2, "panda": 1, "rabbit": 1 }
+          "scores": {
+            "bear": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "솔직한 피드백을 통해 독립심을 심어줘",
-          "scores": { "eagle": 2, "wolf": 1, "fox": 1 }
+          "scores": {
+            "eagle": 2,
+            "wolf": 1,
+            "fox": 1
+          }
         }
       ]
     },
     {
       "id": 3,
       "text": "모임이나 파티에서 당신은?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
       "options": [
         {
           "text": "누구나 편하게 다가올 수 있는 사교의 중심!",
-          "scores": { "dolphin": 2, "lion": 1, "dog": 1 }
+          "scores": {
+            "dolphin": 2,
+            "lion": 1,
+            "dog": 1
+          }
         },
         {
           "text": "작은 그룹에서 깊이 있는 대화를 나누는 게 좋아",
-          "scores": { "owl": 2, "panda": 1, "cat": 1 }
+          "scores": {
+            "owl": 2,
+            "panda": 1,
+            "cat": 1
+          }
         },
         {
           "text": "주변 분위기를 잘 관찰하며 필요한 순간에 활약",
-          "scores": { "fox": 2, "peacock": 1, "wolf": 1 }
+          "scores": {
+            "fox": 2,
+            "peacock": 1,
+            "wolf": 1
+          }
         },
         {
           "text": "눈에 띄진 않지만 편안한 존재감을 유지해",
-          "scores": { "rabbit": 2, "bear": 1, "panda": 1 }
+          "scores": {
+            "rabbit": 2,
+            "bear": 1,
+            "panda": 1
+          }
         }
       ]
     },
     {
       "id": 4,
       "text": "갈등이나 대립 상황에서 당신은?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
       "options": [
         {
           "text": "당당하고 강하게 맞서며 문제를 해결해",
-          "scores": { "lion": 2, "wolf": 1, "eagle": 1 }
+          "scores": {
+            "lion": 2,
+            "wolf": 1,
+            "eagle": 1
+          }
         },
         {
           "text": "차분하게 상황을 분석하고 최선의 방법을 찾아",
-          "scores": { "owl": 2, "fox": 1, "bear": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
         },
         {
           "text": "상대의 입장을 이해하려고 노력하며 조화를 추구해",
-          "scores": { "dog": 2, "dolphin": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "감정적이지 않게 논리적인 접근을 해",
-          "scores": { "cat": 2, "eagle": 1, "owl": 1 }
+          "scores": {
+            "cat": 2,
+            "eagle": 1,
+            "owl": 1
+          }
         }
       ]
     },
     {
       "id": 5,
       "text": "실패나 좌절을 경험했을 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
       "options": [
         {
           "text": "금방 다시 일어나 다시 도전해! 결코 포기 안 해!",
-          "scores": { "lion": 2, "dog": 1, "eagle": 1 }
+          "scores": {
+            "lion": 2,
+            "dog": 1,
+            "eagle": 1
+          }
         },
         {
           "text": "차분하게 분석하고 새로운 전략을 세워",
-          "scores": { "owl": 2, "fox": 1, "bear": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
         },
         {
           "text": "감정적으로 소화한 후 한 걸음 물러서 생각해",
-          "scores": { "panda": 2, "rabbit": 1, "bear": 1 }
+          "scores": {
+            "panda": 2,
+            "rabbit": 1,
+            "bear": 1
+          }
         },
         {
           "text": "혼자 조용한 시간을 가지며 마음을 정리해",
-          "scores": { "cat": 2, "panda": 1, "rabbit": 1 }
+          "scores": {
+            "cat": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
         }
       ]
     },
     {
       "id": 6,
       "text": "평소 당신의 에너지 수준은?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
       "options": [
         {
           "text": "매우 활발하고 끊임없이 움직이고 싶어!",
-          "scores": { "lion": 2, "dolphin": 1, "eagle": 1 }
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
         },
         {
           "text": "활동과 휴식의 균형을 잘 맞춰",
-          "scores": { "dog": 2, "fox": 1, "peacock": 1 }
+          "scores": {
+            "dog": 2,
+            "fox": 1,
+            "peacock": 1
+          }
         },
         {
           "text": "필요할 때만 에너지를 모아서 쓰는 스타일",
-          "scores": { "owl": 2, "bear": 1, "fox": 1 }
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "fox": 1
+          }
         },
         {
           "text": "조용하고 차분한 에너지로 생활하고 싶어",
-          "scores": { "cat": 2, "rabbit": 1, "panda": 1 }
+          "scores": {
+            "cat": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
         }
       ]
     },
     {
       "id": 7,
       "text": "새로운 사람을 만날 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
       "options": [
         {
           "text": "밝고 긍정적으로 즉시 친해져!",
-          "scores": { "dolphin": 2, "dog": 1, "lion": 1 }
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "lion": 1
+          }
         },
         {
           "text": "상대를 관찰한 후 천천히 마음의 문을 열어",
-          "scores": { "owl": 2, "fox": 1, "cat": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
         },
         {
           "text": "진심이 통하면 소중한 관계를 맺고 싶어",
-          "scores": { "dog": 2, "bear": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "표면적인 관계는 괜찮지만 가까워지는 건 신중해",
-          "scores": { "eagle": 2, "fox": 1, "wolf": 1 }
+          "scores": {
+            "eagle": 2,
+            "fox": 1,
+            "wolf": 1
+          }
         }
       ]
     },
     {
       "id": 8,
       "text": "당신이 추구하는 삶의 목표는?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
       "options": [
         {
           "text": "최고의 자리에서 많은 사람에게 영감을 주고 싶어",
-          "scores": { "lion": 2, "peacock": 1, "eagle": 1 }
+          "scores": {
+            "lion": 2,
+            "peacock": 1,
+            "eagle": 1
+          }
         },
         {
           "text": "충만한 인간관계 속에서 함께 성장하고 싶어",
-          "scores": { "dog": 2, "dolphin": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "자신만의 방식으로 지혜롭고 의미 있는 삶 살기",
-          "scores": { "owl": 2, "fox": 1, "cat": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
         },
         {
           "text": "평온한 삶 속에서 진정한 행복 찾기",
-          "scores": { "panda": 2, "bear": 1, "rabbit": 1 }
+          "scores": {
+            "panda": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
         }
       ]
     },
     {
       "id": 9,
       "text": "당신의 강점을 다음 중 어디에 두나요?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
       "options": [
         {
           "text": "결단력 있고 주도적인 리더십",
-          "scores": { "lion": 2, "eagle": 1, "wolf": 1 }
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
         },
         {
           "text": "충성심 있고 신뢰할 수 있는 성격",
-          "scores": { "dog": 2, "bear": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "뛰어난 소통 능력과 친화력",
-          "scores": { "dolphin": 2, "peacock": 1, "lion": 1 }
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
         },
         {
           "text": "지혜롭고 분석적인 사고력",
-          "scores": { "owl": 2, "fox": 1, "eagle": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "eagle": 1
+          }
         }
       ]
     },
     {
       "id": 10,
       "text": "스트레스를 받을 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
       "options": [
         {
           "text": "활동적인 운동이나 활동으로 풀어",
-          "scores": { "lion": 2, "dolphin": 1, "eagle": 1 }
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
         },
         {
           "text": "친구들과 나누거나 위로받고 싶어",
-          "scores": { "dog": 2, "rabbit": 1, "dolphin": 1 }
+          "scores": {
+            "dog": 2,
+            "rabbit": 1,
+            "dolphin": 1
+          }
         },
         {
           "text": "조용한 시간을 가지며 혼자만의 방식으로 정리해",
-          "scores": { "owl": 2, "cat": 1, "panda": 1 }
+          "scores": {
+            "owl": 2,
+            "cat": 1,
+            "panda": 1
+          }
         },
         {
           "text": "자연 속에서 마음의 평온함을 찾아",
-          "scores": { "bear": 2, "rabbit": 1, "panda": 1 }
+          "scores": {
+            "bear": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
         }
       ]
     },
     {
       "id": 11,
       "text": "당신의 영감이나 직관은?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
       "options": [
         {
           "text": "매우 예리하고 한 번에 상황을 파악해",
-          "scores": { "eagle": 2, "owl": 1, "fox": 1 }
+          "scores": {
+            "eagle": 2,
+            "owl": 1,
+            "fox": 1
+          }
         },
         {
           "text": "상대의 마음을 잘 읽고 공감해",
-          "scores": { "dolphin": 2, "dog": 1, "rabbit": 1 }
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "깊이 있는 생각으로 통찰력 있는 조언을 해",
-          "scores": { "owl": 2, "bear": 1, "panda": 1 }
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "panda": 1
+          }
         },
         {
           "text": "현재에 집중하며 본능적으로 움직여",
-          "scores": { "cat": 2, "wolf": 1, "fox": 1 }
+          "scores": {
+            "cat": 2,
+            "wolf": 1,
+            "fox": 1
+          }
         }
       ]
     },
     {
       "id": 12,
       "text": "긴 여정이 끝났을 때, 사람들이 당신을 기억하는 방식은?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
       "options": [
         {
           "text": "'리더', '용감한' 등 강하고 결연한 모습으로",
-          "scores": { "lion": 2, "eagle": 1, "wolf": 1 }
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
         },
         {
           "text": "'따뜻하고 믿음직한' 사람으로 기억되고 싶어",
-          "scores": { "dog": 2, "bear": 1, "rabbit": 1 }
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
         },
         {
           "text": "'밝고 긍정적인 분위기 메이커'로 기억되고 싶어",
-          "scores": { "dolphin": 2, "peacock": 1, "lion": 1 }
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
         },
         {
           "text": "'지혜롭고 신비로운' 사람으로 기억되고 싶어",
-          "scores": { "owl": 2, "fox": 1, "cat": 1 }
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
         }
       ]
     }
@@ -276,84 +480,156 @@
       "title": "당당한 사자",
       "description": "당신은 타고난 리더 기질을 가진 당당한 사자입니다! 어떤 상황에서든 자신감 있게 앞장서며, 사람들에게 영감과 용기를 불어넣는 카리스마 있는 존재예요. 당신의 결단력 있는 판단과 강한 의지력으로 주변 사람들이 따라가고 싶어 하답니다. 두려움 없이 도전하는 당신의 모습은 정말 멋있어요! 다만 때로는 다른 의견도 귀 기울여 듣는 너그러움을 잊지 마세요.",
       "image": "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=600&q=80",
-      "tags": ["리더십", "카리스마", "당당함", "결단력", "영감"]
+      "tags": [
+        "리더십",
+        "카리스마",
+        "당당함",
+        "결단력",
+        "영감"
+      ]
     },
     {
       "id": "cat",
       "title": "독립적인 고양이",
       "description": "당신은 독립적이고 신비로운 고양이입니다! 자신만의 페이스를 지키며 의존하지 않는 당신의 모습이 정말 멋있어요. 창의적인 사고와 뛰어난 직관으로 문제를 자신만의 방식으로 해결하는 지혜로운 존재랍니다. 쉽게 마음을 열지 않지만, 한번 신뢰하는 사람에게는 깊은 우정과 충성을 보여줘요. 자유를 사랑하면서도 필요할 때는 따뜻하게 다가오는 당신이 정말 사랑스러워요!",
       "image": "https://images.unsplash.com/photo-1573865526014-f3550b1811a7?w=600&q=80",
-      "tags": ["독립성", "신비로움", "창의성", "직관력", "자유"]
+      "tags": [
+        "독립성",
+        "신비로움",
+        "창의성",
+        "직관력",
+        "자유"
+      ]
     },
     {
       "id": "dog",
       "title": "충성스러운 강아지",
       "description": "당신은 충성심 많고 따뜻한 강아지입니다! 주변 사람들을 진심으로 아끼고 함께하려는 당신의 마음이 정말 소중해요. 신뢰할 수 있고 언제나 곁에서 응원해주는 당신은 많은 사람들의 든든한 버팀목이 되어주고 있어요. 어떤 상황에서도 포기하지 않는 끈질긴 의지력과 팀을 위해 헌신하는 마음이 당신의 가장 큰 강점입니다. 당신의 성실함과 따뜻함으로 세상이 더 밝아져요!",
-      "image": "https://images.unsplash.com/photo-1633722715463-d30628cqn509?w=600&q=80",
-      "tags": ["충성심", "따뜻함", "신뢰성", "헌신", "성실함"]
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "충성심",
+        "따뜻함",
+        "신뢰성",
+        "헌신",
+        "성실함"
+      ]
     },
     {
       "id": "owl",
       "title": "지혜로운 부엉이",
       "description": "당신은 지혜롭고 통찰력 있는 부엉이입니다! 차분하게 상황을 분석하고 깊이 있는 사고로 문제를 해결하는 당신의 모습이 정말 인상적이에요. 겉으로는 조용하지만 내면에 풍부한 생각과 철학을 가진 사람으로, 대화할 때마다 배우는 게 많습니다. 당신의 분석적인 능력과 객관적인 관점은 많은 사람들에게 좋은 조언이 되어줘요. 지혜로운 당신의 목소리에 귀 기울이는 사람들이 많아요!",
       "image": "https://images.unsplash.com/photo-1586967511959-56aeb34264aa?w=600&q=80",
-      "tags": ["지혜", "분석력", "통찰력", "차분함", "철학"]
+      "tags": [
+        "지혜",
+        "분석력",
+        "통찰력",
+        "차분함",
+        "철학"
+      ]
     },
     {
       "id": "fox",
       "title": "영리한 여우",
       "description": "당신은 영리하고 전략적인 여우입니다! 상황을 빠르게 파악하고 적절한 대처를 하는 당신의 유연함과 재치가 정말 매력적이에요. 겉으로는 조용하지만 필요한 순간 신기로운 지혜로 문제를 풀어내는 당신의 모습이 멋있습니다. 변화에 잘 적응하고 상황에 따라 전략을 바꾸는 당신의 적응력은 어디서나 빛을 발해요. 당신의 영리함과 현명함이 주변을 더 밝게 만들고 있어요!",
-      "image": "https://images.unsplash.com/photo-1532274040911-5f82f1ffaa4e?w=600&q=80",
-      "tags": ["영리함", "전략성", "적응력", "재치", "유연함"]
+      "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+      "tags": [
+        "영리함",
+        "전략성",
+        "적응력",
+        "재치",
+        "유연함"
+      ]
     },
     {
       "id": "dolphin",
       "title": "밝은 돌고래",
       "description": "당신은 밝고 친화력 있는 돌고래입니다! 주변 사람들을 편하게 만들고 긍정적인 에너지로 분위기를 한껏 살리는 당신의 모습이 정말 소중해요. 뛰어난 소통 능력과 공감 능력으로 모두와 쉽게 어울리며, 어디든 당신이 있으면 즐거워져요. 재미있고 창의적인 아이디어로 사람들을 놀라게 하고, 언제나 긍정적인 태도로 어려움을 극복하는 멋진 당신! 당신의 밝음이 세상을 더 아름답게 만들고 있어요!",
       "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",
-      "tags": ["긍정성", "친화력", "소통", "공감", "창의성"]
+      "tags": [
+        "긍정성",
+        "친화력",
+        "소통",
+        "공감",
+        "창의성"
+      ]
     },
     {
       "id": "bear",
       "title": "든든한 곰",
       "description": "당신은 든든하고 포용력 있는 곰입니다! 자신의 일에 차분히 집중하면서도 주변 사람들을 따뜻하게 감싸는 당신의 모습이 정말 안정감을 줘요. 필요할 때 강력하게 나서고, 필요할 때 조용히 함께하는 당신의 균형감각이 정말 좋습니다. 차분하고 묵묵한 성격이지만, 가족이나 주변 사람들을 위해서라면 언제든지 힘을 내는 책임감 있는 당신! 당신의 존재감만으로도 많은 사람들이 위로받고 있어요.",
-      "image": "https://images.unsplash.com/photo-1551927360031-c6227db76b6e?w=600&q=80",
-      "tags": ["포용력", "안정감", "책임감", "차분함", "강인함"]
+      "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=600&q=80",
+      "tags": [
+        "포용력",
+        "안정감",
+        "책임감",
+        "차분함",
+        "강인함"
+      ]
     },
     {
       "id": "rabbit",
       "title": "온순한 토끼",
       "description": "당신은 온순하고 다정한 토끼입니다! 섬세한 감정으로 타인의 마음을 헤아리고, 따뜻한 말과 행동으로 위로하는 당신의 모습이 정말 소중해요. 조용하지만 내면이 풍부하고, 주변 사람들의 감정을 잘 관찰하며 필요한 순간에 다가가는 당신의 배려가 정말 좋습니다. 너무 완벽하려고 하지 않아도 괜찮아요. 당신의 이대로의 온순함과 진심이 사람들의 마음을 가장 많이 움직이고 있어요!",
       "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
-      "tags": ["온순함", "섬세함", "배려", "다정함", "감정이입"]
+      "tags": [
+        "온순함",
+        "섬세함",
+        "배려",
+        "다정함",
+        "감정이입"
+      ]
     },
     {
       "id": "wolf",
       "title": "자유로운 늑대",
       "description": "당신은 자유로우면서도 강인한 늑대입니다! 자신의 신념을 지키며 당당하게 앞으로 나아가는 당신의 모습이 정말 멋있어요. 독립적이면서도 팀을 위해 헌신할 때는 누구보다 충실한 당신은 리더가 될 수도, 훌륭한 팀원이 될 수도 있는 다재다능한 사람입니다. 겉으로는 거칠어 보일 수 있지만, 내면에는 따뜻한 마음과 의리가 가득해요. 당신의 강인함과 진심이 주변 사람들에게 큰 영향을 미치고 있어요!",
       "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
-      "tags": ["독립성", "강인함", "신념", "의리", "자유"]
+      "tags": [
+        "독립성",
+        "강인함",
+        "신념",
+        "의리",
+        "자유"
+      ]
     },
     {
       "id": "eagle",
       "title": "높이 나는 독수리",
       "description": "당신은 높이 나는 독수리입니다! 뛰어난 시야력으로 큰 그림을 그리고, 대담한 목표를 향해 나아가는 당신의 모습이 정말 영감적이에요. 예리한 직관력과 빠른 판단력으로 상황을 빠르게 파악하고, 효율적으로 문제를 해결하는 당신은 타고난 지도자입니다. 높은 기준을 유지하려는 당신의 완벽주의가 때로는 부담이 될 수 있지만, 그것이 당신을 더욱 특별하게 만들어요. 당신의 원대한 꿈과 도전정신이 세상을 더 나아지게 하고 있어요!",
       "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a0?w=600&q=80",
-      "tags": ["원대함", "통찰력", "리더십", "성취욕", "비전"]
+      "tags": [
+        "원대함",
+        "통찰력",
+        "리더십",
+        "성취욕",
+        "비전"
+      ]
     },
     {
       "id": "panda",
       "title": "온화한 판다",
       "description": "당신은 온화하고 평화로운 판다입니다! 모든 것을 너그럽게 받아들이고, 차분한 모습으로 주변을 편안하게 만드는 당신의 존재가 정말 소중해요. 겉으로는 무심해 보이지만 실은 깊이 있는 생각을 하며, 상황을 현명하게 판단하는 당신의 지혜가 정말 돋보입니다. 천천히 움직이지만 꼭 필요할 때는 강력한 힘을 보여주는 당신의 균형감각이 좋아요. 당신의 온화함과 평온함이 주변 사람들의 마음을 편하게 만들어주고 있어요!",
-      "image": "https://images.unsplash.com/photo-1564349b83eb02ad392f7f3f06ae20c79c4c8fe3?w=600&q=80",
-      "tags": ["온화함", "평온", "너그러움", "지혜", "균형"]
+      "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef3?w=600&q=80",
+      "tags": [
+        "온화함",
+        "평온",
+        "너그러움",
+        "지혜",
+        "균형"
+      ]
     },
     {
       "id": "peacock",
       "title": "자신감 넘치는 공작",
       "description": "당신은 자신감 넘치고 매력적인 공작입니다! 뛰어난 표현력과 카리스마로 주변 사람들의 관심을 자연스럽게 사로잡는 당신의 모습이 정말 멋있어요. 자신의 장점을 잘 알고 있으면서도 그것을 겸손하게 드러내는 당신의 센스가 좋습니다. 창의적인 사고로 새로운 것을 시도하고, 언제나 성장하려는 당신의 자세가 정말 훌륭해요. 당신의 매력과 긍정적인 에너지로 많은 사람들이 함께하고 싶어 해요. 당신은 정말 특별한 존재예요!",
       "image": "https://images.unsplash.com/photo-1578688676385-b4b3e71490e2?w=600&q=80",
-      "tags": ["카리스마", "매력", "자신감", "창의성", "표현력"]
+      "tags": [
+        "카리스마",
+        "매력",
+        "자신감",
+        "창의성",
+        "표현력"
+      ]
     }
   ]
 }

@@ -8,168 +8,256 @@
     {
       "id": 1,
       "text": "낯선 여행지에서 저녁을 먹어야 한다! 당신의 선택은?",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
       "options": [
         {
           "text": "골목으로 들어간다! 현지인만 아는 숨은 맛집 발굴!",
-          "scores": { "adventurous": 2, "traditional": 0 }
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
         },
         {
           "text": "리뷰 4.5 이상! 검증된 맛집으로 안전하게!",
-          "scores": { "adventurous": 0, "traditional": 2 }
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
         }
       ]
     },
     {
       "id": 2,
       "text": "매운 음식 앞에서 당신의 진짜 반응은?",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
       "options": [
         {
           "text": "이게 매워? 청양고추 더 주세요! (캡사이신은 친구)",
-          "scores": { "spicy": 2, "mild": 0 }
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
         },
         {
           "text": "물 어디 있어요..? (적당히 매운 게 맛있는 거야!)",
-          "scores": { "spicy": 0, "mild": 2 }
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
         }
       ]
     },
     {
       "id": 3,
       "text": "식사 후 디저트 타임! 당신의 선택은?",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
       "options": [
         {
           "text": "디저트는 별도의 위! 케이크, 아이스크림 무조건!",
-          "scores": { "sweet": 2, "savory": 0 }
+          "scores": {
+            "sweet": 2,
+            "savory": 0
+          }
         },
         {
           "text": "디저트? 차라리 치즈나 안주가 더 끌려!",
-          "scores": { "sweet": 0, "savory": 2 }
+          "scores": {
+            "sweet": 0,
+            "savory": 2
+          }
         }
       ]
     },
     {
       "id": 4,
       "text": "메뉴판에 칼로리 정보가 있다! 당신의 눈길은?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
       "options": [
         {
           "text": "오 건강 정보 좋아! 칼로리 낮은 거로 선택!",
-          "scores": { "health": 2, "taste": 0 }
+          "scores": {
+            "health": 2,
+            "taste": 0
+          }
         },
         {
           "text": "칼로리? 안 보여~ 맛있는 게 정의! YOLO!",
-          "scores": { "health": 0, "taste": 2 }
+          "scores": {
+            "health": 0,
+            "taste": 2
+          }
         }
       ]
     },
     {
       "id": 5,
       "text": "인생 맛집 발견! 당신의 다음 행동은?",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
       "options": [
         {
           "text": "단톡방에 즉시 공유! 다음 주에 같이 가자!",
-          "scores": { "social": 2, "solo": 0 }
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
         },
         {
           "text": "나만의 비밀 맛집으로 등록... 혼자만 알거야!",
-          "scores": { "social": 0, "solo": 2 }
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
         }
       ]
     },
     {
       "id": 6,
       "text": "SNS에서 본 신상 퓨전 맛집! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
       "options": [
         {
           "text": "뭐야 이거! 당장 예약하러 간다! 새로운 맛 기대!",
-          "scores": { "adventurous": 2, "traditional": 0 }
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
         },
         {
           "text": "퓨전이라... 일단 후기 쌓이면 고려해볼게",
-          "scores": { "adventurous": 0, "traditional": 2 }
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
         }
       ]
     },
     {
       "id": 7,
       "text": "혼자 끓이는 라면! 당신의 레시피는?",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
       "options": [
         {
           "text": "청양고추 + 고춧가루 + 불닭소스 = 진정한 맛!",
-          "scores": { "spicy": 2, "mild": 0 }
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
         },
         {
           "text": "스프 반만, 순한 맛이 진짜 맛이야!",
-          "scores": { "spicy": 0, "mild": 2 }
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
         }
       ]
     },
     {
       "id": 8,
       "text": "카페에서 음료 선택! 당신의 시그니처 오더는?",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
       "options": [
         {
           "text": "달달한 프라푸치노, 카라멜 마키아또, 휘핑 추가요!",
-          "scores": { "sweet": 2, "savory": 0, "taste": 1 }
+          "scores": {
+            "sweet": 2,
+            "savory": 0,
+            "taste": 1
+          }
         },
         {
           "text": "아메리카노, 에스프레소! 깔끔한 게 최고!",
-          "scores": { "sweet": 0, "savory": 2, "health": 1 }
+          "scores": {
+            "sweet": 0,
+            "savory": 2,
+            "health": 1
+          }
         }
       ]
     },
     {
       "id": 9,
       "text": "밤 11시, 배가 고프다! 당신의 야식 선택은?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
       "options": [
         {
           "text": "치킨이냐 피자냐 족발이냐... 일단 배달앱 켜!",
-          "scores": { "taste": 2, "health": 0 }
+          "scores": {
+            "taste": 2,
+            "health": 0
+          }
         },
         {
           "text": "늦은 시간엔 가볍게! 과일이나 요거트로!",
-          "scores": { "taste": 0, "health": 2 }
+          "scores": {
+            "taste": 0,
+            "health": 2
+          }
         }
       ]
     },
     {
       "id": 10,
       "text": "밥 먹을 때 가장 좋아하는 분위기는?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
       "options": [
         {
           "text": "친구들과 북적북적! 웃고 떠들며 먹어야 맛있어!",
-          "scores": { "social": 2, "solo": 0 }
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
         },
         {
           "text": "조용히 음식에 집중! 혼밥도 꿀맛이지!",
-          "scores": { "social": 0, "solo": 2 }
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
         }
       ]
     },
     {
       "id": 11,
       "text": "해외여행 중 처음 보는 음식 발견! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
       "options": [
         {
           "text": "뭔지 모르겠지만 일단 먹어본다! 경험이 재산!",
-          "scores": { "adventurous": 2, "traditional": 0, "spicy": 1 }
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0,
+            "spicy": 1
+          }
         },
         {
           "text": "구글 번역기로 재료 확인부터... 안전 제일!",
-          "scores": { "adventurous": 0, "traditional": 2, "mild": 1 }
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2,
+            "mild": 1
+          }
         }
       ]
     },
     {
       "id": 12,
       "text": "여유로운 주말 브런치! 당신이 끌리는 메뉴는?",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&q=80",
       "options": [
         {
           "text": "팬케이크, 와플, 프렌치토스트! 달콤 브런치 최고!",
-          "scores": { "sweet": 2, "taste": 1 }
+          "scores": {
+            "sweet": 2,
+            "taste": 1
+          }
         },
         {
           "text": "에그 베네딕트, 샐러드, 건강한 조합으로!",
-          "scores": { "savory": 2, "health": 1 }
+          "scores": {
+            "savory": 2,
+            "health": 1
+          }
         }
       ]
     }
@@ -180,56 +268,88 @@
       "title": "맛의 모험가! 두려움 없는 미식 탐험가",
       "description": "당신은 세상의 모든 맛을 정복하고 싶은 진정한 미식 모험가! 새로운 음식? 도전! 매운 음식? 당연히 가능! 숨은 맛집? 당신이 발굴해요! 맛있는 건 나눠 먹어야 한다는 철학으로 친구들 사이에서 '맛집 요정'으로 불리죠. 당신과 밥 먹으면 매번 새로운 경험이 보장됩니다!",
       "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
-      "tags": ["미식 모험가", "맛집 요정", "매운맛 마스터"]
+      "tags": [
+        "미식 모험가",
+        "맛집 요정",
+        "매운맛 마스터"
+      ]
     },
     {
       "id": "traditional-mild-solo",
       "title": "익숙함의 행복! 힐링 집밥 러버",
       "description": "당신은 음식의 진정한 가치를 아는 사람! 화려한 외식보다 정성 가득한 집밥, 자극적인 맛보다 은은한 깊은 맛을 추구해요. 혼자서도 행복하게 밥 먹을 줄 알고, 음식을 통해 마음의 위안을 찾는 타입이에요. 당신의 식탁엔 언제나 따뜻한 위로가 있답니다!",
       "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
-      "tags": ["집밥의 행복", "힐링 푸드 러버", "편안한 미식"]
+      "tags": [
+        "집밥의 행복",
+        "힐링 푸드 러버",
+        "편안한 미식"
+      ]
     },
     {
       "id": "health-savory-solo",
       "title": "먹는 것이 나를 만든다! 건강 미식가",
       "description": "당신은 '내 몸이 곧 나'라는 철학의 소유자! 칼로리, 영양성분을 꼼꼼히 체크하고 건강한 재료로 만든 음식을 선호해요. 달달한 디저트보다 깔끔한 맛, 자극적인 음식보다 몸에 좋은 음식! 당신의 식단은 자기 관리의 정수이고, 많은 사람들이 부러워하는 라이프스타일이에요!",
       "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
-      "tags": ["건강 미식가", "셀프 케어 장인", "클린 이팅"]
+      "tags": [
+        "건강 미식가",
+        "셀프 케어 장인",
+        "클린 이팅"
+      ]
     },
     {
       "id": "taste-sweet-social",
       "title": "인생은 달콤하게! 디저트 헌터",
       "description": "인생은 짧고 디저트는 달콤하다! 당신은 미식의 즐거움을 누구보다 잘 아는 행복 전문가예요. 칼로리? 그건 내일의 나에게! 맛있는 케이크 앞에서 망설이지 않고, 발견한 맛집은 바로 친구들과 공유하죠. 당신과 함께하는 식사는 언제나 파티!",
       "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
-      "tags": ["디저트 헌터", "달콤 중독", "미식 파티장"]
+      "tags": [
+        "디저트 헌터",
+        "달콤 중독",
+        "미식 파티장"
+      ]
     },
     {
       "id": "adventurous-health-social",
       "title": "트렌드를 선도하는 균형 잡힌 푸디!",
       "description": "당신은 최신 맛집과 음식 트렌드를 누구보다 먼저 캐치하는 트렌드세터! 새로운 음식에 과감히 도전하면서도 건강까지 놓치지 않는 균형 감각의 소유자예요. 인스타 감성 음식 사진도 기본! 당신의 피드를 보면 맛집 정보가 가득하죠. 진정한 푸드 인플루언서!",
       "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
-      "tags": ["푸드 인플루언서", "균형 잡힌 미식", "트렌드세터"]
+      "tags": [
+        "푸드 인플루언서",
+        "균형 잡힌 미식",
+        "트렌드세터"
+      ]
     },
     {
       "id": "traditional-taste-social",
       "title": "검증된 맛의 수호자! 정통 맛집 탐방러",
       "description": "당신은 유행보다 전통, 화려함보다 깊은 맛을 추구하는 진정한 미식가! 3대째 이어온 맛집, 현지인만 아는 숨은 식당을 발굴하는 재미를 아는 사람이에요. 맛있는 건 함께 나눠야 제맛! 당신의 맛집 리스트는 친구들 사이에서 바이블이랍니다!",
       "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
-      "tags": ["정통 맛집 탐방", "검증된 맛 전문가", "함께 먹는 행복"]
+      "tags": [
+        "정통 맛집 탐방",
+        "검증된 맛 전문가",
+        "함께 먹는 행복"
+      ]
     },
     {
       "id": "spicy-taste-solo",
       "title": "캡사이신이 흐르는 매운맛 챌린저!",
       "description": "당신은 매운 음식 없이는 못 사는 캡사이신 마니아! 불닭볶음면은 가볍게 클리어, 청양고추는 간식 수준! 매운 음식 먹을 때 느끼는 그 쾌감... 이해하는 사람만 알죠! 조용히 혼자 매운맛과의 사투를 즐기는 당신, 진정한 매운맛 정복자예요!",
       "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
-      "tags": ["캡사이신 마스터", "매운맛 챌린저", "불닭의 친구"]
+      "tags": [
+        "캡사이신 마스터",
+        "매운맛 챌린저",
+        "불닭의 친구"
+      ]
     },
     {
       "id": "mild-sweet-health",
       "title": "감성 한 스푼! 카페 감성 미식가",
       "description": "당신은 맛뿐만 아니라 분위기, 비주얼까지 중요하게 생각하는 감성 미식가! 분위기 좋은 카페에서 예쁜 디저트와 함께하는 시간이 최고의 힐링이에요. 부드럽고 달콤한 맛을 선호하면서도 건강은 챙기는 균형감! 당신의 인스타는 이미 감성 맛집으로 가득하죠!",
       "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
-      "tags": ["카페 감성", "비주얼 맛집 러버", "달콤한 힐링"]
+      "tags": [
+        "카페 감성",
+        "비주얼 맛집 러버",
+        "달콤한 힐링"
+      ]
     }
   ]
 }
