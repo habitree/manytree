@@ -4,6 +4,7 @@ import { TestSummary } from "@/types/test";
 
 interface TestCardProps {
   test: TestSummary;
+  showBadge?: boolean;
 }
 
 // 테스트별 아이콘 SVG 컴포넌트
@@ -58,7 +59,7 @@ const getTestIcon = (testId: string) => {
   );
 };
 
-export default function TestCard({ test }: TestCardProps) {
+export default function TestCard({ test, showBadge = true }: TestCardProps) {
   return (
     <Link href={`/test/${test.id}`} className="block group">
       <div className="relative bg-white rounded-3xl shadow-card hover:shadow-card-hover transition-all duration-500 overflow-hidden border border-gray-100/50 card-hover">
@@ -96,6 +97,18 @@ export default function TestCard({ test }: TestCardProps) {
               {getTestIcon(test.id)}
             </div>
           </div>
+
+          {/* HOT Badge - 인기 테스트 표시 */}
+          {showBadge && test.isPopular && (
+            <div className="absolute top-4 left-4">
+              <span className="inline-flex items-center gap-1 text-xs font-bold text-white bg-gradient-to-r from-red-500 to-orange-500 px-3 py-1.5 rounded-full shadow-lg animate-pulse">
+                <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 24 24">
+                  <path fillRule="evenodd" d="M12.963 2.286a.75.75 0 00-1.071-.136 9.742 9.742 0 00-3.539 6.177A7.547 7.547 0 016.648 6.61a.75.75 0 00-1.152.082A9 9 0 1015.68 4.534a7.46 7.46 0 01-2.717-2.248zM15.75 14.25a3.75 3.75 0 11-7.313-1.172c.628.465 1.35.81 2.133 1a5.99 5.99 0 011.925-3.545 3.75 3.75 0 013.255 3.717z" clipRule="evenodd" />
+                </svg>
+                HOT
+              </span>
+            </div>
+          )}
 
           {/* Question count badge - 세련된 스타일 */}
           <div className="absolute top-4 right-4">

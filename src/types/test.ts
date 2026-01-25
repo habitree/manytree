@@ -38,6 +38,8 @@ export interface TestSummary {
   color?: string;
   emoji?: string;
   questionCount: number;
+  category?: string;
+  isPopular?: boolean;
 }
 
 export interface UserAnswer {

@@ -281,8 +281,104 @@ export default function ResultCard({ result, scores, color = "#6366f1", testId }
               <ScoreChart scores={scores} color={color} testId={testId} />
             </div>
           )}
+
+          {/* Share CTA Section */}
+          <ShareSection color={color} resultTitle={result.title} />
         </div>
       </div>
+    </div>
+  );
+}
+
+// Share Section Component
+function ShareSection({ color, resultTitle }: { color: string; resultTitle: string }) {
+  const [copied, setCopied] = useState(false);
+
+  const handleShare = async () => {
+    const shareData = {
+      title: 'ManyTree 심리테스트 결과',
+      text: `나의 결과: ${resultTitle}\n너도 테스트 해봐!`,
+      url: typeof window !== 'undefined' ? window.location.href : '',
+    };
+
+    if (navigator.share) {
+      try {
+        await navigator.share(shareData);
+      } catch {
+        // User cancelled or share failed
+      }
+    } else {
+      handleCopyLink();
+    }
+  };
+
+  const handleCopyLink = async () => {
+    if (typeof window !== 'undefined') {
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+      } catch {
+        // Fallback
+      }
+    }
+  };
+
+  return (
+    <div className="mt-10 pt-8 border-t border-dashed border-gray-200">
+      {/* Share CTA */}
+      <div
+        className="text-center p-6 rounded-2xl mb-6"
+        style={{ backgroundColor: `${color}08` }}
+      >
+        <div className="text-2xl mb-2">🎉</div>
+        <p className="text-lg font-bold text-deep-charcoal mb-1">
+          결과가 마음에 드셨나요?
+        </p>
+        <p className="text-sm text-earth-gray mb-4">
+          친구들과 결과를 비교해보세요!
+        </p>
+
+        {/* Share Buttons */}
+        <div className="flex flex-wrap justify-center gap-3">
+          <button
+            onClick={handleShare}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold text-white transition-all duration-300 hover:scale-105 hover:shadow-lg"
+            style={{ backgroundColor: color }}
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
+            </svg>
+            공유하기
+          </button>
+
+          <button
+            onClick={handleCopyLink}
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-semibold bg-gray-100 text-gray-700 transition-all duration-300 hover:bg-gray-200"
+          >
+            {copied ? (
+              <>
+                <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                </svg>
+                복사됨!
+              </>
+            ) : (
+              <>
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                </svg>
+                링크 복사
+              </>
+            )}
+          </button>
+        </div>
+      </div>
+
+      {/* Social Share Tip */}
+      <p className="text-center text-xs text-gray-400">
+        스크린샷을 찍어 SNS에 공유해도 좋아요!
+      </p>
     </div>
   );
 }

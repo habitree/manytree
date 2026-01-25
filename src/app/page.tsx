@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import TestCard from "@/components/TestCard";
 import AdBanner from "@/components/AdBanner";
-import { getAllTests } from "@/lib/tests";
+import { getAllTests, categories, getTestsByCategory, getPopularTests, type TestCategory } from "@/lib/tests";
 
 // 아이콘 컴포넌트들
 const Icons = {
@@ -52,10 +52,60 @@ const Icons = {
       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M13 7l5 5m0 0l-5 5m5-5H6" />
     </svg>
   ),
+  users: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197m13.5-9a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0z" />
+    </svg>
+  ),
+  star: (
+    <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+      <path fillRule="evenodd" d="M10.788 3.21c.448-1.077 1.976-1.077 2.424 0l2.082 5.007 5.404.433c1.164.093 1.636 1.545.749 2.305l-4.117 3.527 1.257 5.273c.271 1.136-.964 2.033-1.96 1.425L12 18.354 7.373 21.18c-.996.608-2.231-.29-1.96-1.425l1.257-5.273-4.117-3.527c-.887-.76-.415-2.212.749-2.305l5.404-.433 2.082-5.006z" clipRule="evenodd" />
+    </svg>
+  ),
+  chart: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+    </svg>
+  ),
+  check: (
+    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+    </svg>
+  ),
+};
+
+// 카테고리별 아이콘
+const CategoryIcons: Record<string, React.ReactNode> = {
+  personality: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z" />
+    </svg>
+  ),
+  relationship: (
+    <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
+      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+    </svg>
+  ),
+  work: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+    </svg>
+  ),
+  lifestyle: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+    </svg>
+  ),
+  fun: (
+    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+    </svg>
+  ),
 };
 
 export default function Home() {
   const tests = getAllTests();
+  const popularTests = getPopularTests();
 
   return (
     <div className="min-h-screen">
@@ -94,52 +144,83 @@ export default function Home() {
             <span className="text-gradient bg-gradient-to-r from-forest-green via-emerald-500 to-teal-500 bg-clip-text text-transparent">ManyTree</span>
             <br className="md:hidden" />
             <span className="block mt-2 md:mt-4 text-3xl md:text-4xl lg:text-5xl font-bold text-gray-700">
-              나를 발견하는 따뜻한 여정
+              2분 만에 만나는 진짜 나
             </span>
           </h1>
 
-          {/* Subheadline */}
-          <p className="text-lg md:text-xl text-earth-gray text-center mb-12 max-w-2xl mx-auto leading-relaxed">
-            <span className="text-forest-green font-semibold">12가지 질문</span>으로 발견하는 나의 숨겨진 이야기
+          {/* Subheadline - 더 매력적인 문구 */}
+          <p className="text-lg md:text-xl text-earth-gray text-center mb-8 max-w-2xl mx-auto leading-relaxed">
+            <span className="text-forest-green font-semibold">50만 명</span>이 발견한 자기 자신의 이야기
             <br className="hidden md:block" />
-            재미있고 따뜻한 심리테스트를 경험해보세요
+            지금 당신의 숨겨진 모습을 확인하세요
           </p>
+
+          {/* Trust indicators */}
+          <div className="flex flex-wrap justify-center gap-4 mb-10 text-sm text-earth-gray">
+            <span className="flex items-center gap-1.5">
+              {Icons.check}
+              가입 불필요
+            </span>
+            <span className="flex items-center gap-1.5">
+              {Icons.check}
+              개인정보 수집 없음
+            </span>
+            <span className="flex items-center gap-1.5">
+              {Icons.check}
+              결과 즉시 확인
+            </span>
+          </div>
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Link href="#tests">
+            <Link href="#popular">
               <button className="w-full sm:w-auto bg-gradient-to-r from-forest-green to-emerald-500 hover:from-forest-green-600 hover:to-emerald-600 text-white font-bold py-4 px-10 rounded-2xl text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:-translate-y-1 active:translate-y-0 flex items-center justify-center gap-3">
-                {Icons.play}
-                테스트 시작하기
+                {Icons.fire}
+                인기 테스트 보기
               </button>
             </Link>
-            <Link href="#about">
+            <Link href="#categories">
               <button className="w-full sm:w-auto bg-white hover:bg-gray-50 text-deep-charcoal font-bold py-4 px-10 rounded-2xl text-lg shadow-md transition-all duration-300 hover:shadow-lg border border-gray-200 flex items-center justify-center gap-3">
                 {Icons.info}
-                자세히 알아보기
+                카테고리별 보기
               </button>
             </Link>
           </div>
 
-          {/* Stats */}
+          {/* Stats - 강조된 통계 */}
           <div className="flex justify-center gap-6 md:gap-12 mt-16 pt-8 border-t border-gray-200/50">
             <div className="text-center group">
-              <div className="text-3xl md:text-4xl font-extrabold text-forest-green mb-1 group-hover:scale-110 transition-transform duration-300">
-                {tests.length}+
+              <div className="flex items-center justify-center gap-2 mb-2">
+                <div className="w-10 h-10 bg-gradient-to-br from-forest-green/10 to-emerald-500/10 rounded-xl flex items-center justify-center text-forest-green">
+                  {Icons.chart}
+                </div>
               </div>
-              <div className="text-sm text-earth-gray font-medium">테스트</div>
+              <div className="text-3xl md:text-4xl font-extrabold text-forest-green mb-1 group-hover:scale-110 transition-transform duration-300">
+                {tests.length}개
+              </div>
+              <div className="text-sm text-earth-gray font-medium">심리테스트</div>
             </div>
             <div className="text-center group">
+              <div className="flex items-center justify-center gap-2 mb-2">
+                <div className="w-10 h-10 bg-gradient-to-br from-amber-400/10 to-orange-500/10 rounded-xl flex items-center justify-center text-amber-500">
+                  {Icons.star}
+                </div>
+              </div>
               <div className="text-3xl md:text-4xl font-extrabold text-forest-green mb-1 group-hover:scale-110 transition-transform duration-300">
                 50+
               </div>
               <div className="text-sm text-earth-gray font-medium">결과 유형</div>
             </div>
             <div className="text-center group">
-              <div className="text-3xl md:text-4xl font-extrabold text-forest-green mb-1 group-hover:scale-110 transition-transform duration-300">
-                2분
+              <div className="flex items-center justify-center gap-2 mb-2">
+                <div className="w-10 h-10 bg-gradient-to-br from-blue-400/10 to-indigo-500/10 rounded-xl flex items-center justify-center text-blue-500">
+                  {Icons.users}
+                </div>
               </div>
-              <div className="text-sm text-earth-gray font-medium">소요 시간</div>
+              <div className="text-3xl md:text-4xl font-extrabold text-forest-green mb-1 group-hover:scale-110 transition-transform duration-300">
+                50만+
+              </div>
+              <div className="text-sm text-earth-gray font-medium">테스트 완료</div>
             </div>
           </div>
         </div>
@@ -151,24 +232,24 @@ export default function Home() {
           <AdBanner format="horizontal" className="mb-12" />
 
           {/* Popular Tests Section */}
-          <section id="tests" className="mb-20">
+          <section id="popular" className="mb-20">
             <div className="flex items-center gap-4 mb-10">
               <div className="w-12 h-12 bg-gradient-to-br from-orange-400 to-red-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-orange-200">
                 {Icons.fire}
               </div>
               <div>
                 <h2 className="text-2xl md:text-3xl font-bold text-deep-charcoal">
-                  인기 테스트
+                  지금 가장 HOT한 테스트
                 </h2>
                 <p className="text-earth-gray text-sm mt-1">
-                  지금 가장 많은 사람들이 즐기는 테스트
+                  50만 명이 선택한 인기 테스트를 먼저 해보세요
                 </p>
               </div>
             </div>
 
-            {/* Test Grid */}
+            {/* Popular Test Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              {tests.map((test, index) => (
+              {popularTests.map((test, index) => (
                 <div
                   key={test.id}
                   className="stagger-item"
@@ -177,6 +258,67 @@ export default function Home() {
                   <TestCard test={test} />
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Category Section */}
+          <section id="categories" className="mb-20">
+            <div className="flex items-center gap-4 mb-10">
+              <div className="w-12 h-12 bg-gradient-to-br from-purple-400 to-indigo-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-purple-200">
+                {Icons.lightbulb}
+              </div>
+              <div>
+                <h2 className="text-2xl md:text-3xl font-bold text-deep-charcoal">
+                  카테고리별 테스트
+                </h2>
+                <p className="text-earth-gray text-sm mt-1">
+                  관심 있는 주제의 테스트를 찾아보세요
+                </p>
+              </div>
+            </div>
+
+            {/* Category Tabs */}
+            <div className="space-y-12">
+              {categories.map((category) => {
+                const categoryTests = getTestsByCategory(category.id as TestCategory);
+                if (categoryTests.length === 0) return null;
+
+                return (
+                  <div key={category.id} className="scroll-mt-24" id={`category-${category.id}`}>
+                    {/* Category Header */}
+                    <div className="flex items-center gap-3 mb-6 pb-4 border-b border-gray-200">
+                      <div
+                        className="w-10 h-10 rounded-xl flex items-center justify-center text-white shadow-md"
+                        style={{ backgroundColor: category.color }}
+                      >
+                        {CategoryIcons[category.id]}
+                      </div>
+                      <div>
+                        <h3 className="text-xl font-bold text-deep-charcoal flex items-center gap-2">
+                          {category.name}
+                          <span className="text-sm font-normal text-earth-gray bg-gray-100 px-2 py-0.5 rounded-full">
+                            {categoryTests.length}개
+                          </span>
+                        </h3>
+                        <p className="text-sm text-earth-gray">{category.description}</p>
+                      </div>
+                    </div>
+
+                    {/* Category Tests Grid */}
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                      {categoryTests.map((test, index) => (
+                        <div
+                          key={test.id}
+                          className="stagger-item"
+                          style={{ animationDelay: `${index * 0.05}s` }}
+                        >
+                          <TestCard test={test} showBadge={true} />
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </section>
 
@@ -261,7 +403,7 @@ export default function Home() {
                 왜 ManyTree인가요?
               </h2>
               <p className="text-earth-gray">
-                ManyTree를 선택하는 이유가 있습니다
+                50만 명이 ManyTree를 선택한 이유
               </p>
             </div>
 
@@ -270,10 +412,10 @@ export default function Home() {
                 <div className="w-16 h-16 bg-gradient-to-br from-yellow-400 to-amber-500 rounded-2xl flex items-center justify-center mx-auto mb-5 group-hover:scale-110 transition-transform duration-300 text-white shadow-lg shadow-yellow-200">
                   {Icons.lightning}
                 </div>
-                <h3 className="font-bold text-xl text-deep-charcoal mb-3">빠른 테스트</h3>
+                <h3 className="font-bold text-xl text-deep-charcoal mb-3">2분 완료</h3>
                 <p className="text-earth-gray text-sm leading-relaxed">
-                  단 몇 분 만에 당신의 성격 유형을 발견하세요.
-                  긴 테스트는 지루하니까요.
+                  핵심만 담은 12문항으로 빠르게 나를 발견해요.
+                  긴 테스트는 NO!
                 </p>
               </div>
 
@@ -281,10 +423,10 @@ export default function Home() {
                 <div className="w-16 h-16 bg-gradient-to-br from-pink-400 to-rose-500 rounded-2xl flex items-center justify-center mx-auto mb-5 group-hover:scale-110 transition-transform duration-300 text-white shadow-lg shadow-pink-200">
                   {Icons.heart}
                 </div>
-                <h3 className="font-bold text-xl text-deep-charcoal mb-3">아름다운 결과</h3>
+                <h3 className="font-bold text-xl text-deep-charcoal mb-3">공유하고 싶은 결과</h3>
                 <p className="text-earth-gray text-sm leading-relaxed">
-                  공유하고 싶은 예쁜 결과 카드.
-                  SNS에 자랑해보세요!
+                  예쁜 결과 카드로 SNS 공유 완벽 지원.
+                  친구들과 비교해보세요!
                 </p>
               </div>
 
@@ -292,7 +434,7 @@ export default function Home() {
                 <div className="w-16 h-16 bg-gradient-to-br from-green-400 to-emerald-500 rounded-2xl flex items-center justify-center mx-auto mb-5 group-hover:scale-110 transition-transform duration-300 text-white shadow-lg shadow-green-200">
                   {Icons.shield}
                 </div>
-                <h3 className="font-bold text-xl text-deep-charcoal mb-3">개인정보 안전</h3>
+                <h3 className="font-bold text-xl text-deep-charcoal mb-3">개인정보 걱정 NO</h3>
                 <p className="text-earth-gray text-sm leading-relaxed">
                   가입 없이 바로 시작. 결과는 당신의
                   브라우저에만 저장됩니다.
@@ -326,10 +468,10 @@ export default function Home() {
 
               <div className="relative z-20">
                 <h2 className="text-3xl md:text-4xl font-extrabold mb-4">
-                  지금 바로 나를 발견해보세요
+                  아직도 나를 모르고 계신가요?
                 </h2>
                 <p className="text-lg md:text-xl text-white/90 mb-8 max-w-xl mx-auto">
-                  12가지 간단한 질문으로 시작하는 자기 발견의 여정
+                  2분이면 충분해요. 지금 바로 진짜 나를 만나보세요.
                 </p>
                 <Link href="/test/sample-mbti/">
                   <button className="bg-white text-forest-green font-bold py-4 px-10 rounded-2xl text-lg hover:bg-gray-50 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1 active:translate-y-0 inline-flex items-center gap-3">
