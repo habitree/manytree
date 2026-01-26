@@ -1,0 +1,361 @@
+{
+  "id": "love-style",
+  "title": "Tu ADN amoroso oculto: Esta es tu verdadera forma de amar",
+  "description": "Por que tus relaciones siempre siguen el mismo patron? Cual de los 8 tipos de amor identificados por psicologos eres tu? Imprescindible compartir con tu persona especial! Descubre tus instintos amorosos ocultos ahora!",
+  "thumbnail": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop&q=80",
+  "color": "#E91E63",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cual es tu estilo al decirle 'te amo' a tu pareja?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Te amo por la manana, te amo al mediodia, te amo antes de dormir! Repeticion infinita!",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0
+          }
+        },
+        {
+          "text": "Solo en momentos realmente especiales... asi suena mas sincero",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Una emocionante cita de fin de semana! Que quieres?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "Explorar lugares nuevos de moda! Viajar! Coleccionar nuevas experiencias!",
+          "scores": {
+            "adventurous": 2,
+            "stable": 0
+          }
+        },
+        {
+          "text": "Netflix y pollo frito en nuestro rincon acogedor es lo mejor",
+          "scores": {
+            "adventurous": 0,
+            "stable": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Cuando tienes una diferencia de opinion con tu pareja, cual es tu estilo de comunicacion?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero hablar de inmediato, compartir nuestros pensamientos y resolverlo",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "Prefiero tomarnos tiempo para organizar nuestros pensamientos por separado antes de hablar",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Te invitan a una reunion de amigos de tu pareja! Cual es tu reaccion?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Genial! Quiero compartir la vida diaria de mi pareja y conectar nuestros mundos",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "A veces esta bien, pero tambien valoro tener nuestro propio tiempo y espacio",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Se acerca un aniversario especial. Cual es tu mentalidad?",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "Planeo y preparo eventos sorpresa con anticipacion para dias especiales",
+          "scores": {
+            "romantic": 2,
+            "practical": 0
+          }
+        },
+        {
+          "text": "Creo que expresar amor constantemente en la vida diaria es mas significativo",
+          "scores": {
+            "romantic": 0,
+            "practical": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Como eliges un regalo de cumpleanos para tu pareja?",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero preparar algo en secreto para sorprenderle y emocionarle",
+          "scores": {
+            "romantic": 2,
+            "practical": 0,
+            "expressive": 1
+          }
+        },
+        {
+          "text": "Confirmo lo que realmente quiere y le doy un regalo practico",
+          "scores": {
+            "romantic": 0,
+            "practical": 2,
+            "reserved": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cual es tu estilo de comunicacion diaria con tu pareja?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "Disfruto compartiendo lo que paso durante el dia y teniendo pequenas charlas frecuentes",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "Prefiero conversaciones significativas, y estamos comodos estando ocupados por separado",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Como desarrollas sentimientos por alguien?",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando siento una atraccion intuitiva, mi corazon se inclina rapidamente",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "romantic": 1
+          }
+        },
+        {
+          "text": "Mis sentimientos se profundizan gradualmente mientras los conozco con el tiempo",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Cuando te sientes herido por tu pareja, que haces?",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero hablarlo de inmediato. Me cuesta guardar las emociones dentro",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "Primero proceso mis sentimientos solo, luego tengo una conversacion tranquila",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Como piensas sobre tu futuro con tu pareja?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "Me gusta visualizar nuestro futuro juntos concretamente. Planificar me emociona",
+          "scores": {
+            "stable": 2,
+            "adventurous": 0,
+            "connected": 1
+          }
+        },
+        {
+          "text": "Creo que si vivimos el presente plenamente, el futuro se desarrollara naturalmente",
+          "scores": {
+            "stable": 0,
+            "adventurous": 2,
+            "autonomous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Tu pareja parece estar pasando por un momento dificil. Que haces?",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "Lo se sin que me lo digan, dejame ir corriendo a darte un abrazo ahora mismo!",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0,
+            "passionate": 1
+          }
+        },
+        {
+          "text": "Como puedo ayudarte? Dime lo que necesitas, busquemos una solucion juntos!",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Al tomar decisiones importantes sobre la relacion, cual es tu tendencia?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando siento confianza en mi corazon, tomo decisiones audaces",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "adventurous": 1
+          }
+        },
+        {
+          "text": "Me tomo suficiente tiempo para pensar cuidadosamente antes de decidir",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "stable": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "romantic-passionate",
+      "title": "Estrella de cine! Un romantico que cree en el destino",
+      "description": "Eres la encarnacion del amor dramatico! El tipo donde 'el mundo se detuvo cuando nuestros ojos se encontraron' realmente sucede. Conviertes cada momento en una escena de pelicula y tratas a tu pareja como la estrella del mundo. Eventos sorpresa, cartas dulces escritas a mano y recordar aniversarios son lo basico! Cualquiera que se enamore de ti experimenta el romance de su vida. Tu amor se convertira en leyenda!",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "tags": [
+        "Amor destinado",
+        "Experto en romance",
+        "Genio de las sorpresas"
+      ]
+    },
+    {
+      "id": "practical-calm",
+      "title": "La verdadera definicion del amor! Un constructor sabio de relaciones",
+      "description": "Eres un amante sabio que conoce el verdadero valor del amor! Buscas una calidez duradera sobre las chispas llamativas. Construyes relaciones donde se entienden verdaderamente y crecen juntos sin dejarte llevar por las emociones. Contigo, uno puede experimentar estabilidad inquebrantable y confianza profunda. Un amor donde aun pueden tomarse de la mano 50 anos despues - eso es lo que creas!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Amor sabio",
+        "Companero de por vida",
+        "Icono de confianza"
+      ]
+    },
+    {
+      "id": "independent-adventurous",
+      "title": "Amor de almas libres que hacen brillar al otro",
+      "description": "Tienes relaciones maduras que respetan al otro sin restricciones! Mientras apoyas los suenos y la vida del otro, creas los momentos mas especiales cuando estan juntos. Eres un mejor amigo y amante que comparte nuevas experiencias y aventuras! Nunca hay un momento aburrido saliendote contigo. Una relacion donde se convierten en las alas del otro - ese es tu estilo de amor!",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "tags": [
+        "Amor libre",
+        "Mejor amigo",
+        "Companero de aventuras"
+      ]
+    },
+    {
+      "id": "connected-expressive",
+      "title": "Un expresador calido de afecto que transmite sentimientos verdaderos",
+      "description": "Eres un amante calido que expresa honestamente tu corazon amoroso. Profundizas las relaciones compartiendo emociones y la vida diaria. Valoras el tiempo juntos y tienes la habilidad de transmitir plenamente lo amada que se siente tu pareja. Tus calidas expresiones de afecto enriquecen la relacion y hacen que tu pareja se sienta especial. Esta capacidad de expresar sentimientos genuinos es la clave de una relacion saludable!",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "tags": [
+        "Expresion calida",
+        "Comunicacion sincera",
+        "Felicidad juntos"
+      ]
+    },
+    {
+      "id": "calm-stable",
+      "title": "Siempre comodo a tu lado, un santuario acogedor",
+      "description": "Puede que no seas llamativo, pero eres una presencia solida siempre ahi! Ofreces un amor tranquilo pero profundo, calidez sentida sin palabras. Cuando alguien esta a tu lado, todas las preocupaciones desaparecen y sienten una paz comoda. Un amor como el vino que se profundiza con el tiempo - estar contigo garantiza felicidad de por vida!",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "tags": [
+        "Santuario del corazon",
+        "Presencia confiable",
+        "Amor que se profundiza"
+      ]
+    },
+    {
+      "id": "passionate-expressive",
+      "title": "Un amante apasionado que transmite honestamente sentimientos verdaderos",
+      "description": "Eres un amante apasionado que expresa tu corazon amoroso honesta y activamente. No escondes tus sentimientos y comunicas claramente lo preciosa que es tu pareja. Esta expresion sincera da a tu pareja confianza y seguridad. Contigo, uno puede sentirse plenamente amado. Si encuentras el equilibrio entre mantener la pasion y respetar el ritmo de tu pareja, crearas relaciones aun mas ricas!",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&q=80",
+      "tags": [
+        "Expresion honesta",
+        "Amor apasionado",
+        "Comunicacion sincera"
+      ]
+    },
+    {
+      "id": "reserved-independent",
+      "title": "Un amante reflexivo que crea conexiones profundas",
+      "description": "Tienes un estilo de citas maduro que respeta la independencia del otro mientras construye lazos profundos. Eres cuidadoso con la expresion emocional, pero eso significa que cada palabra que dices lleva sinceridad. Tu pareja sabe que tus expresiones son genuinas, haciendolas sentir aun mas especiales. Construyes relaciones con respeto mutuo dentro de la distancia apropiada, desarrollando una confianza mas profunda con el tiempo. Si gradualmente expandes tu rango de expresion, tu calido corazon se transmitira aun mejor!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Expresion reflexiva",
+        "Confianza profunda",
+        "Amor maduro"
+      ]
+    },
+    {
+      "id": "romantic-connected",
+      "title": "Un companero romantico que crea lazos profundos",
+      "description": "Eres un romantico que valora los lazos profundos con tu pareja. Disfrutas creando momentos especiales juntos y poniendo esfuerzo en la relacion. Quieres crecer junto con tu pareja y convertirte en una presencia significativa en la vida del otro. Esta profunda capacidad de compromiso es un activo importante para construir relaciones satisfactorias a largo plazo. Tu pareja realmente se sentira valorada contigo!",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "tags": [
+        "Lazo profundo",
+        "Compromiso romantico",
+        "Creciendo juntos"
+      ]
+    }
+  ]
+}

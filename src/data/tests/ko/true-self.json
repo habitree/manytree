@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "당신의 진짜 모습은? 겉과 속이 같은 투명한 사람 찾기",
+  "description": "심리학자 융(Jung)이 제시한 '페르소나' 개념! 누구나 상황에 따라 다른 모습을 보여줍니다. 하지만 당신은? 겉으로 보이는 모습과 진짜 내면의 당신 사이에 얼마나 차이가 있을까요? 당신의 진정성 지수를 측정해보세요!",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "직장이나 학교에서 보여주는 당신의 모습은 어떤가요?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "평소의 나와 크게 다르지 않아요. 자연스럽게 있는 그대로를 보여줘요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황에 맞는 전문적인 이미지를 보여주려고 노력해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "밝고 활발하게 보이지만, 혼자 있을 때와는 조금 달라요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "함께하는 사람과 상황에 따라 다양한 모습을 보여줘요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "힘든 상황에 처했을 때 당신은 주로 어떻게 대처하나요?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "신뢰하는 사람에게 솔직하게 이야기하고 도움을 구해요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "혼자만의 시간을 가지며 스스로 정리한 후 일상으로 돌아가요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "평소처럼 밝게 행동하며 내 어려움은 드러내지 않아요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "그때그때 느끼는 감정에 따라 다르게 반응해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "친구들과 있을 때와 혼자 있을 때, 당신의 모습에 차이가 있나요?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "거의 같아요. 어디서든 비슷한 모습이에요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "꽤 달라요. 사람들 앞에서는 더 활발하게 보여요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "약간 달라요. 상황에 맞는 적절한 모습을 보여주려 해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황마다 달라요. 함께하는 사람에 따라 다른 면이 나와요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "당신의 꿈이나 진짜 관심사는 다른 사람들이 아는 당신의 모습과 얼마나 일치하나요?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "거의 일치해요. 하는 일과 좋아하는 것이 자연스럽게 연결되어 있어요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "꽤 달라요. 진짜 관심사는 개인적인 영역으로 간직하고 있어요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "약간 달라요. 공적인 상황에서는 적절한 것들을 더 보여주려 해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "아직 탐색 중이에요. 관심사가 계속 변화하고 있어요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "SNS에 올리는 모습과 실제 당신의 차이는 어느 정도인가요?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "거의 없어요. 일상을 자연스럽게 공유하는 편이에요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "꽤 달라요. SNS는 특별한 순간을 선별해서 보여주는 공간이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "약간 달라요. 좋은 모습을 보여주고 싶은 마음이 있어요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "때에 따라 달라요. 그때그때 기분과 상황에 따라 공유해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "자신의 의견이나 생각을 표현하는 것에 대해 어떻게 느끼나요?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "편하게 표현해요. 솔직하게 말하는 게 자연스러워요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "조심스러워요. 다른 사람의 반응이 걱정될 때가 있어요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황을 보고 판단해요. 적절한 때와 방식을 고려해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "때에 따라 달라요. 제 진짜 생각이 뭔지 고민될 때도 있어요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "새로운 환경(학교, 직장, 모임)에 처음 갈 때 당신의 모습은?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "평소와 비슷하게 자연스럽게 나를 표현해요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "먼저 상황을 파악하면서 조용히 관찰하는 편이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "예의 바르고 신중한 모습으로 시작하고, 친해지면 편해져요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황과 사람들의 분위기에 따라 유연하게 적응해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "'진정성 있게 살기'에 대한 당신의 생각은?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "중요해요. 저는 있는 그대로의 모습으로 살려고 해요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "중요하지만, 때로는 나를 보호하기 위해 다르게 보여줘요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "중요하지만, 상황에 맞는 역할도 필요하다고 생각해요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "진짜 나를 찾아가는 과정 중이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "다른 사람들의 기대나 평가가 당신의 행동에 얼마나 영향을 주나요?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "크게 영향 받지 않아요. 저만의 기준으로 행동해요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "많이 영향 받아요. 다른 사람의 시선이 신경 쓰여요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "참고하지만, 최종 결정은 제 판단을 따라요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황에 따라 달라요. 때로는 신경 쓰고, 때로는 아니에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "만약 당신의 '진짜 모습'과 '사회적 이미지'가 충돌한다면?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "진짜 나를 선택해. 내 삶이 더 중요해.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "이미지를 선택하고 진짜 나는 숨겨. 그게 더 안전해.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "균형을 맞춰보려고 노력해. 둘 다 포기하긴 싫어.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "그때의 내 심정과 상황에 따라 선택해.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "당신 자신을 한 문장으로 설명한다면?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "어디서든 일관된 모습을 보여주는 솔직한 사람이에요.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "깊은 내면 세계를 가진 다층적인 사람이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "상황에 맞게 적절히 대응하는 유연한 사람이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "끊임없이 성장하고 변화하는 사람이에요.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "투명인간! 겉과 속이 같은 당신",
+      "description": "축하합니다! 당신은 심리학에서 말하는 '가장 건강한 상태'의 사람이에요. 당신의 가장 큰 장점은 <b>진정성</b>입니다. 무엇을 해도 자신감 있게 행동하고, 사람들이 당신을 믿고 따릅니다. 겉과 속이 일치하는 사람은 정신 건강이 뛰어나고, 대인관계에서 신뢰받으며, 스트레스가 적어요. 당신처럼 살아가는 것이 가장 행복한 삶의 비결입니다. 당신의 투명함과 솔직함은 세상의 진정한 자산이에요!",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "진정성의 아이콘",
+        "신뢰받는 사람",
+        "건강한 정신",
+        "있는 그대로의 삶"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "풍부한 내면 세계의 소유자",
+      "description": "당신은 깊이 있는 내면 세계를 가진 사려 깊은 사람이에요. 모든 것을 쉽게 드러내기보다 신중하게 자신을 표현하는 방식을 선택하죠. 이것은 <b>자기 보호와 신중함</b>의 표현이에요. 당신의 <b>뛰어난 관찰력</b>과 <b>섬세한 감수성</b>은 상황을 깊이 이해하게 해줍니다. 성장 포인트: 신뢰할 수 있는 관계에서 조금씩 진짜 모습을 나눠보세요. 진정한 연결은 서로를 있는 그대로 받아들일 때 더 깊어집니다. 당신의 내면을 공유하는 경험이 예상보다 따뜻한 반응을 받을 수 있어요!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "섬세한 관찰력",
+        "신중한 표현",
+        "깊은 감수성",
+        "내면의 풍요"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "현명한 적응자, 상황 대처의 달인",
+      "description": "당신은 상황에 맞게 유연하게 대응하는 <b>현명한 적응자</b>에요. 뛰어난 사회성과 상황 판단 능력을 갖추고 있죠. 프로페셔널하게 자신을 표현하면서도 진정성을 잃지 않는 균형 감각이 당신의 강점이에요. 이러한 <b>전략적 유연성</b>은 다양한 환경에서 성공하는 데 큰 도움이 됩니다. 한 가지 성장 포인트가 있다면, 편안한 관계에서는 더 자연스러운 모습을 보여주는 것이에요. 그런 시간이 진정한 에너지 충전이 되고, 당신을 더욱 빛나게 할 거예요!",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "상황 대처 능력",
+        "사회적 지혜",
+        "균형 감각",
+        "전략적 유연성"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "끊임없이 진화하는 탐색자",
+      "description": "당신은 자신을 계속 발견해가고 있는 <b>성장형 인간</b>이에요! 아직 자신이 누구인지 완전히 정의 내리지 않았고, 상황과 사람에 따라 다양한 면을 드러냅니다. 이것은 <b>가능성의 풍부함</b>을 의미합니다. 당신은 유연하고, 적응력이 뛰어나고, 새로운 것을 받아들이는 데 두려움이 없어요. 당신의 다음 단계는 '통합'입니다. 지금까지 발견한 당신의 여러 모습들을 이해하고, 점차 하나로 통합해가세요. 자신을 알아가는 여정 자체가 당신의 가장 큰 자산이랍니다!",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "성장 중인 영혼",
+        "무한한 가능성",
+        "자기 발견",
+        "유연한 적응자"
+      ]
+    }
+  ]
+}

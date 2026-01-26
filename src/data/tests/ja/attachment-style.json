@@ -1,0 +1,571 @@
+{
+  "id": "attachment-style",
+  "title": "あなたの愛のパターンを読み解く、愛着スタイル診断",
+  "description": "ジョン・ボウルビィの愛着理論で探る関係タイプ！恋愛や人間関係に影響を与えるあなたの愛着スタイルを発見してみましょう。",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "大切な人に問題が起きた時、あなたの最初の反応は？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "助けたくてすぐに駆けつける。相手をまず安心させたい！",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "まず状況を把握して冷静に解決策を探す。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "相手が先に助けを求めるまで待つ。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "どう助ければいいかわからず不安になりながらも距離を置く。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "大切な人に疎外感を感じた時のあなたの反応は？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "心が不安になり、相手の気持ちを確認したくなる。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "1、2回は理解するけど、繰り返されたら正直に話し合う。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "あまり気にしない。お互い自由でいることも大切だから。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "状況による。大丈夫な時もあれば、心が複雑な時もある。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "大切な関係が終わった時、どのように感情を整理しますか？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "深く感じて十分に悲しむ時間を持つタイプ。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "悲しいけど時間をかけて自然に整理していく。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "一人の時間を通じて自分で整理するのが楽。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "感情が複雑で、自分のペースでゆっくり整理していく。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "新しい人間関係を築く時のあなたの傾向は？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "積極的にアプローチして早く仲良くなりたい。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "自然な流れに任せて調和的に発展させていく。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "慎重に相手を知りながら、心地よいペースで近づく。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "興味はあるけど慎重で、自分のペースで近づく。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "一人の時間を過ごす時、主に感じる気持ちは？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "誰かとつながりたい気持ちが大きくなり、一緒にいたくなる。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "一人の時間も良いし、一緒の時間も良い。バランスよく楽しむ。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "一人の時間が心地よい。自分を大切にする時間として活用する。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "気分による。穏やかな時もあれば混乱する時もある。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "親密な関係で独立性と親密さのバランスをどう思う？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "一緒にいる時間と感情的なつながりをたくさん求めるタイプ。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "独立性と親密さの両方を調和的に保ちたい。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "個人の空間と自律性を大切にするタイプ。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "状況や気分によって必要なものが変わるタイプ。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "相手があなたの意見に同意しない時は？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "相手が私を理解してくれないと感じて焦ってしまう。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "意見が違うこともあると思い、お互いの視点を共有する。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "それぞれ意見を持てると思い、無理に説得しない。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "その場は大丈夫でも後から心が複雑になることがある。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "感情を表現するあなたの方法は？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "正直に頻繁に表現する。隠すのは難しい。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "適度に表現しながら相手の反応を尊重する。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "感情をあまり見せない。沈黙が心地よい。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "表現したいけどどうすればいいかわからなくてぎこちない。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "信頼の問題が生じた時は？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "とても傷つき、関係修復のために努力し続ける。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "信頼の問題について正直に話し合い、解決する。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "関係を整理するか、淡々と距離を置く。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "修復したいけど同時に離れたい気持ちもあって混乱する。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "他者と深い絆を結ぶことについてどう思う？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "深いつながりを大切にして、心から関係に没頭する。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "バランスの取れた深さの関係を自然に作っていく。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "心地よい距離感を保ちながら自分なりの方法でつながる。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "深いつながりを望みながらも慎重にアプローチするタイプ。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "関係で最も大切にしていることは？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "お互いを信頼しながら一緒に成長していくこと",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "相手との深いつながりと感情的な親密さを感じること",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "お互いの独立性を尊重し、快適な空間を維持すること",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "親密さと個人空間の間で自分に合ったバランスを見つけること",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "関係での問題解決方法は？",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "options": [
+        {
+          "text": "問題が起きたら早く話し合って解決しないと落ち着かない。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "冷静に状況を分析して一緒に解決策を見つける。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "自分で整理する時間が必要で、独立して解決するタイプ。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "話したいけど躊躇して、状況によってアプローチが変わる。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "安定型 - 健康な関係の基盤、安定的な愛情人",
+      "description": "あなたは自信を持って他者を信頼し、一人でいることと一緒にいることの価値をよく知っているタイプです。関係での不安感が少なく、問題が生じたら落ち着いて対話して解決します。あなたの安定したエネルギーは周りの人々に大きな信頼と安心感を与えます。どんな関係でも健康な基盤を作る能力に優れており、長期的で満足のいく人間関係を形成します。あなたのような人と一緒にいると誰もが心が落ち着きます！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "信頼",
+        "安定感",
+        "成熟した関係"
+      ]
+    },
+    {
+      "id": "anxious",
+      "title": "つながり追求型 - 深い絆を大切にする温かい心",
+      "description": "あなたは感情が豊かで、意味のある関係を深く大切にする人です。相手を細やかに配慮し、愛を積極的に表現する能力に優れています。関係での確信を得たいという気持ちは、あなたが本当に相手を大切に思っている証拠です。あなたの温かさと誠意は相手に特別な存在感を感じさせます。自分の感情パターンを理解し、健康な方法で表現することを学んでいけば、さらに豊かな関係を作っていけます。あなたの愛する能力は大切な強みです！",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": [
+        "温かい心",
+        "深い絆",
+        "細やかな配慮"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "自律重視型 - 健康な境界線を知る自己主導的な人",
+      "description": "あなたは自己主導的で、個人の空間と自律性を大切にする人です。感情表現に慎重ですが、その分あなたの表現には深い意味が込められています。関係で健康な境界線を維持する能力はとても大切な強みです。一人の時間を通じてエネルギーを充電し、自分なりの方法で関係に貢献します。あなたの落ち着きと自立心は関係に安定感を加えます。徐々に感情を分かち合う練習をしていけば、望むだけの深いつながりも十分に経験できます。自分のペースで関係を発展させていくことはとても価値ある方法です！",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": [
+        "自己主導",
+        "健康な境界線",
+        "落ち着いた安定感"
+      ]
+    },
+    {
+      "id": "fearful",
+      "title": "成長志向型 - 豊かな感受性を持つ慎重な探求者",
+      "description": "あなたは豊かで繊細な感情世界を持つ人です。親密さを大切にしながらも安全性を重要視するあなたの心は、自分と関係を深く考える成熟さの表れです。あなたは敏感で直感力に優れ、関係の意味を真剣に探求する傾向があります。このような自己認識能力は成長のための素晴らしい土台になります。あなたの誠実さと深みは、心からの関係を望む人々に特別に伝わります。自分に合った速度で安全な関係経験を積んでいけば、望むだけの親密さと満足感を十分に味わえるでしょう。あなたの成長の旅路を応援しています！",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": [
+        "繊細な感受性",
+        "自己認識",
+        "成長の旅路"
+      ]
+    }
+  ]
+}

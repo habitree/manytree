@@ -1,0 +1,353 @@
+{
+  "id": "dog-personality",
+  "title": "我家狗狗性格测试：它是什么性格呢？",
+  "description": "回想一下你家毛孩子平时的行为来回答吧！了解狗狗的真实性格能让你们的感情更深厚。快和狗友们分享测试结果吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=600&fit=crop&q=80",
+  "color": "#8B572A",
+  "questions": [
+    {
+      "id": 1,
+      "text": "听到「散步」这个词时，我家狗狗会？",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "options": [
+        {
+          "text": "立刻兴奋地冲向门口！",
+          "scores": {
+            "energy": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "悠闲地伸个懒腰，慢慢准备！",
+          "scores": {
+            "energy": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "快递员按门铃了！我家宝贝的反应是？",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "options": [
+        {
+          "text": "新朋友来了！冲过去用全身打招呼！",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "先退后一步，用「你是谁」的眼神观察",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "独自在家时，我家狗狗主要会？",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "options": [
+        {
+          "text": "在有家人气味的地方等待，竖起耳朵！",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "在自己舒适的小窝里悠闲地打盹！",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "新玩具出现了！我家宝贝的第一反应是？",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "options": [
+        {
+          "text": "哇这是什么！立刻叼起来跑来跑去！",
+          "scores": {
+            "curious": 2,
+            "cautious": 0
+          }
+        },
+        {
+          "text": "先小心翼翼地用鼻子碰一碰…安全吗？",
+          "scores": {
+            "curious": 0,
+            "cautious": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "散步时发现了另一只狗狗！我家宝贝会？",
+      "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+      "options": [
+        {
+          "text": "你好朋友！积极地互相闻闻打招呼！",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "悄悄躲到主人腿后面或者装作没看见",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "零食袋发出沙沙声！我家狗狗的反应是？",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=600&q=80",
+      "options": [
+        {
+          "text": "坐下！握手！使出全部技能疯狂卖萌！",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "安静地走过来，用「我在这儿」的眼神注视！",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "晚上听到奇怪的声音！我家宝贝会？",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "options": [
+        {
+          "text": "汪汪！先叫再说！守护家园是我的职责！",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "只是竖起耳朵，「哦，原来是风」，继续睡觉",
+          "scores": {
+            "calm": 2,
+            "cool": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "到达宽敞的公园！我家狗狗的行为模式是？",
+      "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=600&q=80",
+      "options": [
+        {
+          "text": "牵引绑一松开就全速奔跑！到处探索！",
+          "scores": {
+            "energy": 2,
+            "calm": 0,
+            "curious": 1
+          }
+        },
+        {
+          "text": "在主人身边悠闲散步，偶尔闻闻气味",
+          "scores": {
+            "energy": 0,
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "夜深了，我家宝贝的睡姿是？",
+      "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "options": [
+        {
+          "text": "钻进主人怀里或被子里的黏人型",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "在自己的秘密角落独立睡觉的私密型",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "训练时间！我家狗狗的专注度是？",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "options": [
+        {
+          "text": "看到零食眼睛就发亮，天才狗狗模式开启！",
+          "scores": {
+            "cute": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "心情好就专注，不好就一副「今天是休息日」的表情！",
+          "scores": {
+            "cool": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "窗外下着雨，我家宝贝的反应是？",
+      "image": "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=600&q=80",
+      "options": [
+        {
+          "text": "下雨也要去散步！在门口等着呢！",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "看看窗外然后钻进被窝，今天宅家！",
+          "scores": {
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "拿出手机拍照时，我家狗狗会？",
+      "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=600&q=80",
+      "options": [
+        {
+          "text": "天生的模特！自然的姿势和眼神交流！",
+          "scores": {
+            "social": 2,
+            "cute": 1
+          }
+        },
+        {
+          "text": "躲避镜头技能启动！扭头大师！",
+          "scores": {
+            "shy": 2,
+            "independent": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "energy-social",
+      "title": "能量满格！小区社交达人狗狗",
+      "description": "你家狗狗走到哪里都是主角！出去散步就会吸引「那只狗狗好可爱！」的目光，和其他狗狗也能立刻成为好朋友，是天生的社交达人！充沛的能量给全家人带来欢笑，和这个小家伙在一起的每一天都是快乐的冒险。带去狗友聚会，「性格真好！」的夸奖不断！我们家的快乐病毒，就是它！",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "社交达人",
+        "能量满格",
+        "快乐病毒"
+      ]
+    },
+    {
+      "id": "energy-shy",
+      "title": "热爱冒险的探险队长狗狗！",
+      "description": "你家狗狗拥有真正的冒险家灵魂！对新的气味、新的地方、新的发现眼睛闪闪发光！散步时间就是探险时间，是用鼻子读懂世界的气味分析专家。比起其他狗或人，对世界上所有新奇事物更感兴趣，是拥有独特魅力的小家伙！",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "tags": [
+        "冒险DNA",
+        "好奇心天堂",
+        "探险队长"
+      ]
+    },
+    {
+      "id": "calm-social",
+      "title": "礼仪满分！有品位的绅士狗",
+      "description": "你家狗狗是真正的绅士/淑女！沉稳又温柔的性格，让遇到的每个人都喜欢，是完美性格的拥有者！不用太兴奋也足够亲切，在任何情况下都不失风度。成熟又优雅的魅力，会让你听到「真是养得好！」这样的赞美，是令人骄傲的爱犬！",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "tags": [
+        "礼仪满分",
+        "绅士狗",
+        "品位满满"
+      ]
+    },
+    {
+      "id": "calm-shy",
+      "title": "在一起就让人心情平静的治愈系狗狗",
+      "description": "你家狗狗是默默在身边给予安慰的天使般的存在！不会大声叫或闹腾，只是安静地坐在沙发旁陪着你，一天的疲劳就融化了。累的时候看着它的眼睛，是不是感觉它在说「没关系，我在这里」？它是给你带来世界上最平和治愈的珍贵伴侣！",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "tags": [
+        "治愈天使",
+        "平和的灵魂",
+        "安静的慰藉"
+      ]
+    },
+    {
+      "id": "loyal-cute",
+      "title": "只看着你的撒娇大王！",
+      "description": "你家狗狗坚信「世界上最好的人=你」，是你永远的粉丝俱乐部1号！只要看到你，尾巴就像螺旋桨一样转，用各种撒娇直击你的心，是甜蜜的小可爱！用全身表达「妈妈/爸爸我爱你！」的它，让你感觉自己是世界上最特别的人。这份爱，永远不会变！",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "tags": [
+        "撒娇大王",
+        "永远的粉丝俱乐部",
+        "心动狙击手"
+      ]
+    },
+    {
+      "id": "loyal-cool",
+      "title": "酷酷外表下的火热忠诚！守护天使犬",
+      "description": "你家狗狗是守护家人的可靠守护天使！平时酷酷的很稳重，但当感觉到家人有危险时，会比谁都先站出来的勇敢保镖。不声不响地守护着，在需要的时候出现，多么可靠！这份酷酷下隐藏的火热的爱，你知道吗？",
+      "image": "https://images.unsplash.com/photo-1553882809-a4f57e59501d?w=600&q=80",
+      "tags": [
+        "酷酷守护天使",
+        "可靠的保镖",
+        "隐藏的忠诚派"
+      ]
+    },
+    {
+      "id": "independent-curious",
+      "title": "自由的灵魂！充满探索精神的独立犬",
+      "description": "你家狗狗是热爱自由的独立灵魂！享受独处时光，又对新事物充满好奇心，是拥有迷人性格的小家伙！不黏人所以好养，但偶尔表达的爱意却让人觉得更特别。是拥有自己世界的帅气独立犬！",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "tags": [
+        "自由的灵魂",
+        "独立犬",
+        "神秘的魅力"
+      ]
+    },
+    {
+      "id": "independent-cautious",
+      "title": "傲娇魅力爆棚！有猫灵魂的狗狗",
+      "description": "明明是狗…怎么有点像猫？没错！你家狗狗有自己的世界，是傲娇魅力的拥有者！不是叫就立刻跑过来的类型，但偶尔悄悄靠过来轻轻依偎的那一刻！心都要化了。「今天心情好像不错！」这种稀有的爱意表达，正因为稀有才更特别。一旦迷上这种傲娇魅力，就出不来了！",
+      "image": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=600&q=80",
+      "tags": [
+        "傲娇爆棚",
+        "猫灵魂",
+        "稀有的爱意"
+      ]
+    }
+  ]
+}

@@ -18,7 +18,7 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: Props) {
   const { locale, id } = await params;
-  const test = getTestById(id);
+  const test = getTestById(id, locale);
   if (!test) return { title: "Test not found" };
 
   return {
@@ -36,7 +36,7 @@ export default async function TestIntroPage({ params }: Props) {
   const { locale, id } = await params;
   setRequestLocale(locale);
 
-  const test = getTestById(id);
+  const test = getTestById(id, locale);
   if (!test) {
     notFound();
   }

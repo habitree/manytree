@@ -1,0 +1,353 @@
+{
+  "id": "dog-personality",
+  "title": "Test de Personalidad Canina: ¿Cual es la personalidad de tu perro?",
+  "description": "¡Piensa en el comportamiento habitual de tu peludo y responde! Conocer la verdadera personalidad de tu perro te ayudara a fortalecer vuestro vinculo. ¡Comparte los resultados con tus amigos perrunos!",
+  "thumbnail": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=600&fit=crop&q=80",
+  "color": "#8B572A",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando tu perro escucha la palabra 'paseo', ¿como reacciona?",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Se emociona al instante y corre hacia la puerta!",
+          "scores": {
+            "energy": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "Se estira tranquilamente y se prepara sin prisa",
+          "scores": {
+            "energy": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¡El repartidor toca el timbre! ¿Como reacciona tu perro?",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Nuevo amigo! Corre a saludarlo con todo su cuerpo",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Retrocede y observa con mirada de '¿quien eres tu?'",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Cuando se queda solo en casa, tu perro normalmente...",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Espera donde huele a familia, con las orejas alertas",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Duerme comodamente en su rincon favorito",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¡Aparece un juguete nuevo! ¿Cual es la primera reaccion de tu perro?",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Que es esto! Lo agarra inmediatamente y corre por todos lados",
+          "scores": {
+            "curious": 2,
+            "cautious": 0
+          }
+        },
+        {
+          "text": "Primero lo toca con la nariz con cautela... ¿es seguro?",
+          "scores": {
+            "curious": 0,
+            "cautious": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Durante el paseo, ¡tu perro ve a otro perro! ¿Que hace?",
+      "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Hola amigo! Se acerca activamente a olisquear y saludar",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Se esconde detras de las piernas del dueno o lo ignora",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¡Se escucha el crujido de la bolsa de premios! ¿Como reacciona tu perro?",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Sentado! ¡Dame la pata! Usa todos sus trucos para llamar la atencion",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "Se acerca en silencio con una mirada laser de 'aqui estoy'",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¡Un ruido extrano por la noche! ¿Como reacciona tu perro?",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Guau guau! Primero ladra, ¡proteger la casa es mi trabajo!",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Solo levanta las orejas, 'ah, es el viento' y vuelve a dormir",
+          "scores": {
+            "calm": 2,
+            "cool": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¡Llegaron al parque grande! ¿Cual es el patron de comportamiento de tu perro?",
+      "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Corre a toda velocidad en cuanto se suelta la correa! ¡A explorar todo!",
+          "scores": {
+            "energy": 2,
+            "calm": 0,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Pasea tranquilamente junto al dueno, olisqueando de vez en cuando",
+          "scores": {
+            "energy": 0,
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Cual es la posicion de dormir de tu perro por la noche?",
+      "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "options": [
+        {
+          "text": "Tipo pegajoso: se mete en los brazos del dueno o bajo las sabanas",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "Tipo independiente: duerme en su propio espacio privado",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¡Hora del entrenamiento! ¿Que tan concentrado esta tu perro?",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "options": [
+        {
+          "text": "Los ojos le brillan al ver premios, ¡modo perro genio activado!",
+          "scores": {
+            "cute": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Se concentra si esta de humor, si no, cara de 'hoy es mi dia libre'",
+          "scores": {
+            "cool": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Esta lloviendo afuera. ¿Como reacciona tu perro?",
+      "image": "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Llueva o truene, el paseo es obligatorio! Esperando en la puerta",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Mira la lluvia y se mete en la cama, ¡hoy toca quedarse en casa!",
+          "scores": {
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Cuando apuntas la camara del movil a tu perro, el...",
+      "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Modelo nato! Poses naturales y contacto visual perfecto",
+          "scores": {
+            "social": 2,
+            "cute": 1
+          }
+        },
+        {
+          "text": "¡Tecnica de evasion de camara activada! Maestro en girar la cabeza",
+          "scores": {
+            "shy": 2,
+            "independent": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "energy-social",
+      "title": "¡Energia al maximo! El perro popular del barrio",
+      "description": "¡Tu perro es la estrella donde quiera que vaya! Durante los paseos atrae todas las miradas de '¡que perro tan lindo!' y se hace amigo de otros perros al instante, ¡un verdadero influencer canino! Con su energia desbordante, trae alegria a toda la familia, y cada dia con este peludo es una divertida aventura. ¡Llevalo a reuniones de perros y los cumplidos de 'que buen caracter tiene' no pararan! ¡El virus de la felicidad de tu hogar, ese es el!",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "Popular del barrio",
+        "Energia al maximo",
+        "Virus de felicidad"
+      ]
+    },
+    {
+      "id": "energy-shy",
+      "title": "¡Amante de las aventuras! El capitan explorador",
+      "description": "¡Tu perro tiene alma de verdadero aventurero! Sus ojos brillan con nuevos olores, nuevos lugares, nuevos descubrimientos. ¡El tiempo de paseo es tiempo de exploracion, un experto en analizar el mundo a traves de su nariz! Mas interesado en todas las cosas fascinantes del mundo que en otros perros o personas, ¡un peludo con un encanto unico e irresistible!",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "tags": [
+        "ADN aventurero",
+        "Cielo de curiosidad",
+        "Capitan explorador"
+      ]
+    },
+    {
+      "id": "calm-social",
+      "title": "¡Modales perfectos! El perro caballero elegante",
+      "description": "¡Tu perro es un verdadero caballero/dama! Con su naturaleza tranquila pero carinosa, es amado por todos los que conoce, ¡una personalidad perfecta! Amigable sin ser hiperactivo, manteniendo la compostura en cualquier situacion. Con su encanto maduro y sofisticado, te hace escuchar '¡que bien lo has criado!' - ¡un companero del que estar orgulloso!",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "tags": [
+        "Modales perfectos",
+        "Perro caballero",
+        "Primera clase"
+      ]
+    },
+    {
+      "id": "calm-shy",
+      "title": "El companero sanador que trae paz",
+      "description": "¡Tu perro es como un angel silencioso que ofrece consuelo a tu lado! Sin ladridos fuertes ni caos, solo sentarse tranquilamente en el sofa contigo derrite el cansancio del dia. En los dias dificiles, mirar a los ojos de este peludo se siente como si dijera 'esta bien, estoy aqui'. ¡Es tu precioso companero que te regala la sanacion mas pacifica del mundo!",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "tags": [
+        "Angel sanador",
+        "Alma pacifica",
+        "Consuelo silencioso"
+      ]
+    },
+    {
+      "id": "loyal-cute",
+      "title": "¡Tu fan numero 1! El adorable enamorado",
+      "description": "¡Tu perro esta absolutamente convencido de que 'la mejor persona del mundo = tu', es el presidente eterno de tu club de fans! Su cola gira como una helice solo con verte, robando corazones con su encanto infinito, ¡un dulce enamorado! Este peludo te hace sentir la persona mas especial del mundo expresando '¡Te quiero, mama/papa!' con todo su cuerpo. ¡Este amor nunca cambiara!",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "tags": [
+        "Explosion de encanto",
+        "Club de fans eterno",
+        "Roba corazones"
+      ]
+    },
+    {
+      "id": "loyal-cool",
+      "title": "¡Exterior cool, lealtad ardiente! Perro angel guardian",
+      "description": "¡Tu perro es el angel guardian confiable de la familia! Normalmente cool y sereno, pero cuando siente peligro para la familia, es el protector valiente que da el primer paso. Vigilando discretamente, apareciendo cuando se le necesita, ¡tan confiable! ¿Sabias del amor ardiente escondido bajo ese exterior cool?",
+      "image": "https://images.unsplash.com/photo-1553882809-a4f57e59501d?w=600&q=80",
+      "tags": [
+        "Angel guardian cool",
+        "Protector confiable",
+        "Leal secreto"
+      ]
+    },
+    {
+      "id": "independent-curious",
+      "title": "¡Espiritu libre! El perro independiente y curioso",
+      "description": "¡Tu perro es un alma independiente que ama la libertad! Disfruta de su tiempo a solas mientras esta lleno de curiosidad por cosas nuevas, ¡una personalidad encantadora! No es pegajoso asi que es facil de cuidar, pero sus ocasionales muestras de afecto se sienten extra especiales. ¡Un maravilloso perro independiente con su propio mundo!",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "tags": [
+        "Espiritu libre",
+        "Perro independiente",
+        "Encanto misterioso"
+      ]
+    },
+    {
+      "id": "independent-cautious",
+      "title": "¡Encanto tsundere! El perro con alma de gato",
+      "description": "¿Un perro pero... de alguna manera parece un gato? ¡Asi es! ¡Tu perro tiene su propio mundo con un encanto tsundere! No es del tipo que viene corriendo cuando lo llamas, pero esos momentos cuando se acerca sigilosamente y se apoya en ti... ¡derrite el corazon! '¡Debe estar de buen humor hoy!' - esas raras muestras de afecto lo hacen extra especial. ¡Una vez que caes por este encanto tsundere, no hay escapatoria!",
+      "image": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=600&q=80",
+      "tags": [
+        "Explosion tsundere",
+        "Alma de gato",
+        "Afecto raro"
+      ]
+    }
+  ]
+}

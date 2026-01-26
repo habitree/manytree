@@ -60,7 +60,8 @@
     "hot": "POPULAR",
     "new": "NUEVO",
     "progress": "Progreso",
-    "questionOf": "{current} / {total}"
+    "questionOf": "{current} / {total}",
+    "previous": "Pregunta Anterior"
   },
   "result": {
     "title": "TU RESULTADO",

@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import { useLocale, useTranslations } from "next-intl";
+import { useRouter } from "@/i18n/routing";
 import { getTestById } from "@/lib/tests";
 import { UserAnswer } from "@/types/test";
 import QuestionCard from "@/components/QuestionCard";
@@ -12,20 +13,22 @@ interface Props {
 
 export default function TestPlayClient({ testId }: Props) {
   const router = useRouter();
+  const locale = useLocale();
+  const t = useTranslations("test");
   const [test, setTest] = useState<ReturnType<typeof getTestById>>(undefined);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<UserAnswer[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const loadedTest = getTestById(testId);
+    const loadedTest = getTestById(testId, locale);
     if (!loadedTest) {
       router.push("/");
       return;
     }
     setTest(loadedTest);
     setIsLoading(false);
-  }, [testId, router]);
+  }, [testId, locale, router]);
 
   const handleSelectOption = (optionIndex: number) => {
     if (!test) return;
@@ -62,7 +65,7 @@ export default function TestPlayClient({ testId }: Props) {
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-500 mx-auto"></div>
-          <p className="mt-4 text-gray-500">로딩 중...</p>
+          <p className="mt-4 text-gray-500">Loading...</p>
         </div>
       </div>
     );
@@ -102,7 +105,7 @@ export default function TestPlayClient({ testId }: Props) {
             >
               <polyline points="15,18 9,12 15,6" />
             </svg>
-            이전 질문
+            {t("previous")}
           </button>
         )}
       </div>

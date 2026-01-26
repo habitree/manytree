@@ -60,7 +60,8 @@
     "hot": "HOT",
     "new": "NEW",
     "progress": "진행률",
-    "questionOf": "{current} / {total}"
+    "questionOf": "{current} / {total}",
+    "previous": "이전 질문"
   },
   "result": {
     "title": "YOUR RESULT",

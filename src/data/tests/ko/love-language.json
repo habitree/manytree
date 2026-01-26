@@ -1,0 +1,630 @@
+{
+  "id": "love-language",
+  "title": "당신의 사랑 표현법을 찾아라! 5가지 사랑의 언어",
+  "description": "게리 채프먼 박사의 5가지 사랑의 언어 이론으로 당신과 소중한 사람의 진정한 사랑 표현법을 발견하세요! 같은 사랑도 다르게 받아들여진다면, 그 이유는 무엇일까요? 지금 바로 당신의 사랑 언어를 확인해보세요!",
+  "thumbnail": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&h=600&fit=crop&q=80",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "연인이 힘든 하루를 보냈다고 할 때, 당신의 자연스러운 반응은?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "정말 수고했어, 넌 잘하고 있어! 라며 응원의 말을 건네",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "내가 도와줄 수 있는 일이 있으면 말해줘, 라며 실질적 도움을 제안해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "자세히 들려줘, 라며 시간을 내어 이야기를 함께 나눠",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "이리 와, 라며 따뜻하게 안아주고 토닥여줘",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "스트레스 받은 연인을 위로해주고 싶을 때, 당신이 자연스럽게 하는 행동은?",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "손을 잡거나 안아주며 따뜻한 스킨십으로 위로해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "식사를 챙겨주거나 할 일을 대신 해주며 실질적으로 도와줘",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "격려와 응원의 말로 힘을 북돋아 줘",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "곁에 앉아 시간을 내어 이야기를 충분히 들어줘",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "사랑하는 사람에게 마음을 표현할 때 당신이 주로 하는 방식은?",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "'사랑해', '고마워', '넌 정말 최고야' 같은 말로 자주 표현해",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "함께 시간을 보내며 대화하고, 같이 있어주는 것으로 표현해",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "상대가 좋아할 선물을 고르거나 특별한 이벤트를 준비해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "손잡거나 안아주는 등 스킨십으로 따뜻함을 전해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "연인이 중요한 일을 앞두고 있다면, 당신의 지원 방식은?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "넌 정말 잘할 거야! 응원과 격려의 말로 힘을 북돋아줘",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "필요한 것들을 챙겨주고, 실질적으로 도와줘",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "옆에서 함께하며 시간을 내어 같이 준비해",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "긴장을 풀어주는 스킨십과 따뜻한 포옹으로 안심시켜줘",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "기분이 좋지 않을 때, 당신이 가장 위로받는 방식은?",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "상대방이 곁에서 함께 시간을 보내주는 것",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "따뜻한 말과 격려로 응원해주는 것",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "손을 잡아주거나 안아주는 스킨십",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "실질적으로 도와주며 부담을 덜어주는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "연인과 함께할 공간을 꾸밀 때, 당신이 가장 신경 쓰는 부분은?",
+      "image": "https://images.unsplash.com/photo-1484101403633-571e57aa4ea0?w=600&q=80",
+      "options": [
+        {
+          "text": "함께 시간을 보내기 좋은 아늑한 분위기를 만드는 것",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "상대가 좋아하는 취향을 담아 특별한 감동을 주는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "상대가 편안하게 쉴 수 있도록 실용적으로 정리하는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "편안하게 안기거나 함께 누울 수 있는 포근한 공간을 만드는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "연인의 성취감 있는 순간에 당신이 가장 먼저 하는 행동은?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "큰 목소리로 축하해주고, '대단해!'라는 말을 반복",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "축하 선물을 준비하고, 특별한 이벤트 계획",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "안아주고, 환호하면서 신체적으로 기뻐함을 표현",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "그 기쁜 시간을 함께 나누고, 이야기를 들어주기",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "일상에서 당신이 가장 자연스럽게 사랑을 표현하는 방식은?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "손잡기, 안아주기 등 자연스러운 스킨십을 자주 해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "필요한 것을 챙겨주고 일상에서 도움을 주는 편이야",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "작은 선물이나 깜짝 이벤트를 준비하는 것을 좋아해",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "하루 일과를 나누고 함께 시간을 보내는 것을 중요시해",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "연인에게 사랑받는다고 가장 크게 느끼는 순간은?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "'너 때문에 행복해', '넌 정말 특별해' 같은 말을 들을 때",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "내가 바쁠 때 옆에서 든든히 도와주고 챙겨줄 때",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "내 취향을 기억해서 선물해주거나 깜짝 이벤트를 준비해줄 때",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "따뜻하게 안아주거나 손을 꼭 잡아줄 때",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "연인과의 활동 중 가장 기억에 남는 순간은?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "나를 위해 내가 원하던 특별한 선물을 준비했던 순간",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "아무도 방해 받지 않고 둘이만 깊게 대화하고 시간을 보낸 순간",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 정성스러운 말과 응원으로 나를 격려해준 순간",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 안아주고 손잡고, 스킨십으로 사랑을 표현해준 순간",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "당신이 사랑한다고 느끼는 순간은 언제?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "연인이 내 곁에 있고, 모든 것을 잠시 멈추고 나에게만 집중해줄 때",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 내가 필요로 하는 것을 알아서 챙겨주고 도와줄 때",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 내 가능성을 믿어주고 격려하는 말을 해줄 때",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 따뜻하게 안아주고 손을 맞잡을 때",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "특별한 날을 축하받을 때, 당신이 가장 기뻐하는 방식은?",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "의미 있는 선물과 특별하게 준비된 이벤트를 받는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "진심 어린 축하 메시지나 감동적인 말을 듣는 것",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "연인이 온전히 시간을 내어 함께해주는 것",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "따뜻한 포옹과 스킨십으로 축하받는 것",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "words",
+      "title": "확언의 언어 - 말로 전하는 따뜻한 사랑",
+      "description": "당신은 말의 힘을 믿는 사람이에요. '사랑해', '고마워', '넌 정말 대단해'라는 작은 한마디가 가장 큰 선물이라고 생각하죠. 격려와 칭찬, 감사의 말은 당신과 사랑하는 사람 모두를 행복하게 만들어요. 당신의 말 한마디는 상대방의 하루를 밝히고, 자신감을 주며, 관계를 더욱 돈독하게 만들어요. 이렇게 말로 사랑을 표현하는 당신의 능력은 정말 특별한 재능이에요!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "따뜻한 말",
+        "격려와 칭찬",
+        "감사 표현"
+      ]
+    },
+    {
+      "id": "service",
+      "title": "봉사의 언어 - 행동으로 보여주는 따뜻한 마음",
+      "description": "당신은 사랑을 행동으로 표현하는 사람이에요. 상대방의 필요를 세심하게 살피고, 실질적인 도움으로 마음을 전달하죠. 음식을 챙겨주고, 필요한 것들을 미리 준비해주는 당신의 배려심은 상대방에게 깊은 안정감을 줍니다. 당신의 행동 하나하나에는 '당신을 소중히 여긴다'는 진심이 담겨 있어요. 이런 실천적인 사랑 표현 능력은 관계에 든든한 신뢰를 쌓아갑니다. 때로는 말로도 마음을 전해보면, 상대방이 당신의 사랑을 더 깊이 느낄 수 있을 거예요!",
+      "image": "https://images.unsplash.com/photo-1509355114855-4c02da2f8fce?w=600&q=80",
+      "tags": [
+        "세심한 배려",
+        "실천적 사랑",
+        "신뢰 형성"
+      ]
+    },
+    {
+      "id": "gifts",
+      "title": "선물의 언어 - 마음을 담은 특별함",
+      "description": "당신은 선물 속에 마음을 담는 사람이에요. 의미 있는 선물 하나, 깜짝 이벤트 하나는 천 마디의 말보다 크게 느껴진다고 생각하죠. 당신이 선택한 선물은 상대방의 취향과 마음을 깊이 있게 담고 있어서, 받는 사람은 '나를 정말 잘 알고 있네'라는 감동을 느껴요. 작은 선물이든 큰 선물이든, 당신의 선물 속에는 항상 진정한 애정과 배려가 담겨있답니다. 그 따뜻한 마음이 묻어나는 당신의 선물은 평생 기억될 거예요!",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "tags": [
+        "정성스러운 선물",
+        "기억에 남는 깜짝",
+        "마음 전달"
+      ]
+    },
+    {
+      "id": "touch",
+      "title": "스킨십의 언어 - 따뜻한 접촉으로 전하는 사랑",
+      "description": "당신은 따뜻한 스킨십으로 사랑을 표현하는 사람이에요. 손을 맞잡고, 안아주고, 어깨를 토닥여주는 자연스러운 접촉은 당신에게 가장 진심 어린 사랑 표현이죠. 당신의 따뜻한 스킨십은 상대방에게 안정감과 편안함을 전해줍니다. 포옹 속에서 상대방은 소중히 여겨진다는 느낌을 받고, 당신의 손길은 말보다 깊은 위로가 되어요. 이런 따뜻한 접촉 능력은 친밀한 관계를 만드는 소중한 강점이에요. 가끔은 말로도 마음을 전해보면 상대방이 더 풍요롭게 사랑을 느낄 수 있을 거예요!",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "tags": [
+        "따뜻한 접촉",
+        "안정감 전달",
+        "친밀한 연결"
+      ]
+    },
+    {
+      "id": "time",
+      "title": "함께하는 시간의 언어 - 함께가 최고의 선물",
+      "description": "당신은 가장 귀한 것은 시간이라고 믿는 사람이에요. 아무리 바빠도 사랑하는 사람을 위해 시간을 내고, 그 시간만큼은 모든 것을 멈추고 오직 그 사람에게만 집중해요. 당신과 함께하는 시간은 특별하고, 그 안에서의 대화와 공유는 가장 깊은 연결을 만들어냅니다. 휴대폰도 내려놓고 눈 맞춤으로 상대방과 소통하는 당신의 능력은 누구나 소중히 느껴질 수 있게 만들어요. 당신의 시간이 누군가에게는 가장 큰 사랑의 표현이에요!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "질 높은 시간",
+        "함께의 가치",
+        "집중된 관계"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "love-style",
+  "title": "Your Hidden Love DNA: This Is Your True Way of Loving",
+  "description": "Why do your relationships always follow the same pattern? Which of the 8 love types identified by psychologists are you? A must-share with your crush! Discover your hidden love instincts now!",
+  "thumbnail": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop&q=80",
+  "color": "#E91E63",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What's your style of saying 'I love you' to your partner?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "I love you in the morning, I love you at lunch, I love you before bed! Endless repeat!",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0
+          }
+        },
+        {
+          "text": "Only on truly special moments... It sounds more sincere that way",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "An exciting weekend date! What do you want?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "Exploring newly opened hot spots! Traveling! Collecting new experiences!",
+          "scores": {
+            "adventurous": 2,
+            "stable": 0
+          }
+        },
+        {
+          "text": "Netflix and chicken at our own cozy spot is the best",
+          "scores": {
+            "adventurous": 0,
+            "stable": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "When you have a difference of opinion with your partner, what's your communication style?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to talk right away, share our thoughts, and resolve it",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "I prefer to take time to organize our thoughts separately before talking",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "You're invited to your partner's friend gathering! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Great! I want to share my partner's daily life and connect our worlds",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "Sometimes is nice, but I also value having our own time and space",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "A special anniversary is coming up. What's your mindset?",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "I plan and prepare surprise events ahead of time for special days",
+          "scores": {
+            "romantic": 2,
+            "practical": 0
+          }
+        },
+        {
+          "text": "I think expressing love consistently in daily life is more meaningful",
+          "scores": {
+            "romantic": 0,
+            "practical": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How do you choose a birthday gift for your partner?",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to secretly prepare something to surprise and touch them",
+          "scores": {
+            "romantic": 2,
+            "practical": 0,
+            "expressive": 1
+          }
+        },
+        {
+          "text": "I check what they really want and give a practical gift",
+          "scores": {
+            "romantic": 0,
+            "practical": 2,
+            "reserved": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "What's your everyday communication style with your partner?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "I enjoy sharing what happened during the day and having small talks often",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "I prefer meaningful conversations, and we're comfortable being busy separately",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How do you develop feelings for someone?",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "When I feel intuitively attracted, my heart quickly leans in",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "romantic": 1
+          }
+        },
+        {
+          "text": "My feelings deepen gradually as I get to know them over time",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "When you feel hurt by your partner, what do you do?",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to talk about it right away. I find it hard to keep emotions inside",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "I process my feelings alone first, then have a calm conversation",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How do you think about your future with your partner?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "I like to visualize our future together concretely. Planning makes me excited",
+          "scores": {
+            "stable": 2,
+            "adventurous": 0,
+            "connected": 1
+          }
+        },
+        {
+          "text": "I think if we live the present fully, the future will unfold naturally",
+          "scores": {
+            "stable": 0,
+            "adventurous": 2,
+            "autonomous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Your partner seems to be going through a hard time. What do you do?",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "I can tell without words, let me rush over and give you a hug right now!",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0,
+            "passionate": 1
+          }
+        },
+        {
+          "text": "How can I help? Tell me what you need, let's find a solution!",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When making important relationship decisions, what's your tendency?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "When I feel confident in my heart, I make bold decisions",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "adventurous": 1
+          }
+        },
+        {
+          "text": "I take enough time to think carefully before deciding",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "stable": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "romantic-passionate",
+      "title": "Movie Star! A Romanticist Who Believes in Destiny",
+      "description": "You're the embodiment of dramatic love! The kind where 'the world stopped when our eyes met' actually happens. You turn every moment into a movie scene and treat your partner like the star of the world. Surprise events, sweet handwritten letters, and remembering anniversaries are basics! Anyone who falls in love with you experiences the romance of a lifetime. Your love will become legendary!",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "tags": [
+        "Destined Love",
+        "Romance Expert",
+        "Event Genius"
+      ]
+    },
+    {
+      "id": "practical-calm",
+      "title": "True Definition of Love! A Wise Partnership Builder",
+      "description": "You're a wise lover who knows the true value of love! You pursue warm, enduring warmth over flashy sparks. You build relationships where you truly understand each other and grow together without being swayed by emotions. With you, one can experience unwavering stability and deep trust. A love where you can still hold hands 50 years later - that's what you create!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Wise Love",
+        "Lifetime Partner",
+        "Icon of Trust"
+      ]
+    },
+    {
+      "id": "independent-adventurous",
+      "title": "Love of Free Spirits Who Make Each Other Shine",
+      "description": "You have mature relationships that respect each other without constraints! While supporting each other's dreams and lives, you create the most special moments when together. You're a best friend and lover who shares new experiences and adventures! There's never a dull moment dating you. A relationship where you become each other's wings - that's your love style!",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "tags": [
+        "Free Love",
+        "Best Friend",
+        "Adventure Partner"
+      ]
+    },
+    {
+      "id": "connected-expressive",
+      "title": "A Warm Affection Expresser Who Conveys True Feelings",
+      "description": "You're a warm lover who honestly expresses your loving heart. You deepen relationships by sharing emotions and daily life. You cherish time together and have the ability to fully convey how loved your partner feels. Your warm expressions of affection enrich the relationship and make your partner feel special. This ability to express genuine feelings is the key to a healthy relationship!",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "tags": [
+        "Warm Expression",
+        "Sincere Communication",
+        "Happiness Together"
+      ]
+    },
+    {
+      "id": "calm-stable",
+      "title": "Always Comfortable By Your Side, A Cozy Sanctuary",
+      "description": "You may not be flashy, but you're a solid presence always there! You offer calm yet deep love, warmth felt without words. When someone is beside you, all worries disappear, and they feel peaceful comfort. A love like wine that deepens over time - being with you guarantees lifetime happiness!",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "tags": [
+        "Heart's Sanctuary",
+        "Reliable Presence",
+        "Deepening Love"
+      ]
+    },
+    {
+      "id": "passionate-expressive",
+      "title": "A Passionate Lover Who Honestly Conveys True Feelings",
+      "description": "You're a passionate lover who expresses your loving heart honestly and actively. You don't hide your feelings and clearly communicate how precious your partner is. This sincere expression gives your partner confidence and security. With you, one can fully feel loved. If you find balance in maintaining passion while respecting your partner's pace, you'll create even richer relationships!",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&q=80",
+      "tags": [
+        "Honest Expression",
+        "Passionate Love",
+        "Sincere Communication"
+      ]
+    },
+    {
+      "id": "reserved-independent",
+      "title": "A Thoughtful Lover Who Creates Deep Connections",
+      "description": "You have a mature dating style that respects each other's independence while building deep bonds. You're careful with emotional expression, but that means every word you say carries sincerity. Your partner knows your expressions are genuine, making them feel even more special. You build relationships with mutual respect within appropriate distance, developing deeper trust over time. If you gradually expand your range of expression, your warm heart will be conveyed even better!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Thoughtful Expression",
+        "Deep Trust",
+        "Mature Love"
+      ]
+    },
+    {
+      "id": "romantic-connected",
+      "title": "A Romantic Companion Who Creates Deep Bonds",
+      "description": "You're a romantic who cherishes deep bonds with your partner. You enjoy creating special moments together and putting effort into the relationship. You want to grow together with your partner and become a meaningful presence in each other's lives. This deep capacity for commitment is an important asset for building long-term, satisfying relationships. Your partner will truly feel cherished with you!",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "tags": [
+        "Deep Bond",
+        "Romantic Commitment",
+        "Growing Together"
+      ]
+    }
+  ]
+}

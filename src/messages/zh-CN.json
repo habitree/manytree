@@ -60,7 +60,8 @@
     "hot": "热门",
     "new": "新",
     "progress": "进度",
-    "questionOf": "{current} / {total}"
+    "questionOf": "{current} / {total}",
+    "previous": "上一题"
   },
   "result": {
     "title": "YOUR RESULT",

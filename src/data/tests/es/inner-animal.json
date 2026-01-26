@@ -1,0 +1,627 @@
+{
+  "id": "inner-animal",
+  "title": "Que animal vive en tu interior?",
+  "description": "Descubre tu personalidad interior a traves de 12 escenarios psicologicos! Averigua que animal representa tu yo oculto. Realiza este divertido test de personalidad y descubre tu verdadero tipo de caracter!",
+  "thumbnail": "https://images.unsplash.com/photo-1552053831-71594a27c62d?w=800&h=600&fit=crop&q=80",
+  "color": "#6B5B4D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Ha surgido un nuevo proyecto! Cual es tu primera reaccion?",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Genial! Yo lidero, sigueme!",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Dejame primero entender el panorama general y hacer un plan",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "Si trabajamos todos juntos, saldra genial! En que puedo ayudar?",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Manejare mi parte a mi manera!",
+          "scores": {
+            "cat": 2,
+            "fox": 1,
+            "eagle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando un amigo o colega esta pasando por un momento dificil, cual es tu primera reaccion?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero correr a animarlos de inmediato!",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "Primero analizo la situacion, luego doy consejos concretos",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "Me quedo a su lado en silencio cuando me necesitan",
+          "scores": {
+            "bear": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Doy retroalimentacion honesta para ayudarles a ser mas independientes",
+          "scores": {
+            "eagle": 2,
+            "wolf": 1,
+            "fox": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Estas en una reunion con amigos! Cual es tu rol?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Me muevo asegurandome de que todos se diviertan!",
+          "scores": {
+            "dolphin": 2,
+            "lion": 1,
+            "dog": 1
+          }
+        },
+        {
+          "text": "Prefiero tener conversaciones profundas con algunos amigos cercanos!",
+          "scores": {
+            "owl": 2,
+            "panda": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Leo el ambiente e intervengo en el momento adecuado!",
+          "scores": {
+            "fox": 2,
+            "peacock": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Estoy bien estando callado mientras este con personas con las que me siento comodo!",
+          "scores": {
+            "rabbit": 2,
+            "bear": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "En un conflicto o confrontacion, como lo manejas?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Lo enfrento directamente con confianza y resuelvo el problema",
+          "scores": {
+            "lion": 2,
+            "wolf": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Analizo la situacion con calma y encuentro la mejor solucion",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "Intento entender la perspectiva del otro y busco armonia",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Tomo un enfoque logico sin dejarme llevar por las emociones",
+          "scores": {
+            "cat": 2,
+            "eagle": 1,
+            "owl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Cuando experimentas un fracaso o contratiempo, como respondes?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Me levanto rapidamente y lo intento de nuevo! Nunca me rindo!",
+          "scores": {
+            "lion": 2,
+            "dog": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Analizo con calma que salio mal y desarrollo una nueva estrategia",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "Proceso mis emociones primero, luego doy un paso atras para pensar",
+          "scores": {
+            "panda": 2,
+            "rabbit": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "Necesito tiempo a solas para ordenar mis pensamientos",
+          "scores": {
+            "cat": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Manana de fin de semana! Cual es tu nivel de energia?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "Que deberia hacer hoy? Estoy ansioso por moverme!",
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Relajado por la manana, planes con amigos por la tarde!",
+          "scores": {
+            "dog": 2,
+            "fox": 1,
+            "peacock": 1
+          }
+        },
+        {
+          "text": "Descansar bien y moverme cuando sea necesario - eso es eficiente!",
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "fox": 1
+          }
+        },
+        {
+          "text": "Un fin de semana tranquilo en casa es lo mejor!",
+          "scores": {
+            "cat": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cuando conoces gente nueva, como actuas?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Soy brillante y positivo, haciendo amigos rapidamente!",
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "Primero observo, luego me abro lentamente",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Si realmente conectamos, quiero construir una relacion significativa",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Las relaciones superficiales estan bien, pero soy cauteloso al acercarme",
+          "scores": {
+            "eagle": 2,
+            "fox": 1,
+            "wolf": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Que metas de vida persigues?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero inspirar a muchas personas desde la cima",
+          "scores": {
+            "lion": 2,
+            "peacock": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Quiero crecer junto a otros dentro de relaciones plenas",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Vivir una vida sabia y significativa a mi manera",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Encontrar la verdadera felicidad en una vida pacifica",
+          "scores": {
+            "panda": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Donde colocas tus fortalezas?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "Liderazgo decisivo y proactivo",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Lealtad y confiabilidad",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Excelentes habilidades de comunicacion y amabilidad",
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "Pensamiento sabio y analitico",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "eagle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Dia estresante! Cual es tu forma de aliviar el estres?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Hacer ejercicio o algo activo para desahogarme!",
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Llamar a un amigo y charlar!",
+          "scores": {
+            "dog": 2,
+            "rabbit": 1,
+            "dolphin": 1
+          }
+        },
+        {
+          "text": "Necesito tiempo a solas para organizar mis pensamientos",
+          "scores": {
+            "owl": 2,
+            "cat": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "Caminar en la naturaleza calma mi mente",
+          "scores": {
+            "bear": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Como describirias tu intuicion?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy aguda - puedo captar situaciones al instante",
+          "scores": {
+            "eagle": 2,
+            "owl": 1,
+            "fox": 1
+          }
+        },
+        {
+          "text": "Soy bueno leyendo las emociones de las personas y empatizando",
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Doy consejos perspicaces a traves de la reflexion profunda",
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "Me concentro en el presente y actuo por instinto",
+          "scores": {
+            "cat": 2,
+            "wolf": 1,
+            "fox": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Al final de un largo viaje, como te gustaria que te recuerden?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Como un 'lider' - fuerte y determinado",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Como alguien 'calido y confiable'",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Como un 'animador brillante y positivo'",
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "Como alguien 'sabio y misterioso'",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "lion",
+      "title": "Lider nato! El Majestuoso Leon",
+      "description": "Ruge, poderoso leon! Un majestuoso leon vive dentro de ti! Tomas la iniciativa con confianza en cualquier situacion, dando a las personas a tu alrededor la sensacion de que 'seguir a esta persona es la eleccion correcta'. Eres un lider nato con juicio decisivo y determinacion inquebrantable! Tu enfoque intrépido hacia nuevos desafíos es verdaderamente admirable! No te dicen a menudo que se sienten seguros solo con estar cerca de ti?",
+      "image": "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=600&q=80",
+      "tags": [
+        "Lider nato",
+        "Carismatico",
+        "Presencia confiable"
+      ]
+    },
+    {
+      "id": "cat",
+      "title": "Encanto elegante! El Gato Independiente",
+      "description": "Miau~ Un gato elegante e independiente vive dentro de ti! Mantienes tu propio ritmo y no dejas que las opiniones de otros te influyan - eso es verdaderamente admirable. Con pensamiento creativo y excelente intuicion, a menudo se te ocurren soluciones sorprendentes que hacen que la gente se pregunte 'Como pensaron en eso?' No te abres facilmente, pero una vez que te acercas a alguien, compartes una amistad mas profunda que nadie! Una vez que la gente cae por tu encanto elegante, no hay escapatoria!",
+      "image": "https://images.unsplash.com/photo-1573865526014-f3550b1811a7?w=600&q=80",
+      "tags": [
+        "Encanto elegante",
+        "Espiritu libre",
+        "Genio creativo"
+      ]
+    },
+    {
+      "id": "dog",
+      "title": "El Perro Leal",
+      "description": "Eres un perro leal y de buen corazon! Tu cuidado sincero por quienes te rodean y tu deseo de estar con ellos es verdaderamente precioso. Como alguien confiable que siempre anima desde el lado, eres un apoyo solido para muchas personas. Tu determinacion persistente que nunca se rinde y tu dedicacion al equipo son tus mayores fortalezas. Tu sinceridad y calidez hacen el mundo mas brillante!",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "Lealtad",
+        "Calidez",
+        "Confiabilidad",
+        "Dedicacion",
+        "Sinceridad"
+      ]
+    },
+    {
+      "id": "owl",
+      "title": "Icono de sabiduria! El Buho Sabio",
+      "description": "Uh-uh~ Un buho sabio y perspicaz vive dentro de ti! Tienes una habilidad asombrosa para analizar problemas complejos con calma y ver al corazon de los asuntos. Aunque tranquilo por fuera, las conversaciones contigo a menudo llevan a momentos de 'Wow, nunca lo pense de esa manera!' Tus amigos no te preguntan 'Que piensas?' cuando enfrentan decisiones importantes? Tu consejo siempre da en el blanco. Gracias a tu sabiduria, las personas a tu alrededor tambien se vuelven mas sabias!",
+      "image": "https://images.unsplash.com/photo-1586967511959-56aeb34264aa?w=600&q=80",
+      "tags": [
+        "Icono de sabiduria",
+        "Maestro de la perspicacia",
+        "Asesor experto"
+      ]
+    },
+    {
+      "id": "fox",
+      "title": "El Zorro Astuto",
+      "description": "Eres un zorro astuto y estrategico! Tu flexibilidad e ingenio para evaluar rapidamente situaciones y responder apropiadamente es verdaderamente encantador. Aunque tranquilo en la superficie, tu capacidad para resolver problemas con notable sabiduria cuando es necesario es impresionante. Tu adaptabilidad para ajustarte a los cambios y cambiar estrategias segun las situaciones lo demanden brilla en todas partes. Tu astucia y sabiduria iluminan tu entorno!",
+      "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+      "tags": [
+        "Astucia",
+        "Estrategico",
+        "Adaptabilidad",
+        "Ingenio",
+        "Flexibilidad"
+      ]
+    },
+    {
+      "id": "dolphin",
+      "title": "Alma de la fiesta! El Delfin Brillante",
+      "description": "Splash! Un delfin brillante y alegre vive dentro de ti! Donde quiera que vayas, iluminas el ambiente, y la gente a menudo dice 'Las cosas son mas divertidas cuando estan!' Eres un animador nato. Con excelentes habilidades de comunicacion, rapidamente te haces amigo de cualquiera, y tu destacada empatia te permite entender los sentimientos de otros al instante. Gracias a ti, las reuniones se vuelven mas agradables, y las situaciones dificiles se pueden superar con una sonrisa. Tu energia positiva que ilumina el mundo es verdaderamente preciosa!",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",
+      "tags": [
+        "Animador",
+        "Energia positiva",
+        "Maestro de comunicacion"
+      ]
+    },
+    {
+      "id": "bear",
+      "title": "El Oso Confiable",
+      "description": "Eres un oso confiable y acogedor! Tu enfoque calmado en tu propio trabajo mientras abrazas calidamente a quienes te rodean proporciona gran estabilidad. Tu sentido del equilibrio - levantandote poderosamente cuando es necesario, parandote en silencio cuando es apropiado - es maravilloso. Aunque calmado y constante por naturaleza, muestras fuerza y responsabilidad cuando se trata de familia y seres queridos! Tu sola presencia trae consuelo a muchas personas.",
+      "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=600&q=80",
+      "tags": [
+        "Acogedor",
+        "Estabilidad",
+        "Responsabilidad",
+        "Calma",
+        "Fuerza"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "title": "El Conejo Gentil",
+      "description": "Eres un conejo gentil y afectuoso! Tus emociones delicadas que entienden los sentimientos de otros y los consuelan con palabras y acciones calidas son verdaderamente preciosas. Aunque tranquilo, eres rico por dentro, observando cuidadosamente las emociones de otros y acercandote cuando es necesario - tu consideracion es maravillosa. No necesitas ser perfecto. Tu gentileza natural y sinceridad mueven mas los corazones de las personas!",
+      "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "tags": [
+        "Gentileza",
+        "Sensibilidad",
+        "Consideracion",
+        "Afecto",
+        "Empatia"
+      ]
+    },
+    {
+      "id": "wolf",
+      "title": "El Lobo Libre",
+      "description": "Eres un lobo libre pero fuerte! Tu paso confiado hacia adelante mientras mantienes tus creencias es verdaderamente admirable. Independiente pero devoto a tu equipo cuando es necesario, eres una persona versatil que puede ser tanto un lider como un excelente miembro del equipo. Puedes parecer aspero por fuera, pero por dentro estas lleno de calidez y lealtad. Tu fuerza y sinceridad influyen grandemente en quienes te rodean!",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "tags": [
+        "Independencia",
+        "Fuerza",
+        "Conviccion",
+        "Lealtad",
+        "Libertad"
+      ]
+    },
+    {
+      "id": "eagle",
+      "title": "El Aguila que Vuela Alto",
+      "description": "Eres un aguila que vuela alto! Tu capacidad de ver el panorama general con excelente vision y perseguir metas ambiciosas es verdaderamente inspiradora. Con intuicion aguda y juicio rapido, evaluas rapidamente situaciones y resuelves problemas eficientemente - eres un lider nato. Tu perfeccionismo en mantener altos estandares a veces puede ser una carga, pero es lo que te hace especial. Tus grandes suenos y espiritu de desafio estan haciendo el mundo mejor!",
+      "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a0?w=600&q=80",
+      "tags": [
+        "Ambicion",
+        "Perspicacia",
+        "Liderazgo",
+        "Logro",
+        "Vision"
+      ]
+    },
+    {
+      "id": "panda",
+      "title": "El Panda Gentil",
+      "description": "Eres un panda gentil y pacifico! Tu capacidad de aceptar todo generosamente y crear comodidad a tu alrededor con tu presencia calmada es verdaderamente preciosa. Aunque puedes parecer indiferente por fuera, en realidad piensas profundamente y juzgas situaciones sabiamente - tu sabiduria realmente destaca. Moviendote lentamente pero mostrando fuerza poderosa cuando realmente se necesita - tu sentido del equilibrio es maravilloso. Tu gentileza y tranquilidad traen paz a quienes te rodean!",
+      "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef3?w=600&q=80",
+      "tags": [
+        "Gentileza",
+        "Tranquilidad",
+        "Generosidad",
+        "Sabiduria",
+        "Equilibrio"
+      ]
+    },
+    {
+      "id": "peacock",
+      "title": "El Pavo Real Seguro",
+      "description": "Eres un pavo real seguro y encantador! Tu destacada expresividad y carisma capturan naturalmente la atencion de quienes te rodean - verdaderamente impresionante. Conoces bien tus fortalezas y las muestras con humildad - tu sentido es maravilloso. Tu pensamiento creativo que prueba cosas nuevas y tu deseo constante de crecer es verdaderamente admirable. Tu encanto y energia positiva hacen que muchas personas quieran estar contigo. Eres verdaderamente especial!",
+      "image": "https://images.unsplash.com/photo-1578688676385-b4b3e71490e2?w=600&q=80",
+      "tags": [
+        "Carisma",
+        "Encanto",
+        "Confianza",
+        "Creatividad",
+        "Expresividad"
+      ]
+    }
+  ]
+}

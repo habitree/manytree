@@ -1,0 +1,439 @@
+{
+  "id": "sample-mbti",
+  "title": "Tu verdadero MBTI que ni tú conocías, revelado ahora",
+  "description": "95% de precisión que sorprende! Con solo 12 preguntas analizamos perfectamente tu personalidad oculta. Descubre tu verdadero yo que ni tus amigos conocían!",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop&q=80",
+  "color": "#6366f1",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Es viernes por la noche y un amigo te llama de repente para quedar. ¿Cuál es tu reacción?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Me alegro y empiezo a prepararme mientras pregunto dónde nos vemos",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "Hoy necesito tiempo para mí, así que propongo otro día",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando empiezas un nuevo proyecto, ¿cómo lo abordas?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Primero imagino la dirección general y las posibilidades, dibujando el panorama completo",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "Empiezo estableciendo pasos concretos y un plan de ejecución",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Un amigo cercano te pide consejo sobre un problema difícil. ¿Qué haces primero?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Primero empatizo con sus sentimientos y le escucho",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "Entiendo bien la situación y busco formas prácticas de ayudar",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Cuál es tu estilo al preparar un viaje?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "Me siento tranquilo cuando planeo con anticipación y preparo lo necesario",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "Me preparo según la situación, y no me importa resolver cosas en el destino",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Después de una hora en una reunión donde no conoces a nadie, ¿cómo estarías probablemente?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Conversando naturalmente con varias personas",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "Teniendo una conversación profunda con una o dos personas",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Cuando tienes que tomar una decisión importante, ¿qué te ayuda más?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "Pienso en las posibilidades futuras y su significado potencial",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "Me baso en experiencias pasadas e información comprobada",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "En una reunión, las opiniones del equipo están divididas. ¿Cuál es tu criterio para decidir?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "¿Habrá alguna forma de que todos queden satisfechos? (La armonía es importante)",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "¿Cuál es objetivamente la opción más eficiente? (El resultado es lo importante)",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Falta un día para la entrega, son las 10 de la noche. ¿Cómo va tu trabajo?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "Siguiendo mi plan, ya estoy casi terminando",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "Cuando se acerca la fecha límite me concentro mejor, así que ahora empiezo en serio",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Después de un día largo, ¿cómo prefieres recuperar tu energía?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Pasando tiempo con amigos o gente, obtengo vitalidad",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "Teniendo tiempo tranquilo a solas para recargarme",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Cuando escuchas una historia interesante, ¿qué quieres saber más?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "Me interesa el significado de la historia y sus posibilidades futuras",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "Me interesan los hechos concretos y lo que realmente pasó",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Dos amigos tienen un conflicto y te piden que medies. ¿Cuál es tu enfoque?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Entiendo los sentimientos y posiciones de ambos lados para ayudar a restaurar la relación",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "Analizo la situación objetivamente y propongo una solución razonable",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "¿Cómo es tu estilo de vida diario?",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "Seguir una rutina establecida me da estabilidad y soy más eficiente",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "Ajusto flexiblemente según la situación y descubro nuevas oportunidades",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "INTJ",
+      "title": "El Estratega que Diseña Visiones INTJ",
+      "description": "Eres un estratega que avanza hacia tus metas con visión a largo plazo y pensamiento sistemático. Tienes la capacidad de identificar lo esencial en situaciones complejas y encontrar soluciones originales. En tu tiempo a solas obtienes profundos conocimientos, y tienes el impulso para convertir esas ideas en realidad. Tu punto de crecimiento es aceptar a veces las perspectivas de otros y colaborar. Cuando tu visión se encuentra con la sabiduría de los demás, puedes lograr cosas aún mayores.",
+      "image": "/images/results/intj.png",
+      "tags": [
+        "Pensamiento estratégico",
+        "Visión a largo plazo",
+        "Resolución independiente de problemas"
+      ]
+    },
+    {
+      "id": "INTP",
+      "title": "El Pensador en Constante Exploración INTP",
+      "description": "Eres un pensador que explora los principios del mundo con curiosidad y capacidad analítica. Valoras la consistencia lógica y tienes una excelente habilidad para entender conceptos complejos y descubrir nuevas conexiones. El pensamiento profundo y la resolución creativa de problemas son tus fortalezas. Tu punto de crecimiento es llevar tus ideas a la acción. El coraje de empezar puede crear cambios más grandes que una teoría perfecta.",
+      "image": "/images/results/intp.png",
+      "tags": [
+        "Análisis lógico",
+        "Curiosidad intelectual",
+        "Pensamiento creativo"
+      ]
+    },
+    {
+      "id": "ENTJ",
+      "title": "CEO Nato, Líder por Naturaleza ENTJ",
+      "description": "¡Contigo, lo imposible se hace posible! Presentas la visión, inspiras a la gente y los guías hacia la meta, tienes un liderazgo innato. Cuando dices '¡vamos a hacerlo!', la gente te sigue naturalmente. Con tu carisma y capacidad de ejecución, ¡el escenario del mundo te está esperando!",
+      "image": "/images/results/entj.png",
+      "tags": [
+        "Líder nato",
+        "Carisma explosivo",
+        "Icono del éxito"
+      ]
+    },
+    {
+      "id": "ENTP",
+      "title": "Rompe-Reglas, Pionero de la Innovación ENTP",
+      "description": "¡Tú desafías 'lo que siempre ha sido así' como un verdadero innovador! Con tu agudo ingenio y lógica, rompes los estereotipos del mundo y abres nuevas posibilidades. Las conversaciones contigo son siempre impredecibles y emocionantes. Viviendo en el lado opuesto del aburrimiento, ¡donde tú estás, siempre sopla un viento nuevo!",
+      "image": "/images/results/entp.png",
+      "tags": [
+        "Innovador",
+        "Rey del debate intelectual",
+        "Alma libre"
+      ]
+    },
+    {
+      "id": "INFJ",
+      "title": "El Cálido Profeta que Cambia el Mundo INFJ",
+      "description": "Tienes una habilidad especial para ver a través de los corazones de las personas. Callado pero fuerte, haces del mundo un lugar mejor a tu manera. Tu profunda perspicacia y tu corazón cálido inspiran a todos los que conoces. Un ser raro que representa menos del 1% de la población, ¡ese eres tú!",
+      "image": "/images/results/infj.png",
+      "tags": [
+        "Ser único",
+        "Lector de corazones",
+        "Idealista"
+      ]
+    },
+    {
+      "id": "INFP",
+      "title": "El Alma Más Profunda del Mundo INFP",
+      "description": "¡Tu interior es más vasto que el universo! Con tu rica sensibilidad e imaginación, ves el mundo de manera especial, tienes un alma verdaderamente artística. Como valoras la sinceridad y la autenticidad, todos se sienten cómodos a tu lado. ¡El mundo que sueñas seguramente se hará realidad!",
+      "image": "/images/results/infp.png",
+      "tags": [
+        "Alma profunda",
+        "Idealismo puro",
+        "Genio sensible"
+      ]
+    },
+    {
+      "id": "ENFJ",
+      "title": "El Influencer que Despierta el Potencial de las Personas ENFJ",
+      "description": "¡Donde tú estás, siempre hay inspiración y esperanza! Tienes el talento innato de descubrir el potencial de los demás antes que nadie y guiarlos para que brillen. Una palabra sincera de aliento tuya puede cambiar la vida de alguien. ¿Por qué la gente te sigue? ¡Porque tú crees en ellos primero!",
+      "image": "/images/results/enfj.png",
+      "tags": [
+        "Mentor del alma",
+        "Fuente de energía positiva",
+        "Hace brillar a los demás"
+      ]
+    },
+    {
+      "id": "ENFP",
+      "title": "La Encarnación de Posibilidades Infinitas ENFP",
+      "description": "¡Eres una vitamina andante! Con tu energía desbordante y creatividad, iluminas tu entorno como el sol. Te emocionan las nuevas posibilidades y encuentras alegría en conectar con la gente. ¡Tu pasión es contagiosa y tus ideas hacen el mundo más divertido!",
+      "image": "/images/results/enfp.png",
+      "tags": [
+        "Vitamina humana",
+        "Explosión de ideas",
+        "Pasión al máximo"
+      ]
+    },
+    {
+      "id": "ISTJ",
+      "title": "El Pilar Confiable en el que Todos Confían ISTJ",
+      "description": "¡Eres la zona segura en este mundo caótico! Siempre cumples lo que te encargan y nunca rompes una promesa, eres la personificación de la confianza. Aunque no seas llamativo, todos saben que el mundo funciona gracias a ti. ¡Tu dedicación y meticulosidad son valores invaluables!",
+      "image": "/images/results/istj.png",
+      "tags": [
+        "Personificación de la confianza",
+        "Acciones antes que palabras",
+        "Pilar sólido"
+      ]
+    },
+    {
+      "id": "ISFJ",
+      "title": "El Guardián de Corazón Cálido ISFJ",
+      "description": "Eres un guardián que apoya firmemente a quienes te rodean con dedicación y consideración. Con tu observación detallada, identificas las necesidades de los demás y los ayudas silenciosamente. Gracias a ti, confiable y dedicado, muchas personas se sienten seguras. Tu punto de crecimiento es también valorar tus propias necesidades. El tiempo que te dedicas a ti mismo te da la fuerza para ayudar a los demás por más tiempo.",
+      "image": "/images/results/isfj.png",
+      "tags": [
+        "Consideración detallada",
+        "Apoyo dedicado",
+        "Base de confianza"
+      ]
+    },
+    {
+      "id": "ESTJ",
+      "title": "El Corazón de la Organización en quien Todos Confían ESTJ",
+      "description": "¡Contigo, cualquier proyecto es un éxito! Das una dirección clara, lideras al equipo y logras los objetivos, eres el máximo en capacidad de ejecución. ¡La confianza hacia ti, responsable y decidido, es infinita! Porque cuando dices 'se puede', realmente se puede. El héroe oculto que mueve el mundo, ¡ese eres tú!",
+      "image": "/images/results/estj.png",
+      "tags": [
+        "Máxima ejecución",
+        "Corazón de la organización",
+        "Determinación MÁXIMA"
+      ]
+    },
+    {
+      "id": "ESFJ",
+      "title": "El Centro del Grupo, el Popular Querido ESFJ",
+      "description": "¡Donde tú estás hay risas y armonía! Tienes el talento innato de conectar personas y crear armonía. Nunca olvidas los cumpleaños y cuidas de todos con atención. Todos quieren estar contigo. ¡Eres un mago de las relaciones!",
+      "image": "/images/results/esfj.png",
+      "tags": [
+        "Mago de las relaciones",
+        "Creador de ambiente",
+        "Popular querido"
+      ]
+    },
+    {
+      "id": "ISTP",
+      "title": "El Solucionador Hábil y Sereno ISTP",
+      "description": "¡Eres el experto escondido tras la calma! No te inmutás en situaciones de crisis y resuelves todo hábilmente con tus manos. Demuestras con acciones más que con palabras, con práctica más que con teoría. ¡Tu encanto sereno cautiva a todos!",
+      "image": "/images/results/istp.png",
+      "tags": [
+        "Solucionador sereno",
+        "Demuestra con habilidad",
+        "Héroe en crisis"
+      ]
+    },
+    {
+      "id": "ISFP",
+      "title": "El Artista de Sensibilidad Libre ISFP",
+      "description": "¡Tu sensibilidad es arte puro! Sientes la belleza del mundo de manera única y la expresas a tu manera, tienes un alma verdaderamente artística. Libre y flexible, disfrutando del presente, tu forma de vivir inspira a muchas personas.",
+      "image": "/images/results/isfp.png",
+      "tags": [
+        "Alma de artista",
+        "Sensibilidad libre",
+        "Disfrutar el presente"
+      ]
+    },
+    {
+      "id": "ESTP",
+      "title": "Héroe de Acción, Aventurero de la Realidad ESTP",
+      "description": "¡Para ti la vida es una aventura emocionante! Tu cuerpo se mueve antes que tu mente, eres un héroe de acción que responde instantáneamente a cualquier situación. Donde tú estás no hay aburrimiento, y tu energía hace mover a todos. ¡Viviendo la vida de la manera más dinámica, eres genial!",
+      "image": "/images/results/estp.png",
+      "tags": [
+        "Héroe de acción",
+        "Amante de la emoción",
+        "Explosión de energía"
+      ]
+    },
+    {
+      "id": "ESFP",
+      "title": "La Fuente de Vitalidad que Disfruta el Presente ESFP",
+      "description": "Eres una fuente de vitalidad que hace brillar cada momento con energía positiva y adaptabilidad. Disfrutas estar con la gente y tienes la capacidad de adaptarte flexiblemente a las situaciones con sentido práctico. Tu energía brillante da vitalidad a quienes te rodean. Tu punto de crecimiento es también considerar las metas a largo plazo. Cuando el disfrute del presente y los logros futuros se equilibran, puedes crear una vida más plena.",
+      "image": "/images/results/esfp.png",
+      "tags": [
+        "Energía positiva",
+        "Adaptación flexible",
+        "Enfoque en el presente"
+      ]
+    }
+  ]
+}

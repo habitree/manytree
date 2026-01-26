@@ -1,0 +1,361 @@
+{
+  "id": "love-style",
+  "title": "你隐藏的恋爱DNA，这才是真正的爱情方式",
+  "description": "为什么恋爱总是同样的模式？心理学家分析的8种恋爱类型，你是哪一种？必须分享给暧昧对象！现在就来发现你不知道的恋爱本能吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop&q=80",
+  "color": "#E91E63",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你对恋人说「我爱你」的风格是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "早上爱你，中午爱你，睡前也爱你！无限循环！",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0
+          }
+        },
+        {
+          "text": "只在真正特别的时刻说...这样听起来更真诚",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "令人心动的周末约会！你想要的是？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "探索新开的网红店！旅行！收集新体验！",
+          "scores": {
+            "adventurous": 2,
+            "stable": 0
+          }
+        },
+        {
+          "text": "在我们的秘密基地看Netflix配炸鸡最棒了",
+          "scores": {
+            "adventurous": 0,
+            "stable": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "和恋人意见不同时，你的沟通方式是？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "想立刻沟通，分享彼此的想法并解决问题",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "我更喜欢各自整理好想法后再交流",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "被邀请参加恋人朋友的聚会！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "太好了！我想分享恋人的日常，融入彼此的世界",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "偶尔可以，但我也很珍惜各自的时间和空间",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "特别的纪念日即将到来，你的心态是？",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "我会提前计划和准备惊喜活动",
+          "scores": {
+            "romantic": 2,
+            "practical": 0
+          }
+        },
+        {
+          "text": "我认为在日常中持续表达爱意更有意义",
+          "scores": {
+            "romantic": 0,
+            "practical": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "选择恋人生日礼物时，你的方式是？",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "options": [
+        {
+          "text": "想偷偷准备，给对方一个感动的惊喜",
+          "scores": {
+            "romantic": 2,
+            "practical": 0,
+            "expressive": 1
+          }
+        },
+        {
+          "text": "确认对方真正想要什么，送实用的礼物",
+          "scores": {
+            "romantic": 0,
+            "practical": 2,
+            "reserved": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "你和恋人日常的联系方式是？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "经常分享一天发生的事，享受琐碎的对话",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "以有意义的对话为主，各自忙的时候也能轻松相处",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你对某人产生好感的过程是怎样的？",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "当直觉上被吸引时，心很快就会倾斜",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "romantic": 1
+          }
+        },
+        {
+          "text": "随着时间慢慢了解，好感会逐渐加深",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "当你对恋人感到委屈时，你会怎么做？",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "想立刻说出来解决。很难长时间憋着情绪",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "先自己整理好，然后平静地交流",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "你怎么看待和恋人的未来？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "我喜欢具体地描绘一起的未来。制定计划让我很兴奋",
+          "scores": {
+            "stable": 2,
+            "adventurous": 0,
+            "connected": 1
+          }
+        },
+        {
+          "text": "我觉得认真过好现在，未来自然会展开",
+          "scores": {
+            "stable": 0,
+            "adventurous": 2,
+            "autonomous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "恋人看起来很辛苦。你会怎么做？",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "不用说我也知道，现在就跑过去抱抱你！",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0,
+            "passionate": 1
+          }
+        },
+        {
+          "text": "我能怎么帮你？告诉我你需要什么，我们一起找解决办法！",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "做重要的感情决定时，你的倾向是？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "当心里确信时，会果断地做出决定",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "adventurous": 1
+          }
+        },
+        {
+          "text": "会花足够的时间仔细考虑后再决定",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "stable": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "romantic-passionate",
+      "title": "电影主角！相信命运的浪漫主义者",
+      "description": "你是戏剧性爱情的化身！「四目相对的瞬间世界静止」这种事真的会发生在你身上。每一刻都像电影一样，把恋人当作世界的主角对待。惊喜活动、甜蜜情书、纪念日是基本！爱上你的人会体验到人生最棒的浪漫。你的爱情将成为传奇！",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "tags": [
+        "命运之爱",
+        "浪漫大师",
+        "惊喜天才"
+      ]
+    },
+    {
+      "id": "practical-calm",
+      "title": "真正的爱情定义！明智的伙伴关系建设者",
+      "description": "你是懂得爱情真正价值的明智恋人！比起华丽的火花，更追求持久燃烧的温暖。不被情绪左右，真心理解彼此，建立共同成长的关系。和你在一起，能体验到坚定的安全感和深厚的信任。50年后还能牵手散步的爱情，就是你创造的！",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "明智之爱",
+        "一生伴侣",
+        "信任象征"
+      ]
+    },
+    {
+      "id": "independent-adventurous",
+      "title": "让彼此闪耀的自由灵魂之爱",
+      "description": "你拥有不束缚、互相尊重的成熟恋爱方式！支持彼此的梦想和生活，在一起时创造最特别的时光。你是分享新体验和冒险的最好朋友兼恋人！和你恋爱永远不会无聊。成为彼此翅膀的最理想关系，就是你的恋爱风格！",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "tags": [
+        "自由之爱",
+        "最好的朋友",
+        "冒险伙伴"
+      ]
+    },
+    {
+      "id": "connected-expressive",
+      "title": "传递真心的温暖情感表达者",
+      "description": "你是坦诚表达爱意的温暖恋人。通过分享情感和日常来加深关系的深度。珍惜在一起的时间，有能力让恋人充分感受到被爱。你温暖的情感表达为关系增添丰富，让对方感到特别。这种真诚的表达能力是健康关系的核心！",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "tags": [
+        "温暖表达",
+        "传递真心",
+        "一起的幸福"
+      ]
+    },
+    {
+      "id": "calm-stable",
+      "title": "永远舒适的身边，温馨的避风港",
+      "description": "你虽然不华丽，但始终是可靠的存在！给予平静但深沉的爱，不言而喻的温暖。在你身边，所有烦恼都会消失，感受到舒适的安宁。像酒一样随时间越来越醇的爱情，和你恋爱就是一生幸福的保证！",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "tags": [
+        "心灵避风港",
+        "可靠的陪伴",
+        "越来越深的爱"
+      ]
+    },
+    {
+      "id": "passionate-expressive",
+      "title": "坦诚传递真心的热情恋人",
+      "description": "你是坦诚而积极表达爱意的热情恋人。不隐藏喜欢的心情，清楚地传达对方有多珍贵。这种真诚的表达给对方带来确信和安全感。和你在一起，能充分感受到被爱。如果能在保持热情的同时尊重对方的节奏，就能建立更丰富的关系！",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&q=80",
+      "tags": [
+        "坦诚表达",
+        "热情之爱",
+        "传递真心"
+      ]
+    },
+    {
+      "id": "reserved-independent",
+      "title": "创造深层连接的谨慎恋人",
+      "description": "你拥有尊重彼此独立性同时建立深厚纽带的成熟恋爱风格。虽然表达情感时很谨慎，但这意味着你的每一句话都包含着真心。对方知道你的表达是真诚的，所以感觉更特别。在适当的距离中互相尊重建立关系，随着时间推移建立更深的信任。如果逐渐扩大表达的范围，你的温暖心意会传达得更好！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "谨慎表达",
+        "深厚信任",
+        "成熟之爱"
+      ]
+    },
+    {
+      "id": "romantic-connected",
+      "title": "创造深厚纽带的浪漫伴侣",
+      "description": "你是珍惜与恋人深厚纽带的浪漫爱好者。享受一起创造特别的时刻，用心经营关系。希望和恋人一起成长，成为彼此生命中有意义的存在。这种深厚的奉献能力是建立长期满意关系的重要资产。和你在一起的恋人会真正感到被珍惜！",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "tags": [
+        "深厚纽带",
+        "浪漫奉献",
+        "一起成长"
+      ]
+    }
+  ]
+}

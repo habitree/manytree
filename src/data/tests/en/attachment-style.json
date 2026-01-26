@@ -1,0 +1,571 @@
+{
+  "id": "attachment-style",
+  "title": "Discover Your Love Pattern: Attachment Style Test",
+  "description": "Explore your relationship type through John Bowlby's attachment theory! Discover your attachment style that influences your romantic and interpersonal relationships.",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When someone close to you has a problem, what's your first reaction?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to help and rush over immediately. I want to reassure them first!",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I first assess the situation and calmly look for solutions.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I wait until they ask for help first.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I feel anxious not knowing how to help, yet keep my distance.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "How do you react when you feel left out by someone important to you?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "I feel anxious and want to confirm how they feel about me.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "I understand once or twice, but if it continues, I'll have an honest conversation.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I don't mind much. Having freedom is important too.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "It depends on the situation. Sometimes I'm fine, sometimes my feelings are complicated.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "How do you process your emotions when an important relationship ends?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "I tend to feel deeply and take time to grieve properly.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "It's sad, but I naturally process it over time.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I prefer to process things on my own through alone time.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "My emotions are complex, so I process them slowly at my own pace.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "What's your approach when forming new relationships?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "I actively reach out and want to become close quickly.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I let things flow naturally and develop harmoniously.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I carefully get to know the person and get closer at a comfortable pace.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I'm interested but cautious, so I approach at my own pace.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How do you typically feel when spending time alone?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "I feel a growing desire to connect with someone and be together.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "I enjoy both alone time and time with others in a balanced way.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I find alone time comfortable. I use it for self-care.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "It depends on my mood. Sometimes peaceful, sometimes confusing.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How do you think about balancing independence and intimacy in close relationships?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "I tend to want lots of time together and emotional connection.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I want to maintain a harmonious balance of both independence and intimacy.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I tend to value personal space and autonomy.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "What I need varies depending on the situation and my mood.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "When someone disagrees with your opinion?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "I feel like they don't understand me and become anxious.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "I accept that we can have different opinions and share our perspectives.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I think everyone can have their own opinion and don't try to persuade them.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I'm fine at the moment, but later my feelings become complicated.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How do you express your emotions?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "I express honestly and often. It's hard to hide my feelings.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I express appropriately while respecting the other person's reactions.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I don't reveal my emotions easily. Silence is comfortable for me.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I want to express myself but feel awkward not knowing how.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "When trust issues arise?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "I feel very hurt and keep working to repair the relationship.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "I talk openly about the trust issues and resolve them.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I either end the relationship or calmly create distance.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I want to repair things but also want to leave, feeling confused.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How do you feel about forming deep bonds with others?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "I value deep connections and fully immerse myself in relationships.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I naturally build balanced, meaningful relationships.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I connect in my own way while maintaining a comfortable distance.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I want deep connections but tend to approach cautiously.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "What do you value most in relationships?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Growing together while trusting each other",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Feeling deep connection and emotional intimacy with my partner",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Respecting each other's independence and maintaining comfortable space",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Finding the right balance between intimacy and personal space for myself",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "How do you solve problems in relationships?",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "options": [
+        {
+          "text": "When problems arise, I need to talk and resolve them quickly to feel at ease.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I analyze the situation objectively and find solutions together.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I need time to process things myself and tend to solve issues independently.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "I want to talk but hesitate, and my approach varies depending on the situation.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "Secure Type - The Foundation of Healthy Relationships",
+      "description": "You confidently trust others and understand the value of being independent while also being together. You feel little anxiety in relationships and calmly communicate to resolve problems when they arise. Your stable energy provides great trust and security to those around you. You excel at building healthy foundations in any relationship and form long-lasting, satisfying connections. Anyone feels at ease when they're with someone like you!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Trust",
+        "Stability",
+        "Mature Relationships"
+      ]
+    },
+    {
+      "id": "anxious",
+      "title": "Connection-Seeking Type - A Warm Heart That Values Deep Bonds",
+      "description": "You are emotionally rich and deeply cherish meaningful relationships. You excel at showing thoughtful consideration and actively expressing love. Your desire for reassurance in relationships is proof that you truly care about others. Your warmth and dedication make others feel special. By understanding your emotional patterns and learning to express them in healthy ways, you can create even richer relationships. Your capacity to love is a precious strength!",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": [
+        "Warm Heart",
+        "Deep Bonds",
+        "Thoughtful Care"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "Independence-Valuing Type - A Self-Directed Person Who Knows Healthy Boundaries",
+      "description": "You are self-directed and value personal space and autonomy. While you're careful with emotional expression, that means your expressions carry deep meaning. Your ability to maintain healthy boundaries in relationships is a precious strength. You recharge through alone time and contribute to relationships in your own way. Your calmness and self-reliance add stability to relationships. As you practice sharing emotions gradually, you can experience the depth of connection you desire. Developing relationships at your own pace is a very valuable approach!",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": [
+        "Self-Directed",
+        "Healthy Boundaries",
+        "Calm Stability"
+      ]
+    },
+    {
+      "id": "fearful",
+      "title": "Growth-Oriented Type - A Thoughtful Explorer with Rich Sensitivity",
+      "description": "You have a rich and delicate emotional world. Valuing intimacy while also prioritizing safety reflects your mature consideration of yourself and relationships. You're sensitive, intuitive, and seriously explore the meaning of relationships. This self-awareness is an excellent foundation for growth. Your authenticity and depth resonate specially with those seeking genuine connections. As you accumulate safe relationship experiences at your own pace, you'll fully enjoy the intimacy and satisfaction you desire. Cheering for your growth journey!",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": [
+        "Delicate Sensitivity",
+        "Self-Awareness",
+        "Growth Journey"
+      ]
+    }
+  ]
+}

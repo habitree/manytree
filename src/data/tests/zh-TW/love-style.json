@@ -1,0 +1,361 @@
+{
+  "id": "love-style",
+  "title": "你隱藏的戀愛DNA，這才是真正的愛情方式",
+  "description": "為什麼戀愛總是同樣的模式？心理學家分析的8種戀愛類型，你是哪一種？必須分享給曖昧對象！現在就來發現你不知道的戀愛本能吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&h=600&fit=crop&q=80",
+  "color": "#E91E63",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你對戀人說「我愛你」的風格是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "早上愛你，中午愛你，睡前也愛你！無限循環！",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0
+          }
+        },
+        {
+          "text": "只在真正特別的時刻說...這樣聽起來更真誠",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "令人心動的週末約會！你想要的是？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "探索新開的網紅店！旅行！收集新體驗！",
+          "scores": {
+            "adventurous": 2,
+            "stable": 0
+          }
+        },
+        {
+          "text": "在我們的秘密基地看Netflix配炸雞最棒了",
+          "scores": {
+            "adventurous": 0,
+            "stable": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "和戀人意見不同時，你的溝通方式是？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "想立刻溝通，分享彼此的想法並解決問題",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "我更喜歡各自整理好想法後再交流",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "被邀請參加戀人朋友的聚會！你的反應是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "太好了！我想分享戀人的日常，融入彼此的世界",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "偶爾可以，但我也很珍惜各自的時間和空間",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "特別的紀念日即將到來，你的心態是？",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "我會提前計劃和準備驚喜活動",
+          "scores": {
+            "romantic": 2,
+            "practical": 0
+          }
+        },
+        {
+          "text": "我認為在日常中持續表達愛意更有意義",
+          "scores": {
+            "romantic": 0,
+            "practical": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "選擇戀人生日禮物時，你的方式是？",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "options": [
+        {
+          "text": "想偷偷準備，給對方一個感動的驚喜",
+          "scores": {
+            "romantic": 2,
+            "practical": 0,
+            "expressive": 1
+          }
+        },
+        {
+          "text": "確認對方真正想要什麼，送實用的禮物",
+          "scores": {
+            "romantic": 0,
+            "practical": 2,
+            "reserved": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "你和戀人日常的聯繫方式是？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "經常分享一天發生的事，享受瑣碎的對話",
+          "scores": {
+            "connected": 2,
+            "autonomous": 0
+          }
+        },
+        {
+          "text": "以有意義的對話為主，各自忙的時候也能輕鬆相處",
+          "scores": {
+            "connected": 0,
+            "autonomous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你對某人產生好感的過程是怎樣的？",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "當直覺上被吸引時，心很快就會傾斜",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "romantic": 1
+          }
+        },
+        {
+          "text": "隨著時間慢慢了解，好感會逐漸加深",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "當你對戀人感到委屈時，你會怎麼做？",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "想立刻說出來解決。很難長時間憋著情緒",
+          "scores": {
+            "passionate": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "先自己整理好，然後平靜地交流",
+          "scores": {
+            "passionate": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "你怎麼看待和戀人的未來？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "我喜歡具體地描繪一起的未來。制定計劃讓我很興奮",
+          "scores": {
+            "stable": 2,
+            "adventurous": 0,
+            "connected": 1
+          }
+        },
+        {
+          "text": "我覺得認真過好現在，未來自然會展開",
+          "scores": {
+            "stable": 0,
+            "adventurous": 2,
+            "autonomous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "戀人看起來很辛苦。你會怎麼做？",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "不用說我也知道，現在就跑過去抱抱你！",
+          "scores": {
+            "expressive": 2,
+            "reserved": 0,
+            "passionate": 1
+          }
+        },
+        {
+          "text": "我能怎麼幫你？告訴我你需要什麼，我們一起找解決辦法！",
+          "scores": {
+            "expressive": 0,
+            "reserved": 2,
+            "practical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "做重要的感情決定時，你的傾向是？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "當心裡確信時，會果斷地做出決定",
+          "scores": {
+            "passionate": 2,
+            "calm": 0,
+            "adventurous": 1
+          }
+        },
+        {
+          "text": "會花足夠的時間仔細考慮後再決定",
+          "scores": {
+            "passionate": 0,
+            "calm": 2,
+            "stable": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "romantic-passionate",
+      "title": "電影主角！相信命運的浪漫主義者",
+      "description": "你是戲劇性愛情的化身！「四目相對的瞬間世界靜止」這種事真的會發生在你身上。每一刻都像電影一樣，把戀人當作世界的主角對待。驚喜活動、甜蜜情書、紀念日是基本！愛上你的人會體驗到人生最棒的浪漫。你的愛情將成為傳奇！",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "tags": [
+        "命運之愛",
+        "浪漫大師",
+        "驚喜天才"
+      ]
+    },
+    {
+      "id": "practical-calm",
+      "title": "真正的愛情定義！明智的夥伴關係建設者",
+      "description": "你是懂得愛情真正價值的明智戀人！比起華麗的火花，更追求持久燃燒的溫暖。不被情緒左右，真心理解彼此，建立共同成長的關係。和你在一起，能體驗到堅定的安全感和深厚的信任。50年後還能牽手散步的愛情，就是你創造的！",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "明智之愛",
+        "一生伴侶",
+        "信任象徵"
+      ]
+    },
+    {
+      "id": "independent-adventurous",
+      "title": "讓彼此閃耀的自由靈魂之愛",
+      "description": "你擁有不束縛、互相尊重的成熟戀愛方式！支持彼此的夢想和生活，在一起時創造最特別的時光。你是分享新體驗和冒險的最好朋友兼戀人！和你戀愛永遠不會無聊。成為彼此翅膀的最理想關係，就是你的戀愛風格！",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "tags": [
+        "自由之愛",
+        "最好的朋友",
+        "冒險夥伴"
+      ]
+    },
+    {
+      "id": "connected-expressive",
+      "title": "傳遞真心的溫暖情感表達者",
+      "description": "你是坦誠表達愛意的溫暖戀人。通過分享情感和日常來加深關係的深度。珍惜在一起的時間，有能力讓戀人充分感受到被愛。你溫暖的情感表達為關係增添豐富，讓對方感到特別。這種真誠的表達能力是健康關係的核心！",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "tags": [
+        "溫暖表達",
+        "傳遞真心",
+        "一起的幸福"
+      ]
+    },
+    {
+      "id": "calm-stable",
+      "title": "永遠舒適的身邊，溫馨的避風港",
+      "description": "你雖然不華麗，但始終是可靠的存在！給予平靜但深沉的愛，不言而喻的溫暖。在你身邊，所有煩惱都會消失，感受到舒適的安寧。像酒一樣隨時間越來越醇的愛情，和你戀愛就是一生幸福的保證！",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "tags": [
+        "心靈避風港",
+        "可靠的陪伴",
+        "越來越深的愛"
+      ]
+    },
+    {
+      "id": "passionate-expressive",
+      "title": "坦誠傳遞真心的熱情戀人",
+      "description": "你是坦誠而積極表達愛意的熱情戀人。不隱藏喜歡的心情，清楚地傳達對方有多珍貴。這種真誠的表達給對方帶來確信和安全感。和你在一起，能充分感受到被愛。如果能在保持熱情的同時尊重對方的節奏，就能建立更豐富的關係！",
+      "image": "https://images.unsplash.com/photo-1545389336-cf090694435e?w=600&q=80",
+      "tags": [
+        "坦誠表達",
+        "熱情之愛",
+        "傳遞真心"
+      ]
+    },
+    {
+      "id": "reserved-independent",
+      "title": "創造深層連接的謹慎戀人",
+      "description": "你擁有尊重彼此獨立性同時建立深厚紐帶的成熟戀愛風格。雖然表達情感時很謹慎，但這意味著你的每一句話都包含著真心。對方知道你的表達是真誠的，所以感覺更特別。在適當的距離中互相尊重建立關係，隨著時間推移建立更深的信任。如果逐漸擴大表達的範圍，你的溫暖心意會傳達得更好！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "謹慎表達",
+        "深厚信任",
+        "成熟之愛"
+      ]
+    },
+    {
+      "id": "romantic-connected",
+      "title": "創造深厚紐帶的浪漫伴侶",
+      "description": "你是珍惜與戀人深厚紐帶的浪漫愛好者。享受一起創造特別的時刻，用心經營關係。希望和戀人一起成長，成為彼此生命中有意義的存在。這種深厚的奉獻能力是建立長期滿意關係的重要資產。和你在一起的戀人會真正感到被珍惜！",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "tags": [
+        "深厚紐帶",
+        "浪漫奉獻",
+        "一起成長"
+      ]
+    }
+  ]
+}

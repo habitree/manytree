@@ -1,0 +1,627 @@
+{
+  "id": "inner-animal",
+  "title": "What Animal Lives Inside You?",
+  "description": "Discover your inner personality through 12 psychological scenarios! Find out which animal represents your hidden self. Take this fun personality test and uncover your true character type!",
+  "thumbnail": "https://images.unsplash.com/photo-1552053831-71594a27c62d?w=800&h=600&fit=crop&q=80",
+  "color": "#6B5B4D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "A new project has come up! What's your first reaction?",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Great! I'll take the lead, follow me!",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Let me first understand the big picture and make a plan",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "If we all work together, it'll turn out great! How can I help?",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "I'll handle my part in my own style!",
+          "scores": {
+            "cat": 2,
+            "fox": 1,
+            "eagle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When a friend or colleague is going through a tough time, what's your first reaction?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to rush over and cheer them up right away!",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "I analyze the situation first, then give concrete advice",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "I quietly stay by their side when they need me",
+          "scores": {
+            "bear": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "I give honest feedback to help them become more independent",
+          "scores": {
+            "eagle": 2,
+            "wolf": 1,
+            "fox": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "You're at a gathering with friends! What's your role?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Moving around, making sure everyone's having fun!",
+          "scores": {
+            "dolphin": 2,
+            "lion": 1,
+            "dog": 1
+          }
+        },
+        {
+          "text": "I prefer having deep conversations with a few close friends!",
+          "scores": {
+            "owl": 2,
+            "panda": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Reading the room and chiming in at the right moment!",
+          "scores": {
+            "fox": 2,
+            "peacock": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "I'm fine being quiet as long as I'm with people I'm comfortable with!",
+          "scores": {
+            "rabbit": 2,
+            "bear": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "In a conflict or confrontation, how do you handle it?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "I face it head-on with confidence and resolve the issue",
+          "scores": {
+            "lion": 2,
+            "wolf": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "I calmly analyze the situation and find the best solution",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "I try to understand the other person's perspective and seek harmony",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "I take a logical approach without getting emotional",
+          "scores": {
+            "cat": 2,
+            "eagle": 1,
+            "owl": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "When you experience failure or setback, how do you respond?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "I get back up quickly and try again! I never give up!",
+          "scores": {
+            "lion": 2,
+            "dog": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "I calmly analyze what went wrong and develop a new strategy",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "I process my emotions first, then take a step back to think",
+          "scores": {
+            "panda": 2,
+            "rabbit": 1,
+            "bear": 1
+          }
+        },
+        {
+          "text": "I need some quiet time alone to sort out my thoughts",
+          "scores": {
+            "cat": 2,
+            "panda": 1,
+            "rabbit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Weekend morning! What's your energy level?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "What should I do today? I'm itching to get moving!",
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Relaxed in the morning, plans with friends in the afternoon!",
+          "scores": {
+            "dog": 2,
+            "fox": 1,
+            "peacock": 1
+          }
+        },
+        {
+          "text": "Rest well, then move when needed - that's efficient!",
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "fox": 1
+          }
+        },
+        {
+          "text": "A quiet weekend at home is the best!",
+          "scores": {
+            "cat": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "When meeting new people, how do you act?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm bright and positive, making friends quickly!",
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "I observe first, then slowly open up",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "If we truly connect, I want to build a meaningful relationship",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Surface-level relationships are fine, but I'm cautious about getting close",
+          "scores": {
+            "eagle": 2,
+            "fox": 1,
+            "wolf": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "What life goals do you pursue?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "I want to inspire many people from the top",
+          "scores": {
+            "lion": 2,
+            "peacock": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "I want to grow together within fulfilling relationships",
+          "scores": {
+            "dog": 2,
+            "dolphin": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Living a wise and meaningful life in my own way",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        },
+        {
+          "text": "Finding true happiness in a peaceful life",
+          "scores": {
+            "panda": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Where do you place your strengths?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "Decisive and proactive leadership",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "Loyalty and trustworthiness",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "Excellent communication skills and friendliness",
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "Wise and analytical thinking",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "eagle": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Stressful day! What's your way of relieving stress?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Exercise or do something active to blow off steam!",
+          "scores": {
+            "lion": 2,
+            "dolphin": 1,
+            "eagle": 1
+          }
+        },
+        {
+          "text": "Call a friend and chat it out!",
+          "scores": {
+            "dog": 2,
+            "rabbit": 1,
+            "dolphin": 1
+          }
+        },
+        {
+          "text": "I need quiet time alone to organize my thoughts",
+          "scores": {
+            "owl": 2,
+            "cat": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "Taking a walk in nature calms my mind",
+          "scores": {
+            "bear": 2,
+            "rabbit": 1,
+            "panda": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "How would you describe your intuition?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Very sharp - I can grasp situations instantly",
+          "scores": {
+            "eagle": 2,
+            "owl": 1,
+            "fox": 1
+          }
+        },
+        {
+          "text": "I'm good at reading people's emotions and empathizing",
+          "scores": {
+            "dolphin": 2,
+            "dog": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "I give insightful advice through deep thinking",
+          "scores": {
+            "owl": 2,
+            "bear": 1,
+            "panda": 1
+          }
+        },
+        {
+          "text": "I focus on the present and act on instinct",
+          "scores": {
+            "cat": 2,
+            "wolf": 1,
+            "fox": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "At the end of a long journey, how would you like people to remember you?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "As a 'leader' - strong and determined",
+          "scores": {
+            "lion": 2,
+            "eagle": 1,
+            "wolf": 1
+          }
+        },
+        {
+          "text": "As someone 'warm and reliable'",
+          "scores": {
+            "dog": 2,
+            "bear": 1,
+            "rabbit": 1
+          }
+        },
+        {
+          "text": "As a 'bright and positive mood maker'",
+          "scores": {
+            "dolphin": 2,
+            "peacock": 1,
+            "lion": 1
+          }
+        },
+        {
+          "text": "As someone 'wise and mysterious'",
+          "scores": {
+            "owl": 2,
+            "fox": 1,
+            "cat": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "lion",
+      "title": "Natural Born Leader! The Majestic Lion",
+      "description": "Roar, mighty lion! A majestic lion lives within you! You confidently take the lead in any situation, giving people around you the feeling that 'following this person is the right choice.' You're a natural leader with decisive judgment and unwavering determination! Your fearless approach to new challenges is truly admirable! Don't people often tell you they feel reassured just being around you?",
+      "image": "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=600&q=80",
+      "tags": [
+        "Natural Leader",
+        "Charismatic",
+        "Reliable Presence"
+      ]
+    },
+    {
+      "id": "cat",
+      "title": "Elegant Charm! The Independent Cat",
+      "description": "Meow~ An elegant and independent cat lives within you! You maintain your own pace and don't let others' opinions sway you - that's truly admirable. With creative thinking and excellent intuition, you often come up with surprising solutions that make people wonder 'How did they think of that?' You don't open up easily, but once you become close to someone, you share a friendship deeper than anyone else! Once people fall for your elegant charm, there's no escaping it!",
+      "image": "https://images.unsplash.com/photo-1573865526014-f3550b1811a7?w=600&q=80",
+      "tags": [
+        "Elegant Charm",
+        "Free Spirit",
+        "Creative Genius"
+      ]
+    },
+    {
+      "id": "dog",
+      "title": "The Loyal Dog",
+      "description": "You are a loyal and warm-hearted dog! Your sincere care for those around you and your desire to be with them is truly precious. As someone trustworthy who always cheers from the sidelines, you're a solid support for many people. Your persistent determination that never gives up and your dedication to the team are your greatest strengths. Your sincerity and warmth make the world brighter!",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "Loyalty",
+        "Warmth",
+        "Trustworthiness",
+        "Dedication",
+        "Sincerity"
+      ]
+    },
+    {
+      "id": "owl",
+      "title": "Icon of Wisdom! The Wise Owl",
+      "description": "Hoot~ A wise and insightful owl lives within you! You have an amazing ability to calmly analyze complex problems and see to the heart of matters. Though quiet on the outside, conversations with you often lead to 'Wow, I never thought of it that way!' moments. Don't your friends ask 'What do you think?' when facing important decisions? Your advice always hits the mark. Thanks to your wisdom, people around you become wiser too!",
+      "image": "https://images.unsplash.com/photo-1586967511959-56aeb34264aa?w=600&q=80",
+      "tags": [
+        "Icon of Wisdom",
+        "Master of Insight",
+        "Expert Advisor"
+      ]
+    },
+    {
+      "id": "fox",
+      "title": "The Clever Fox",
+      "description": "You are a clever and strategic fox! Your flexibility and wit in quickly assessing situations and responding appropriately is truly charming. Though quiet on the surface, your ability to solve problems with remarkable wisdom when needed is impressive. Your adaptability in adjusting to change and shifting strategies as situations demand shines everywhere. Your cleverness and wisdom brighten your surroundings!",
+      "image": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?w=600&q=80",
+      "tags": [
+        "Cleverness",
+        "Strategic",
+        "Adaptability",
+        "Wit",
+        "Flexibility"
+      ]
+    },
+    {
+      "id": "dolphin",
+      "title": "Life of the Party! The Bright Dolphin",
+      "description": "Splash! A bright and cheerful dolphin lives within you! Wherever you go, you light up the atmosphere, and people often say 'Things are more fun when they're around!' You're a natural mood maker. With excellent communication skills, you quickly become friends with anyone, and your outstanding empathy lets you understand others' feelings instantly. Thanks to you, gatherings become more enjoyable, and difficult situations can be overcome with a smile. Your positive energy that brightens the world is truly precious!",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&q=80",
+      "tags": [
+        "Mood Maker",
+        "Positive Energy",
+        "Communication Master"
+      ]
+    },
+    {
+      "id": "bear",
+      "title": "The Dependable Bear",
+      "description": "You are a dependable and embracing bear! Your calm focus on your own work while warmly embracing those around you provides great stability. Your sense of balance - stepping up powerfully when needed, quietly standing by when appropriate - is wonderful. Though calm and steady in nature, you show strength and responsibility when it comes to family and loved ones! Your presence alone brings comfort to many people.",
+      "image": "https://images.unsplash.com/photo-1525382455947-f319bc05fb35?w=600&q=80",
+      "tags": [
+        "Embracing",
+        "Stability",
+        "Responsibility",
+        "Calmness",
+        "Strength"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "title": "The Gentle Rabbit",
+      "description": "You are a gentle and affectionate rabbit! Your delicate emotions that understand others' feelings and comfort them with warm words and actions are truly precious. Though quiet, you're rich inside, carefully observing others' emotions and approaching them when needed - your consideration is wonderful. You don't need to be perfect. Your natural gentleness and sincerity move people's hearts the most!",
+      "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "tags": [
+        "Gentleness",
+        "Sensitivity",
+        "Consideration",
+        "Affection",
+        "Empathy"
+      ]
+    },
+    {
+      "id": "wolf",
+      "title": "The Free Wolf",
+      "description": "You are a free yet strong wolf! Your confident stride forward while holding onto your beliefs is truly admirable. Independent yet devoted to your team when needed, you're a versatile person who can be either a leader or an excellent team member. You may seem rough on the outside, but inside you're full of warmth and loyalty. Your strength and sincerity greatly influence those around you!",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+      "tags": [
+        "Independence",
+        "Strength",
+        "Conviction",
+        "Loyalty",
+        "Freedom"
+      ]
+    },
+    {
+      "id": "eagle",
+      "title": "The High-Flying Eagle",
+      "description": "You are a high-flying eagle! Your ability to see the big picture with excellent vision and pursue ambitious goals is truly inspiring. With sharp intuition and quick judgment, you rapidly assess situations and solve problems efficiently - you're a natural leader. Your perfectionism in maintaining high standards can sometimes be a burden, but it's what makes you special. Your grand dreams and spirit of challenge are making the world better!",
+      "image": "https://images.unsplash.com/photo-1540573133985-87b6da6d54a0?w=600&q=80",
+      "tags": [
+        "Ambition",
+        "Insight",
+        "Leadership",
+        "Achievement",
+        "Vision"
+      ]
+    },
+    {
+      "id": "panda",
+      "title": "The Gentle Panda",
+      "description": "You are a gentle and peaceful panda! Your ability to accept everything generously and create comfort around you with your calm presence is truly precious. Though you may seem indifferent on the outside, you actually think deeply and judge situations wisely - your wisdom truly stands out. Moving slowly but showing powerful strength when truly needed - your sense of balance is wonderful. Your gentleness and tranquility bring peace to those around you!",
+      "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef3?w=600&q=80",
+      "tags": [
+        "Gentleness",
+        "Tranquility",
+        "Generosity",
+        "Wisdom",
+        "Balance"
+      ]
+    },
+    {
+      "id": "peacock",
+      "title": "The Confident Peacock",
+      "description": "You are a confident and charming peacock! Your outstanding expressiveness and charisma naturally capture the attention of those around you - truly impressive. You know your strengths well yet display them humbly - your sense is wonderful. Your creative thinking that tries new things and your constant desire to grow is truly admirable. Your charm and positive energy make many people want to be with you. You are truly special!",
+      "image": "https://images.unsplash.com/photo-1578688676385-b4b3e71490e2?w=600&q=80",
+      "tags": [
+        "Charisma",
+        "Charm",
+        "Confidence",
+        "Creativity",
+        "Expressiveness"
+      ]
+    }
+  ]
+}

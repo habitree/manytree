@@ -1,0 +1,571 @@
+{
+  "id": "attachment-style",
+  "title": "解读你的爱情模式：依恋类型测试",
+  "description": "用约翰·鲍尔比的依恋理论探索你的关系类型！发现影响你恋爱和人际关系的依恋风格。",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "当亲近的人遇到问题时，你的第一反应是？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "想帮忙，立刻赶过去。首先要让对方安心！",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "先了解情况，冷静地寻找解决方案。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "等对方先开口求助。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不知道该怎么帮忙而感到焦虑，同时保持距离。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "当你感到被重要的人疏远时，你的反应是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "心里变得焦虑，想确认对方的心意。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "一两次可以理解，但如果持续发生，会坦诚地沟通。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不太在意。彼此自由也很重要。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "看情况。有时候没关系，有时候心情会很复杂。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "当重要的关系结束时，你如何处理自己的情绪？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "深刻地感受，给自己足够的时间悲伤。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "虽然难过，但会随着时间自然地调整。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "喜欢通过独处的时间自己消化。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "情绪很复杂，按自己的节奏慢慢调整。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "建立新的人际关系时，你的倾向是？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "主动接近，希望快速变得亲近。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "顺其自然，和谐地发展关系。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "谨慎地了解对方，以舒适的节奏靠近。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "有兴趣但很谨慎，按自己的节奏接近。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "独处时，你通常有什么感受？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "想和别人联系的心情变强，想要有人陪伴。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "独处也好，和人在一起也好。平衡地享受两者。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "独处让我感到舒适。把它当作照顾自己的时间。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "看心情。有时平静，有时困惑。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "在亲密关系中，你如何看待独立性和亲密感的平衡？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "我比较渴望在一起的时间和情感上的联结。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "希望能和谐地保持独立性和亲密感。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "我比较重视个人空间和自主性。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "根据情况和心情，需要的东西会不同。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "当对方不同意你的意见时？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "感觉对方不理解我，心里变得焦急。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "认为意见可以不同，互相分享各自的观点。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "认为每个人都可以有自己的意见，不会刻意说服。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "当时觉得没什么，但之后心情会变得复杂。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你表达情感的方式是？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "坦诚而频繁地表达。很难隐藏感情。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "适度地表达，同时尊重对方的反应。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不太表露情感。沉默让我感到舒适。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想表达但不知道该怎么做，感到尴尬。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "当出现信任问题时？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "非常受伤，会不断努力修复关系。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "坦诚地谈论信任问题并解决。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "结束关系或淡然地保持距离。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想修复但同时也想离开，感到困惑。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "你对与他人建立深厚联系有什么看法？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "珍视深厚的联系，全身心投入关系。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "自然地建立平衡而有深度的关系。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "保持舒适的距离，用自己的方式联结。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "渴望深厚的联系，但倾向于谨慎地接近。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "在关系中你最重视什么？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "彼此信任，共同成长",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "与对方的深度联结和情感亲密",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "尊重彼此的独立性，保持舒适的空间",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "在亲密感和个人空间之间找到适合自己的平衡",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "你在关系中解决问题的方式是？",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "options": [
+        {
+          "text": "出现问题时，必须快点沟通解决才能安心。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "冷静地分析情况，一起寻找解决方案。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "需要自己消化的时间，倾向于独立解决。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想沟通但又犹豫，处理方式因情况而异。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "安全型 - 健康关系的基石，稳定的爱情守护者",
+      "description": "你能自信地信任他人，深知独处与共处的价值。你在关系中很少感到焦虑，遇到问题时会冷静沟通解决。你稳定的能量给周围的人带来极大的信任感和安全感。你善于在任何关系中建立健康的基础，形成长久而令人满意的人际关系。和你这样的人在一起，任何人都会感到安心！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "信任",
+        "安全感",
+        "成熟的关系"
+      ]
+    },
+    {
+      "id": "anxious",
+      "title": "追求联结型 - 珍视深厚联系的温暖之心",
+      "description": "你情感丰富，深深珍视有意义的关系。你善于细心体贴对方，积极表达爱意。在关系中渴望确认是你真正在乎对方的证明。你的温暖和真诚让对方感受到特别的存在感。通过理解自己的情感模式，学习用健康的方式表达，你可以建立更加丰富的关系。你爱的能力是珍贵的优势！",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": [
+        "温暖之心",
+        "深厚联系",
+        "细心体贴"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "重视自主型 - 懂得健康边界的自主型人格",
+      "description": "你独立自主，珍视个人空间和自主权。虽然在情感表达上比较谨慎，但这也意味着你的表达都蕴含深意。在关系中保持健康边界的能力是非常宝贵的优势。你通过独处时间充电，用自己的方式为关系做贡献。你的沉稳和自立为关系增添了稳定感。随着逐渐练习分享情感，你完全可以体验到你想要的深度联结。按自己的节奏发展关系是非常有价值的方式！",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": [
+        "自主型",
+        "健康边界",
+        "沉稳的安定感"
+      ]
+    },
+    {
+      "id": "fearful",
+      "title": "成长导向型 - 拥有丰富感受力的谨慎探索者",
+      "description": "你拥有丰富而细腻的情感世界。珍视亲密感的同时也重视安全感，这是你对自己和关系深思熟虑的成熟体现。你敏感、直觉力强，认真探索关系的意义。这种自我认知能力是成长的优秀基础。你的真诚和深度特别能触动那些寻求真挚关系的人。按照自己的节奏积累安全的关系经验，你一定能充分享受你渴望的亲密感和满足感。为你的成长之旅加油！",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": [
+        "细腻的感受力",
+        "自我认知",
+        "成长之旅"
+      ]
+    }
+  ]
+}

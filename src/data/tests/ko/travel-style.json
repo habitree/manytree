@@ -1,0 +1,355 @@
+{
+  "id": "travel-style",
+  "title": "여행 DNA 테스트: 당신은 어떤 여행자?",
+  "description": "친구와 여행하다 싸워본 적 있나요? 당신의 진짜 여행 스타일을 찾아보세요! 테스트 결과를 여행 메이트에게 공유하면 다음 여행이 달라집니다!",
+  "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop&q=80",
+  "color": "#009688",
+  "questions": [
+    {
+      "id": 1,
+      "text": "D-7 여행 일주일 전! 당신의 상태는?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "엑셀 일정표 완성! 예약 확인 메일 3번씩 체크!",
+          "scores": {
+            "planner": 2,
+            "spontaneous": 0
+          }
+        },
+        {
+          "text": "비행기표만 끊어둠. 나머지는 현지에서 정하지 뭐~",
+          "scores": {
+            "planner": 0,
+            "spontaneous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "여행지 아침 9시! 지금 당신은 어디에?",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+      "options": [
+        {
+          "text": "이미 명소 도착! 이른 아침 한적할 때가 찐이지!",
+          "scores": {
+            "adventure": 2,
+            "relaxation": 0
+          }
+        },
+        {
+          "text": "호텔 조식 뷔페 앞에서 뭐 먹을지 행복한 고민 중!",
+          "scores": {
+            "adventure": 0,
+            "relaxation": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "숙소 예약! 당신의 기준은?",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+      "options": [
+        {
+          "text": "위치 좋고 깨끗하면 OK! 어차피 밖에서 놀 건데!",
+          "scores": {
+            "budget": 2,
+            "luxury": 0
+          }
+        },
+        {
+          "text": "숙소가 반이지! 오션뷰 풀빌라 가즈아!",
+          "scores": {
+            "budget": 0,
+            "luxury": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "여행지 카페에서 현지인이 말을 걸어왔어요!",
+      "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=600&q=80",
+      "options": [
+        {
+          "text": "현지인 찐친 등극 기회! 숨은 맛집 정보 GET 해야지!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "미소로 인사하고 창밖 풍경과 함께 나만의 여유 시간!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "마지막 날 자유시간! 뭐 하고 싶어?",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+      "options": [
+        {
+          "text": "아직 못 간 박물관이랑 역사 유적지 돌아봐야지!",
+          "scores": {
+            "culture": 2,
+            "nature": 0
+          }
+        },
+        {
+          "text": "바다 보면서 아무것도 안 하기! 자연이 최고야!",
+          "scores": {
+            "culture": 0,
+            "nature": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "갑자기 비행기 연착! 일정이 꼬였다! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "options": [
+        {
+          "text": "오히려 좋아! 원래 안 가려던 곳 가볼 기회잖아!",
+          "scores": {
+            "spontaneous": 2,
+            "planner": 0,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "침착하게 플랜B 가동! 대안 숙소 검색 시작!",
+          "scores": {
+            "spontaneous": 0,
+            "planner": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "여행 사진, 당신의 기록 스타일은?",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "options": [
+        {
+          "text": "인생샷은 필수! 각도, 조명, 포즈 다 챙겨야지!",
+          "scores": {
+            "social": 2,
+            "culture": 1
+          }
+        },
+        {
+          "text": "찰칵 한 장이면 OK! 눈에 담는 추억이 더 오래가!",
+          "scores": {
+            "solo": 2,
+            "nature": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "여행지에서 점심 메뉴 어떻게 정해?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "사전 조사 완료! 별점 4.5 이상 인증된 맛집으로!",
+          "scores": {
+            "culture": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "현지인 많은 골목 탐험! 발견의 재미가 맛이지!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "가장 이상적인 여행 동행은?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "options": [
+        {
+          "text": "함께하면 에너지가 솟는 여러 친구들과 함께!",
+          "scores": {
+            "social": 2,
+            "relaxation": 1
+          }
+        },
+        {
+          "text": "마음 맞는 소수 또는 혼자서 나만의 속도로!",
+          "scores": {
+            "solo": 2,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "여행 경비에 대한 당신의 철학은?",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+      "options": [
+        {
+          "text": "아끼면서 오래! 세계일주가 목표야!",
+          "scores": {
+            "budget": 2,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "가끔 가는 여행, 확실하게 즐기자! 가성비보다 만족!",
+          "scores": {
+            "luxury": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "액티비티 선택의 시간! 뭐 할래?",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600&q=80",
+      "options": [
+        {
+          "text": "번지점프! 스카이다이빙! 인생은 한 번이야!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        },
+        {
+          "text": "풀빌라 스파에서 마사지! 진정한 힐링이란 이런 것!",
+          "scores": {
+            "relaxation": 2,
+            "luxury": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "여행에서 돌아온 다음 날, 당신은?",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "options": [
+        {
+          "text": "다음 여행지 검색 중... 어디 갈까?",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1,
+            "budget": 1
+          }
+        },
+        {
+          "text": "여행 사진 정리하며 여운 즐기는 중... 행복했다...",
+          "scores": {
+            "relaxation": 2,
+            "planner": 1,
+            "culture": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventure-spontaneous",
+      "title": "지도 없이 떠나는 자유로운 모험가!",
+      "description": "당신의 여행 무기는 '용기'와 '설렘'! 계획표? 그건 심심할 때 보는 거고, 진짜 여행은 발길 닿는 대로! 골목에서 우연히 발견한 현지인 맛집, 지도에 없는 숨은 뷰포인트, 예상 못한 친구와의 만남... 이런 '예정에 없던 순간들'이 당신의 여행을 레전드로 만들어요! 친구들 사이에서 '여행 얘기 해줘!' 요청 1순위, 당신의 여행담은 언제 들어도 꿀잼이거든요. 다음 여행은 어디로? 아직 모르죠? 그게 바로 당신 스타일이니까!",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "tags": [
+        "자유로운 영혼",
+        "모험 DNA",
+        "여행 스토리텔러"
+      ]
+    },
+    {
+      "id": "relaxation-luxury",
+      "title": "나를 위한 최고의 선물! 프리미엄 힐링러",
+      "description": "열심히 일한 당신, 여행만큼은 제대로 즐길 자격이 있어요! 오션뷰 풀빌라에서 아침을 맞고, 호텔 조식 뷔페에서 여유로운 브런치, 스파에서 마사지 받으며 완벽한 힐링... 이게 바로 당신의 '진짜 휴식'! 돌아와서 '완전 충전됐어!'라며 일상도 더 에너지 넘치게 살아가는 스마트한 여행자예요. 친구들의 '거기 어디야? 나도 가고 싶어!' 연락이 쏟아질 당신의 힐링 여행, 이번엔 어디로 떠나볼까요?",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+      "tags": [
+        "프리미엄 힐링",
+        "셀프케어 달인",
+        "여유 만끽형"
+      ]
+    },
+    {
+      "id": "culture-planner",
+      "title": "여행지 박사! 문화를 꿰뚫는 지식인 트래블러",
+      "description": "당신의 여행은 '깊이'가 다릅니다! 그냥 사진만 찍고 지나가는 관광객? No! 박물관에서 작품 하나하나의 의미를 읽고, 골목 구석의 역사를 찾아내고, 현지 음식에 담긴 문화까지 파악하는 진정한 탐험가! 여행 다녀오면 그 나라 전문가가 되어 있어서 친구들이 '그 나라 가려는데...' 하면 가장 먼저 연락이 오죠. 당신의 여행 후기? 가이드북보다 더 알차고 재미있어요!",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=600&q=80",
+      "tags": [
+        "문화 탐험가",
+        "지식인 트래블러",
+        "여행지 박사"
+      ]
+    },
+    {
+      "id": "nature-solo",
+      "title": "자연 속에서 찾는 나! 힐링 명상 여행자",
+      "description": "당신에게 최고의 여행지는 복잡한 도시가 아닌 고요한 자연! 산 정상에서 맞는 바람, 바다 앞 일출, 숲속 캠핑의 별빛이 당신을 힐링시켜요. 혼자만의 시간 속에서 진정한 나를 만나고, 자연과 하나가 되는 경험! 당신의 여행은 외면의 풍경뿐 아니라 내면의 평화도 함께 찾아줍니다.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "tags": [
+        "자연 러버",
+        "내면 여행",
+        "힐링 전문가"
+      ]
+    },
+    {
+      "id": "social-adventure",
+      "title": "전 세계에 친구가! 글로벌 인싸 트래블러",
+      "description": "당신의 여행 최고 하이라이트는 바로 '사람'! 비행기에서 옆자리 외국인과 금세 친해지고, 호스텔에서 만난 여행자와 다음 날 함께 투어하고, 현지 카페 사장님과는 연락처까지 교환! 당신이 있는 곳엔 언제나 웃음꽃이 피어요. '거기 가면 아는 사람 있어?' 물으면 당당하게 '응, 친구 있어!'라고 답할 수 있는 당신! 세계 곳곳에 소파서핑 호스트가 있는 인맥부자, 다음 여행지에선 또 누구를 만나게 될까요?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "tags": [
+        "글로벌 인싸",
+        "인맥 부자",
+        "소셜 마스터"
+      ]
+    },
+    {
+      "id": "budget-spontaneous",
+      "title": "세계일주가 목표! 알뜰 모험가",
+      "description": "당신은 적은 예산으로 최대의 경험을 뽑아내는 여행 천재! 특가 항공권 알림은 기본, 현지 로컬 맛집 발굴, 무료 투어 활용까지! 오래 많이 여행하는 게 목표인 당신의 세계지도는 이미 절반 이상 색칠되었을지도? 당신의 여행 노하우는 돈 주고도 못 사는 값진 정보예요!",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "tags": [
+        "알뜰 여행 천재",
+        "가성비 왕",
+        "세계일주러"
+      ]
+    },
+    {
+      "id": "planner-luxury",
+      "title": "완벽한 계획의 결정체! 프리미엄 큐레이터",
+      "description": "당신의 여행 계획표는 예술 작품! 최고의 숙소, 맛집, 동선까지 빈틈없이 계획하고, 그 계획대로 완벽하게 실행할 때 가장 행복해요. 좋은 것을 아는 안목으로 최상의 경험만 골라 담는 프리미엄 큐레이터! 친구들이 당신에게 여행 계획 부탁하는 이유가 있죠. 당신과 함께하면 실패 없는 완벽한 여행이 보장됩니다!",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "tags": [
+        "여행 큐레이터",
+        "완벽주의자",
+        "프리미엄 기획력"
+      ]
+    },
+    {
+      "id": "nature-relaxation",
+      "title": "서두르지 않는 깊이! 슬로우 트래블러",
+      "description": "당신에게 여행이란 많이 보는 게 아닌 깊이 느끼는 것! 한 곳에 오래 머물며 그곳의 아침과 저녁, 일상의 리듬을 경험해요. 현지 카페에서 여유롭게 커피 한 잔, 동네 마트에서 장보기, 자연 속 산책이 당신의 여행 스타일! 여행 후에는 진짜 쉬었다는 느낌, 그게 바로 진정한 여행이죠.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "tags": [
+        "슬로우 트래블러",
+        "한달살기 전문가",
+        "깊이 있는 여행"
+      ]
+    }
+  ]
+}

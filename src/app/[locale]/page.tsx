@@ -114,8 +114,8 @@ export default async function Home({
 
   const t = await getTranslations("home");
   const tTest = await getTranslations("test");
-  const tests = getAllTests();
-  const popularTests = getPopularTests();
+  const tests = getAllTests(locale);
+  const popularTests = getPopularTests(locale);
 
   // 카테고리 번역
   const categoryNames: Record<string, string> = {
@@ -285,7 +285,7 @@ export default async function Home({
 
             <div className="space-y-12">
               {categories.map((category) => {
-                const categoryTests = getTestsByCategory(category.id as TestCategory);
+                const categoryTests = getTestsByCategory(category.id as TestCategory, locale);
                 if (categoryTests.length === 0) return null;
 
                 return (

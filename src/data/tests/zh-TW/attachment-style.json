@@ -1,0 +1,571 @@
+{
+  "id": "attachment-style",
+  "title": "解讀你的愛情模式：依附類型測試",
+  "description": "用約翰·鮑比的依附理論探索你的關係類型！發現影響你戀愛和人際關係的依附風格。",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "當親近的人遇到問題時，你的第一反應是？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "想幫忙，立刻趕過去。首先要讓對方安心！",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "先了解情況，冷靜地尋找解決方案。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "等對方先開口求助。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不知道該怎麼幫忙而感到焦慮，同時保持距離。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "當你感到被重要的人疏遠時，你的反應是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "心裡變得焦慮，想確認對方的心意。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "一兩次可以理解，但如果持續發生，會坦誠地溝通。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不太在意。彼此自由也很重要。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "看情況。有時候沒關係，有時候心情會很複雜。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "當重要的關係結束時，你如何處理自己的情緒？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "深刻地感受，給自己足夠的時間悲傷。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "雖然難過，但會隨著時間自然地調整。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "喜歡透過獨處的時間自己消化。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "情緒很複雜，按自己的節奏慢慢調整。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "建立新的人際關係時，你的傾向是？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "主動接近，希望快速變得親近。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "順其自然，和諧地發展關係。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "謹慎地了解對方，以舒適的節奏靠近。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "有興趣但很謹慎，按自己的節奏接近。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "獨處時，你通常有什麼感受？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "想和別人聯繫的心情變強，想要有人陪伴。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "獨處也好，和人在一起也好。平衡地享受兩者。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "獨處讓我感到舒適。把它當作照顧自己的時間。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "看心情。有時平靜，有時困惑。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "在親密關係中，你如何看待獨立性和親密感的平衡？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "我比較渴望在一起的時間和情感上的聯結。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "希望能和諧地保持獨立性和親密感。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "我比較重視個人空間和自主性。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "根據情況和心情，需要的東西會不同。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "當對方不同意你的意見時？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "感覺對方不理解我，心裡變得焦急。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "認為意見可以不同，互相分享各自的觀點。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "認為每個人都可以有自己的意見，不會刻意說服。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "當時覺得沒什麼，但之後心情會變得複雜。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你表達情感的方式是？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "坦誠而頻繁地表達。很難隱藏感情。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "適度地表達，同時尊重對方的反應。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "不太表露情感。沉默讓我感到舒適。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想表達但不知道該怎麼做，感到尷尬。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "當出現信任問題時？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "非常受傷，會不斷努力修復關係。",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "坦誠地談論信任問題並解決。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "結束關係或淡然地保持距離。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想修復但同時也想離開，感到困惑。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "你對與他人建立深厚聯繫有什麼看法？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "珍視深厚的聯繫，全身心投入關係。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "自然地建立平衡而有深度的關係。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "保持舒適的距離，用自己的方式聯結。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "渴望深厚的聯繫，但傾向於謹慎地接近。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "在關係中你最重視什麼？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "彼此信任，共同成長",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "與對方的深度聯結和情感親密",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "尊重彼此的獨立性，保持舒適的空間",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "在親密感和個人空間之間找到適合自己的平衡",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "你在關係中解決問題的方式是？",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "options": [
+        {
+          "text": "出現問題時，必須快點溝通解決才能安心。",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "冷靜地分析情況，一起尋找解決方案。",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "需要自己消化的時間，傾向於獨立解決。",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "想溝通但又猶豫，處理方式因情況而異。",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "安全型 - 健康關係的基石，穩定的愛情守護者",
+      "description": "你能自信地信任他人，深知獨處與共處的價值。你在關係中很少感到焦慮，遇到問題時會冷靜溝通解決。你穩定的能量給周圍的人帶來極大的信任感和安全感。你善於在任何關係中建立健康的基礎，形成長久而令人滿意的人際關係。和你這樣的人在一起，任何人都會感到安心！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "信任",
+        "安全感",
+        "成熟的關係"
+      ]
+    },
+    {
+      "id": "anxious",
+      "title": "追求聯結型 - 珍視深厚聯繫的溫暖之心",
+      "description": "你情感豐富，深深珍視有意義的關係。你善於細心體貼對方，積極表達愛意。在關係中渴望確認是你真正在乎對方的證明。你的溫暖和真誠讓對方感受到特別的存在感。透過理解自己的情感模式，學習用健康的方式表達，你可以建立更加豐富的關係。你愛的能力是珍貴的優勢！",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": [
+        "溫暖之心",
+        "深厚聯繫",
+        "細心體貼"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "重視自主型 - 懂得健康界線的自主型人格",
+      "description": "你獨立自主，珍視個人空間和自主權。雖然在情感表達上比較謹慎，但這也意味著你的表達都蘊含深意。在關係中保持健康界線的能力是非常寶貴的優勢。你透過獨處時間充電，用自己的方式為關係做貢獻。你的沉穩和自立為關係增添了穩定感。隨著逐漸練習分享情感，你完全可以體驗到你想要的深度聯結。按自己的節奏發展關係是非常有價值的方式！",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": [
+        "自主型",
+        "健康界線",
+        "沉穩的安定感"
+      ]
+    },
+    {
+      "id": "fearful",
+      "title": "成長導向型 - 擁有豐富感受力的謹慎探索者",
+      "description": "你擁有豐富而細膩的情感世界。珍視親密感的同時也重視安全感，這是你對自己和關係深思熟慮的成熟體現。你敏感、直覺力強，認真探索關係的意義。這種自我認知能力是成長的優秀基礎。你的真誠和深度特別能觸動那些尋求真摯關係的人。按照自己的節奏累積安全的關係經驗，你一定能充分享受你渴望的親密感和滿足感。為你的成長之旅加油！",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": [
+        "細膩的感受力",
+        "自我認知",
+        "成長之旅"
+      ]
+    }
+  ]
+}

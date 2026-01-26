@@ -60,7 +60,8 @@
     "hot": "HOT",
     "new": "NEW",
     "progress": "Progress",
-    "questionOf": "{current} / {total}"
+    "questionOf": "{current} / {total}",
+    "previous": "Previous Question"
   },
   "result": {
     "title": "YOUR RESULT",

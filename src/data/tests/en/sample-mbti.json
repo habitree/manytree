@@ -1,0 +1,439 @@
+{
+  "id": "sample-mbti",
+  "title": "Discover Your True MBTI - The Side of You That You Never Knew",
+  "description": "95% of people are amazed by the accuracy! In just 12 questions, we'll reveal your hidden personality traits. Find out the real you that even your friends don't know - take the test now!",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=600&fit=crop&q=80",
+  "color": "#6366f1",
+  "questions": [
+    {
+      "id": 1,
+      "text": "It's Friday evening and a friend suddenly texts asking to hang out. What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm excited and start getting ready while asking where we should meet",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "I need some alone time today, so I suggest meeting another day",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When starting a new project, how do you approach it?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "I envision the overall direction and possibilities, focusing on the big picture first",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "I start by laying out specific steps and creating a detailed action plan",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "A close friend asks for advice about a difficult situation. What do you do first?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "I listen and empathize with their feelings first",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "I try to understand the situation clearly and look for practical solutions",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "When preparing for a trip, what's your style?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "I feel at ease when I plan ahead and prepare everything I need in advance",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "I prefer to prepare as needed and figure things out on the go",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "After an hour at a party where you don't know anyone, where would you most likely be?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Mingling naturally with different groups and chatting with various people",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "Having a deep conversation with one or two people in a quieter corner",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "When making an important decision, what helps you most?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "Thinking about future possibilities and potential meanings",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "Relying on past experiences and proven information",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "During a meeting, your team members have conflicting opinions. What guides your decision?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Is there a way everyone can be satisfied? (Harmony matters most)",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "What's objectively the most efficient solution? (Results matter most)",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "It's 10 PM the night before a deadline. What's the status of your assignment?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "I followed my plan and I'm nearly finished with the final touches",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "Deadlines help me focus, so I'm just getting started now",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "After a long day, how do you prefer to recharge?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Spending time with friends or other people gives me energy",
+          "scores": {
+            "E": 2,
+            "I": 0
+          }
+        },
+        {
+          "text": "Having quiet alone time helps me recharge",
+          "scores": {
+            "E": 0,
+            "I": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "When you hear an interesting story, what do you want to know more about?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "The deeper meaning and future possibilities of the story",
+          "scores": {
+            "N": 2,
+            "S": 0
+          }
+        },
+        {
+          "text": "The actual events and specific facts of what happened",
+          "scores": {
+            "N": 0,
+            "S": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Two friends are in conflict and ask you to mediate. What's your approach?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "I try to understand both sides' feelings and help restore the relationship",
+          "scores": {
+            "F": 2,
+            "T": 0
+          }
+        },
+        {
+          "text": "I analyze the situation objectively and suggest a fair solution",
+          "scores": {
+            "F": 0,
+            "T": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "What best describes your daily lifestyle?",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "Following a set schedule and routine makes me feel secure and efficient",
+          "scores": {
+            "J": 2,
+            "P": 0
+          }
+        },
+        {
+          "text": "I prefer flexibility and adapting to situations - it helps me discover new opportunities",
+          "scores": {
+            "J": 0,
+            "P": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "INTJ",
+      "title": "The Visionary Strategist - INTJ",
+      "description": "You are a strategist who pursues your goals with long-term vision and systematic thinking. Even in complex situations, you have the ability to identify the core issues and find creative solutions. You gain deep insights during your alone time and have the drive to turn those ideas into reality. Your growth point is learning to embrace others' perspectives and collaborate. When your vision meets the wisdom of others, you can achieve even greater success.",
+      "image": "/images/results/intj.png",
+      "tags": [
+        "Strategic Thinker",
+        "Long-term Vision",
+        "Independent Problem-Solver"
+      ]
+    },
+    {
+      "id": "INTP",
+      "title": "The Curious Philosopher - INTP",
+      "description": "You are a philosopher who explores the principles of the world through curiosity and analytical thinking. You value logical consistency and excel at understanding complex concepts and discovering new connections. Deep thinking and creative problem-solving are your greatest strengths. Your growth point is turning ideas into action. The courage to start, rather than waiting for the perfect theory, can create greater change.",
+      "image": "/images/results/intp.png",
+      "tags": [
+        "Logical Analysis",
+        "Intellectual Curiosity",
+        "Creative Thinking"
+      ]
+    },
+    {
+      "id": "ENTJ",
+      "title": "The Natural CEO, Born Leader - ENTJ",
+      "description": "Nothing is impossible when you're around! You're a natural leader who presents visions, inspires others, and drives toward goals. When you say 'Let's do it!', people naturally follow. With both charisma and execution power, the world stage awaits you!",
+      "image": "/images/results/entj.png",
+      "tags": [
+        "Born Leader",
+        "Charisma Overload",
+        "Icon of Success"
+      ]
+    },
+    {
+      "id": "ENTP",
+      "title": "The Rule Breaker, Pioneer of Innovation - ENTP",
+      "description": "You're a true innovator who challenges 'the way things have always been'! With sharp wit and logic, you break down the world's fixed ideas and open new possibilities. Conversations with you are always unpredictable and exciting! Living on the opposite side of boredom, wherever you are, fresh winds always blow.",
+      "image": "/images/results/entp.png",
+      "tags": [
+        "Innovator",
+        "Debate Champion",
+        "Free Spirit"
+      ]
+    },
+    {
+      "id": "INFJ",
+      "title": "The Warm Prophet Who Changes the World - INFJ",
+      "description": "You have the special ability to see into people's hearts. Quietly but strongly, you're making the world a better place in your own unique way. Your deep insights and warm heart inspire everyone you meet. Less than 1% of the population shares your type - that's how rare and special you are!",
+      "image": "/images/results/infj.png",
+      "tags": [
+        "Rare Soul",
+        "Heart Reader",
+        "Idealist"
+      ]
+    },
+    {
+      "id": "INFP",
+      "title": "The Deepest Soul in the World - INFP",
+      "description": "Your inner world is vaster than the universe! With rich sensitivity and imagination, you see the world in a special way - you're a true artistic soul. You value authenticity and sincerity, making everyone feel comfortable around you. The world you dream of will surely become reality!",
+      "image": "/images/results/infp.png",
+      "tags": [
+        "Deep Soul",
+        "Pure Idealist",
+        "Emotional Genius"
+      ]
+    },
+    {
+      "id": "ENFJ",
+      "title": "The Influencer Who Awakens Potential - ENFJ",
+      "description": "Wherever you are, inspiration and hope overflow! You have a natural talent for discovering others' potential before anyone else and guiding them to shine. Your heartfelt words of encouragement can change someone's life. Why do people follow you? Because you believe in them first!",
+      "image": "/images/results/enfj.png",
+      "tags": [
+        "Soul Mentor",
+        "Positive Energy Source",
+        "Makes Others Shine"
+      ]
+    },
+    {
+      "id": "ENFP",
+      "title": "The Embodiment of Endless Possibilities - ENFP",
+      "description": "You're a walking vitamin! With overflowing energy and creativity, you brighten everything around you like sunshine. You get excited about new possibilities and find joy in connecting with people. Your passion is contagious, and your ideas make the world more fun!",
+      "image": "/images/results/enfp.png",
+      "tags": [
+        "Human Vitamin",
+        "Idea Explosion",
+        "Maximum Passion"
+      ]
+    },
+    {
+      "id": "ISTJ",
+      "title": "The Reliable Pillar Everyone Trusts - ISTJ",
+      "description": "You're the safe zone in this chaotic world! You always complete what you're assigned and never break promises - you're the embodiment of trust. You may not be flashy, but everyone knows the world keeps running because of people like you. Your diligence and thoroughness are invaluable virtues!",
+      "image": "/images/results/istj.png",
+      "tags": [
+        "Embodiment of Trust",
+        "Actions Over Words",
+        "Reliable Pillar"
+      ]
+    },
+    {
+      "id": "ISFJ",
+      "title": "The Warm-Hearted Guardian - ISFJ",
+      "description": "You are a guardian who supports those around you with dedication and care. With keen observation, you identify others' needs and quietly offer help - that's your strength. Your reliability and devotion provide stability to many people. Your growth point is remembering to value your own needs too. Taking time for yourself gives you the strength to help others for longer.",
+      "image": "/images/results/isfj.png",
+      "tags": [
+        "Thoughtful Care",
+        "Dedicated Support",
+        "Foundation of Trust"
+      ]
+    },
+    {
+      "id": "ESTJ",
+      "title": "The Heart of the Organization Everyone Follows - ESTJ",
+      "description": "Any project succeeds with you involved! You're the ultimate executor who sets clear directions, leads teams, and achieves goals. Trust in your responsible and decisive nature is limitless! When you say 'It can be done,' it really happens. You're the hidden force that moves the world!",
+      "image": "/images/results/estj.png",
+      "tags": [
+        "Ultimate Executor",
+        "Heart of the Organization",
+        "Maximum Decisiveness"
+      ]
+    },
+    {
+      "id": "ESFJ",
+      "title": "The Beloved Social Butterfly at the Heart of Every Gathering - ESFJ",
+      "description": "Wherever you are, there's laughter and harmony! You have a natural social gift for connecting people and creating unity. You never forget important dates and take care of everyone around you. Everyone wants to be with you. You're a master of relationships!",
+      "image": "/images/results/esfj.png",
+      "tags": [
+        "Relationship Master",
+        "Atmosphere Maker",
+        "Beloved Social Butterfly"
+      ]
+    },
+    {
+      "id": "ISTP",
+      "title": "The Cool and Capable Problem-Solver - ISTP",
+      "description": "You're a hidden expert behind a calm exterior! You stay composed in crisis situations and skillfully solve anything with your hands. You prove yourself through actions, not words, and through practice, not theory. Everyone falls for your cool charm!",
+      "image": "/images/results/istp.png",
+      "tags": [
+        "Cool Problem-Solver",
+        "Proves Through Skills",
+        "Crisis Hero"
+      ]
+    },
+    {
+      "id": "ISFP",
+      "title": "The Free-Spirited Artist - ISFP",
+      "description": "Your sensitivity is art itself! You perceive the world's beauty in unique ways and express it in your own style - you're a true artistic soul. Your free and flexible way of living in the moment inspires many people!",
+      "image": "/images/results/isfp.png",
+      "tags": [
+        "Artistic Soul",
+        "Free Spirit",
+        "Lives in the Moment"
+      ]
+    },
+    {
+      "id": "ESTP",
+      "title": "The Action Hero, Real-Life Adventurer - ESTP",
+      "description": "Life is a thrilling adventure for you! Your body moves before you think, and you respond instantly to any situation - you're a real action hero. There's no boredom where you are, and your energy moves everyone around you. Living life to the fullest - that's awesome!",
+      "image": "/images/results/estp.png",
+      "tags": [
+        "Action Hero",
+        "Thrill Lover",
+        "Energy Explosion"
+      ]
+    },
+    {
+      "id": "ESFP",
+      "title": "The Source of Vitality Who Lives in the Moment - ESFP",
+      "description": "You are a source of vitality who makes every moment shine with positive energy and adaptability. You enjoy being with people and have the ability to handle situations flexibly with a practical sense. Your bright energy gives vitality to those around you. Your growth point is also considering long-term goals. When present enjoyment and future achievement are in harmony, you can create an even richer life.",
+      "image": "/images/results/esfp.png",
+      "tags": [
+        "Positive Energy",
+        "Flexible Adaptation",
+        "Present Focus"
+      ]
+    }
+  ]
+}

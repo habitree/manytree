@@ -1,0 +1,571 @@
+{
+  "id": "attachment-style",
+  "title": "Descubre tu patrón de amor: Test de estilo de apego",
+  "description": "Explora tu tipo de relación a través de la teoría del apego de John Bowlby. Descubre tu estilo de apego que influye en tus relaciones amorosas e interpersonales.",
+  "thumbnail": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando alguien cercano tiene un problema, ¿cuál es tu primera reacción?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Quiero ayudar y acudo inmediatamente. ¡Primero quiero tranquilizar a la persona!",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Primero evalúo la situación y busco soluciones con calma.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Espero hasta que me pida ayuda primero.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Me siento ansioso sin saber cómo ayudar, pero mantengo la distancia.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¿Cómo reaccionas cuando te sientes excluido por alguien importante para ti?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Me siento ansioso y quiero confirmar cómo se siente esa persona conmigo.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "Lo entiendo una o dos veces, pero si continúa, tengo una conversación honesta.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "No me molesta mucho. Tener libertad también es importante.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Depende de la situación. A veces estoy bien, a veces mis sentimientos son complicados.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Cómo procesas tus emociones cuando termina una relación importante?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Tiendo a sentir profundamente y tomarme tiempo para llorar adecuadamente.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "Es triste, pero lo proceso naturalmente con el tiempo.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Prefiero procesar las cosas por mi cuenta a través del tiempo a solas.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Mis emociones son complejas, así que las proceso lentamente a mi propio ritmo.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Cuál es tu enfoque al formar nuevas relaciones?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Me acerco activamente y quiero intimar rápidamente.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Dejo que las cosas fluyan naturalmente y se desarrollen armoniosamente.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Conozco cuidadosamente a la persona y me acerco a un ritmo cómodo.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Estoy interesado pero soy cauteloso, así que me acerco a mi propio ritmo.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¿Cómo te sientes normalmente cuando pasas tiempo a solas?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Siento un deseo creciente de conectar con alguien y estar acompañado.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "Disfruto tanto del tiempo a solas como del tiempo con otros de manera equilibrada.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "El tiempo a solas me resulta cómodo. Lo uso para el autocuidado.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Depende de mi estado de ánimo. A veces tranquilo, a veces confuso.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cómo ves el equilibrio entre independencia e intimidad en las relaciones cercanas?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "Tiendo a querer mucho tiempo juntos y conexión emocional.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Quiero mantener un equilibrio armonioso entre independencia e intimidad.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Tiendo a valorar el espacio personal y la autonomía.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Lo que necesito varía según la situación y mi estado de ánimo.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¿Cuando alguien no está de acuerdo con tu opinión?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Siento que no me entienden y me pongo ansioso.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "Acepto que podemos tener opiniones diferentes y compartimos nuestras perspectivas.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Pienso que cada uno puede tener su propia opinión y no intento persuadirlos.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Estoy bien en el momento, pero después mis sentimientos se complican.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Cómo expresas tus emociones?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Expreso honesta y frecuentemente. Me cuesta ocultar mis sentimientos.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Expreso apropiadamente mientras respeto las reacciones de la otra persona.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "No revelo mis emociones fácilmente. El silencio me resulta cómodo.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Quiero expresarme pero me siento incómodo sin saber cómo.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Cuando surgen problemas de confianza?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Me siento muy herido y sigo trabajando para reparar la relación.",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 1
+          }
+        },
+        {
+          "text": "Hablo abiertamente sobre los problemas de confianza y los resuelvo.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Termino la relación o creo distancia con calma.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Quiero reparar las cosas pero también quiero irme, sintiéndome confundido.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Cómo te sientes sobre formar vínculos profundos con otros?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "Valoro las conexiones profundas y me sumerjo completamente en las relaciones.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Construyo naturalmente relaciones equilibradas y significativas.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Me conecto a mi manera mientras mantengo una distancia cómoda.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Quiero conexiones profundas pero tiendo a acercarme con cautela.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¿Qué valoras más en las relaciones?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Crecer juntos mientras confiamos el uno en el otro",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Sentir una conexión profunda e intimidad emocional con mi pareja",
+          "scores": {
+            "anxious": 2,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Respetar la independencia mutua y mantener un espacio cómodo",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Encontrar el equilibrio adecuado entre intimidad y espacio personal para mí",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 0,
+            "fearful": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "¿Cómo resuelves los problemas en las relaciones?",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando surgen problemas, necesito hablar y resolverlos rápidamente para estar tranquilo.",
+          "scores": {
+            "anxious": 2,
+            "secure": 1,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Analizo la situación objetivamente y encuentro soluciones juntos.",
+          "scores": {
+            "anxious": 0,
+            "secure": 2,
+            "avoidant": 0,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Necesito tiempo para procesarlo yo mismo y tiendo a resolver las cosas independientemente.",
+          "scores": {
+            "anxious": 0,
+            "secure": 0,
+            "avoidant": 2,
+            "fearful": 0
+          }
+        },
+        {
+          "text": "Quiero hablar pero dudo, y mi enfoque varía según la situación.",
+          "scores": {
+            "anxious": 1,
+            "secure": 0,
+            "avoidant": 1,
+            "fearful": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "secure",
+      "title": "Tipo Seguro - La base de las relaciones saludables",
+      "description": "Confías en los demás con seguridad y entiendes el valor de ser independiente mientras también estás acompañado. Sientes poca ansiedad en las relaciones y te comunicas con calma para resolver problemas cuando surgen. Tu energía estable proporciona gran confianza y seguridad a quienes te rodean. Destacas en construir bases saludables en cualquier relación y formas conexiones duraderas y satisfactorias. ¡Cualquiera se siente a gusto cuando está con alguien como tú!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Confianza",
+        "Estabilidad",
+        "Relaciones maduras"
+      ]
+    },
+    {
+      "id": "anxious",
+      "title": "Tipo Buscador de Conexión - Un corazón cálido que valora los vínculos profundos",
+      "description": "Eres emocionalmente rico y aprecias profundamente las relaciones significativas. Destacas en mostrar consideración reflexiva y expresar amor activamente. Tu deseo de seguridad en las relaciones es prueba de que realmente te importan los demás. Tu calidez y dedicación hacen que otros se sientan especiales. Al entender tus patrones emocionales y aprender a expresarlos de manera saludable, puedes crear relaciones aún más ricas. ¡Tu capacidad de amar es una fortaleza preciosa!",
+      "image": "https://images.unsplash.com/photo-1517457373614-b7152f800fd1?w=600&q=80",
+      "tags": [
+        "Corazón cálido",
+        "Vínculos profundos",
+        "Cuidado atento"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "Tipo Valorador de la Independencia - Una persona autodeterminada que conoce los límites saludables",
+      "description": "Eres autodeterminado y valoras el espacio personal y la autonomía. Aunque eres cuidadoso con la expresión emocional, eso significa que tus expresiones tienen un significado profundo. Tu capacidad para mantener límites saludables en las relaciones es una fortaleza preciosa. Te recargas a través del tiempo a solas y contribuyes a las relaciones a tu manera. Tu calma y autosuficiencia añaden estabilidad a las relaciones. A medida que practiques compartir emociones gradualmente, podrás experimentar la profundidad de conexión que deseas. ¡Desarrollar relaciones a tu propio ritmo es un enfoque muy valioso!",
+      "image": "https://images.unsplash.com/photo-1505881097194-007121c6f274?w=600&q=80",
+      "tags": [
+        "Autodeterminado",
+        "Límites saludables",
+        "Estabilidad serena"
+      ]
+    },
+    {
+      "id": "fearful",
+      "title": "Tipo Orientado al Crecimiento - Un explorador reflexivo con rica sensibilidad",
+      "description": "Tienes un mundo emocional rico y delicado. Valorar la intimidad mientras también priorizas la seguridad refleja tu consideración madura de ti mismo y de las relaciones. Eres sensible, intuitivo y exploras seriamente el significado de las relaciones. Esta autoconciencia es una excelente base para el crecimiento. Tu autenticidad y profundidad resuenan especialmente con aquellos que buscan conexiones genuinas. A medida que acumules experiencias de relaciones seguras a tu propio ritmo, disfrutarás plenamente de la intimidad y satisfacción que deseas. ¡Ánimo en tu viaje de crecimiento!",
+      "image": "https://images.unsplash.com/photo-1516534775068-bb0427615b41?w=600&q=80",
+      "tags": [
+        "Sensibilidad delicada",
+        "Autoconciencia",
+        "Viaje de crecimiento"
+      ]
+    }
+  ]
+}

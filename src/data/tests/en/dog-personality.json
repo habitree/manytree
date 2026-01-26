@@ -1,0 +1,353 @@
+{
+  "id": "dog-personality",
+  "title": "What's Your Dog's Personality? Find Out Now!",
+  "description": "Think about your furry friend's usual behavior and answer! Understanding your dog's true personality helps build a deeper bond. Share your results with fellow dog lovers!",
+  "thumbnail": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800&h=600&fit=crop&q=80",
+  "color": "#8B572A",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When your dog hears the word 'walk', how do they react?",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "options": [
+        {
+          "text": "Gets super excited and rushes to the door immediately!",
+          "scores": {
+            "energy": 2,
+            "calm": 0
+          }
+        },
+        {
+          "text": "Takes their time, stretches leisurely, and gets ready slowly!",
+          "scores": {
+            "energy": 0,
+            "calm": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "The delivery person rings the doorbell! How does your dog react?",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "options": [
+        {
+          "text": "New friend! Runs over to greet them with full body excitement!",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Steps back and observes with a 'who are you?' look",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "When left alone at home, your dog usually...",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Waits where the family's scent is, ears perked up!",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Takes a comfortable nap in their own cozy spot!",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "A new toy appears! What's your dog's first reaction?",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "options": [
+        {
+          "text": "What's this?! Immediately grabs it and runs around!",
+          "scores": {
+            "curious": 2,
+            "cautious": 0
+          }
+        },
+        {
+          "text": "Cautiously pokes it with their nose first... is it safe?",
+          "scores": {
+            "curious": 0,
+            "cautious": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "During a walk, your dog spots another dog! What happens?",
+      "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=600&q=80",
+      "options": [
+        {
+          "text": "Hello friend! Actively goes for a sniff greeting!",
+          "scores": {
+            "social": 2,
+            "shy": 0
+          }
+        },
+        {
+          "text": "Hides behind owner's legs or ignores them completely",
+          "scores": {
+            "social": 0,
+            "shy": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "The sound of a treat bag rustling! How does your dog react?",
+      "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=600&q=80",
+      "options": [
+        {
+          "text": "Sit! Paw! Pulls out every trick for maximum appeal!",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "Quietly approaches with an 'I'm here' laser gaze!",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "A strange noise at night! How does your dog respond?",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "options": [
+        {
+          "text": "Woof woof! Barks first! Guarding the house is my job!",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Just perks ears up, 'Oh, just the wind' and goes back to sleep",
+          "scores": {
+            "calm": 2,
+            "cool": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Arriving at a big park! What's your dog's behavior pattern?",
+      "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=600&q=80",
+      "options": [
+        {
+          "text": "Off-leash and full sprint! Must explore everywhere!",
+          "scores": {
+            "energy": 2,
+            "calm": 0,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Leisurely walks beside owner, occasionally sniffing around",
+          "scores": {
+            "energy": 0,
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "What's your dog's sleeping position at night?",
+      "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuddle type - burrows into owner's arms or under the blanket",
+          "scores": {
+            "cute": 2,
+            "cool": 0
+          }
+        },
+        {
+          "text": "Independent type - sleeps in their own private space",
+          "scores": {
+            "cute": 0,
+            "cool": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Training time! How focused is your dog?",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "options": [
+        {
+          "text": "Eyes light up at treats - genius dog mode ON!",
+          "scores": {
+            "cute": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Focused when in the mood, otherwise 'it's my day off' face!",
+          "scores": {
+            "cool": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "It's raining outside. How does your dog react?",
+      "image": "https://images.unsplash.com/photo-1533227268428-f9ed0900fb3b?w=600&q=80",
+      "options": [
+        {
+          "text": "Rain or shine, walks must happen! Waiting at the door!",
+          "scores": {
+            "energy": 2,
+            "curious": 1
+          }
+        },
+        {
+          "text": "Watches the rain, then snuggles into bed - staying home today!",
+          "scores": {
+            "calm": 2,
+            "cautious": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When you point a phone camera at your dog, they...",
+      "image": "https://images.unsplash.com/photo-1568572933382-74d440642117?w=600&q=80",
+      "options": [
+        {
+          "text": "Natural model! Perfect poses and eye contact!",
+          "scores": {
+            "social": 2,
+            "cute": 1
+          }
+        },
+        {
+          "text": "Camera-shy master! Expert at turning their head away!",
+          "scores": {
+            "shy": 2,
+            "independent": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "energy-social",
+      "title": "Energy Overload! The Neighborhood Social Butterfly",
+      "description": "Your dog is the star wherever they go! During walks, they attract all the 'what a cute dog!' attention and instantly become best friends with other dogs - a natural social butterfly! With overflowing energy, they bring joy to the whole family, and every day with this pup is a fun adventure. Take them to dog meetups and watch the 'what a great personality!' compliments roll in! Your household's happiness virus, that's this one!",
+      "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=600&q=80",
+      "tags": [
+        "Social Butterfly",
+        "Energy Overload",
+        "Happiness Virus"
+      ]
+    },
+    {
+      "id": "energy-shy",
+      "title": "Adventure-Loving Explorer Extraordinaire!",
+      "description": "Your dog has a true adventurer's soul! Eyes sparkling at new scents, new places, new discoveries! Walk time equals exploration time - a nose expert who reads the world through smell. More interested in all the fascinating things in the world than other dogs or people, this uniquely charming pup has an irresistible personality!",
+      "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600&q=80",
+      "tags": [
+        "Adventure DNA",
+        "Curiosity Heaven",
+        "Explorer Chief"
+      ]
+    },
+    {
+      "id": "calm-social",
+      "title": "Perfect Manners! The Elegant Gentle-Dog",
+      "description": "Your dog is a true gentleman/lady! With a calm yet affectionate nature, they're loved by everyone they meet - the perfect personality! Friendly without being hyper, maintaining composure in any situation. With their mature and sophisticated charm, they make you hear 'you've raised them so well!' - truly a proud companion!",
+      "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?w=600&q=80",
+      "tags": [
+        "Perfect Manners",
+        "Gentle-Dog",
+        "Top Class"
+      ]
+    },
+    {
+      "id": "calm-shy",
+      "title": "The Healing Companion Who Brings Peace",
+      "description": "Your dog is like a quiet angel who offers comfort by your side! Without loud barking or chaos, just sitting quietly on the sofa with you melts away the day's fatigue. On hard days, looking into this pup's eyes feels like they're saying 'it's okay, I'm here.' They're your precious companion who gifts you the world's most peaceful healing!",
+      "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?w=600&q=80",
+      "tags": [
+        "Healing Angel",
+        "Peaceful Soul",
+        "Quiet Comfort"
+      ]
+    },
+    {
+      "id": "loyal-cute",
+      "title": "Your #1 Fan! The Adorable Lovebug!",
+      "description": "Your dog is absolutely certain that 'the best person in the world = you' - your eternal fan club president! Their tail spins like a propeller just at the sight of you, stealing hearts with endless charm - a sweet lovebug! This pup makes you feel like the most special person in the world by expressing 'I love you, Mom/Dad!' with their whole body. This love will never change!",
+      "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?w=600&q=80",
+      "tags": [
+        "Charm Explosion",
+        "Eternal Fan Club",
+        "Heart Stealer"
+      ]
+    },
+    {
+      "id": "loyal-cool",
+      "title": "Cool Exterior, Burning Loyalty! Guardian Angel Dog",
+      "description": "Your dog is the family's reliable guardian angel! Usually cool and composed, but when danger threatens the family, they're the brave protector who steps up first. Watching quietly without showing it, appearing when needed - so trustworthy! Did you know about the burning love hidden beneath this cool exterior?",
+      "image": "https://images.unsplash.com/photo-1553882809-a4f57e59501d?w=600&q=80",
+      "tags": [
+        "Cool Guardian Angel",
+        "Trustworthy Protector",
+        "Secret Loyalist"
+      ]
+    },
+    {
+      "id": "independent-curious",
+      "title": "Free Spirit! The Curious Independent Dog",
+      "description": "Your dog is an independent soul who loves freedom! Enjoys alone time while being full of curiosity for new things - a charming personality! Not clingy so they're easy to care for, yet their occasional displays of affection feel extra special. A wonderful independent dog with their own world!",
+      "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600&q=80",
+      "tags": [
+        "Free Spirit",
+        "Independent Dog",
+        "Mysterious Charm"
+      ]
+    },
+    {
+      "id": "independent-cautious",
+      "title": "Sassy Charm Overload! The Cat-Spirited Dog",
+      "description": "A dog but... somehow cat-like? That's right! Your dog has their own world with a sassy charm! Not the type to come running when called, but those moments when they quietly sneak over and lean against you? Heart-melting! 'Must be in a good mood today!' - those rare displays of affection make it extra special. Once you fall for this sassy charm, there's no escape!",
+      "image": "https://images.unsplash.com/photo-1568393691622-c7ba131d63b4?w=600&q=80",
+      "tags": [
+        "Sassy Overload",
+        "Cat Spirit",
+        "Rare Affection"
+      ]
+    }
+  ]
+}

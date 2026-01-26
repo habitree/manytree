@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "나의 감정 표현 스타일 테스트",
+  "description": "기쁠 때 어떻게 표현해요? 화날 때는? 우리 모두 감정 표현 방식이 달라요! 당신만의 독특한 감정 표현 스타일을 알아보고, 친구들과 결과 비교해보세요!",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "열심히 준비한 아이디어가 회의에서 무시당했다! 당신은?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "솔직하게 '그건 좀 아쉽네요'라고 의견을 말한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "속으로 삭이며 표정 관리, 프로페셔널하게!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "다음엔 더 잘 설득해야지! 성장의 기회로 삼는다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "일단 다른 업무에 집중! 잊어버리는 게 상책",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "가까운 사람과 다투었을 때, 당신의 일반적인 반응은 무엇인가요?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "자신의 감정을 차근차근 설명하고 상대방의 의견도 들으려 한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "화난 감정을 드러내지 않으려고 애쓰면서 침묵으로 일관한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "상대방의 입장을 이해하려고 노력하며 긍정적으로 해석한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "그 상황에서 벗어나기 위해 다른 일을 시작한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "좋아하던 가수 콘서트 티켓팅 성공! 당신의 반응은?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "와아아! 소리 지르며 SNS에 바로 자랑!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "속으로 가츠! 하면서 조용히 미소 짓기",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "감사한 마음으로 콘서트 날까지 기다리며 설레기",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "기쁘지만 금방 일상으로 돌아와 할 일 체크!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "오늘 유독 스트레스 받는 날! 퇴근 후 당신은?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "친구한테 전화해서 '오늘 진짜...' 하소연 타임!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "혼자 조용히 정리하며 마음을 다스린다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "오늘 일에서 배울 점을 찾으며 성장 포인트 체크!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "넷플릭스/게임으로 기분 전환! 잊어버리는 게 최고!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "실수를 했을 때 당신의 반응은 어떠한가요?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "자신의 실수를 인정하고 진심 어린 사과를 한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실수한 것이 보이지 않으려고 하면서 조용히 처리한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실수를 통해 배우고 다음에 더 잘하겠다고 다짐한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실수한 것 자체를 빨리 잊고 넘어가려고 한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "누군가가 당신을 비판했을 때, 당신은 어떻게 반응하나요?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "자신의 감정을 표현하면서 상대방의 피드백을 듣는다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "상처받지 않은 척 표면적으로 웃으면서 넘어간다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "비판에서 유용한 조언이 있는지 찾으려고 노력한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "그 비판에 대해 생각하지 않으려고 의식적으로 회피한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "혼자 있는 주말, 왠지 외로운 기분이 든다! 당신은?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "친구한테 '뭐해? 나와!' 연락해서 만남 성사!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "혼자만의 시간으로 받아들이며 조용히 보낸다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "나만의 시간이잖아! 자기 성찰의 기회로 활용!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "유튜브/드라마 정주행으로 외로움 날려버리기!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "누군가와 깊은 감정적 연결을 원할 때, 당신은 어떻게 행동하나요?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "자신의 내면을 솔직하게 드러내고 감정을 나눈다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "감정을 표현하되 적절한 거리감을 유지하려고 한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "상대방을 배려하는 마음으로 연결되려고 노력한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "감정적 연결보다는 현재에 충실하려고 한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "친구가 약속을 또 어겼다! 화가 치밀어 오를 때 당신은?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "'이번엔 진짜 서운해' 솔직하게 말한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "일단 참고 마음을 가라앉힌 후에 대화한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "친구도 사정이 있었겠지, 이해해보려고 노력한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "그냥 넘어간다, 말해봐야 피곤하니까",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "불안을 느낄 때 당신의 일반적인 반응은 무엇인가요?",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "불안한 마음을 누군가와 나누면서 안심하려고 한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "불안감을 억누르고 침착함을 유지하려고 애쓴다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "불안감의 뿌리를 찾아 차근차근 해결하려고 한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "불안한 생각을 밀어내고 현재의 일에 집중한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "당신이 실패했다고 느낄 때, 당신은 주변 사람들에게 어떻게 표현하나요?",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "자신의 감정과 경험을 솔직하게 이야기한다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실패를 드러내지 않으려고 하면서 다른 주제로 돌린다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실패 경험을 통해 배운 것을 긍정적으로 공유한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "실패 경험 자체를 누군가에게 말하지 않는다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "당신의 감정이 다른 사람을 상하게 할 수 있다는 것을 깨달았을 때, 당신은 어떻게 반응하나요?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "상대방에게 자신의 감정을 설명하고 진심 어린 대화를 나눈다",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "감정 표현을 더욱 조심하고 절제하려고 노력한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "상대방의 감정을 이해하고 더 나은 방식으로 표현하려고 노력한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "그 상황 전체를 피하고 감정적 거리를 두려고 한다",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "마음을 숨기지 않는 솔직 표현가!",
+      "description": "당신은 감정에 솔직한 사람! 기쁘면 기뻐하고, 속상하면 속상하다고 말하는 게 당신의 스타일이에요. 그래서 주변 사람들이 당신을 '속을 알 수 있는 편한 사람'으로 여기죠.\n\n당신의 매력 포인트!\n- 감정을 숨기지 않아서 스트레스가 쌓이지 않아요\n- 사람들과 금세 친해지고 깊은 관계를 맺어요\n- '이 사람한테는 진심으로 말해도 되겠다'는 신뢰를 받아요\n- 당신의 솔직함이 주변 사람들에게 용기를 줘요!\n\n친구들 사이에서 '너는 참 솔직해서 좋아!'라는 말을 자주 듣지 않나요? 당신의 진심 어린 표현이 관계를 더 따뜻하게 만들어요!",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "솔직 담백",
+        "마음 리더기",
+        "따뜻한 진심"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "차분한 감정 마스터! 포커페이스의 달인",
+      "description": "당신은 감정 조절의 달인! 마음속은 폭풍이어도 겉으로는 평온한 바다처럼 보이는 능력자예요. 어떤 상황에서도 흔들리지 않는 당신의 침착함, 정말 멋있어요!\n\n당신의 매력 포인트!\n- 위기 상황에서도 냉정하게 판단할 수 있어요\n- '저 사람 있으면 왠지 안심돼'라는 신뢰를 받아요\n- 감정에 휘둘리지 않아 실수가 적어요\n- 주변 사람들에게 안정감을 주는 존재예요!\n\n친구들이 힘든 일 있을 때 '너한테 말하면 왠지 마음이 편해져'라고 하지 않나요? 당신의 차분함이 주변을 안정시키는 큰 힘이에요. 가끔은 믿는 사람에게 속마음을 보여주는 것도 좋아요!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "포커페이스",
+        "침착의 아이콘",
+        "든든한 존재"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "넘어져도 다시 일어나는 긍정 변환가!",
+      "description": "당신은 '레몬을 받으면 레모네이드를 만드는' 타입! 힘든 상황에서도 '이걸로 뭘 배울 수 있을까?'를 먼저 생각하는 놀라운 긍정 에너지의 소유자예요.\n\n당신의 매력 포인트!\n- 어떤 상황에서도 성장 포인트를 찾아내요\n- 회복력이 놀라워서 금방 다시 일어나요\n- 주변 사람들에게 희망과 용기를 전해요\n- 갈등 상황에서도 상대방을 이해하려고 노력해요!\n\n'너는 어떻게 그렇게 긍정적이야?'라는 말을 자주 듣지 않나요? 당신의 긍정적인 관점이 주변 사람들에게 큰 힘이 돼요. 당신과 함께하면 왠지 '나도 할 수 있을 것 같아!'라는 용기가 생긴답니다!",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "긍정 에너지",
+        "성장 마인드",
+        "희망 전파자"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "나만의 방식으로 해결하는 독립 자율가!",
+      "description": "당신은 감정에 휘둘리지 않고 자기만의 방식으로 해결하는 독립적인 사람! 복잡한 감정보다 '지금 해야 할 일'에 집중하는 실용적인 타입이에요.\n\n당신의 매력 포인트!\n- 감정에 끌려다니지 않아 효율적으로 움직여요\n- 자기 문제는 스스로 해결하는 독립심이 강해요\n- 상대방에게 감정적 부담을 주지 않아요\n- 위기 상황에서도 실용적인 판단을 해요!\n\n'너는 참 독립적이야'라는 말을 자주 듣지 않나요? 당신의 자율적인 감정 관리 능력은 큰 장점이에요. 가끔은 믿는 사람과 마음을 나누는 것도 좋은 경험이 될 거예요. 당신만의 방식을 유지하면서도요!",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "독립 만렙",
+        "실용주의자",
+        "나만의 방식"
+      ]
+    }
+  ]
+}
