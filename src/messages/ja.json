@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ManyTree - 心理テスト",
+    "description": "様々な心理テストとMBTIテストを楽しもう！面白い性格テスト、MBTI診断、恋愛心理テストなど、すべて無料で提供しています。",
+    "keywords": "心理テスト, MBTI, 性格テスト, 診断, MBTI診断, 性格タイプ, 無料心理テスト, 恋愛テスト"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "紹介",
+    "contact": "お問い合わせ"
+  },
+  "footer": {
+    "slogan": "自分を知る温かい時間。\n楽しくて有益な心理テストを\n無料で提供します。",
+    "quickLinks": "クイックリンク",
+    "popularTests": "人気テストを見る",
+    "aboutService": "サービス紹介",
+    "contactUs": "お問い合わせ",
+    "policies": "ポリシー",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyright": "© 2024 ManyTree. All rights reserved.",
+    "disclaimer": "本サイトのテスト結果は娯楽と自己理解のためのものであり、正式な心理カウンセリングや診断に代わるものではありません。"
+  },
+  "home": {
+    "hero": {
+      "badge": "100% 無料心理テスト",
+      "title": "ManyTree",
+      "subtitle": "2分で出会う本当の自分",
+      "description": "心理学に基づいた精密なテストで\n知らなかった自分を発見しよう",
+      "cta": "無料で始める",
+      "scroll": "下にスクロール"
+    },
+    "trust": {
+      "noSignup": "登録不要",
+      "noData": "個人情報収集なし",
+      "instant": "結果即時確認"
+    },
+    "categories": {
+      "all": "すべて",
+      "personality": "性格/自我",
+      "love": "恋愛/関係",
+      "work": "仕事/ストレス",
+      "fun": "エンタメ/トレンド"
+    },
+    "stats": {
+      "tests": "心理テスト",
+      "results": "結果タイプ",
+      "completed": "テスト完了"
+    },
+    "cta": {
+      "title": "今すぐ始めよう",
+      "description": "たった2分で自分をもっと深く知る時間。",
+      "button": "人気テストを見る"
+    }
+  },
+  "test": {
+    "start": "始める",
+    "duration": "約{minutes}分",
+    "questions": "{count}問",
+    "hot": "HOT",
+    "new": "NEW",
+    "progress": "進捗",
+    "questionOf": "{current} / {total}"
+  },
+  "result": {
+    "title": "YOUR RESULT",
+    "analysis": "性格分析",
+    "share": "シェア",
+    "shareDescription": "友達と結果をシェアしよう！",
+    "copyLink": "リンクをコピー",
+    "copied": "リンクがコピーされました！",
+    "retry": "もう一度",
+    "otherTests": "他のテストを試す",
+    "kakaoShare": "カカオトークでシェア",
+    "twitterShare": "X（Twitter）でシェア",
+    "nativeShare": "シェア"
+  },
+  "share": {
+    "kakaoNotReady": "カカオSDKがまだ初期化されていません。\nしばらくしてからもう一度お試しください。",
+    "kakaoNotAvailable": "カカオトーク共有機能が利用できません。\nページを更新してからもう一度お試しください。",
+    "tryTest": "テストを受ける"
+  },
+  "about": {
+    "title": "ManyTreeについて",
+    "subtitle": "自分を知る旅の始まり"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "ご質問があればお気軽にご連絡ください"
+  },
+  "language": {
+    "select": "言語",
+    "current": "日本語"
+  }
+}

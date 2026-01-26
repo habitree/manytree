@@ -1,16 +1,22 @@
 import { getAllTests } from "@/lib/tests";
+import { setRequestLocale } from "next-intl/server";
 import TestResultClient from "@/components/TestResultClient";
+import { locales } from "@/i18n/config";
 
 interface Props {
-  params: Promise<{ id: string }>;
+  params: Promise<{ locale: string; id: string }>;
 }
 
 export function generateStaticParams() {
   const tests = getAllTests();
-  return tests.map((test) => ({ id: test.id }));
+  return locales.flatMap((locale) =>
+    tests.map((test) => ({ locale, id: test.id }))
+  );
 }
 
 export default async function TestResultPage({ params }: Props) {
-  const { id } = await params;
+  const { locale, id } = await params;
+  setRequestLocale(locale);
+
   return <TestResultClient testId={id} />;
 }

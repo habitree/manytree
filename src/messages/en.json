@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ManyTree - Personality Tests",
+    "description": "Explore various personality tests and MBTI tests! Enjoy fun personality quizzes, MBTI type assessments, love compatibility tests, and more - all for free.",
+    "keywords": "personality test, MBTI, psychology test, quiz, MBTI test, personality type, free personality test, love test"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "footer": {
+    "slogan": "Discover yourself.\nFun and insightful personality tests,\ncompletely free.",
+    "quickLinks": "Quick Links",
+    "popularTests": "Popular Tests",
+    "aboutService": "About Us",
+    "contactUs": "Contact",
+    "policies": "Policies",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 ManyTree. All rights reserved.",
+    "disclaimer": "Test results are for entertainment and self-understanding only. They do not replace professional psychological counseling or diagnosis."
+  },
+  "home": {
+    "hero": {
+      "badge": "100% Free Personality Tests",
+      "title": "ManyTree",
+      "subtitle": "Discover the Real You in 2 Minutes",
+      "description": "Uncover hidden aspects of yourself\nwith psychology-based assessments",
+      "cta": "Start for Free",
+      "scroll": "Scroll Down"
+    },
+    "trust": {
+      "noSignup": "No Sign-up Required",
+      "noData": "No Personal Data Collected",
+      "instant": "Instant Results"
+    },
+    "categories": {
+      "all": "All",
+      "personality": "Personality",
+      "love": "Love & Relationships",
+      "work": "Work & Stress",
+      "fun": "Fun & Trends"
+    },
+    "stats": {
+      "tests": "Personality Tests",
+      "results": "Result Types",
+      "completed": "Tests Completed"
+    },
+    "cta": {
+      "title": "Start Your Journey Now",
+      "description": "Just 2 minutes to understand yourself better.",
+      "button": "Explore Popular Tests"
+    }
+  },
+  "test": {
+    "start": "Start Test",
+    "duration": "About {minutes} min",
+    "questions": "{count} questions",
+    "hot": "HOT",
+    "new": "NEW",
+    "progress": "Progress",
+    "questionOf": "{current} / {total}"
+  },
+  "result": {
+    "title": "YOUR RESULT",
+    "analysis": "Personality Analysis",
+    "share": "Share",
+    "shareDescription": "Share your results with friends!",
+    "copyLink": "Copy Link",
+    "copied": "Link copied!",
+    "retry": "Try Again",
+    "otherTests": "Take Other Tests",
+    "kakaoShare": "Share on KakaoTalk",
+    "twitterShare": "Share on X (Twitter)",
+    "nativeShare": "Share"
+  },
+  "share": {
+    "kakaoNotReady": "Kakao SDK is not initialized yet.\nPlease try again in a moment.",
+    "kakaoNotAvailable": "KakaoTalk sharing is not available.\nPlease refresh the page and try again.",
+    "tryTest": "Take the Test"
+  },
+  "about": {
+    "title": "About ManyTree",
+    "subtitle": "Begin your journey of self-discovery"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Feel free to reach out with any questions"
+  },
+  "language": {
+    "select": "Language",
+    "current": "English"
+  }
+}

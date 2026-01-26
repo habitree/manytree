@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ManyTree - Tests de Personalidad",
+    "description": "¡Explora varios tests de personalidad y MBTI! Disfruta de divertidos tests de personalidad, evaluaciones de tipo MBTI, tests de compatibilidad amorosa y más, ¡todo gratis!",
+    "keywords": "test de personalidad, MBTI, test psicológico, quiz, test MBTI, tipo de personalidad, test gratis, test de amor"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "slogan": "Descúbrete a ti mismo.\nTests de personalidad divertidos e informativos,\ncompletamente gratis.",
+    "quickLinks": "Enlaces Rápidos",
+    "popularTests": "Tests Populares",
+    "aboutService": "Sobre Nosotros",
+    "contactUs": "Contacto",
+    "policies": "Políticas",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyright": "© 2024 ManyTree. Todos los derechos reservados.",
+    "disclaimer": "Los resultados de los tests son solo para entretenimiento y autoconocimiento. No reemplazan el asesoramiento psicológico profesional."
+  },
+  "home": {
+    "hero": {
+      "badge": "Tests de Personalidad 100% Gratis",
+      "title": "ManyTree",
+      "subtitle": "Descubre tu verdadero yo en 2 minutos",
+      "description": "Descubre aspectos ocultos de ti mismo\ncon evaluaciones basadas en psicología",
+      "cta": "Comenzar Gratis",
+      "scroll": "Desplázate hacia abajo"
+    },
+    "trust": {
+      "noSignup": "Sin Registro",
+      "noData": "Sin Recolección de Datos",
+      "instant": "Resultados Instantáneos"
+    },
+    "categories": {
+      "all": "Todos",
+      "personality": "Personalidad",
+      "love": "Amor y Relaciones",
+      "work": "Trabajo y Estrés",
+      "fun": "Diversión y Tendencias"
+    },
+    "stats": {
+      "tests": "Tests de Personalidad",
+      "results": "Tipos de Resultados",
+      "completed": "Tests Completados"
+    },
+    "cta": {
+      "title": "Comienza tu Viaje Ahora",
+      "description": "Solo 2 minutos para conocerte mejor.",
+      "button": "Explorar Tests Populares"
+    }
+  },
+  "test": {
+    "start": "Comenzar Test",
+    "duration": "Aprox. {minutes} min",
+    "questions": "{count} preguntas",
+    "hot": "POPULAR",
+    "new": "NUEVO",
+    "progress": "Progreso",
+    "questionOf": "{current} / {total}"
+  },
+  "result": {
+    "title": "TU RESULTADO",
+    "analysis": "Análisis de Personalidad",
+    "share": "Compartir",
+    "shareDescription": "¡Comparte tus resultados con amigos!",
+    "copyLink": "Copiar Enlace",
+    "copied": "¡Enlace copiado!",
+    "retry": "Intentar de Nuevo",
+    "otherTests": "Probar Otros Tests",
+    "kakaoShare": "Compartir en KakaoTalk",
+    "twitterShare": "Compartir en X (Twitter)",
+    "nativeShare": "Compartir"
+  },
+  "share": {
+    "kakaoNotReady": "El SDK de Kakao aún no está inicializado.\nPor favor, inténtalo de nuevo en un momento.",
+    "kakaoNotAvailable": "La función de compartir de KakaoTalk no está disponible.\nPor favor, actualiza la página e inténtalo de nuevo.",
+    "tryTest": "Hacer el Test"
+  },
+  "about": {
+    "title": "Sobre ManyTree",
+    "subtitle": "Comienza tu viaje de autodescubrimiento"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "No dudes en contactarnos si tienes alguna pregunta"
+  },
+  "language": {
+    "select": "Idioma",
+    "current": "Español"
+  }
+}

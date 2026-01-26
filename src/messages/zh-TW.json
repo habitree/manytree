@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ManyTree - 心理測驗",
+    "description": "探索各種心理測驗和MBTI測驗！有趣的性格測驗、MBTI類型評估、愛情心理測驗等，全部免費。",
+    "keywords": "心理測驗, MBTI, 性格測驗, 測驗, MBTI測驗, 性格類型, 免費心理測驗, 愛情測驗"
+  },
+  "nav": {
+    "home": "首頁",
+    "about": "關於",
+    "contact": "聯絡"
+  },
+  "footer": {
+    "slogan": "認識自己的溫暖時光。\n有趣又有益的心理測驗，\n完全免費。",
+    "quickLinks": "快速連結",
+    "popularTests": "熱門測驗",
+    "aboutService": "關於我們",
+    "contactUs": "聯絡我們",
+    "policies": "政策條款",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "copyright": "© 2024 ManyTree. 保留所有權利。",
+    "disclaimer": "本站測驗結果僅供娛樂和自我了解，不能替代專業心理諮詢或診斷。"
+  },
+  "home": {
+    "hero": {
+      "badge": "100% 免費心理測驗",
+      "title": "ManyTree",
+      "subtitle": "2分鐘遇見真實的自己",
+      "description": "透過基於心理學的精準測驗\n發現未知的自己",
+      "cta": "免費開始",
+      "scroll": "向下捲動"
+    },
+    "trust": {
+      "noSignup": "無需註冊",
+      "noData": "不收集個人資料",
+      "instant": "即時查看結果"
+    },
+    "categories": {
+      "all": "全部",
+      "personality": "性格/自我",
+      "love": "愛情/關係",
+      "work": "職場/壓力",
+      "fun": "趣味/潮流"
+    },
+    "stats": {
+      "tests": "心理測驗",
+      "results": "結果類型",
+      "completed": "測驗完成"
+    },
+    "cta": {
+      "title": "現在就開始吧",
+      "description": "只需2分鐘，更深入地了解自己。",
+      "button": "查看熱門測驗"
+    }
+  },
+  "test": {
+    "start": "開始測驗",
+    "duration": "約{minutes}分鐘",
+    "questions": "{count}道題",
+    "hot": "熱門",
+    "new": "新",
+    "progress": "進度",
+    "questionOf": "{current} / {total}"
+  },
+  "result": {
+    "title": "YOUR RESULT",
+    "analysis": "性格分析",
+    "share": "分享",
+    "shareDescription": "與朋友分享你的結果！",
+    "copyLink": "複製連結",
+    "copied": "連結已複製！",
+    "retry": "重新測驗",
+    "otherTests": "嘗試其他測驗",
+    "kakaoShare": "分享到KakaoTalk",
+    "twitterShare": "分享到X（Twitter）",
+    "nativeShare": "分享"
+  },
+  "share": {
+    "kakaoNotReady": "Kakao SDK尚未初始化。\n請稍後重試。",
+    "kakaoNotAvailable": "KakaoTalk分享功能不可用。\n請重新整理頁面後重試。",
+    "tryTest": "參加測驗"
+  },
+  "about": {
+    "title": "關於ManyTree",
+    "subtitle": "開啟認識自己的旅程"
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "subtitle": "如有任何問題，請隨時聯絡我們"
+  },
+  "language": {
+    "select": "語言",
+    "current": "繁體中文"
+  }
+}
