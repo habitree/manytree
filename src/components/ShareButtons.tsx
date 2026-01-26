@@ -25,28 +25,25 @@ export default function ShareButtons({ title, description, url, imageUrl }: Shar
     const checkKakao = () => {
       if (typeof window !== "undefined" && window.Kakao && window.Kakao.isInitialized()) {
         setKakaoReady(true);
+        return true;
       }
+      return false;
     };
 
-    // 초기 체크
-    checkKakao();
+    // 초기 체크 (이미 초기화된 경우)
+    if (checkKakao()) return;
 
-    // SDK 로드 후 체크를 위한 interval
-    const interval = setInterval(() => {
-      checkKakao();
-      if (kakaoReady) {
-        clearInterval(interval);
-      }
-    }, 500);
+    // 카카오 초기화 이벤트 리스너 (즉시 반영)
+    const handleKakaoInit = () => {
+      setKakaoReady(true);
+    };
 
-    // 3초 후 interval 정리
-    const timeout = setTimeout(() => clearInterval(interval), 3000);
+    window.addEventListener("kakaoInitialized", handleKakaoInit);
 
     return () => {
-      clearInterval(interval);
-      clearTimeout(timeout);
+      window.removeEventListener("kakaoInitialized", handleKakaoInit);
     };
-  }, [url, kakaoReady]);
+  }, [url]);
 
   const handleCopyLink = async () => {
     try {

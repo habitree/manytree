@@ -42,6 +42,8 @@ export default function KakaoScript() {
     if (window.Kakao && !window.Kakao.isInitialized() && KAKAO_JS_KEY) {
       window.Kakao.init(KAKAO_JS_KEY);
       console.log("Kakao SDK initialized:", window.Kakao.isInitialized());
+      // 초기화 완료 이벤트 발생 - ShareButtons에서 즉시 감지
+      window.dispatchEvent(new CustomEvent("kakaoInitialized"));
     }
   };
 
