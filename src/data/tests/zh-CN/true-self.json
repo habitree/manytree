@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "你的真实模样是？寻找外表与内在一致的透明人",
+  "description": "心理学家荣格(Jung)提出的'人格面具'概念！每个人都会根据情况展现不同的模样。但你呢？你外在展现的形象与真实内心的自己之间相差多远？测量一下你的真实性指数吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你在职场或学校里展现出来的模样怎样？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "和平时的自己没有太大区别。自然地展现本来的自己。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "努力展现出适应情况的专业形象。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "显得开朗活跃，但和独处时的自己有些不同。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据相处的人和情况展现出不同的模样。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "当面临困难情况时，你主要如何应对？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "和信任的人坦诚相谈，寻求帮助。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "独处一段时间，自己梳理后再回到日常生活。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "像往常一样开朗地表现，不让人看出自己的困难。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据当时的感受做出不同的反应。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "和朋友在一起时和独处时，你的模样有差异吗？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "几乎没有差别。无论在哪里都是差不多的模样。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差别很大。在人前显得更活跃。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差别。努力展现出适应情况的恰当模样。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据情况而异。根据相处的人会显现出不同的一面。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "你的梦想或真实兴趣与他人认识的你的形象有多少匹配？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "几乎完全匹配。所做的事和喜欢的东西自然地联系在一起。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差别很大。真实的兴趣是保留在个人的领域里。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差别。在公众场合努力展现出更恰当的一面。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "还在探索中。兴趣在不断变化。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "你在社交媒体上展现的形象与真实的你相差多少？",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "几乎没有差别。自然地分享日常。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差别很大。社交媒体是精选特殊瞬间展示的空间。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差别。有想展现好的一面的心理。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "时而不同。根据当时的心情和情况分享。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "关于表达自己的观点或想法，你有什么感受？",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "表达得很自在。坦诚地说话对我很自然。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "比较谨慎。有时会担心他人的反应。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "看情况判断。考虑恰当的时机和方式。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "时而不同。有时也会思考自己的真实想法是什么。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "初次进入新环境(学校、职场、聚会)时，你的模样如何？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "和平时差不多，自然地展现自己。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "先观察情况，倾向于安静地观察。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "以礼貌谨慎的姿态开始，熟悉后逐渐放松。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据情况和人们的氛围灵活适应。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "关于'真实地生活'，你的想法是？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "很重要。我努力以本来的样子生活。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "很重要，但有时为了保护自己，会展现出不同的模样。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "很重要，但我也认为适应情况的角色也是必要的。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "还在寻找真实的自己的过程中。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "他人的期待或评价对你的行为有多大影响？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "影响不大。按照自己的标准行动。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "影响很大。在意他人的看法。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "会参考，但最终决定还是按照自己的判断。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据情况而异。有时在意，有时不在意。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "如果你的'真实自我'与'社交形象'产生冲突怎么办？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "选择真实的自己。我的人生更重要。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "选择形象，隐藏真实的自己。这样更安全。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "努力取得平衡。不想放弃任何一方。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根据当时的心情和情况选择。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "如果用一句话描述自己？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "无论在哪都展现一致模样的诚实的人。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "拥有丰富内心世界的多层次的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "能根据情况恰当应对的灵活的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "不断成长变化的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "透明人！外表与内在一致的你",
+      "description": "恭喜你！你是心理学所说的'最健康状态'的人。你最大的优势是<b>真实性</b>。无论做什么都自信地行动，人们信任你并跟随你。外表与内在一致的人心理健康优秀，在人际关系中受信任，压力少。像你这样生活就是最幸福人生的秘诀。你的透明与诚实是世界真正的财富！",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "真实性的象征",
+        "受信任的人",
+        "健康的心理",
+        "本来的生活"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "拥有丰富内心世界的人",
+      "description": "你是拥有深厚内心世界的体贴周到的人。相比直接表露一切，你选择谨慎地表达自己。这是<b>自我保护和谨慎的表现</b>。你的<b>优秀的观察力</b>和<b>敏锐的感受性</b>让你能深刻理解情境。成长建议：在信任的关系中，逐步分享真实的自己。真正的联系在相互接纳对方的本来面目时会更加深化。你分享内心的经历可能会获得比预期更温暖的回应！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "敏锐的观察",
+        "谨慎的表达",
+        "深厚的感受性",
+        "内在的丰富"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "聪慧的适应者，情况应对的高手",
+      "description": "你是能灵活适应情况的<b>聪慧适应者</b>。拥有卓越的社交能力和情况判断力。一边专业地表现自己，一边保持真实性的平衡感是你的强项。这种<b>策略性的灵活性</b>在各种环境中成功有很大帮助。一个成长的方向是在舒适的关系中展现更自然的一面。那样的时间会成为真正的能量补充，让你更加闪耀！",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "情况应对能力",
+        "社交智慧",
+        "平衡感",
+        "策略性灵活性"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "不断进化的探索者",
+      "description": "你是正在不断发现自己的<b>成长型的人</b>！你还没有完全定义自己是谁，根据情况和人会展现出多个不同的侧面。这意味着<b>可能性的丰富</b>。你灵活，适应力强，不害怕接受新事物。你的下一步是'整合'。理解到现在为止发现的自己的各个侧面，逐步地将它们整合为一体。自己认识的过程本身就是你最大的资产！",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "成长中的灵魂",
+        "无限的可能性",
+        "自我发现",
+        "灵活的适应者"
+      ]
+    }
+  ]
+}

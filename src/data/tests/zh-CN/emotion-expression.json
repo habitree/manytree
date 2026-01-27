@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "我的情感表达风格测试",
+  "description": "开心时，你怎样表达？生气时呢？我们每个人的情感表达方式都不同！发现你独特的情感表达风格，并与朋友们比较结果吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你精心准备的想法在会议中被忽视了！你会怎么做？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "坦诚地表达意见：'这确实有点遗憾'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "压抑情感并专业地管理表情！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "想着'下次我会更好地说服'，把它当作成长机会",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "先专注其他工作吧！忘记是上策",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "与亲近的人吵架时，你的典型反应是什么？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "逐步解释你的感受，并尝试听对方的想法",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "努力隐藏愤怒，保持沉默",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "尝试理解对方的立场并积极解读",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "开始做别的事来逃离这种状况",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "你成功获得了最喜欢的歌手的演唱会门票！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "哇啊啊！大声尖叫，立即在社交媒体上炫耀！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "心里'太好了！'但静静地微笑",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "带着感恩的心，期待演唱会的到来",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "虽然高兴，但很快回到日常工作！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "今天特别有压力！下班后你会怎样？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "打电话给朋友倾诉：'今天真是...'！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "独自静静地整理，控制自己的情绪",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "从今天的工作中找到学习点，检查成长收获！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "用Netflix/游戏转移注意力！忘记是最好的办法！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "当你犯了一个错误时，你的反应是什么？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "承认错误并真诚地道歉",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "试图隐藏错误，静静地处理",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "从错误中学习，下次做得更好",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "尽快忘记错误并继续前进",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "当有人批评你时，你怎么反应？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "表达你的感受，同时听取对方的反馈",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "假装没有伤害，表面上笑着掩过",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "尝试从批评中找到有用的建议",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "有意识地避免考虑这个批评",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "独自度过的周末，你感到有点孤独！你会怎样？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "打电话给朋友：'在干什么？出来玩！'并成功约见！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "接受独处时间，静静地度过",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "这是我的个人时间！用来自我反思和成长！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "用YouTube/电视剧打发时间，赶走孤独！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "当你想与某人建立深层情感连接时，你怎样行动？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "坦诚地表露内心，分享你的情感",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "表达感情但保持适当距离",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "带着关心的心态尝试建立连接",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "专注于当下，而不是情感连接",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你的朋友又一次破坏了约定！当愤怒升起时，你会怎样？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "坦白说：'这次我真的失望了'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "压制愤怒，冷静下来后再谈话",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "尝试理解—朋友可能有原因",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "就算了，说起来太累了",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "当你感到焦虑时，你的典型反应是什么？",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "与某人分享焦虑并寻求安慰",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "压抑焦虑，试图保持镇定",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "寻找焦虑的根源并逐步解决",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "将焦虑思想赶出脑海，专注现在",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "当你感到失败时，你如何向他人表达？",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "坦诚分享你的感受和经历",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "试图隐藏失败，转移话题",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "从失败中学到的东西以积极的方式分享",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "不向任何人讲述失败经历",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "当你意识到你的情感可能伤害他人时，你怎么反应？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "向对方解释你的感受并进行真诚的对话",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "更谨慎地表达情感并约束自己",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "理解对方感受并尝试更好的表达方式",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "避免整个情况并保持情感距离",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "心不隐藏的坦诚表达者！",
+      "description": "你是一个感情坦诚的人！开心就开心，难过就难过—这就是你的风格。所以周围的人把你看作'能理解的、舒适的人'。\n\n你的吸引力点！\n- 你不隐藏情感，所以压力不会堆积\n- 你很快与人亲近并建立深层关系\n- 你获得'我可以跟这个人坦诚'的信任\n- 你的坦率给周围的人带来勇气！\n\n你是否常听到朋友说'我真喜欢你这么坦白'？你真挚的表达让关系更温暖！",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "坦诚简朴",
+        "心灵读者",
+        "温暖真心"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "平静的情感大师！扑克脸高手",
+      "description": "你是情感控制的大师！心里可能风暴翻腾，但外表却如平静的海面—你有这样的能力。你在任何情况下的镇定都令人钦佩！\n\n你的吸引力点！\n- 在危机中也能冷静判断\n- 人们信任你并认为'和你一起我感到安全'\n- 你不被情感驱使，所以错误更少\n- 你给周围的人带来稳定感！\n\n朋友们在困难时是否对你说'和你说话让我心里平静'？你的镇定是给他人的巨大力量。有时与信任的人分享真实想法也很好！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "扑克脸",
+        "镇定之王",
+        "可靠的人"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "再次站起的积极转换者！",
+      "description": "你是'用柠檬做柠檬水'的类型！即使在困难中，你也有'我能学到什么？'的惊人积极能量。\n\n你的吸引力点！\n- 在任何情况下都能找到成长点\n- 你的恢复力令人惊叹—很快站起来\n- 你给周围的人传递希望和勇气\n- 你在冲突中尝试理解对方！\n\n人们是否经常问你'你怎么这么积极？'你的正面观点对周围的人是巨大的力量。与你在一起，人们会感到'我也能做到！'",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "积极能量",
+        "成长心态",
+        "希望传播者"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "独立自主的解决者！",
+      "description": "你是一个独立的人，不被情感淹没，用自己的方式解决问题！你是实用型，更专注于'现在该做什么'而不是复杂情感。\n\n你的吸引力点！\n- 你不被情感拖累，高效率行动\n- 你有强大的独立心—自己解决问题\n- 你不给他人情感负担\n- 危机中你做实用的判断！\n\n人们是否经常说'你真的很独立'？你的自主情感管理能力是巨大的优势。保持自己的方式同时，有时与信任的人分享心灵也会是好经验！",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "独立满分",
+        "实用主义者",
+        "我的方式"
+      ]
+    }
+  ]
+}

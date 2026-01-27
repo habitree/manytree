@@ -1,0 +1,355 @@
+{
+  "id": "food-style",
+  "title": "美食DNA測試：你真正的食物性格是什麼？",
+  "description": "'吃什麼呢？'煩惱結束！了解你的食物品味，選擇菜單就會變簡單。試著和戀人、朋友比較結果吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&h=600&fit=crop&q=80",
+  "color": "#FF9800",
+  "questions": [
+    {
+      "id": 1,
+      "text": "在陌生的旅遊地必須吃晚餐！你的選擇是？",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+      "options": [
+        {
+          "text": "開始探險小巷！我想尋找只有當地人知道的隱藏美食！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "評分4.5以上認證！相信經過驗證的美食餐廳去吃！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "新菜單推出的'辛辣拉麵'！你的選擇是？",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "options": [
+        {
+          "text": "應該挑戰一下！我喜歡辛辣味帶來的快感！",
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
+        },
+        {
+          "text": "請給我清淡的味道！我喜歡好好品嚐味道！",
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "飯後甜點時間！你的選擇是？",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "options": [
+        {
+          "text": "甜點是另一個胃！蛋糕、冰淇淋必須要！",
+          "scores": {
+            "sweet": 2,
+            "savory": 0
+          }
+        },
+        {
+          "text": "甜點？我反而對起司或下酒菜更感興趣！",
+          "scores": {
+            "sweet": 0,
+            "savory": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "今天午餐選擇菜單時最重要的標準是什麼？",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "options": [
+        {
+          "text": "營養均衡！我想吃對身體有益的食物！",
+          "scores": {
+            "health": 2,
+            "taste": 0
+          }
+        },
+        {
+          "text": "首先是味道！好吃的話心情就會變好啊！",
+          "scores": {
+            "health": 0,
+            "taste": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "發現人生美食餐廳！你的下一個行動是？",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "options": [
+        {
+          "text": "立即分享到群聊！好吃的東西就該分享才是幸福啊！",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "保存為我的祕密據點！想在特別的日子再去一次！",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "在社群媒體上熱議的新融合美食餐廳！你的反應是？",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "options": [
+        {
+          "text": "哇好新穎！馬上預約，想挑戰新的味道！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "很有趣啊！等評論再多一點的時候再去吧！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "在家煮拉麵時你獨有的風格是？",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+      "options": [
+        {
+          "text": "雞蛋、起司、蔥等等配料豐富！我的招牌拉麵！",
+          "scores": {
+            "adventurous": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "按照麵包裝背面食譜！原汁原味才是最棒的！",
+          "scores": {
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "在咖啡館選擇飲料！你的招牌訂單是？",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "甜蜜的星冰樂、焦糖瑪奇朵，再加鮮奶油！",
+          "scores": {
+            "sweet": 2,
+            "savory": 0,
+            "taste": 1
+          }
+        },
+        {
+          "text": "美式咖啡、濃縮咖啡！簡潔才是最棒的！",
+          "scores": {
+            "sweet": 0,
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "深夜肚子餓的時候，你的選擇是？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "今天辛苦了一天，應該吃想吃的東西！",
+          "scores": {
+            "taste": 2,
+            "health": 0
+          }
+        },
+        {
+          "text": "為了明天，吃清淡一點或者忍住吧！",
+          "scores": {
+            "taste": 0,
+            "health": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "吃飯時最喜歡的氛圍是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "和朋友一起熱鬧！邊笑邊聊天吃飯才好吃！",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "安靜地專注在食物上！一個人吃飯也很好吃啊！",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "在海外旅遊中發現第一次看到的食物！你的反應是？",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+      "options": [
+        {
+          "text": "不知道是什麼但先吃看看！經驗是財富！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0,
+            "spicy": 1
+          }
+        },
+        {
+          "text": "用谷歌翻譯確認食材首先...安全第一！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "悠閒的週末早午餐！你被吸引的菜單是？",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&q=80",
+      "options": [
+        {
+          "text": "鬆餅、比利時鬆餅、法式吐司！甜蜜早午餐最棒！",
+          "scores": {
+            "sweet": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "班尼迪克蛋、沙拉、健康組合！",
+          "scores": {
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventurous-spicy-social",
+      "title": "美食地圖的開拓者！美食探險家",
+      "description": "你的座右銘是'不吃不知道'！在陌生的食物面前沒有恐懼！你大膽挑戰陌生食物，發現隱藏美食後馬上分享給朋友！朋友們之間不斷傳來'找美食餐廳就靠你了！'的請求吧？和你一起的餐食總是美味的冒險！下一次會發現什麼新美食呢？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "tags": [
+        "美食開拓者",
+        "美食探險家",
+        "食物冒險王"
+      ]
+    },
+    {
+      "id": "traditional-mild-solo",
+      "title": "填滿心靈的一餐！療癒美食愛好者",
+      "description": "對你來說，食物不只是'日常餐飯'，而是'心靈的慰藉'！充滿用心的家常飯一餐，在熟悉又舒適的味道中找到真正的幸福。你知道怎麼一個人美味地吃飯，也懂得透過食物療癒一天的疲勞的睿智美食家！你的餐桌上總是伴隨著溫暖的安慰。'今天也好好吃了！'這句話就夠了，你真的很棒！",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+      "tags": [
+        "療癒美食愛好者",
+        "溫暖的一餐",
+        "心靈充電型"
+      ]
+    },
+    {
+      "id": "health-savory-solo",
+      "title": "吃的東西決定了我！健康美食家",
+      "description": "你是'我的身體就是我'哲學的擁有者！你仔細檢查卡路里、營養成分，喜歡用健康材料製作的食物。比起甜蜜的甜點，你更喜歡清淡的味道，比起刺激性的食物，你選擇對身體有益的食物！你的餐單是自我管理的精華，是許多人羨慕的生活風格！",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "tags": [
+        "健康美食家",
+        "自我照顧高手",
+        "清淡飲食"
+      ]
+    },
+    {
+      "id": "taste-sweet-social",
+      "title": "人生要甜蜜！甜蜜派對製造者",
+      "description": "'人生短暫，甜點甜蜜'，這就是你的人生哲學！在美味的蛋糕面前計算卡路里？那留給明天的自己吧，先吃再說！新開的甜點咖啡館你總是最先衝去，好吃的話馬上召集朋友！和你一起的下午茶時光總是甜蜜的派對。你懂得分享幸福，還把周圍人的心情也變得甜蜜了！",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "tags": [
+        "甜蜜派對主持人",
+        "甜點獵人",
+        "甜蜜傳教士"
+      ]
+    },
+    {
+      "id": "adventurous-health-social",
+      "title": "引領潮流的均衡美食家！",
+      "description": "你是比誰都先抓住最新美食餐廳和食物趨勢的潮流引領者！你大膽挑戰新食物，同時又不忽視健康的均衡感覺者。Instagram感十足的美食照片當然少不了！看你的動態就能找到滿滿的美食資訊。真正的美食網紅！",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "tags": [
+        "美食網紅",
+        "均衡的美食品味",
+        "潮流引領者"
+      ]
+    },
+    {
+      "id": "traditional-taste-social",
+      "title": "經過驗證的味道守護者！正統美食餐廳探訪者",
+      "description": "你是追求傳統而非潮流，崇尚深厚味道而非華麗的真正美食家！你懂得發掘3代傳承的美食餐廳、只有當地人知道的隱藏食堂的樂趣。好吃的東西要和朋友分享才有味道！你的美食餐廳清單是朋友們之間的聖經呢！",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "tags": [
+        "正統美食餐廳探訪",
+        "經過驗證的美食專家",
+        "一起享受的幸福"
+      ]
+    },
+    {
+      "id": "spicy-taste-solo",
+      "title": "辛辣味的征服者！辛辣大師",
+      "description": "對你來說，辛辣味不是'痛苦'而是'快感'！火辣炒年糕？那是基本！當朋友們'這太辣了...'找水喝的時候，你卻悠閒地再夾一筷子！那張撲克臉真的很帥！'辛辣挑戰？儘管來！'自信滿滿的你！懂得享受舌尖感受到的刺激快感的真正辛辣大師！",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "tags": [
+        "辛辣大師",
+        "辛辣味征服者",
+        "愛辛辣100%"
+      ]
+    },
+    {
+      "id": "mild-sweet-health",
+      "title": "感性一勺！咖啡館感性美食家",
+      "description": "你是不只重視味道，還重視氛圍和視覺的感性美食家！在氛圍好的咖啡館裡享受漂亮的甜點的時光是最棒的療癒。喜歡柔軟又甜蜜的味道，同時也不忘健康的均衡感！你的Instagram上已經充滿了感性美食餐廳呢！",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "tags": [
+        "咖啡館感性",
+        "視覺美食愛好者",
+        "甜蜜的療癒"
+      ]
+    }
+  ]
+}

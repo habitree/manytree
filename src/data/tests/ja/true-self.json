@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "あなたの本当の姿は？外と中が同じ透明な人を見つける",
+  "description": "心理学者ユングが提示した『ペルソナ』の概念！誰もが状況に応じて異なる姿を見せます。しかし、あなたは？外に見える姿と本当の内面のあなたの間にどのくらいの差があるでしょうか？あなたの真正性指数を測定してみてください！",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "職場や学校で見せるあなたの姿はどのようなものですか？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "普段の自分と大きく変わりません。自然にありのままを見せています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況に合わせた専門的なイメージを見せるよう努力しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "明るく活発に見えますが、1人でいるときとは少し異なります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "一緒にいる人と状況に応じてさまざまな姿を見せています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "困難な状況に直面したとき、あなたは主にどのように対処しますか？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "信頼できる人に正直に話して、助けを求めます。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "1人の時間を持ち、自分で整理した後、日常に戻ります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "いつものように明るく行動し、自分の困難は隠します。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "そのとき感じる感情に応じて異なる反応をします。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "友達と一緒にいるときと1人でいるとき、あなたの姿に違いがありますか？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "ほぼ同じです。どこでも似た姿です。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "かなり異なります。人の前ではより活発に見えます。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "少し異なります。状況に合わせた適切な姿を見せるよう努力しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況によって異なります。一緒にいる人によって異なる側面が出ます。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "あなたの夢や本当の関心事は、他の人が知るあなたの姿とどのくらい一致していますか？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "ほぼ一致しています。していることと好きなことが自然につながっています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "かなり異なります。本当の関心事は個人的な領域に保っています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "少し異なります。公的な状況ではより適切なものを見せるよう努力しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "まだ探索中です。関心事は継続的に変化しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "SNSに投稿する姿と実際のあなたの差はどのくらいですか？",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "ほぼありません。日常を自然に共有しています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "かなり異なります。SNSは特別な瞬間を選別して見せる空間です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "少し異なります。良い姿を見せたい気持ちがあります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "時によって異なります。そのときの気分と状況に応じて共有しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "自分の意見や考えを表現することについて、どのように感じていますか？",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "快適に表現しています。正直に言うことが自然です。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "慎重です。他の人の反応が心配になることがあります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況を見て判断します。適切なときと方法を考えます。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "時によって異なります。自分の本当の考えが何かと悩むこともあります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "新しい環境（学校、職場、集まり）に初めて行くときのあなたの姿は？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "普段と似たように自然に自分を表現しています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "まず状況を把握しながら、静かに観察する傾向があります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "礼儀正しく慎重な姿で始め、親しくなれば楽になります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況と人々の雰囲気に応じて柔軟に適応しています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "『真正性を持って生きる』ことについてのあなたの考えは？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "重要です。ありのままの姿で生きるよう努力しています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "重要ですが、時には自分を守るために異なる姿を見せています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "重要ですが、状況に合わせた役割も必要だと思っています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "本当の自分を見つけていくプロセスの途中です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "他の人の期待や評価があなたの行動にどのくらい影響を与えていますか？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "大きく影響を受けていません。自分の基準で行動しています。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "大きく影響を受けています。他の人の視線が気になります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "参考にしますが、最終的な決断は自分の判断に従っています。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況によって異なります。気になるときもあれば、気にならないときもあります。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "もし『本当のあなた』と『社会的イメージ』が衝突したら？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "本当の自分を選びます。自分の人生がより重要です。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "イメージを選んで、本当の自分を隠します。その方が安全です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "バランスを取るよう努力します。どちらも手放したくありません。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "そのときの心情と状況に応じて選択します。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "自分自身を1文で説明するなら？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "どこでも一貫した姿を見せる正直な人です。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "深い内面世界を持つ多層的な人です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "状況に合わせて適切に対応する柔軟な人です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "絶え間なく成長し変化する人です。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "透明人間！外と中が同じあなた",
+      "description": "おめでとうございます！あなたは心理学で言う『最も健康な状態』の人です。あなたの最大の強みは<b>真正性</b>です。何をしても自信を持って行動し、人々があなたを信頼して従います。外と中が一致する人は、精神衛生が優れており、対人関係で信頼を得ており、ストレスが少ないです。あなたのように生きることが、最も幸せな人生の秘訣です。あなたの透明さと正直さは、世界の真の財産です！",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "真正性のアイコン",
+        "信頼される人",
+        "健康な精神",
+        "ありのままの人生"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "豊かな内面世界の所有者",
+      "description": "あなたは深みのある内面世界を持つ思慮深い人です。すべてを簡単に明かすのではなく、自分を表現する方法を慎重に選択しますね。これは<b>自己保護と思慮深さ</b>の表れです。あなたの<b>優れた観察力</b>と<b>繊細な感受性</b>は、状況を深く理解させてくれます。成長のポイント：信頼できる関係では、少しずつ本当の姿を共有してみてください。真の結びつきは、互いをありのまま受け入れるときにより深まります。あなたの内面を共有する経験は、予想以上に温かい反応を受けるかもしれません！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "繊細な観察",
+        "慎重な表現",
+        "深い感受性",
+        "内面の豊かさ"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "賢い適応者、状況対処の達人",
+      "description": "あなたは状況に合わせて柔軟に対応する<b>賢い適応者</b>です。優れた社交性と状況判断能力を備えていますね。プロフェッショナルに自分を表現しながらも、真正性を失わないバランス感覚があなたの強みです。この<b>戦略的柔軟性</b>は、多様な環境で成功するのに大いに役立ちます。1つの成長のポイントがあるとすれば、快適な関係ではより自然な姿を見せることです。そのような時間が真のエネルギーチャージになり、あなたをより輝かせるでしょう！",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "状況対処能力",
+        "社会的知恵",
+        "バランス感覚",
+        "戦略的柔軟性"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "絶え間なく進化する探索者",
+      "description": "あなたは自分を継続的に発見している<b>成長型の人</b>です！まだ自分が誰かを完全に定義していなく、状況や人に応じてさまざまな側面を見せています。これは<b>可能性の豊かさ</b>を意味しています。あなたは柔軟で、適応力に優れ、新しいものを受け入れることに恐れがありません。あなたの次のステップは『統合』です。これまで発見した自分のさまざまな側面を理解し、少しずつ1つに統合していってください。自分を知っていく旅そのものが、あなたの最大の財産なのです！",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "成長する魂",
+        "無限の可能性",
+        "自己発見",
+        "柔軟な適応者"
+      ]
+    }
+  ]
+}

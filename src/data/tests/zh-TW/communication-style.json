@@ -1,0 +1,353 @@
+{
+  "id": "communication-style",
+  "title": "為什麼我和這個人話不投機？隱藏的溝通DNA大公開！",
+  "description": "90%的人不知道自己的對話習慣！和戀人、朋友、同事溝通困難的原因就在這裡。改善人際關係的第一步，現在就來確認吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop&q=80",
+  "color": "#00BCD4",
+  "questions": [
+    {
+      "id": 1,
+      "text": "朋友說遇到了困難想向你傾訴。你的自然反應是？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "先充分傾聽，對他們的感受表示同情和安慰",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "了解情況，和他一起找出能幫助的解決方案",
+          "scores": {
+            "talker": 2,
+            "logical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "當你需要傳達重要信息時，你的溝通方式是？",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "認為直接清楚地表達核心內容是最高效的",
+          "scores": {
+            "direct": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "考慮對方的處境，溫和地傳達信息",
+          "scores": {
+            "indirect": 2,
+            "emotional": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "在聚會上坐在了一位陌生人旁邊，你的反應是？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "主動打招呼，自然地開始對話",
+          "scores": {
+            "talker": 2,
+            "offline": 1
+          }
+        },
+        {
+          "text": "觀察對方的情緒，等待自然的交流時機",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "會議中出現與自己不同的意見時，你的反應是？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "用邏輯論據清晰地傳達自己的想法",
+          "scores": {
+            "logical": 2,
+            "direct": 1
+          }
+        },
+        {
+          "text": "先尊重對方的意見，再謹慎地分享自己的觀點",
+          "scores": {
+            "emotional": 2,
+            "indirect": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "需要急著聯絡朋友！你首先選擇的方式是？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "發信息或微信！打字更方便，還能理清思路！",
+          "scores": {
+            "online": 2,
+            "indirect": 1
+          }
+        },
+        {
+          "text": "直接打電話！這種事不該發信息，必須直接說！",
+          "scores": {
+            "offline": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "在群聊中，你的參與風格是？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "積極參與聊天，帶動氣氛",
+          "scores": {
+            "talker": 2,
+            "casual": 1
+          }
+        },
+        {
+          "text": "主要觀察，必要時發表簡潔的意見",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "發現朋友表情不太好時，你的反應是？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "直接問發生了什麼，表示你的關心",
+          "scores": {
+            "direct": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "舒適地陪在他身邊，等他準備好時再傾聽",
+          "scores": {
+            "indirect": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "公司會議時間，你的發言風格是？",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "第一點、第二點、第三點！系統地整理後清晰表達！",
+          "scores": {
+            "logical": 2,
+            "formal": 1
+          }
+        },
+        {
+          "text": "根據氣氛靈活發言！太死板就沒意思了！",
+          "scores": {
+            "emotional": 1,
+            "casual": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "和老朋友談話時，你的風格是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "輕鬆地開玩笑，不拘束地自由聊天",
+          "scores": {
+            "casual": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "即使親近也保持相互尊重的說話方式",
+          "scores": {
+            "formal": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "當別人講長故事時，你的對話風格是？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "專心傾聽到底，表示共鳴和反應",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "在適當的時機分享自己的想法，繼續對話",
+          "scores": {
+            "talker": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你在社交媒體上的活動風格是？",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "積極分享貼文、評論，主動溝通",
+          "scores": {
+            "online": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "主要觀看內容，傾向用私信進行溝通",
+          "scores": {
+            "offline": 1,
+            "listener": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "當你想表達感謝時，你的風格是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "直接用言語表達感謝對我來說很自然",
+          "scores": {
+            "direct": 2,
+            "casual": 1,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "用行動或其他方式傳達感受對我來說更舒適",
+          "scores": {
+            "indirect": 2,
+            "formal": 1,
+            "logical": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "direct-talker-logical",
+      "title": "清晰傳達力！高效溝通的大師",
+      "description": "你是一位能準確傳達核心內容的清晰溝通者。你省略不必要的話語，整理要點後表達，使聽眾容易理解。這種風格在工作環境中特別出眾。有時考慮對方的情感背景，會讓溝通變得更加豐富。你邏輯清晰、高效的溝通能力是團隊和組織的寶貴資產！",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "清晰表達",
+        "高效溝通",
+        "邏輯表達"
+      ]
+    },
+    {
+      "id": "listener-emotional",
+      "title": "共情天才！眾人依靠的心靈港灣",
+      "description": "你天生具有共情能力！你全心全意地傾聽對方的話語，和他們一起感受情感——一位溫暖的溝通者。你經常聽到人們說，和你談話會讓心情平復嗎？你簡單的一句話『我理解，那肯定很難』就成了別人最好的安慰。每個人都向你敞開心扉，你就是某個人珍貴的心靈港灣！",
+      "image": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=600&q=80",
+      "tags": [
+        "共情高手",
+        "溫暖傾聽者",
+        "心靈安息地"
+      ]
+    },
+    {
+      "id": "talker-casual-offline",
+      "title": "用溫暖能量連接人心的溝通者",
+      "description": "你有能力為對話注入溫暖的能量，讓人們感到舒適。你用親切的溝通風格正面引導聚會氣氛，享受面對面交流的快樂。你的社交能力創造新的關係，鞏固既有的關係。這種連接能力在團隊合作中成為巨大優勢。有時多花時間深入傾聽他人的故事，你的人際關係會獲得更加豐富的內涵！",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "tags": [
+        "溫暖能量",
+        "關係連接",
+        "親切溝通"
+      ]
+    },
+    {
+      "id": "logical-formal",
+      "title": "邏輯之王！說服力100%的專業溝通者",
+      "description": "理性勝於感情，明確勝於模糊！你是一位體系化和邏輯性強的溝通大師。在會議或討論中，你的發言具有說服力，別人也容易理解。你用有據可查的論證和清晰的表達力說服對方。專業的商務溝通者，每個人都對你的話點頭贊同！",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80",
+      "tags": [
+        "邏輯之王",
+        "說服力強",
+        "專業溝通者"
+      ]
+    },
+    {
+      "id": "indirect-listener",
+      "title": "營造和諧的細心溝通大師",
+      "description": "你是一位首先考慮對方立場的細心溝通者。你謹慎地選擇每一個詞語，努力理解不同的觀點。你的體貼讓周圍關係和諧，甚至在衝突中也能找到各方都能接受的解決方案。作為受信任的調解者，你是團隊和組織的寶貴財富。有時更主動地表達自己的意見，你的睿智觀點會幫助更多人！",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "tags": [
+        "細心體貼",
+        "營造和諧",
+        "信任調解"
+      ]
+    },
+    {
+      "id": "online-indirect",
+      "title": "有序表達的大師，考慮周周的數字溝通者",
+      "description": "你是一位喜歡整理思路後再表達的體貼溝通者。在文字溝通中，你能更準確清晰地傳達意思，在信息交流中發揮優勢。這種風格也反映了你的細心——選擇言辭讓對方能舒適地接受。數字環境中的溝通能力在現代社會非常關鍵。有時體驗面對面溝通的即興溫暖，你的人際關係會更加豐富！",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "tags": [
+        "考慮周周的表達",
+        "有序溝通",
+        "體貼傳達"
+      ]
+    },
+    {
+      "id": "emotional-casual",
+      "title": "打開心扉的鑰匙！充滿真心的感性治癒師",
+      "description": "和你聊天會讓心情變得溫暖舒適！你坦誠地分享情感，喜歡不拘束的自由對話。比起生硬的交談，你追求心心相通的溝通！周圍的人和你談話都會感到被治癒。掌握真誠溫暖對話的大師，大家的治癒朋友！",
+      "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=600&q=80",
+      "tags": [
+        "感性治癒師",
+        "真心溝通",
+        "溫暖對話"
+      ]
+    },
+    {
+      "id": "formal-listener-logical",
+      "title": "言論有分量！受信任的人生顧問",
+      "description": "你是一位重視行動勝過言辭、重視傾聽勝過閒聊的沉實溝通者！你不會輕易說話，但在必要時刻，你會說出點中要害的一句。因此你的話語有力有重，建議總是有幫助。正因為你不輕言，人們信任你。大家都能依靠的值得信賴的人生顧問，你的一句話是金玉之言！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "信任象徵",
+        "人生顧問",
+        "言論分量"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "id": "food-style",
+  "title": "Prueba de ADN Gastronomico: ?Cual es tu verdadera personalidad culinaria?",
+  "description": "?Que voy a comer? ?Fin de la indecision! Cuando conoces tus preferencias culinarias, elegir menu es mas facil. ?Compara tus resultados con tu pareja o amigos!",
+  "thumbnail": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&h=600&fit=crop&q=80",
+  "color": "#FF9800",
+  "questions": [
+    {
+      "id": 1,
+      "text": "?Estas en un lugar desconocido para cenar! ?Cual es tu eleccion?",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+      "options": [
+        {
+          "text": "?Comenzar a explorar callejones! ?Buscar ese restaurante secreto que solo los locales conocen!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "?Resenas de 4.5 estrellas confirmadas! ?Ir a un restaurante verificado de confianza!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "?Nuevo menu: 'Ramen Picante'! ?Cual es tu eleccion?",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "options": [
+        {
+          "text": "?Tengo que intentarlo! ?Disfruto de la sensacion del sabor picante!",
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
+        },
+        {
+          "text": "?Pidelo sin picante por favor! ?Me gusta disfrutar realmente del sabor!",
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "?Hora de postre despues de comer! ?Cual es tu eleccion?",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "options": [
+        {
+          "text": "?El postre es un espacio aparte! ?Pastel, helado, definitivamente!",
+          "scores": {
+            "sweet": 2,
+            "savory": 0
+          }
+        },
+        {
+          "text": "?Postre? ?Prefiero queso o algo salado!",
+          "scores": {
+            "sweet": 0,
+            "savory": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "?Cuando eliges el menu del almuerzo, cual es el criterio mas importante?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "options": [
+        {
+          "text": "?Balance nutricional! ?Quiero comer alimentos saludables!",
+          "scores": {
+            "health": 2,
+            "taste": 0
+          }
+        },
+        {
+          "text": "?Ante todo, el sabor! ?Cuando es delicioso, me siento bien!",
+          "scores": {
+            "health": 0,
+            "taste": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "?Descubres el restaurante de tu vida! ?Cual es tu siguiente accion?",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "options": [
+        {
+          "text": "?Compartir inmediatamente en el grupo de chat! ?La comida deliciosa es para compartir!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "?Guardarlo como mi lugar especial! ?Para volver en un dia especial!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "?Un nuevo restaurante fusion trending en redes sociales! ?Cual es tu reaccion?",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "options": [
+        {
+          "text": "?Que fresco! ?Hago una reserva inmediatamente y pruebo algo nuevo!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "?Que interesante! ?Cuando haya mas resenas, quizas vaya!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "?Cuando haces ramen en casa, cual es tu estilo personal?",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+      "options": [
+        {
+          "text": "?Huevo, queso, cebollino! ?Mi ramen signature con muchos ingredientes!",
+          "scores": {
+            "adventurous": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "?La receta del empaque es lo mejor! ?El sabor original es lo maximo!",
+          "scores": {
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "?Eligiendo una bebida en la cafeteria! ?Cual es tu orden signature?",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "?Frappuccino dulce, macchiato de caramelo, con crema batida!",
+          "scores": {
+            "sweet": 2,
+            "savory": 0,
+            "taste": 1
+          }
+        },
+        {
+          "text": "?Americano, espresso! ?Lo simple es lo mejor!",
+          "scores": {
+            "sweet": 0,
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "?Tienes hambre tarde por la noche, cual es tu eleccion?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "?Despues de un dia duro, debo comer lo que me apetece!",
+          "scores": {
+            "taste": 2,
+            "health": 0
+          }
+        },
+        {
+          "text": "?Para manana, como algo ligero o me abstengo!",
+          "scores": {
+            "taste": 0,
+            "health": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "?Cuando comes, cual es tu ambiente favorito?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "?Con amigos, ajetreo! ?La comida sabe mejor cuando nos reimos y conversamos!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "?Tranquilamente concentrado en la comida! ?Comer solo tambien es delicioso!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "?En un viaje al extranjero, encuentras una comida que nunca has visto! ?Cual es tu reaccion?",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+      "options": [
+        {
+          "text": "?No se que es, pero lo pruebo! ?La experiencia es un tesoro!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0,
+            "spicy": 1
+          }
+        },
+        {
+          "text": "?Primero verifico los ingredientes con Google Translate... ?La seguridad es lo primero!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "?Un brunch relajado el fin de semana! ?Que menu te atrae?",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&q=80",
+      "options": [
+        {
+          "text": "?Panqueques, waffles, tostadas francesas! ?Un brunch dulce es lo mejor!",
+          "scores": {
+            "sweet": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "?Huevos Benedict, ensalada, una combinacion saludable!",
+          "scores": {
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventurous-spicy-social",
+      "title": "?Pionero del mapa de restaurantes! Explorador Gastronomico",
+      "description": "Tu lema es: ?No lo sabras hasta que lo pruebes! Sin miedo ante nuevas comidas, ?tu no tienes ese problema! Desafias sin dudar la comida desconocida y cuando descubres un restaurante escondido, ?inmediatamente lo compartes con amigos! Entre tus amigos, ?nunca dejan de decirte: 'Encuentranos un buen restaurante!' Comer contigo siempre es una aventura deliciosa. ?Que nuevo sabor descubriras la proxima vez?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "tags": [
+        "Pionero de restaurantes",
+        "Explorador gastronomico",
+        "Rey de aventuras culinarias"
+      ]
+    },
+    {
+      "id": "traditional-mild-solo",
+      "title": "?Una comida que llena el corazon! Amante de Comida Reconfortante",
+      "description": "Para ti, la comida no es solo nutricion, es ?consuelo para el alma! Encuentras verdadera felicidad en comida casera hecha con cuidado y en sabores familiares y comodos. Sabes como comer delicioso solo y puedes aliviar la fatiga del dia a traves de la comida. Eres un gastronomico sabio con la mesa siempre llena de calidez. ?Hoy tambien he comido deliciosamente! esa sola frase es suficiente para ti. ?Eres realmente admirable!",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+      "tags": [
+        "Amante de comida reconfortante",
+        "Una comida calida",
+        "Tipo que se carga con emociones"
+      ]
+    },
+    {
+      "id": "health-savory-solo",
+      "title": "?Lo que comes te define! Gastronomico de Salud",
+      "description": "Tu tienes la filosofia: ?Mi cuerpo soy yo! Verificas cuidadosamente las calorias y componentes nutricionales, y prefieres comida hecha con ingredientes saludables. Mas que un postre dulce, prefieres sabores limpios. Mas que comida estimulante, prefieres lo que es bueno para tu cuerpo. Tu dieta es la esencia del auto-cuidado, ?un estilo de vida que muchos envidian!",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "tags": [
+        "Gastronomico de salud",
+        "Maestro del auto-cuidado",
+        "Comida limpia"
+      ]
+    },
+    {
+      "id": "taste-sweet-social",
+      "title": "?La vida es dulce! Creador de Fiestas Dulces",
+      "description": "?La vida es corta y los postres son dulces! Esa es tu filosofia de vida. ?Ante un delicioso pastel, contar calorias? ?Eso se lo dejo al yo del manana y solo como! Siempre eres el primero en llegar al nuevo cafe de postres y cuando descubres algo delicioso, ?inmediatamente llamas a tus amigos! La hora de te contigo siempre se convierte en una fiesta dulce. Tu sabes como compartir felicidad, ?incluso haces que el animo de los que te rodean sea mas dulce!",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "tags": [
+        "Creador de fiestas dulces",
+        "Cazador de postres",
+        "Predicador de lo dulce"
+      ]
+    },
+    {
+      "id": "adventurous-health-social",
+      "title": "?Un gastronomico equilibrado que lidera tendencias!",
+      "description": "?Tu eres el primero en descubrir los ultimos restaurantes y tendencias culinarias! Desafias nuevas comidas con valentfa mientras mantenes el equilibrio de la salud. ?Las fotos de comida con sensibilidad Instagram son bascas! Tu feed esta lleno de informacion de restaurantes. ?Un verdadero influencer gastronimco!",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "tags": [
+        "Influencer gastronimco",
+        "Gastronomico equilibrado",
+        "Tendencia trendsetter"
+      ]
+    },
+    {
+      "id": "traditional-taste-social",
+      "title": "?Guardian del sabor verificado! Explorador de Restaurantes Autenticos",
+      "description": "?Tu persigues la tradicion sobre la moda, la profundidad sobre la espectacularidad! Eres un verdadero gastronomico que aprecia el sabor autentico. Sabes el placer de descubrir restaurantes que han perdurado 3 generaciones, o pequenos lugares que solo los locales conocen. ?La comida deliciosa se disfruta mejor compartida! Tu lista de restaurantes es como una biblia entre tus amigos.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "tags": [
+        "Exploracion de restaurantes autenticos",
+        "Experto en sabor verificado",
+        "Felicidad de compartir la comida"
+      ]
+    },
+    {
+      "id": "spicy-taste-solo",
+      "title": "?Conquistador del Sabor Picante! Maestro Picante",
+      "description": "Para ti, el sabor picante no es ?dolor sino ?placer! ?Ramen de pollo picante? Eso es lo basico! Cuando tus amigos dicen ?esto es muy picante...? y buscan agua, tu disfrutas tranquilamente con otro bocado! Ese rostro imperturbable es realmente genial! ?Un desafio de sabor picante? ?Convocame cuando quieras! Tu confianza, eres un verdadero Maestro Picante que disfruta de la sensacion emocionante de tu lengua.",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "tags": [
+        "Maestro picante",
+        "Conquistador del picante",
+        "Orgullo picante 100%"
+      ]
+    },
+    {
+      "id": "mild-sweet-health",
+      "title": "?Una cucharada de sensibilidad! Gastronomico Sensible de Cafeteria",
+      "description": "?Tu no solo importa el sabor, sino tambien la atmosfera y la imagen! Para ti, pasar tiempo en una cafeteria con buen ambiente disfrutando un postre bonito es el maximo bienestar. Prefieres sabores suaves y dulces pero cuidas tu salud. ?Tu Instagram ya esta lleno de restaurantes sensibles!",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "tags": [
+        "Sensibilidad de cafeteria",
+        "Amante de restaurante visual",
+        "Bienestar dulce"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "Mi Prueba de Estilo de Expresión Emocional",
+  "description": "¿Cómo te expresas cuando estás feliz? ¿Y cuando estás enojado? Todos tenemos formas diferentes de expresar nuestras emociones. ¡Descubre tu estilo único de expresión emocional y compara los resultados con tus amigos!",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "¡Tu idea cuidadosamente preparada fue ignorada en la reunión! ¿Qué haces?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Expresar tu opinión honestamente: 'Eso es un poco decepcionante'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Retener tus sentimientos y manejar profesionalmente tu expresión",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Pensar 'La próxima vez lo haré mejor' y verlo como una oportunidad de crecimiento",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Enfocarte en otras tareas, olvidar es la mejor estrategia",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando discutes con alguien cercano a ti, ¿cuál es tu reacción típica?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Explicar tus sentimientos paso a paso e intentar escuchar la opinión del otro",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar no mostrar tu enojo y mantener silencio",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar entender la perspectiva de la otra persona e interpretarla positivamente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Comenzar a hacer algo diferente para escapar de la situación",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¡Obtuviste entradas para el concierto de tu cantante favorito! ¿Cuál es tu reacción?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Grita 'Wahhh!' e inmediatamente lo presumo en las redes sociales!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Siente 'Sí!' por dentro pero sonríe silenciosamente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Siéntete agradecido y anticipa el concierto con entusiasmo",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Contento pero rápidamente vuelve a la rutina diaria",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¡Hoy es un día inusualmente estresante! ¿Qué haces después del trabajo?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Llamar a un amigo y desahogarte: '¡Hoy fue realmente...'!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Organizar tranquilamente tus emociones por ti mismo",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Buscar lo que aprendiste del día y verificar tus puntos de crecimiento",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Cambiar de humor con Netflix/videojuegos, ¡olvidar es lo mejor!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Cuando cometes un error, ¿cuál es tu reacción?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Reconocer tu error y ofrecer una disculpa sincera",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar ocultarlo y manejarlo silenciosamente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Aprender del error y resolver hacerlo mejor la próxima vez",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar olvidar rápidamente el error y seguir adelante",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Cuando alguien te critica, ¿cómo reaccionas?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Expresar tus sentimientos mientras escuchas la retroalimentación",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Fingir que no estás herido y reírte superficialmente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar encontrar consejos útiles en la crítica",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Conscientemente evitar pensar en la crítica",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Pasando el fin de semana solo, ¡sientes algo de soledad! ¿Qué haces?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Contactar a un amigo: '¿Qué haces? ¡Vamos!' y hacer que suceda",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Aceptar el tiempo solo y pasarlo tranquilamente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "¡Usarlo como oportunidad para la auto-reflexión y el crecimiento!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Ver YouTube/dramas en maratón y ahuyentar la soledad",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Cuando quieres una conexión emocional profunda con alguien, ¿cómo actúas?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Mostrar tu interior honestamente y compartir tus sentimientos",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Expresar sentimientos pero mantener una distancia apropiada",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar conectar con una mentalidad de cuidado hacia la otra persona",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Enfocarse en el presente en lugar de la conexión emocional",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¡Tu amigo rompió su promesa de nuevo! Cuando sube la ira, ¿qué haces?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Decir honestamente: 'Esta vez estoy realmente decepcionado'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Retener la ira y calmarte antes de hablar",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar entender que tu amigo probablemente tuvo una razón",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Simplemente dejarlo pasar, es cansador hablar de ello",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Cuando sientes ansiedad, ¿cuál es tu reacción típica?",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "Compartir tu ansiedad con alguien y buscar tranquilidad",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Reprimir la ansiedad e intentar mantener la compostura",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Encontrar la raíz de la ansiedad y resolverla gradualmente",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Alejar los pensamientos ansiosos y enfocarse en el ahora",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Cuando sientes que has fracasado, ¿cómo lo expresas a otros?",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Compartir honestamente tus sentimientos y experiencias",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Intentar ocultar el fracaso y cambiar de tema",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Compartir lo que aprendiste del fracaso de manera positiva",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "No contarle a nadie sobre la experiencia de fracaso",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Cuando te das cuenta de que tu emoción podría lastimar a alguien, ¿cómo reaccionas?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Explicar tus sentimientos a la otra persona y tener una conversación sincera",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Ser más cuidadoso y restrictivo en tu expresión emocional",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Entender los sentimientos del otro e intentar expresarte mejor",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Evitar toda la situación y mantener distancia emocional",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "¡El Expresador Sincero Que No Oculta Su Corazón!",
+      "description": "¡Eres alguien con emociones sinceras! Cuando estás feliz, lo muestras; cuando estás triste, lo dices - ese es tu estilo. Por eso las personas a tu alrededor te ven como 'alguien que podemos entender y con quien sentimos comodidad'.\n\n¡Tus puntos atractivos!\n- No ocultas emociones, por lo que el estrés no se acumula\n- Te vuelves cercano a las personas rápidamente y construyes relaciones profundas\n- Ganas la confianza de 'puedo ser honesto con esta persona'\n- ¡Tu sinceridad da coraje a las personas a tu alrededor!\n\n¿Las personas no te dicen a menudo 'realmente me gusta lo honesto que eres'? ¡Tu expresión sincera hace las relaciones más cálidas!",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "Honesto y Simple",
+        "Lector de Mentes",
+        "Sinceridad Cálida"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "¡El Maestro de Emociones Tranquilo! Experto en Cara de Póker",
+      "description": "¡Eres un maestro del control emocional! Tu corazón puede estar en tormenta por dentro, pero por fuera pareces un mar tranquilo - ¡tienes esa increíble habilidad! Tu compostura en cualquier situación es verdaderamente admirable.\n\n¡Tus puntos atractivos!\n- Puedes juzgar con calma incluso en situaciones de crisis\n- Las personas confían en ti y piensan 'me siento seguro a tu lado'\n- No eres arrastrado por emociones, por lo que cometes menos errores\n- ¡Eres alguien que trae estabilidad a quienes te rodean!\n\n¿Tus amigos no te dicen 'hablar contigo me pone en paz' cuando están pasando por tiempos difíciles? Tu presencia tranquila es una gran fuente de fortaleza para otros. ¡A veces compartir tus verdaderos sentimientos con personas de confianza también es maravilloso!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "Cara de Póker",
+        "Icono de Compostura",
+        "Presencia Confiable"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "¡El Transformador Positivo Que Se Vuelve a Levantar!",
+      "description": "¡Eres del tipo que hace 'limonada de limones'! Eres una persona con una asombrosa energía positiva que piensa 'Qué puedo aprender de esto' incluso en situaciones difíciles.\n\n¡Tus puntos atractivos!\n- Encuentras puntos de crecimiento en cualquier situación\n- Tu resiliencia es asombrosa: te recuperas rápidamente\n- Difundes esperanza y coraje a las personas a tu alrededor\n- ¡Intentas entender incluso en situaciones de conflicto!\n\n¿Las personas no te preguntan a menudo 'cómo eres siempre tan positivo?' Tu perspectiva positiva es una enorme fortaleza para quienes te rodean. Cuando están contigo, las personas sienten como si 'también pudiera hacerlo!'",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "Energía Positiva",
+        "Mentalidad de Crecimiento",
+        "Propagador de Esperanza"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "¡El Solucionador Independiente Autónomo!",
+      "description": "¡Eres una persona independiente que no se ve arrastrada por emociones y resuelve las cosas a tu manera! Eres del tipo práctico que se enfoca en 'qué necesita hacerse ahora' en lugar de emociones complejas.\n\n¡Tus puntos atractivos!\n- Actúas eficientemente sin ser arrastrado por emociones\n- Tienes una fuerte independencia - resuelves tus propios problemas\n- No cargas emocionalmente a otros\n- ¡Haces juicios prácticos incluso en situaciones de crisis!\n\n¿Las personas no te dicen a menudo 'realmente eres independiente'? Tu capacidad de gestión de emociones autónoma es una gran fortaleza. ¡A veces compartir tu corazón con personas de confianza mientras mantienes tu propio camino también puede ser una experiencia maravillosa!",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "Independencia al Máximo",
+        "Pragmatista",
+        "Mi Propio Camino"
+      ]
+    }
+  ]
+}

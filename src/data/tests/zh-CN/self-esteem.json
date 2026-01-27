@@ -1,0 +1,687 @@
+{
+  "id": "self-esteem",
+  "title": "了解我的自尊心水平",
+  "description": "这是一项心理测试,旨在探索你如何认识和评估自己。通过自我价值、自我接纳和自我效能感,了解你当前的自尊心状态,迈出成长的第一步。",
+  "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "总的来说,我对自己感到满意。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "当面临新的挑战时,我相信自己的能力。",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "我接纳自己的全部,包括优点和缺点。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "经历失败时,我会努力寻找更好的方法。",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "强烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "强烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "即使听到不同的意见,我仍能坚持自己的观点和信念。",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "我为自己的能力和品质感到自豪。",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "强烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "强烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "不管他人的评价如何,我都能认可和接纳自己。",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "我有勇气去追求自己想做的事。",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "强烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "强烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "即使犯了错误或经历失败,我也能善待自己。",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "即使在困难的情况下,我也相信自己有能力解决问题。",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "强烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "强烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "我相信自己本来的样子就是有价值的。",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "我对自己做出的决定充满信心。",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "强烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "强烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "拥有相信自己力量的你",
+      "description": "你具备健康的自尊心,能够认识自己的价值并相信自己的能力。这种自我信任成为你接受新挑战、在困难中恢复并坚持自己信念的力量。\n\n你的优势:\n- 能够认可自己的价值\n- 对挑战持积极态度\n- 稳定的自我确信\n\n进一步成长的建议:\n自尊心在与他人的联系中更加闪耀。用你的积极能量去鼓励周围的人,并对不同的观点保持开放的心态。随着谦虚的成长,你会变得更加成熟。",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop",
+      "tags": [
+        "自我信任",
+        "积极态度",
+        "挑战精神",
+        "内在稳定",
+        "成长心态"
+      ]
+    },
+    {
+      "id": "stable",
+      "title": "稳定的自尊心 - 平衡的自己",
+      "description": "你对自己既有积极的态度,又保持现实的眼光。你维持着适当水平的自尊心,这为健康的人际关系和个人成长奠定了良好基础。\n\n你的优势:\n- 现实的自我评估\n- 稳定的情绪状态\n- 自信与谦虚的平衡\n\n持续成长的建议:\n在稳定的基础之上,更具体地设定并追求你的梦想和目标。通过积累小的成功经验,你可以进一步增强信心。此外,通过帮助他人和导师经历来寻找更深层的人生意义。",
+      "image": "https://images.unsplash.com/photo-1552058544-f6b08422138a?w=500&h=500&fit=crop",
+      "tags": [
+        "稳定性",
+        "平衡",
+        "现实感",
+        "成熟",
+        "进步"
+      ]
+    },
+    {
+      "id": "unstable",
+      "title": "灵活成长的你",
+      "description": "你的自尊心会根据不同情况灵活变化。这意味着你对环境反应敏感,并能深入地反思自己。许多人都经历过类似的成长过程。\n\n你的优势:\n- 出色的自我反思能力\n- 追求进步的热情\n- 敏锐的感受性和同理心\n\n建立更稳定自信的技巧:\n1. 记录成功:记录小的成就,回顾时建立信心。\n2. 改变内心对话:当出现批评性思想时,用对朋友说话的方式温和地调整它。\n3. 接纳不完美:每天练习接受自己不完美也没关系。\n4. 建立支持圈:与信任你的人花更多时间。\n\n你的灵活性是优势。在其上建立稳定性,你会更加闪耀!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "灵活成长",
+        "自我反思",
+        "恢复力",
+        "敏感性",
+        "成长潜力"
+      ]
+    },
+    {
+      "id": "low",
+      "title": "发现内在力量的你",
+      "description": "现在的你正在进行一段宝贵的自我理解之旅。你做这个测试去反思自己这个事实本身,就是你渴望成长的证明。许多人从相似的起点出发,发现了自己的优势和价值。\n\n你已经拥有的优势:\n- 自我反思的能力\n- 理解他人的同理心\n- 追求成长的意愿\n\n建立自尊心的实践指南:\n1. 练习自我关怀:在困难时刻,像对朋友一样温柔地对自己说话。\n2. 记录小成就:每天记录你的成就,认识自己的能力。\n3. 发现优势:找到你自然擅长的事和你喜欢的事。\n4. 建立支持网络:与那些无条件接纳你的人相处。\n5. 寻求专业帮助:如果需要,寻求心理咨询师的帮助是明智的选择。\n\n你本来的样子就很珍贵。虽然自尊心不会一夜改变,但小的坚持实践会让你逐步感受到变化。",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?w=500&h=500&fit=crop",
+      "tags": [
+        "成长之旅",
+        "自我发现",
+        "内在力量",
+        "恢复力",
+        "无限可能"
+      ]
+    }
+  ]
+}

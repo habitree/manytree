@@ -1,0 +1,351 @@
+{
+  "id": "stress-style",
+  "title": "¡Tu arma secreta para aliviar el estrés! Revelando métodos de gestión mental que no conocías",
+  "description": "¿Por qué algunos métodos de alivio del estrés no te funcionan? ¡8 tipos de afrontamiento del estrés analizados por expertos en psicología! Descubre ahora el método de curación personalizado que es perfecto para ti. ¡Imprescindible verificar antes de que llegue el agotamiento!",
+  "thumbnail": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Ocurrió un retraso inesperado en tu camino al trabajo. ¿Cuál es tu forma de lidiar con esto?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Escuchar música para calmar tu mente y aceptar la situación",
+          "scores": {
+            "emotional": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "Buscar rápidamente rutas alternativas e intentar resolver la situación",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Después de un día estresante en el trabajo, ¿cuál es tu forma de recuperarte al salir?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Contactar a un amigo cercano y hablar para desahogarse",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Tomarse tiempo para estar solo y organizar los pensamientos caminando o meditando",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Cuando las emociones negativas se acumulan, ¿cómo las liberas?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "Liberar energía a través del ejercicio o pasatiempos activos",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "Descansar adecuadamente en un espacio cómodo para recuperar energía",
+          "scores": {
+            "passive": 2,
+            "escape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Después de un día difícil, has llegado a casa. ¿Cuál es tu rutina de curación?",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "options": [
+        {
+          "text": "Ver contenido que te gusta y relajarte cómodamente",
+          "scores": {
+            "escape": 2,
+            "alone": 1
+          }
+        },
+        {
+          "text": "Contactar a amigos para pasar tiempo juntos y cambiar de humor",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¡Conflicto de opinión con un compañero/amigo! Te sientes incómodo. ¿Qué haces?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Hablemos ahora! ¡No puedo soportar esta incomodidad ni un día!",
+          "scores": {
+            "confront": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Tomemos un tiempo para calmarnos... ¡Hablemos después de aclarar las ideas!",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Cuando estás estresado, ¿cómo cambia tu expresión?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Se nota completamente en la cara... ¡Incluso intentando ocultarlo, se ve!",
+          "scores": {
+            "express": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Tranquilo por fuera, tormenta por dentro! ¡Mantener la compostura es lo básico!",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cuando estás estresado, ¿qué pequeña recompensa te das?",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "Cambiar de humor con comida deliciosa o tu postre favorito",
+          "scores": {
+            "emotional": 2,
+            "escape": 1
+          }
+        },
+        {
+          "text": "Invertir en cosas que ayuden con la salud o el auto-mejoramiento",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Cuando estás estresado, ¿cuál es tu nivel de actividad en redes sociales?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Mensajes directos abrumadores, chats grupales activados! ¡Necesito hablar con alguien!",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Modo sin leer activado, desplazamiento infinito o desaparición! (¡Necesito desconectarme!)",
+          "scores": {
+            "alone": 2,
+            "suppress": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¡Proyecto grande con plazo en 3 días! ¿Cómo lidias con la presión?",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Dividir el cronograma y crear una lista de verificación! ¡Conquistar uno por uno!",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "¡Simplemente comienza! ¡El camino se aclara cuando lo haces! (¡Confía en tu instinto!)",
+          "scores": {
+            "emotional": 2,
+            "active": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¡Fin de semana precioso! ¿Cuál es tu plan para reiniciar el estrés?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Cancela planes con amigos! ¡Cambiar de humor con restaurantes, cafés, compras!",
+          "scores": {
+            "social": 2,
+            "active": 1
+          }
+        },
+        {
+          "text": "¡No salgas! ¡Quédate en casa disfrutando tu propio tiempo de curación! (¡Me gusta estar solo!)",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Cuando las cosas son difíciles, ¿qué palabra de alguien te da más fuerza?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "'Debes estar cansado, has hecho un buen trabajo' - Empatía y consuelo que tocan el corazón!",
+          "scores": {
+            "emotional": 2,
+            "social": 1
+          }
+        },
+        {
+          "text": "'¡Intenta hacer esto!' - Soluciones prácticas que aclaran tu mente!",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Cuando el estrés no te deja dormir, ¿cuál es tu patrón nocturno?",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "Enterrarse en las mantas e intentar dormir de todos modos... ¡El sueño es medicina!",
+          "scores": {
+            "escape": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "De todos modos no voy a dormir, así que hago limpieza o ejercicio!",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "active-social",
+      "title": "¡El estrés se disuelve cuando te mueves juntos! Activista social que explota energía",
+      "description": "¡Tu arma secreta para aliviar el estrés es 'moverse juntos'! Cuando corres con amigos, te unes a grupos de senderismo o practicas deportes en equipo, el estrés se evapora al instante. Tu presencia llena de energía siempre trae vitalidad, y la sensación de logro después de sudar juntos es la mejor curación. ¡Te curas moviéndote y te recargas compartiendo - eres una fuente de energía positiva!",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "tags": [
+        "Liberación de energía",
+        "Curación compartida",
+        "Activista social activo"
+      ]
+    },
+    {
+      "id": "active-alone",
+      "title": "¡Mi propia rutina de ejercicio! Sanador personal que reinicia a través del sudor",
+      "description": "¿Estrés? ¡Lávalo con sudor! Eres el tipo para quien el tiempo de ejercicio en solitario es la mejor curación. El gimnasio, las rutas de correr, el entrenamiento en casa... El estrés se disuelve con cada gota de sudor. Después de ducha post-ejercicio, eres una persona completamente nueva! Eres un verdadero experto en autocuidado que reinicia tu cuerpo y mente a través de tu propia rutina!",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "tags": [
+        "Reinicio por ejercicio",
+        "Curación solitaria",
+        "Experto en autocuidado"
+      ]
+    },
+    {
+      "id": "social-express",
+      "title": "¡Hablar es medicina! Genio de la comunicación que sana a través de la conversación",
+      "description": "¡Todo se aclara cuando hablas! Una llamada telefónica con un amigo, un momento de desahogo en una cafetería es tu mejor alivio del estrés. Cuando compartes en lugar de guardar las cosas adentro, tu corazón se siente mucho más ligero. ¡Para ti, los amigos son como psiquiatras! Eres un maestro de la comunicación que sana a través de la conversación, se entiende a través de la empatía y se recarga a través de compartir!",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "tags": [
+        "Terapia conversacional",
+        "Recarga de empatía",
+        "Maestro de la comunicación"
+      ]
+    },
+    {
+      "id": "alone-passive",
+      "title": "¡Mi tiempo tranquilo! Reposador de tipo introvertido perfecto",
+      "description": "¡Tu mejor curación es 'tiempo para ti mismo'! En un espacio sin perturbaciones, leyendo libros, escuchando música o simplemente soñar despierto... Tu secreto para recargar energía es el tiempo solitario y tranquilo. Sabes cómo mantener tu propio ritmo en un mundo ocupado - eres sabio y entiendes qué es el verdadero descanso! ¡Tu tiempo tranquilo de curación es más precioso que cualquier otra cosa!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Recarga silenciosa",
+        "Tiempo en solitario",
+        "Curación interna"
+      ]
+    },
+    {
+      "id": "escape-emotional",
+      "title": "¡El arte de la inmersión! Sanador que se recarga a través del contenido",
+      "description": "¡Tienes tu propio método especial de curación! Eres el tipo que recupera energía mental sumergiéndote en dramas, webtoons o videojuegos favoritos. Esto es lo que la psicología llama 'distanciamiento psicológico', una forma efectiva de escapar temporalmente de situaciones estresantes y recuperar perspectiva objetiva. ¡Tu pasión y capacidad de inmersión en tus intereses son recursos valiosos! Después de recargar, puedes volver a la vida cotidiana con una mente más clara.",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "tags": [
+        "Curación por inmersión",
+        "Recarga psicológica",
+        "Valor de los pasatiempos"
+      ]
+    },
+    {
+      "id": "rational-confront",
+      "title": "¡Resolvedor de problemas! Estratega que conquista el estrés",
+      "description": "¡Eres un verdadero resolvedor de problemas que enfrenta el estrés directamente! Sin ser arrastrado por emociones, analizas situaciones, aprehendes el núcleo de los problemas y encuentras soluciones. Entiendes que preguntarse 'por qué estoy estresado' y eliminar la causa también elimina el estrés - ¡eres un estratega sabio! Tu forma de afrontamiento racional y práctica es una habilidad que muchas personas desean aprender!",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "tags": [
+        "Resolvedor de problemas",
+        "Afrontamiento estratégico",
+        "Triunfo de la razón"
+      ]
+    },
+    {
+      "id": "emotional-express",
+      "title": "¡Honesto con tus sentimientos! Expresador saludable que no se reprime",
+      "description": "¡Eres un tipo saludable que expresa sentimientos con honestidad! Cuando estás enojado, dices que estás enojado; cuando estás triste, dices que estás triste - esta honestidad es el secreto para no acumular estrés. Sabes que reprimir emociones eventualmente explota - ¡eres sabio! La expresión honesta de emociones hace que las relaciones sean más saludables y tu corazón sea más ligero. ¡Eres increíble por no reprimirte!",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "Expresión honesta",
+        "Liberación emocional",
+        "Desahogo saludable"
+      ]
+    },
+    {
+      "id": "suppress-rational",
+      "title": "¡Observador calmado! Persona que reflexiona mientras controla emociones",
+      "description": "Posees la fortaleza interior para mantener el equilibrio incluso en las olas de emoción. En lugar de reaccionar inmediatamente al estrés, retrocedes, observas la situación y organizas calmamente tus sentimientos - eres reflexivo. Este enfoque previene decisiones impulsivas y permite opciones más sabias. Sin embargo, abrir tu corazón a personas de confianza para compartir emociones también es saludable. Tu calma es una cualidad preciosa que proporciona estabilidad a quienes te rodean.",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "tags": [
+        "Paz interior",
+        "Fuerza reflexiva",
+        "Afrontamiento equilibrado"
+      ]
+    }
+  ]
+}

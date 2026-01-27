@@ -1,0 +1,351 @@
+{
+  "id": "stress-style",
+  "title": "你的壓力釋放秘密武器！不為人知的心理管理法公開",
+  "description": "為什麼某些解壓法對你沒有效果？心理專家分析的8種壓力應對類型！立即發現完全適合你的定制治療方法。必須在倦怠來臨前檢查！",
+  "thumbnail": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "上班路上出現了意外延誤。你的應對方式是？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "聽音樂讓心情平靜，接受現實",
+          "scores": {
+            "emotional": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "快速搜尋替代路線，試圖解決問題",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "工作中感到壓力的一天，下班後你的恢復方法是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "聯絡親密的朋友，通過談話釋放情感",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "獨自思考，通過散步或冥想整理思緒",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "當負面情緒堆積時，你如何釋放？",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "通過運動或積極的愛好釋放能量",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "在舒適的空間充分休息，恢復能量",
+          "scores": {
+            "passive": 2,
+            "escape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "經過艱難的一天後，到家了。你的治療程序是？",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "options": [
+        {
+          "text": "觀看喜歡的內容，享受舒適的休息時間",
+          "scores": {
+            "escape": 2,
+            "alone": 1
+          }
+        },
+        {
+          "text": "聯絡朋友一起共度時光，轉換心情",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "與同事/朋友意見分歧！心情有些不適，你會？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "現在就談！不適感一天都忍受不了！",
+          "scores": {
+            "confront": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "先冷靜一下...冷靜後再對話！",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "壓力下你的表情會怎樣？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "全寫在臉上...再想隱瞞也會看出來！",
+          "scores": {
+            "express": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "表面平靜，內心暴風！保持撲克臉是基本！",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "感到壓力時，你給自己的小獎勵是？",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "用美食或喜歡的甜點轉換心情",
+          "scores": {
+            "emotional": 2,
+            "escape": 1
+          }
+        },
+        {
+          "text": "投資有助於健康或自我完善的事物",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "感到壓力時，你的社交媒體活躍度如何？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "私訊炸裂，群聊活躍！不和某人聊天就活不了！",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "已讀不回模式開啟，無限滾動或消失！（需要與世界斷聯！）",
+          "scores": {
+            "alone": 2,
+            "suppress": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "大型項目截止日期倒計時3天！壓力下你的應對方式是？",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "分解日程制作清單！逐一攻克！",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "開始做吧！做著做著路就出現了！（依靠本能！）",
+          "scores": {
+            "emotional": 2,
+            "active": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "寶貴的週末，你的壓力重置計畫是？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "取消和朋友的約！通過美食、咖啡、購物轉換心情！",
+          "scores": {
+            "social": 2,
+            "active": 1
+          }
+        },
+        {
+          "text": "不出門！宅在家享受獨自治療時間！（喜歡獨處！）",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "困難時，某人的話能給你更多力量？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "'你一定很累，辛苦了' 同情和安慰刺激淚腺！",
+          "scores": {
+            "emotional": 2,
+            "social": 1
+          }
+        },
+        {
+          "text": "'試試這樣！' 實際的解決方案讓你頭腦清晰！",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "壓力導致失眠，你的午夜模式是？",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "蜷縮在被子裡強迫自己睡覺...睡眠是良藥！",
+          "scores": {
+            "escape": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "反正也睡不著，那就打掃衛生或運動！",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "active-social",
+      "title": "一起運動壓力就消散！能量爆表社交活動家",
+      "description": "你的壓力釋放秘密武器是'一起運動'！和朋友跑步、登山、打團隊運動時，壓力瞬間蒸發。充滿能量的你，周圍總是充滿活力，一起流汗後的成就感是最好的治療！你在運動中治療自己，在分享中充電——你是正能量的源頭！",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "tags": [
+        "能量釋放",
+        "共同治療",
+        "活躍的社交人"
+      ]
+    },
+    {
+      "id": "active-alone",
+      "title": "屬於我的運動程序！用汗水重啟的自我治療者",
+      "description": "壓力？用汗水沖洗！你是那種獨自運動時間是最好治療的類型。健身房、跑步路線、家庭健身...一滴汗珠，壓力就消失。運動後洗澡，你就是完全新的人！用自己的程序重置身心，你是真正的自我關懷高手！",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "tags": [
+        "運動重啟",
+        "獨自治療",
+        "自我關懷專家"
+      ]
+    },
+    {
+      "id": "social-express",
+      "title": "聊天是良藥！用對話治癒的溝通天才",
+      "description": "一聊就豁然開朗的你！和朋友的一通電話，在咖啡館的傾訴時刻是你最好的壓力釋放。不藏在心裡，分享出去心就輕了。對你來說，朋友就像心理醫生！你是通過對話整理情感、通過共鳴充電的溝通大師！",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "tags": [
+        "聊天療法",
+        "共鳴充電",
+        "溝通大師"
+      ]
+    },
+    {
+      "id": "alone-passive",
+      "title": "屬於我的安靜時間！完美的充電型內向者",
+      "description": "你最好的治療是'屬於我的時間'！在沒有打擾的空間裡看書、聽音樂或發呆...獨處的安靜時刻是能量補充的秘密。你懂得在忙碌的世界中保持自己的步調——你是明智的，懂得真正的休息是什麼！你的安靜治療時間比任何東西都珍貴！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "安靜充電",
+        "獨處時間",
+        "內在治療"
+      ]
+    },
+    {
+      "id": "escape-emotional",
+      "title": "沉浸的藝術！通過內容重充電的治療者",
+      "description": "你有自己獨特的治療方法！你通過沉浸在喜歡的電視劇、網漫或遊戲等內容中來恢復心理能量。這是心理學所說的'心理距離'，是從壓力情景中暫時脫離、重新獲得客觀視角的有效方法。你對感興趣事物的熱情和沉浸能力是你寶貴的資源！充電後你能以更清晰的心態回到日常生活。",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "tags": [
+        "沉浸治療",
+        "心理重充電",
+        "愛好的價值"
+      ]
+    },
+    {
+      "id": "rational-confront",
+      "title": "問題解決者！征服壓力的戰略家",
+      "description": "你是直面壓力根源的真正解決者！不被情感左右，分析形勢，抓住問題核心找到解決方案。你明白問下'為什麼壓力'和消除原因就能消除壓力——你是睿智的戰略家！你那理性實用的應對方法是許多人想學的能力！",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "tags": [
+        "問題解決者",
+        "戰略應對",
+        "理性的勝利"
+      ]
+    },
+    {
+      "id": "emotional-express",
+      "title": "對情感坦誠！不壓抑的健康表達者",
+      "description": "你是坦誠表達情感的健康類型！生氣就說生氣，傷心就說傷心——這種坦誠正是不累積壓力的秘訣。你明白壓抑情感最終會爆發——你很明智！坦誠的情感表達讓關係更健康，也讓心更輕鬆。你不壓抑自己真棒！",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "坦誠表達",
+        "情感釋放",
+        "健康的發洩"
+      ]
+    },
+    {
+      "id": "suppress-rational",
+      "title": "平靜的觀察者！在控制情感中思考的人",
+      "description": "你擁有在情感波瀾中保持平衡的內在力量。面對壓力時不是立即反應，而是退一步觀察形勢，平靜地整理自己的情感——你是省思型的。這種方法防止衝動決定，讓你能做出更聰慧的選擇。不過，有時向信任的人敞開心扉分享情感也是健康的做法。你的平靜是給周圍人帶來穩定感的珍貴品質。",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "tags": [
+        "內在平和",
+        "思考的力量",
+        "平衡的應對"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "id": "hidden-talent",
+  "title": "隠された才能を発見しよう",
+  "description": "8つのタイプの複数知能を通じて、あなた独自の才能を発見する心理テストです。ハワード・ガードナー理論に基づいて作られました。",
+  "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f70504ce0?w=800&q=80",
+  "color": "#8E44AD",
+  "questions": [
+    {
+      "id": 1,
+      "text": "新しい状況で問題を理解しようとするとき、あなたに自然な方法は？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "状況を言葉や文字で整理し、他の人と議論する",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "段階的に分析し、体系的な計画を立てる",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "全体の絵を頭の中で描いたり、図式化したりする",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "内面の感覚と直感に耳を傾ける",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "あなたが最も好きな余暇活動は？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "読書、執筆、ポッドキャストを聴く",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "数学の問題解き、プログラミング、パズル",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "音楽の鑑賞、楽器演奏、歌唱",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "運動、ダンス、料理、手作りで何かを作る",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "あなたが自分の最大の強みだと感じるのは？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "考えを明確に伝え、人々と交流する能力",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "複雑な問題を分析し、解決策を見つける能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "新しいアイデアを思いつき、創造的に表現する能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "自分を理解し、慎重に判断する能力",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "新しいことを学ぶとき、あなたにとって最も効果的な方法は？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "説明を聴いたり読んだり、他の人と議論して理解する",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "原理を分析し、段階的に実験して理解する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "絵、ダイアグラム、マインドマップで視覚化して理解する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "直接体験したりリズムで記憶して理解する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "予期しない問題が発生したとき、あなたが自然に取る接近法は？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "信頼できる人と話し、一緒に解決策を見つける",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "原因を論理的に分析し、解決方法を探る",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "直接行動しながら試行錯誤を通じて解決する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "一旦停止し、内面の直感に耳を傾ける",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "自然や環境に関して、あなたが好む活動は？",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+      "options": [
+        {
+          "text": "動植物を観察し、生態系について学ぶこと",
+          "scores": {
+            "linguistic": 1,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 3
+          }
+        },
+        {
+          "text": "自然の美しさを写真や絵で表現すること",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 2
+          }
+        },
+        {
+          "text": "屋外で運動したり、冒険的な活動をすること",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "自然の中で静かに瞑想したり、音楽を聴くこと",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "チームプロジェクトでのあなたの役割は？",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "全体を調整し、チームの雰囲気をリードする",
+          "scores": {
+            "linguistic": 2,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "体系的に計画し、実行する",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "創造的で新しいアイデアを提案する",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "静かに自分の役割を完遂する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "他の人を助けるとき、あなたのやり方は？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "励ましの言葉で応援し、アドバイスする",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "具体的な解決策を提示する",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "一緒に行動で示す",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "相手の感情に共感しながら聞く",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 2,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "あなたが最も自信を持っている領域は？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "話、文字、表現、説明",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "数学、科学、論理、技術",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "美術、デザイン、空間感覚",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "リズム、音楽、感情表現",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "ストレスを受けたときのあなたの対処法は？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "友人と話したり、集まりを持つ",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "原因を分析し、計画を立てる",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "運動、ダンス、旅行など体を動かす",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "音楽、瞑想、静かな時間を持つ",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "あなたの夢や目標を説明する方法は？",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "詳しく言葉で表現する",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "段階的な計画と数値で整理する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "想像して絵に描く",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "感覚と感情で表現する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "次のうち、最もしたい経験は？",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "新しい文化を学び、人々と関係を築く",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "新しい技術を学び、問題を解決する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "冒険をして、自然の中で活動する",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "芸術作品を創作したり、鑑賞したりする",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "linguistic",
+      "title": "言葉で世界と交流するあなた",
+      "description": "あなたは言葉と文字を通じて考えを明確に伝える能力を持っています。複雑なアイデアを理解しやすく説明し、人々の心を動かす表現力があなたの強みです。執筆、ストーリーテリング、議論、外国語学習などで自然に才能を発揮できます。\n\n成長ポイント：聴く能力も一緒に磨きましょう。他の人の話に耳を傾け、彼らの視点を理解すると、あなたのコミュニケーション能力がより深まります。作家、教育者、カウンセラー、マーケターなど、さまざまな分野でこの才能を発揮できます。",
+      "image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=800&q=80",
+      "tags": [
+        "明確な表現",
+        "コミュニケーション能力",
+        "創造的執筆",
+        "説得力",
+        "物語の力"
+      ]
+    },
+    {
+      "id": "logical",
+      "title": "論理で問題を解決するあなた",
+      "description": "あなたは体系的な分析と論理的思考で複雑な問題を明快に解決する能力を持っています。パターンを発見し、因果関係を把握し、合理的な結論に達することが自然です。プログラミング、研究、エンジニアリング、データ分析などで優れた成果を上げることができます。\n\n成長ポイント：感情と直感の価値も認めてください。すべての状況が論理だけで解決するわけではありません。人々の感情を理解し、共感する能力を磨くと、あなたの分析力がより温かく効果的な解決策につながります。",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "tags": [
+        "体系的分析",
+        "論理的思考",
+        "問題解決",
+        "パターン認識",
+        "合理的判断"
+      ]
+    },
+    {
+      "id": "spatial",
+      "title": "空間視覚化の天才",
+      "description": "あなたは世界を視覚的に認識し、空間と形態に優れた感覚を持っています。色、構成、配置に敏感で、三次元的思考で未来の姿を想像できます。美術、デザイン、建築、ビデオ製作、ゲーム開発などで、あなたの創意工夫が輝きます。あなたの視覚的表現は抽象的な概念を明確にし、人々を美しく新しい世界へ導きます。",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+      "tags": [
+        "創造性",
+        "美的感覚",
+        "空間感覚",
+        "視覚化",
+        "デザイン思考"
+      ]
+    },
+    {
+      "id": "musical",
+      "title": "音楽と感情の天才",
+      "description": "あなたは音楽とリズムに深い感受性を持ち、音を通じて感情を表現し伝えます。音楽的感覚、ビート感、音感が発達しており、楽器演奏、作曲、歌唱などで優れた成果を上げることができます。音楽的感受性は言語のリズム感、声のトーンと感情伝達にも影響します。あなたの音楽的才能は人々の魂を動かし、感情を癒やし、世界に感動をもたらします。",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=800&q=80",
+      "tags": [
+        "リズム感",
+        "音楽感受性",
+        "感情表現",
+        "創造力",
+        "感情伝達"
+      ]
+    },
+    {
+      "id": "bodily",
+      "title": "身体運動の天才",
+      "description": "あなたは身体を通じた表現と動きに天賦の才能を持っています。優れた身体制御、敏捷性、筋力、バランス感覚でスポーツ、ダンス、演技、体操などで才能を発揮します。また手先の器用さに優れ、手工芸、料理、技術分野でも能力を発揮できます。あなたの身体感覚は行動力と実行力につながり、アイデアを現実にすることに秀でています。この才能で世界をより躍動的で美しく変化させられます。",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+      "tags": [
+        "身体感覚",
+        "手先の器用さ",
+        "行動力",
+        "協調能力",
+        "実行力"
+      ]
+    },
+    {
+      "id": "interpersonal",
+      "title": "人との繋がりで輝くあなた",
+      "description": "あなたは優れた共感能力と社交性で人々と意味のある関係を築く才能を持っています。相手の感情を敏感に理解し、適切な言葉と行動で信頼を築きます。チームをリードし、葛藤を調整し、協力を生み出すことがあなたの強みです。カウンセリング、教育、HR、営業、リーダーシップの役割で優れた成果を上げられます。\n\n成長ポイント：自分の時間も大切にしてください。他の人の世話をしながら自分を疎かにしないでください。バランスを保つことで、より長く健康的に関係を続けられます。",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+      "tags": [
+        "共感能力",
+        "関係構築",
+        "協力的リーダーシップ",
+        "傾聴",
+        "信頼構築"
+      ]
+    },
+    {
+      "id": "intrapersonal",
+      "title": "深い自己理解を持つあなた",
+      "description": "あなたは優れた自己反省能力で自分の感情、動機、価値観を明確に理解する才能を持っています。内面の声に耳を傾け、自分自身の哲学に基づいて意味のある人生を追求します。高い自己認識は個人の成長と成熟につながり、周囲の人々にも希望を与えます。心理学、哲学、カウンセリング、芸術分野で深い成果を上げられます。\n\n成長ポイント：時には外部の世界との繋がりも試みてください。自己反省に没頭して孤立しないよう、他の人との交流を通じて新しい視点を得ると、内面の洞察がより豊かになります。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "tags": [
+        "自己反省",
+        "情動知能",
+        "内面探求",
+        "自己認識",
+        "意味の追求"
+      ]
+    },
+    {
+      "id": "naturalist",
+      "title": "自然探求観察の天才",
+      "description": "あなたは自然と生命現象に対する深い関心と理解を持っています。動物、植物、生態系についての観察力と分類能力に優れており、自然の中で深い霊感を得ます。生物学、環境科学、農業、獣医学、公園設計など、自然関連分野で活躍できます。環境への関心と責任感は地球を保護することに大きな役割を果たします。自然との調和した関係を通じて、あなたはより創造的で健康的な人生を営みます。",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "tags": [
+        "自然親和性",
+        "観察力",
+        "分類能力",
+        "好奇心",
+        "環境意識"
+      ]
+    }
+  ]
+}

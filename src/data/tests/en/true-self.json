@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "What is your true self? Finding transparent people with matching outer and inner selves",
+  "description": "Jung's concept of 'persona' in psychology! Everyone shows different facets depending on the situation. But you? How much difference is there between your outward appearance and your true inner self? Measure your authenticity index!",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is your appearance like at work or school?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "It's not much different from my usual self. I naturally show myself as I am.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I try to show a professional image suitable for the situation.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I appear bright and active, but it's a bit different when I'm alone.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I show various sides depending on the people I'm with and the situation.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When faced with a difficult situation, how do you mainly cope?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "I talk honestly with someone I trust and ask for help.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I take time for myself, sort things out, and then return to daily life.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I act brightly as usual and don't reveal my difficulties.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I react differently depending on the emotions I feel at that moment.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Is there a difference in your appearance when you're with friends versus when you're alone?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Almost the same. I'm similar wherever I am.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Quite different. I appear more active in front of people.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Somewhat different. I try to show an appropriate appearance for the situation.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "It varies by situation. Different aspects emerge depending on who I'm with.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "How much do your dreams and real interests align with the image of you that others know?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Almost perfectly aligned. What I do and what I like are naturally connected.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Quite different. My true interests are kept in my personal sphere.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Somewhat different. In public situations, I try to show more appropriate things.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Still exploring. My interests are continually changing.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How much difference is there between what you post on social media and the real you?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "Almost none. I naturally share my daily life.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Quite different. Social media is a space where I selectively show special moments.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Somewhat different. I want to show my good side.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Sometimes different. I share depending on my mood and situation at the time.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How do you feel about expressing your opinions or thoughts?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "I express myself comfortably. Being honest comes naturally to me.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I'm cautious. I sometimes worry about others' reactions.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I assess the situation and judge. I consider the right time and way.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "It varies depending on the time. Sometimes I wonder what my real thoughts are.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "What is your appearance like when you first enter a new environment (school, workplace, gathering)?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "I express myself naturally, similar to my usual self.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I first assess the situation and tend to observe quietly.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I start with a polite and cautious appearance, then become comfortable as I get closer.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I adapt flexibly depending on the situation and the atmosphere of the people.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "What are your thoughts on 'living authentically'?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "It's important. I try to live as my true self.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Important, but sometimes I show myself differently to protect myself.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Important, but I also think roles suited to the situation are necessary.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I'm in the process of finding my true self.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How much influence do others' expectations or evaluations have on your actions?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Not much influenced. I act by my own standards.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Greatly influenced. I'm concerned about what others think.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I consider it, but my final decision follows my own judgment.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "It depends on the situation. Sometimes I care, sometimes I don't.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "If your 'true self' and 'social image' conflict, what would you do?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "I choose my true self. My life is more important.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I choose the image and hide my true self. It's safer.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I try to find a balance. I don't want to give up either.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I choose based on my feelings and situation at that moment.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "If you were to describe yourself in one sentence?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm an honest person who shows a consistent appearance everywhere.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I'm a multidimensional person with a rich inner world.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I'm a flexible person who responds appropriately to situations.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "I'm a person who constantly grows and evolves.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "Transparent person! You with matching outer and inner selves",
+      "description": "Congratulations! You are a person in the 'healthiest state' according to psychology. Your greatest strength is <b>authenticity</b>. Whatever you do, you act confidently, and people trust and follow you. A person whose outer and inner selves match has excellent mental health, is trusted in relationships, and experiences less stress. Living like you is the secret to the happiest life. Your transparency and honesty are true assets to the world!",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "Icon of authenticity",
+        "Trusted person",
+        "Healthy mind",
+        "Life as you are"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "Owner of a rich inner world",
+      "description": "You are a thoughtful person with a deep inner world. Rather than easily revealing everything, you choose to express yourself cautiously. This is an expression of <b>self-protection and thoughtfulness</b>. Your <b>excellent observation skills</b> and <b>refined sensitivity</b> allow you to deeply understand situations. Growth point: In trustworthy relationships, gradually share your true self. Genuine connections deepen when you accept each other as you are. Your inner world shared may receive a warmer response than expected!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Refined observation",
+        "Careful expression",
+        "Deep sensitivity",
+        "Richness within"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "Wise adapter, master of situational handling",
+      "description": "You are a <b>wise adapter</b> who responds flexibly to situations. You have excellent social skills and situation assessment ability. You express yourself professionally while maintaining authenticity - your sense of balance is your strength. This <b>strategic flexibility</b> greatly helps you succeed in diverse environments. One growth point: showing a more natural side in comfortable relationships. That time becomes true energy restoration and will make you shine even brighter!",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "Situational handling",
+        "Social wisdom",
+        "Sense of balance",
+        "Strategic flexibility"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "Endless explorer in evolution",
+      "description": "You are a <b>growth-oriented person</b> who continues to discover yourself! You haven't yet completely defined who you are, and you reveal various sides depending on situations and people. This means <b>richness of possibility</b>. You are flexible, highly adaptable, and unafraid to accept new things. Your next step is 'integration'. Understand the various sides of yourself you've discovered so far and gradually integrate them. Your journey of self-discovery is your greatest asset!",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "Growing soul",
+        "Infinite possibilities",
+        "Self-discovery",
+        "Flexible adapter"
+      ]
+    }
+  ]
+}

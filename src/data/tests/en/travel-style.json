@@ -1,0 +1,355 @@
+{
+  "id": "travel-style",
+  "title": "Travel DNA Test: What Kind of Traveler Are You?",
+  "description": "Have you ever fought with a friend while traveling? Find your true travel style! Share your test results with your travel buddy and your next trip will be different!",
+  "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop&q=80",
+  "color": "#009688",
+  "questions": [
+    {
+      "id": 1,
+      "text": "D-7 One week before the trip! What's your status?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "Finished Excel itinerary! Checked reservation confirmation emails 3 times each!",
+          "scores": {
+            "planner": 2,
+            "spontaneous": 0
+          }
+        },
+        {
+          "text": "Only booked the flight. I'll decide the rest on the spot, you know~",
+          "scores": {
+            "planner": 0,
+            "spontaneous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "9 AM at your travel destination! Where are you now?",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+      "options": [
+        {
+          "text": "Already at the famous spot! Early morning when it's quiet is the real deal!",
+          "scores": {
+            "adventure": 2,
+            "relaxation": 0
+          }
+        },
+        {
+          "text": "In front of the hotel breakfast buffet, happily deciding what to eat!",
+          "scores": {
+            "adventure": 0,
+            "relaxation": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Booking accommodation! What's your criteria?",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+      "options": [
+        {
+          "text": "Good location and clean? Perfect! I'll be out playing anyway!",
+          "scores": {
+            "budget": 2,
+            "luxury": 0
+          }
+        },
+        {
+          "text": "The accommodation is half the trip! Ocean view pool villa, let's go!",
+          "scores": {
+            "budget": 0,
+            "luxury": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "A local at a cafe at your travel destination starts talking to you!",
+      "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=600&q=80",
+      "options": [
+        {
+          "text": "Chance to become a real local friend! Gotta GET info about hidden restaurants!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "Smile and greet, then enjoy my quiet time with the scenery outside the window!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Free time on the last day! What do you want to do?",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+      "options": [
+        {
+          "text": "Gotta check out the museums and historical sites I haven't visited yet!",
+          "scores": {
+            "culture": 2,
+            "nature": 0
+          }
+        },
+        {
+          "text": "Looking at the sea and doing nothing! Nature is the best!",
+          "scores": {
+            "culture": 0,
+            "nature": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Suddenly the plane is delayed! Your itinerary is messed up! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "options": [
+        {
+          "text": "Actually great! Now I can visit places I wasn't planning to!",
+          "scores": {
+            "spontaneous": 2,
+            "planner": 0,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "Stay calm and activate plan B! Start searching for alternative accommodations!",
+          "scores": {
+            "spontaneous": 0,
+            "planner": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Travel photos, what's your recording style?",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "options": [
+        {
+          "text": "The perfect shot is essential! Gotta get the angle, lighting, and pose right!",
+          "scores": {
+            "social": 2,
+            "culture": 1
+          }
+        },
+        {
+          "text": "One click is enough! Memories I hold in my eyes last longer!",
+          "scores": {
+            "solo": 2,
+            "nature": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How do you decide on lunch at your travel destination?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "Pre-research done! Go to verified restaurants with 4.5+ ratings!",
+          "scores": {
+            "culture": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "Explore alleys with lots of locals! The fun of discovery is the taste!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "The most ideal travel companion is?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "options": [
+        {
+          "text": "Travel with multiple friends that energize you when together!",
+          "scores": {
+            "social": 2,
+            "relaxation": 1
+          }
+        },
+        {
+          "text": "A few close friends or solo, at my own pace!",
+          "scores": {
+            "solo": 2,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "What's your philosophy on travel budget?",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+      "options": [
+        {
+          "text": "Travel long by saving! My goal is to travel around the world!",
+          "scores": {
+            "budget": 2,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "Traveling is rare, so enjoy it fully! Satisfaction over value!",
+          "scores": {
+            "luxury": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Time to choose activities! What do you want to do?",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600&q=80",
+      "options": [
+        {
+          "text": "Bungee jumping! Skydiving! Life is once!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        },
+        {
+          "text": "Massage at a pool villa spa! This is true healing!",
+          "scores": {
+            "relaxation": 2,
+            "luxury": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "The day after returning from your trip, you are?",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "options": [
+        {
+          "text": "Searching for the next travel destination... Where should I go?",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1,
+            "budget": 1
+          }
+        },
+        {
+          "text": "Organizing travel photos and enjoying the afterglow... It was so much fun...",
+          "scores": {
+            "relaxation": 2,
+            "planner": 1,
+            "culture": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventure-spontaneous",
+      "title": "A Free-Spirited Adventurer Who Travels Without a Map!",
+      "description": "Your travel weapon is 'courage' and 'excitement'! A planned itinerary? That's something to look at when you're bored, and real travel is wherever your feet take you! A local restaurant you accidentally discover in an alley, a hidden viewpoint not on the map, an unexpected meeting with a friend... These 'unplanned moments' make your trip legendary! Among your friends, you're the #1 request for 'tell us your travel story!', because your stories are always fun. Where will you go next? You don't know yet? That's exactly your style!",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "tags": [
+        "Free spirit",
+        "Adventure DNA",
+        "Travel storyteller"
+      ]
+    },
+    {
+      "id": "relaxation-luxury",
+      "title": "The Best Gift for Yourself! Premium Healing Traveler",
+      "description": "You who work hard deserve to enjoy your trip! Waking up at an ocean view pool villa, leisurely brunch at the hotel buffet, massage at the spa for perfect healing... This is your true 'real rest'! When you come back, you return to your daily life with 'fully recharged!' energy, living as a smart traveler. Your healing trip will get flooded with calls from friends saying 'where is that? I want to go too!' Where will you escape for healing this time?",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+      "tags": [
+        "Premium healing",
+        "Self-care master",
+        "Leisure enjoyer"
+      ]
+    },
+    {
+      "id": "culture-planner",
+      "title": "Travel Destination Expert! Knowledgeable Traveler Who Understands Culture",
+      "description": "Your travel has 'depth'! Just a tourist who takes photos and moves on? No! You read the meaning of each work in a museum, find history in the corner of an alley, and grasp the culture embedded in local food - a true explorer! After traveling, you become an expert on that country, so when friends say 'I want to go to that country...', you get contacted first. Your travel reviews? More informative and entertaining than a guidebook!",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=600&q=80",
+      "tags": [
+        "Cultural explorer",
+        "Knowledgeable traveler",
+        "Destination expert"
+      ]
+    },
+    {
+      "id": "nature-solo",
+      "title": "Finding Myself in Nature! Healing Meditation Traveler",
+      "description": "Your ideal travel destination is not a busy city but quiet nature! The wind at the mountain top, the sunrise by the sea, the starlight of camping in the forest - nature heals you. In solitude, you meet your true self and become one with nature. Your travel brings you not just beautiful scenery on the outside, but peace on the inside.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "tags": [
+        "Nature lover",
+        "Inner journey",
+        "Healing expert"
+      ]
+    },
+    {
+      "id": "social-adventure",
+      "title": "Friends All Around the World! Global Social Butterfly Traveler",
+      "description": "Your trip's biggest highlight is 'people'! You quickly befriend the foreigner next to you on the plane, go on a tour with a traveler you met at the hostel the next day, and even exchange contact info with the local cafe owner! Wherever you are, laughter blooms. When asked 'do you know anyone there?', you confidently answer 'yeah, I have a friend!' You're a networking expert with sofa-surfing hosts all around the world. Who will you meet on your next trip?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "tags": [
+        "Global social butterfly",
+        "Network connector",
+        "Social master"
+      ]
+    },
+    {
+      "id": "budget-spontaneous",
+      "title": "Aiming for a World Tour! Savvy Adventure Traveler",
+      "description": "You're a travel genius who extracts maximum experience from a minimal budget! Flight deal alerts are basics, discovering local authentic restaurants, utilizing free tours and more! Your goal is to travel long and far, and your world map might already be more than half colored. Your travel know-how is priceless information you can't buy!",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "tags": [
+        "Budget travel genius",
+        "Value for money expert",
+        "World tour planner"
+      ]
+    },
+    {
+      "id": "planner-luxury",
+      "title": "A Masterpiece of Perfect Planning! Premium Curator",
+      "description": "Your travel itinerary is a work of art! You plan the best accommodations, restaurants, and routes flawlessly, and you're happiest when you execute that plan perfectly. A premium curator with an eye for quality who selects only the best experiences. There's a reason friends ask you to plan their trips. With you, a perfect trip with no failures is guaranteed!",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "tags": [
+        "Travel curator",
+        "Perfectionist",
+        "Premium planning skills"
+      ]
+    },
+    {
+      "id": "nature-relaxation",
+      "title": "Depth Without Rushing! Slow Traveler",
+      "description": "For you, travel is not about seeing much but feeling deeply! You stay in one place for a long time and experience its mornings and evenings, the rhythm of everyday life. A leisurely cup of coffee at a local cafe, shopping at the neighborhood market, walks in nature - these are your travel style! After traveling, you feel like you truly rested. That's real travel.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "tags": [
+        "Slow traveler",
+        "Month-long stay expert",
+        "Depth-filled travel"
+      ]
+    }
+  ]
+}

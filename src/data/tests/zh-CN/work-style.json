@@ -1,0 +1,353 @@
+{
+  "id": "work-style",
+  "title": "你在公司的真实定位是？公开隐藏的职场人DNA!",
+  "description": "上司不知道的你的真实价值！由人力资源专家分析的8种职场人类型。确认你的职业DNA，用于薪资谈判！必须与同事分享！",
+  "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop&q=80",
+  "color": "#1976D2",
+  "questions": [
+    {
+      "id": 1,
+      "text": "新的一周开始的早上，你的第一个想法是？",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "这周有重要会议在等着我，是时候展开我的想法了！",
+          "scores": {
+            "leader": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "text": "让我逐步整理今天的工作，稳定地开始！",
+          "scores": {
+            "supporter": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "紧急会议！'没有新项目想法？'团队负责人问道。你怎么做？",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "options": [
+        {
+          "text": "我举起手！'我有想到一些想法！'（准备了3个想法）",
+          "scores": {
+            "creative": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "我先分析相关数据，因为我喜欢有根据的建议",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "工作中集中力MAX！你的生产力爆发的时刻是？",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "和团队成员头脑风暴时！在对话中闪现灵感！",
+          "scores": {
+            "team": 2,
+            "creative": 1
+          }
+        },
+        {
+          "text": "插上耳机进入我自己的泡泡！请勿打扰！",
+          "scores": {
+            "solo": 2,
+            "analytical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "'请在今天完成！'突然出现的紧急工作！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "调整现有日程，重新分配优先级！启动B计划！",
+          "scores": {
+            "planner": 2,
+            "analytical": 1
+          }
+        },
+        {
+          "text": "好的！先开始再说！做着做着就有思路了！",
+          "scores": {
+            "flexible": 2,
+            "creative": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "项目进行中出现了意外问题！团队气氛不太对。你怎么做？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "让我来整理！找出问题原因并提出解决方案！",
+          "scores": {
+            "leader": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "不说，只行动！先快速解决我负责的部分的问题！",
+          "scores": {
+            "supporter": 2,
+            "solo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "终于到午餐时间了！你的午餐风格是？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "积极参与和团队成员开发新餐厅！闲聊是我的放松！",
+          "scores": {
+            "team": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "独自用餐或短途散步刷新！为下午的工作做准备！",
+          "scores": {
+            "solo": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "薪资谈判季节来临了。你的方法是？",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "options": [
+        {
+          "text": "整理业绩数据，积极走上谈判桌！",
+          "scores": {
+            "ambitious": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "相信坚实的业绩会自然得到认可，耐心等待！",
+          "scores": {
+            "balanced": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "公司要采用新工具！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "options": [
+        {
+          "text": "哦太有趣了！我喜欢学习新东西！迫不及待想试试！",
+          "scores": {
+            "creative": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "我习惯了现有方式...会有投资回报率吗？先观察一下",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "后辈对工作提出了问题。你的指导风格是？",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+      "options": [
+        {
+          "text": "一起坐下，逐步解释过程，帮助理解！",
+          "scores": {
+            "supporter": 2,
+            "team": 1
+          }
+        },
+        {
+          "text": "告诉他核心方向，鼓励他自己解决！",
+          "scores": {
+            "solo": 1,
+            "analytical": 1,
+            "leader": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "重要项目的截止日期即将到来。你对时间管理的看法是？",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "如果需要为了实现目标，即使加班也愿意！",
+          "scores": {
+            "ambitious": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "在规定时间内高效完成是真正的能力！",
+          "scores": {
+            "balanced": 2,
+            "flexible": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "团队工作坊或网络活动正在进行中。你会怎样？",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "积极参与，把它当作与同事更亲近的机会！",
+          "scores": {
+            "team": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "有意义地参与，但也要确保有个人充电时间！",
+          "scores": {
+            "solo": 1,
+            "balanced": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "5年后的我，想成为什么样的人？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "团队经理？主管？想成为引领更大项目的领导者！",
+          "scores": {
+            "ambitious": 2,
+            "leader": 2
+          }
+        },
+        {
+          "text": "想成为在自己领域获得认可的专家！",
+          "scores": {
+            "balanced": 1,
+            "analytical": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "leader-ambitious",
+      "title": "天生的领导者，未来的首席执行官候选人！",
+      "description": "你是为领导组织而生的人！即使在危机时刻，你也能坚定不移地指明方向，给团队成员带来灵感。你拥有与生俱来的领导力。你有决策力和执行力，5年后你会在更高的位置闪闪发光！未来的首席执行官就是你！",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "tags": [
+        "首席执行官人选",
+        "魅力领导者",
+        "决断力化身"
+      ]
+    },
+    {
+      "id": "supporter-team",
+      "title": "团队的心脏！所有人都认可的隐形MVP",
+      "description": "没有你，团队就转不了！你默默为团队奉献，成为同事们的支撑。你的价值虽然不太明显，但所有成就的背后都有你的身影。大家都知道这一点。你深刻理解协作的真正价值，无论在哪个组织中，你都是最需要的人才！",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "tags": [
+        "团队MVP",
+        "信任的象征",
+        "协作大师"
+      ]
+    },
+    {
+      "id": "creative-flexible",
+      "title": "想法爆炸！组织的创新引擎",
+      "description": "你的脑子是想法工厂！当所有人都说'不行'时，你喊出'这个怎么样？'的真正创新者。你灵活适应变化，不怕新挑战！打破公司停滞的正是你这样的人。你的创意可以改变公司的未来！",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "tags": [
+        "想法爆炸",
+        "创新象征",
+        "变化推动者"
+      ]
+    },
+    {
+      "id": "analytical-planner",
+      "title": "用数据说话的沉默实力派！",
+      "description": "你不需要华丽的言辞，你用结果来证明自己是真正的专业人士！你凭借深刻的分析力和系统的计划准确无误地实现目标。你审查的资料100%可信，你制定的计划必然成功。你以沉默的魅力推动组织，是隐藏的实力者！",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "tags": [
+        "数据大师",
+        "专业人士",
+        "实力派"
+      ]
+    },
+    {
+      "id": "solo-analytical",
+      "title": "深度的终极王者，无人能代替的专家",
+      "description": "你是自己领域中展现压倒性专业性的专家！虽然你很安静，但当你开口时，所有人都会聚精会神地听，你的一句话甚至能决定会议的结论。你通过深度专注积累的专业知识是无人能及的。无可替代的存在，那就是你！",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "tags": [
+        "专家中的专家",
+        "深度的终极王者",
+        "无法代替"
+      ]
+    },
+    {
+      "id": "balanced-flexible",
+      "title": "工作生活平衡大师！最明智的职场人",
+      "description": "你既工作出色，又懂得享受生活，是真正的专业人士！工作时间比任何人都高效，下班后充分利用自己的时间。在没有职业倦怠的情况下创造可持续的职业生涯的明智选择！很多人都会羡慕你的生活方式。真正的人生赢家！",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "tags": [
+        "工作生活平衡大师",
+        "效率的终极王者",
+        "人生赢家"
+      ]
+    },
+    {
+      "id": "team-creative",
+      "title": "公司的维生素！所有人都想要的同事",
+      "description": "有你在，团队气氛就能活跃200%！你用创意想法给团队注入活力，和你一起工作很有趣的能量制造者！同事们想和你成为同一个团队的原因，是因为你的积极能量和创意。在任何组织中都受欢迎的社交职场人！",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "tags": [
+        "公司维生素",
+        "气氛制造者",
+        "团队社交人"
+      ]
+    },
+    {
+      "id": "ambitious-planner",
+      "title": "雄心勃勃的战略家，握着成功路线图的人！",
+      "description": "你是有明确目标和缜密计划的真正战略家！你已经为5年后、10年后的职业生涯制定了路线图，正在一步步稳步前进。你明白成功是计划的结果，而不是巧合！你制定的目标必然会实现。让人期待未来的人！",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "tags": [
+        "战略家",
+        "雄心化身",
+        "成功预约"
+      ]
+    }
+  ]
+}

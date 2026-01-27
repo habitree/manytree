@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "¿Cuál es tu verdadero yo? Encontrando personas transparentes con apariencia e interior coincidentes",
+  "description": "¡El concepto de 'persona' de Jung en la psicología! Todos mostramos diferentes facetas según la situación. ¿Pero tú? ¿Cuánta diferencia hay entre tu apariencia externa y tu verdadero yo interior? ¡Mide tu índice de autenticidad!",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "¿Cómo es tu apariencia en el trabajo o la escuela?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "No es muy diferente de mi yo habitual. Muestro mi verdadero yo de forma natural.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Intento mostrar una imagen profesional adecuada para la situación.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Parezco alegre y activo, pero es un poco diferente cuando estoy solo.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Muestro diferentes facetas dependiendo de las personas y la situación.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando enfrentes una situación difícil, ¿cómo sueles afrontarla?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Hablo honestamente con alguien de confianza y pido ayuda.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Me tomo tiempo para mí, me organizo y luego vuelvo a la vida cotidiana.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Actúo con alegría como siempre y no revelo mis dificultades.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Reacciono de manera diferente según las emociones que sienta en ese momento.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Hay diferencia en tu apariencia cuando estás con amigos versus cuando estás solo?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Casi la misma. Soy similar en cualquier lugar.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Bastante diferente. Parezco más activo en público.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Algo diferente. Intento mostrar una apariencia apropiada para la situación.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Varía según la situación. Emergen diferentes aspectos dependiendo de con quién esté.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Qué tan bien coinciden tus sueños e intereses reales con la imagen que otros tienen de ti?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Casi perfecto. Lo que hago y lo que me gusta están naturalmente conectados.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Bastante diferente. Mis verdaderos intereses están en mi esfera personal.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Algo diferente. En situaciones públicas, intento mostrar cosas más apropiadas.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Aún explorando. Mis intereses están cambiando continuamente.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¿Qué tan diferente es lo que publicas en redes sociales de ti realmente?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "Casi nada. Comparto mi vida cotidiana de forma natural.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Bastante diferente. Las redes sociales son un espacio donde selecciono momentos especiales.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Algo diferente. Quiero mostrar mi mejor cara.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "A veces diferente. Comparto según mi estado de ánimo y situación en ese momento.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cómo te sientes al expresar tus opiniones o pensamientos?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "Me expreso con comodidad. Ser honesto es natural para mí.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Soy cauteloso. A veces me preocupa la reacción de otros.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Evalúo la situación y considero el momento y la forma apropiada.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Varía. A veces me pregunto cuál es mi verdadero pensamiento.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¿Cómo eres cuando entras por primera vez en un nuevo ambiente (escuela, trabajo, reunión)?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Me expreso naturalmente, similar a mi yo habitual.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Primero evalúo la situación y tiendo a observar silenciosamente.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Comienzo con una apariencia educada y cautelosa, luego me relajo conforme me conozco.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Me adapto flexiblemente según la situación y la atmósfera de las personas.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Cuál es tu pensamiento sobre 'vivir con autenticidad'?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Es importante. Intento vivir como mi verdadero yo.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Es importante, pero a veces me muestro diferente para protegerme.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Es importante, pero también creo que los roles apropiados para la situación son necesarios.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Estoy en el proceso de encontrar mi verdadero yo.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Cuánta influencia tienen las expectativas o evaluaciones de otros en tus acciones?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Poca influencia. Actúo según mis propios estándares.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Mucha influencia. Me preocupa lo que otros piensan.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Lo considero, pero mi decisión final sigue mi propio juicio.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Depende de la situación. A veces me importa, otras no.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Si tu 'verdadero yo' y tu 'imagen social' entran en conflicto, ¿qué harías?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Elegiría mi verdadero yo. Mi vida es más importante.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Elegiría la imagen y ocultaría mi verdadero yo. Es más seguro.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Intentaría encontrar un equilibrio. No quiero abandonar ninguno.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Elegiría según mis sentimientos y la situación en ese momento.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Si tuvieras que describirse en una oración?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Soy una persona honesta que muestra una apariencia consistente en cualquier lugar.",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Soy una persona multidimensional con un mundo interior rico.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Soy una persona flexible que responde apropiadamente a las situaciones.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "Soy una persona que constantemente crece y evoluciona.",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "¡Persona transparente! Tú con apariencia e interior coincidentes",
+      "description": "¡Felicidades! Eres una persona en el 'estado más saludable' según la psicología. Tu mayor fortaleza es la <b>autenticidad</b>. Sea lo que sea que hagas, actúas con confianza, y las personas te confían y te siguen. Una persona cuya apariencia exterior e interior coinciden tiene excelente salud mental, es confiable en las relaciones y experimenta menos estrés. Vivir como tú es el secreto de la vida más feliz. ¡Tu transparencia y honestidad son verdaderos activos para el mundo!",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "Icono de autenticidad",
+        "Persona de confianza",
+        "Mente saludable",
+        "Vida como eres"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "Dueño de un mundo interior rico",
+      "description": "Eres una persona reflexiva con un mundo interior profundo. En lugar de revelar todo fácilmente, eliges expresarte con cautela. Esto es una expresión de <b>autoprotección y reflexión</b>. Tus <b>excelentes habilidades de observación</b> y <b>sensibilidad refinada</b> te permiten comprender situaciones profundamente. Punto de crecimiento: en relaciones de confianza, comparte gradualmente tu verdadero yo. Las conexiones genuinas se profundizan cuando se aceptan el uno al otro tal como son. ¡Tu mundo interior compartido puede recibir una respuesta más cálida de la esperada!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Observación refinada",
+        "Expresión cautelosa",
+        "Sensibilidad profunda",
+        "Riqueza interior"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "Adaptador sabio, maestro en el manejo de situaciones",
+      "description": "Eres un <b>adaptador sabio</b> que responde flexiblemente a las situaciones. Tienes excelentes habilidades sociales y capacidad de evaluación. Tu sentido de equilibrio al expresarte profesionalmente mientras mantienes la autenticidad es tu fortaleza. Esta <b>flexibilidad estratégica</b> te ayuda mucho a tener éxito en diversos entornos. Un punto de crecimiento: mostrar un lado más natural en relaciones cómodas. Ese tiempo se convierte en restauración energética genuina y te hará brillar aún más.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "Manejo de situaciones",
+        "Sabiduría social",
+        "Sentido del equilibrio",
+        "Flexibilidad estratégica"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "Explorador en evolución constante",
+      "description": "¡Eres una <b>persona orientada al crecimiento</b> que continúa descubriéndote a ti mismo! Aún no has definido completamente quién eres, y revelas varios lados dependiendo de situaciones y personas. Esto significa <b>riqueza de posibilidades</b>. Eres flexible, altamente adaptable y sin miedo a aceptar cosas nuevas. Tu próximo paso es la 'integración'. Comprende los diversos aspectos de ti que has descubierto hasta ahora e integra gradualmente. ¡Tu viaje de autodescubrimiento es tu mayor activo!",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "Alma en crecimiento",
+        "Posibilidades infinitas",
+        "Autodescubrimiento",
+        "Adaptador flexible"
+      ]
+    }
+  ]
+}

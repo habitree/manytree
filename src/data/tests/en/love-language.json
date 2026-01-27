@@ -1,0 +1,630 @@
+{
+  "id": "love-language",
+  "title": "Discover Your Love Language! The 5 Love Languages",
+  "description": "Discover your true way of expressing love using Dr. Gary Chapman's 5 Love Languages theory! What if the same love is perceived differently? Find out your love language right now!",
+  "thumbnail": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&h=600&fit=crop&q=80",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When your partner has had a rough day, what's your natural reaction?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "You say encouraging words like, 'You worked hard, you're doing great!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You offer practical help by saying, 'Let me know if there's anything I can help with'",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You ask them to tell you more and listen to their story together",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You give them a warm hug and comfort them gently",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When you want to comfort a stressed-out partner, what do you naturally do?",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "You hold their hand or hug them warmly to comfort them",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "You prepare meals or do their tasks to help them practically",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You encourage and support them with words of courage",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You sit beside them and take time to listen to them fully",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "When expressing love to someone you care about, what's your main method?",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "You frequently express it with words like 'I love you', 'Thank you', 'You're the best'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You spend quality time together, having conversations and just being there",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You pick out gifts they'll love or prepare special events",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You express warmth through physical affection like holding hands or hugging",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "If your partner has an important event coming up, how do you support them?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "You boost their confidence with encouraging words like, 'You'll do great!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You prepare what they need and help them practically",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You stand by their side and take time to prepare together",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You relieve their tension with physical affection and warm hugs to reassure them",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "When you're feeling down, what comforts you the most?",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "When your partner spends quality time with you",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When they support you with kind and encouraging words",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When they hold your hand or hug you",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "When they help you practically and lighten your burden",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "When decorating a space to share with your partner, what matters most to you?",
+      "image": "https://images.unsplash.com/photo-1484101403633-571e57aa4ea0?w=600&q=80",
+      "options": [
+        {
+          "text": "Creating a cozy atmosphere for spending quality time together",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Reflecting their taste and preferences to create something special",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Organizing it practically so they can rest comfortably",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Creating a comfortable space where you can cuddle and relax together",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "When your partner achieves something great, what's your first action?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "You celebrate loudly and repeatedly say, 'That's amazing!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You prepare a congratulatory gift and plan a special event",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You hug them and express your joy physically with cheers",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "You share the joy together and listen to their story",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "In everyday life, how do you most naturally express your love?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "You naturally show affection often through holding hands and hugging",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "You prepare what they need and help them in daily life",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You enjoy preparing small gifts or surprise events",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "You prioritize sharing your day and spending quality time together",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "When do you feel most loved by your partner?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "When they say things like, 'You make me happy', 'You're so special'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When they're there to help and take care of me when I'm busy",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When they remember my preferences and give me gifts or surprises",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When they hug me warmly or hold my hand tightly",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "What's the most memorable moment you've shared with your partner?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "When they prepared a special gift I had always wanted",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When we had deep conversations undisturbed and spent quality time together",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When my partner encouraged me with sincere and supportive words",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When my partner hugged me, held my hand, and expressed love through physical affection",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "When do you feel that you love your partner?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "When my partner is by my side and pauses everything to focus only on me",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When my partner knows what I need and helps without being asked",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When my partner believes in my potential and says encouraging words",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "When my partner warmly hugs me and holds my hand",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When celebrating a special day, how do you most enjoy being celebrated?",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "Receiving a meaningful gift and a specially prepared event",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Hearing sincere congratulations or moving words",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Having my partner dedicate their full time to be with me",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Being celebrated with warm hugs and physical affection",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "words",
+      "title": "Words of Affirmation - Love Expressed Through Words",
+      "description": "You are someone who believes in the power of words. You think that small gestures like 'I love you', 'Thank you', 'You're amazing' are the greatest gifts. Words of encouragement, praise, and gratitude make both you and those you love happy. Your words brighten someone's day, give them confidence, and strengthen relationships. Your ability to express love through words is truly a special talent!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Warm words",
+        "Encouragement and praise",
+        "Expression of gratitude"
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Acts of Service - Love Expressed Through Actions",
+      "description": "You are someone who expresses love through actions. You carefully observe what your partner needs and convey your feelings through practical help. Whether it's preparing food or getting things ready in advance, your thoughtfulness gives your partner a deep sense of security. Your every action carries genuine care that says 'I cherish you'. This practical love gives your relationship a solid foundation of trust. Sometimes expressing your feelings through words will help your partner feel your love even more deeply!",
+      "image": "https://images.unsplash.com/photo-1509355114855-4c02da2f8fce?w=600&q=80",
+      "tags": [
+        "Thoughtful care",
+        "Practical love",
+        "Building trust"
+      ]
+    },
+    {
+      "id": "gifts",
+      "title": "Receiving Gifts - Love Expressed Through Thoughtful Presents",
+      "description": "You are someone who puts their heart into giving gifts. You believe that one meaningful gift or surprise event speaks louder than a thousand words. The gifts you choose deeply reflect your partner's tastes and feelings, making them feel, 'You really know me well'. Whether big or small, your gifts always carry genuine affection and consideration. The warmth in your gifts will be remembered forever!",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "tags": [
+        "Thoughtful gifts",
+        "Memorable surprises",
+        "Expressing affection"
+      ]
+    },
+    {
+      "id": "touch",
+      "title": "Physical Touch - Love Expressed Through Warm Affection",
+      "description": "You are someone who expresses love through warm physical affection. Holding hands, hugging, and gentle touches are your most sincere ways of expressing love. Your warm affection conveys security and comfort to your partner. In your embrace, they feel cherished, and your touch becomes a deeper comfort than words. This ability to express love through affection is a precious strength in building intimate relationships. Sometimes expressing your feelings through words will help your partner feel your love in an even richer way!",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "tags": [
+        "Warm touch",
+        "Conveying security",
+        "Building intimacy"
+      ]
+    },
+    {
+      "id": "time",
+      "title": "Quality Time - Love Expressed Through Shared Moments",
+      "description": "You are someone who believes that time is the most precious thing. No matter how busy, you make time for the people you love, and during that time, you focus solely on them. Time spent with you is special, and the conversations and sharing within it create the deepest connections. You have the ability to make people feel valued by putting away your phone and connecting through eye contact. Your time is the greatest expression of love to someone!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Quality time",
+        "Value of togetherness",
+        "Focused relationships"
+      ]
+    }
+  ]
+}

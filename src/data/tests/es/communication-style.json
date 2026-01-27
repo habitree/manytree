@@ -1,0 +1,353 @@
+{
+  "id": "communication-style",
+  "title": "¿Por qué no puedo hablar con esta persona? ¡Revelando tu ADN de comunicación oculto!",
+  "description": "¡El 90% no sabía sus propios hábitos de conversación! Aquí está la razón por la que la comunicación fue difícil con tu pareja, amigos y colegas. Da el primer paso para mejorar tus relaciones y ¡verifica ahora!",
+  "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop&q=80",
+  "color": "#00BCD4",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Tu amigo tiene un problema difícil y quiere tu consejo. ¿Cuál es tu reacción natural?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Escucho completamente primero, empatizo con sus emociones y los consuelo",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Entiendo la situación y buscamos soluciones prácticas juntos",
+          "scores": {
+            "talker": 2,
+            "logical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando necesitas comunicar información importante, ¿cuál es tu estilo?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "Creo que es más eficiente comunicar el punto clave claramente",
+          "scores": {
+            "direct": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "Considero la situación de la otra persona y explico suavemente",
+          "scores": {
+            "indirect": 2,
+            "emotional": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "En una reunión, terminas sentándote al lado de un desconocido. ¿Cuál es tu reacción?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Saludo primero y comienzo naturalmente a conversar",
+          "scores": {
+            "talker": 2,
+            "offline": 1
+          }
+        },
+        {
+          "text": "Observo el estado de ánimo de la otra persona y espero un momento natural",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Durante una reunión, surge una opinión diferente a la tuya. ¿Cómo reaccionas?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Presento mis ideas claramente con razonamientos lógicos",
+          "scores": {
+            "logical": 2,
+            "direct": 1
+          }
+        },
+        {
+          "text": "Respeto su opinión primero, luego comparto cuidadosamente mi perspectiva",
+          "scores": {
+            "emotional": 2,
+            "indirect": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¡Necesitas contactar urgentemente a un amigo! ¿Cuál es tu método preferido?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Mensaje de texto! Es más conveniente escribir y me ayuda a organizar mis pensamientos",
+          "scores": {
+            "online": 2,
+            "indirect": 1
+          }
+        },
+        {
+          "text": "¡Llamar directamente! Esto no es para un mensaje, ¡necesito decirlo en persona!",
+          "scores": {
+            "offline": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cuál es tu estilo de participación en chats grupales?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Participo activamente en conversaciones y animo el ambiente",
+          "scores": {
+            "talker": 2,
+            "casual": 1
+          }
+        },
+        {
+          "text": "Principalmente observo y comparto mis opiniones brevemente cuando es necesario",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Notas que tu amigo no se ve bien. ¿Cuál es tu reacción?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Pregunto inmediatamente qué pasó y muestro mi preocupación",
+          "scores": {
+            "direct": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Estoy cómodamente a su lado y escucho cuando está listo",
+          "scores": {
+            "indirect": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Durante una reunión de la empresa, ¿cuál es tu estilo de habla?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Primero, segundo, tercero! Organizo y presento sistemáticamente",
+          "scores": {
+            "logical": 2,
+            "formal": 1
+          }
+        },
+        {
+          "text": "¡Hablo flexiblemente según el ambiente! ¡Ser demasiado rígido es aburrido!",
+          "scores": {
+            "emotional": 1,
+            "casual": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Cuando hablas con viejos amigos, ¿cuál es tu estilo?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Bromeo cómodamente y hablo libremente sin formalidades",
+          "scores": {
+            "casual": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "Aunque seamos cercanos, mantengo un tono respetuoso",
+          "scores": {
+            "formal": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Cuando alguien te cuenta una historia larga, ¿cuál es tu estilo conversacional?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Escucho atentamente hasta el final, empatizo y reacciono",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Comparto mis pensamientos en momentos apropiados y continúo la conversación",
+          "scores": {
+            "talker": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¿Cuál es tu estilo de actividad en redes sociales?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "Comparto activamente publicaciones y comentarios",
+          "scores": {
+            "online": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "Principalmente veo y prefiero comunicarme a través de mensajes directos",
+          "scores": {
+            "offline": 1,
+            "listener": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Cuando quieres expresar gratitud, ¿cuál es tu estilo?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Me siento natural expresar gratitud directamente con palabras",
+          "scores": {
+            "direct": 2,
+            "casual": 1,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Me siento más cómodo expresando mis sentimientos a través de acciones u otras formas",
+          "scores": {
+            "indirect": 2,
+            "formal": 1,
+            "logical": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "direct-talker-logical",
+      "title": "¡Poder comunicativo claro! Maestro de la comunicación eficiente",
+      "description": "Eres un comunicador que transmite el mensaje central de manera clara y precisa. Minimizas palabras innecesarias y organizas tus pensamientos, facilitando la comprensión de los oyentes. Este estilo brilla especialmente en entornos de trabajo. Considerando el contexto emocional de otros, la comunicación puede ser aún más enriquecedora. Tu capacidad de comunicación lógica y eficiente es un gran activo para tu equipo y organización.",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "Entrega clara",
+        "Comunicación eficiente",
+        "Expresión lógica"
+      ]
+    },
+    {
+      "id": "listener-emotional",
+      "title": "¡Genio de la empatía! La presencia reconfortante en la que todos confían",
+      "description": "¡Tienes un don natural para la empatía! Escuchas genuinamente a los demás y sientes sus emociones junto con ellos - un comunicador cálido. ¿Las personas te dicen con frecuencia que hablar contigo alivia su mente? Tu simple frase 'Entiendo, eso debe haber sido difícil' se convierte en el mayor consuelo para ellos. Todos abren sus corazones a ti, ¡y eres el refugio precioso de alguien!",
+      "image": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=600&q=80",
+      "tags": [
+        "Experto en empatía",
+        "Oyente cálido",
+        "Refugio seguro"
+      ]
+    },
+    {
+      "id": "talker-casual-offline",
+      "title": "Comunicador que conecta personas con energía cálida",
+      "description": "Tienes la capacidad de infundir calidez a las conversaciones y poner a las personas cómodas. Con tu estilo de comunicación amigable, diriges reuniones con positividad y disfrutas el placer de hablar cara a cara. Tu habilidad social crea nuevas relaciones y fortalece las existentes. Esta capacidad de conexión es una gran fortaleza en el trabajo en equipo y la colaboración. Si dedicas tiempo a escuchar más profundamente las historias de otros, tus relaciones tendrán una profundidad aún más rica.",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "tags": [
+        "Energía cálida",
+        "Conector de relaciones",
+        "Comunicación amigable"
+      ]
+    },
+    {
+      "id": "logical-formal",
+      "title": "¡Rey de la lógica! Comunicador profesional con 100% de persuasión",
+      "description": "¡Lógica sobre emoción, claridad sobre ambigüedad! Eres un maestro de la comunicación sistemática y lógica. Tus afirmaciones en reuniones y discusiones son persuasivas y otros te entienden fácilmente. Tienes el poder de convencer a otros con argumentos fundamentados y entrega clara. Un comunicador comercial profesional - ¡todos asienten ante tus palabras!",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80",
+      "tags": [
+        "Rey de la lógica",
+        "Persuasión excelente",
+        "Comunicador profesional"
+      ]
+    },
+    {
+      "id": "indirect-listener",
+      "title": "Maestro de comunicación armoniosa con consideración reflexiva",
+      "description": "Eres un comunicador reflexivo que considera primero la posición de la otra persona. Eliges cada palabra cuidadosamente e intentas comprender diferentes perspectivas. Gracias a tu consideración, surge armonía en tus relaciones y encuentras soluciones que todos pueden aceptar incluso en conflictos. Como mediador de confianza, eres una presencia valiosa para tu equipo y organización. ¡A veces expresar más activamente tus propias opiniones hará que tu perspectiva sabia ayude a más personas!",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "tags": [
+        "Consideración reflexiva",
+        "Creación de armonía",
+        "Mediador de confianza"
+      ]
+    },
+    {
+      "id": "online-indirect",
+      "title": "Maestro de expresión organizada, comunicador digital reflexivo",
+      "description": "Eres un comunicador reflexivo que disfruta organizando tus pensamientos antes de compartir. Destacas en la comunicación digital a través de texto, transmitiendo tu mensaje de manera más precisa y clara. Este estilo también refleja tu cuidado al elegir palabras para que otros las acepten cómodamente. Las habilidades de comunicación en el entorno digital son muy importantes en la sociedad moderna. ¡Experimentar ocasionalmente la calidez espontánea de la comunicación cara a cara enriquecerá aún más tus relaciones!",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "tags": [
+        "Expresión reflexiva",
+        "Comunicación organizada",
+        "Entrega considerada"
+      ]
+    },
+    {
+      "id": "emotional-casual",
+      "title": "¡La llave para abrir corazones! Sanador emocional lleno de autenticidad",
+      "description": "¡Las conversaciones contigo calientan el corazón y brindan comodidad! Compartes emociones honestamente y disfrutas conversaciones libres sin formalidad. ¡Buscas conversaciones que conecten corazones en lugar de rígidas! Las personas se sienten sanadas hablando contigo. ¡Maestro de conversaciones genuinas y cálidas, amigo que sana a todos!",
+      "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=600&q=80",
+      "tags": [
+        "Sanador emocional",
+        "Comunicación genuina",
+        "Conversación cálida"
+      ]
+    },
+    {
+      "id": "formal-listener-logical",
+      "title": "¡Las palabras tienen peso! Consejero de vida de confianza",
+      "description": "¡Eres un comunicador reflexivo que valora la acción sobre las palabras y la escucha sobre la charla! No hablas descuidadamente, pero cuando es necesario, entregas el punto esencial con impacto. Por eso tus palabras tienen poder y peso, y tu consejo es siempre útil. Porque no hablas ligeramente, las personas te confían. ¡El consejero de vida confiable en el que todos pueden depender - tus palabras son oro!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Icono de confianza",
+        "Consejero de vida",
+        "Palabras con peso"
+      ]
+    }
+  ]
+}

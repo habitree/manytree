@@ -1,0 +1,571 @@
+{
+  "id": "burnout-risk",
+  "title": "How Is My Mental Health? Burnout Risk Assessment",
+  "description": "Seven out of ten office workers experience burnout! Are you okay? Read the signals from your body and mind, and prevent it in advance. Take this test to check your current burnout risk level!",
+  "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop&q=80",
+  "color": "#FF5252",
+  "questions": [
+    {
+      "id": 1,
+      "text": "When you open your eyes on Monday morning as a new week begins, what's your first thought?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "Another fresh day! I prepare myself thinking about what to do",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "The weekend went by so fast, which is sad, but I get up",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Getting ready for work feels heavy and I have no energy",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Starting the day itself feels exhausting",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "How well can you maintain concentration during work?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "I often get so focused that I lose track of time!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Usually fine, but sometimes I drift into other thoughts",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I often zone out and it's hard to concentrate",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Work doesn't catch my attention, and I have no motivation",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "What's your energy level after leaving work?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "I have energy to enjoy leisure activities and time with friends",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I'm somewhat tired, but I can go out if I have plans",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I feel a lot of fatigue and feel I need personal time",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Extreme fatigue - I don't feel recovered even with enough rest",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "How is your sleep quality recently?",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&q=80",
+      "options": [
+        {
+          "text": "I sleep soundly and wake up refreshed!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I toss and turn sometimes, but overall it's okay",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I wake up frequently, and it's hard to fall asleep with work on my mind",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Chronic insomnia... I'm tired but can't sleep",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How do you feel about the work you're currently doing?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "I find it meaningful and fulfilling",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I do it calmly without any particular emotion",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I sometimes doubt it, but I keep going",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It's hard to find meaning in my work and my motivation has dropped a lot",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How are your relationships with colleagues and supervisors at work?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "We cooperate and maintain positive relationships",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "We maintain an appropriate distance as work-related relationships",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Relationship stress exists and it feels burdensome",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I feel isolated or like there's no one to share my feelings with",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "How is your physical condition?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "Healthy and full of energy!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Normal. Sometimes tired, but within normal range",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I often have headaches or indigestion",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Chronic fatigue and various symptoms persist...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How much personal time are you securing?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm investing enough time in hobbies and rest!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I'm busy, but I find my own time here and there",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Almost none... I'm buried in work",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "What hobby? I don't remember",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How satisfied are you with your achievements and recognition?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm sufficiently recognized and satisfied!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I could receive more, but it's fine",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I get so little recognition compared to my effort - it's frustrating",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "No matter what I do, it's not noticed... I feel hollow",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Do you think about work even outside of work hours?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Almost never! I can completely switch off!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It sometimes comes to mind, but I quickly forget",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I often think about it and it bothers me",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It never leaves my mind...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Are you managing stress well?",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm managing stress well through exercise and hobbies!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I blow off steam sometimes, but not always",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It's hard to find ways to relieve stress",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I have no relief besides eating or sleeping",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "What are your thoughts about the future?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "I have goals and feel like I'm growing!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "I'll live day by day for now and look for opportunities",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It feels hopeless... The future feels uncertain",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "It looks hopeless...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "low",
+      "title": "Burnout-Free Zone! Mental Health Honor Student",
+      "description": "Congratulations! You're currently maintaining a healthy mental state! You're balancing work and life well, and managing stress effectively. Keep this good state going, and give yourself small rewards from time to time. Your positive energy is also making a good impact on those around you!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Mental health",
+        "Balanced life",
+        "Positive energy"
+      ]
+    },
+    {
+      "id": "moderate",
+      "title": "Caution Zone! A Little Tired You",
+      "description": "You seem a bit exhausted. It's still okay, but stress signals are starting to show. Now is an important time! It would be good to rest moderately without overexerting yourself and take time to recharge. Try to consciously secure time for exercise, hobbies, and time with people you like. If you manage now, you can successfully prevent burnout!",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "tags": [
+        "Recharge needed",
+        "Stress management",
+        "Self-care"
+      ]
+    },
+    {
+      "id": "high",
+      "title": "Time for Recovery, It's Time to Care for Yourself",
+      "description": "Your body and mind are telling you they need rest. This is also a signal of how hard you've worked so far. Now, securing time for yourself is the most important thing. Start with small changes like a short break, adjusting your workload, or talking to someone you can trust. Your courage to take the first step toward recovery is a sign that you can definitely get back on your feet!",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "Time for rest",
+        "Recovery possible",
+        "Self-care"
+      ]
+    },
+    {
+      "id": "severe",
+      "title": "You Are Not Alone, We Can Solve This Together",
+      "description": "You're going through a tough time right now, aren't you? First, let me give you a round of applause for your courage in honestly checking your condition like this. The feelings you're experiencing are completely understandable and natural reactions. In times like this, seeking help from a professional is the most effective approach. Consult with a psychotherapist, an EAP program, or a psychiatrist. Asking for help is not a weakness, but a wise choice of self-love. You can get better, and there are professionals ready to support you on that journey.",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "With professionals",
+        "Start of recovery",
+        "Courageous choice"
+      ]
+    }
+  ]
+}

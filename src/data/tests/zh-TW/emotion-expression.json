@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "我的情感表達風格測試",
+  "description": "開心時，你怎樣表達？生氣時呢？我們每個人的情感表達方式都不同！發現你獨特的情感表達風格，並與朋友們比較結果吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你精心準備的想法在會議中被忽視了！你會怎麼做？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "坦誠地表達意見：'這確實有點遺憾'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "壓抑情感並專業地管理表情！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "想著'下次我會更好地說服'，把它當作成長機會",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "先專注其他工作吧！忘記是上策",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "與親近的人吵架時，你的典型反應是什麼？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "逐步解釋你的感受，並嘗試聽對方的想法",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "努力隱藏憤怒，保持沉默",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "嘗試理解對方的立場並積極解讀",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "開始做別的事來逃離這種狀況",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "你成功獲得了最喜歡的歌手的演唱會門票！你的反應是？",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "哇啊啊！大聲尖叫，立即在社交媒體上炫耀！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "心裡'太好了！'但靜靜地微笑",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "帶著感恩的心，期待演唱會的到來",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "雖然高興，但很快回到日常工作！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "今天特別有壓力！下班後你會怎樣？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "打電話給朋友傾訴：'今天真是...'！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "獨自靜靜地整理，控制自己的情緒",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "從今天的工作中找到學習點，檢查成長收獲！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "用Netflix/遊戲轉移注意力！忘記是最好的辦法！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "當你犯了一個錯誤時，你的反應是什麼？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "承認錯誤並真誠地道歉",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "試圖隱藏錯誤，靜靜地處理",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "從錯誤中學習，下次做得更好",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "盡快忘記錯誤並繼續前進",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "當有人批評你時，你怎麼反應？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "表達你的感受，同時聽取對方的反饋",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "假裝沒有傷害，表面上笑著掩過",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "嘗試從批評中找到有用的建議",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "有意識地避免考慮這個批評",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "獨自度過的週末，你感到有點孤獨！你會怎樣？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "打電話給朋友：'在幹什麼？出來玩！'並成功約見！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "接受獨處時間，靜靜地度過",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "這是我的個人時間！用來自我反思和成長！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "用YouTube/電視劇打發時間，趕走孤獨！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "當你想與某人建立深層情感連接時，你怎樣行動？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "坦誠地表露內心，分享你的情感",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "表達感情但保持適當距離",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "帶著關心的心態嘗試建立連接",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "專注於當下，而不是情感連接",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你的朋友又一次破壞了約定！當憤怒升起時，你會怎樣？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "坦白說：'這次我真的失望了'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "壓制憤怒，冷靜下來後再談話",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "嘗試理解—朋友可能有原因",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "就算了，說起來太累了",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "當你感到焦慮時，你的典型反應是什麼？",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "與某人分享焦慮並尋求安慰",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "壓抑焦慮，試圖保持鎮定",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "尋找焦慮的根源並逐步解決",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "將焦慮思想趕出腦海，專注現在",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "當你感到失敗時，你如何向他人表達？",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "坦誠分享你的感受和經歷",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "試圖隱藏失敗，轉移話題",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "從失敗中學到的東西以積極的方式分享",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "不向任何人講述失敗經歷",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "當你意識到你的情感可能傷害他人時，你怎麼反應？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "向對方解釋你的感受並進行真誠的對話",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "更謹慎地表達情感並約束自己",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "理解對方感受並嘗試更好的表達方式",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "避免整個情況並保持情感距離",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "心不隱藏的坦誠表達者！",
+      "description": "你是一個感情坦誠的人！開心就開心，難過就難過—這就是你的風格。所以周圍的人把你看作'能理解的、舒適的人'。\n\n你的吸引力點！\n- 你不隱藏情感，所以壓力不會堆積\n- 你很快與人親近並建立深層關係\n- 你獲得'我可以跟這個人坦誠'的信任\n- 你的坦率給周圍的人帶來勇氣！\n\n你是否常聽到朋友說'我真喜歡你這麼坦白'？你真摯的表達讓關係更溫暖！",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "坦誠簡樸",
+        "心靈讀者",
+        "溫暖真心"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "平靜的情感大師！撲克臉高手",
+      "description": "你是情感控制的大師！心裡可能風暴翻騰，但外表卻如平靜的海面—你有這樣的能力。你在任何情況下的鎮定都令人欽佩！\n\n你的吸引力點！\n- 在危機中也能冷靜判斷\n- 人們信任你並認為'和你一起我感到安全'\n- 你不被情感驅使，所以錯誤更少\n- 你給周圍的人帶來穩定感！\n\n朋友們在困難時是否對你說'和你說話讓我心裡平靜'？你的鎮定是給他人的巨大力量。有時與信任的人分享真實想法也很好！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "撲克臉",
+        "鎮定之王",
+        "可靠的人"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "再次站起的積極轉換者！",
+      "description": "你是'用檸檬做檸檬水'的類型！即使在困難中，你也有'我能學到什麼？'的驚人積極能量。\n\n你的吸引力點！\n- 在任何情況下都能找到成長點\n- 你的恢復力令人驚歎—很快站起來\n- 你給周圍的人傳遞希望和勇氣\n- 你在衝突中嘗試理解對方！\n\n人們是否經常問你'你怎麼這麼積極？'你的正面觀點對周圍的人是巨大的力量。與你在一起，人們會感到'我也能做到！'",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "積極能量",
+        "成長心態",
+        "希望傳播者"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "獨立自主的解決者！",
+      "description": "你是一個獨立的人，不被情感淹沒，用自己的方式解決問題！你是實用型，更專注於'現在該做什麼'而不是複雜情感。\n\n你的吸引力點！\n- 你不被情感拖累，高效率行動\n- 你有強大的獨立心—自己解決問題\n- 你不給他人情感負擔\n- 危機中你做實用的判斷！\n\n人們是否經常說'你真的很獨立'？你的自主情感管理能力是巨大的優勢。保持自己的方式同時，有時與信任的人分享心靈也會是好經驗！",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "獨立滿分",
+        "實用主義者",
+        "我的方式"
+      ]
+    }
+  ]
+}

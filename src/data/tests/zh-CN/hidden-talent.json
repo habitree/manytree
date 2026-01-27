@@ -1,0 +1,823 @@
+{
+  "id": "hidden-talent",
+  "title": "发现你的隐藏天才",
+  "description": "这是一项心理测试，通过8种多元智能来发现你独特的天赋。它是以霍华德·加德纳理论为基础创作的。",
+  "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f70504ce0?w=800&q=80",
+  "color": "#8E44AD",
+  "questions": [
+    {
+      "id": 1,
+      "text": "当你尝试理解新情境中的问题时，最适合你的方法是什么？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "用言语或文字整理情况，并与他人讨论",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "逐步分析并制定系统性计划",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "在脑海中描绘全局或进行图表化处理",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "倾听内心感受和直觉",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "你最喜欢的休闲活动是什么？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "阅读、写作、听播客",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "解数学题、编程、拼图",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "欣赏音乐、演奏乐器、唱歌",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "运动、跳舞、烹饪、手工制作",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "你觉得自己最大的优势是什么？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "清晰表达思想并与他人沟通的能力",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析复杂问题并找到解决方案的能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "想出新想法并创意表达的能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "理解自己并进行审慎判断的能力",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "学习新东西时，对你最有效的方法是什么？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "听或读说明，并通过与他人讨论来理解",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析原理并逐步进行实验来理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "通过图表、图解、思维导图进行可视化来理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "通过亲身体验或用节奏记忆来理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "当遇到意外问题时，你自然倾向的处理方式是什么？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "与值得信任的人交谈并一起寻找解决方案",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "逻辑分析原因并寻求解决方案",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "直接行动并通过试错解决",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "暂停片刻，倾听内心的直觉",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "关于自然和环境，你更偏好什么活动？",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+      "options": [
+        {
+          "text": "观察动植物并了解生态系统",
+          "scores": {
+            "linguistic": 1,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 3
+          }
+        },
+        {
+          "text": "用摄影或绘画捕捉自然的美",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 2
+          }
+        },
+        {
+          "text": "户外运动或进行冒险活动",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "在大自然中静思或听音乐",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "在团队项目中，你的角色是什么？",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "协调整体并引领团队氛围",
+          "scores": {
+            "linguistic": 2,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "系统性地规划并执行",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "提出创意和新想法",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "静静地完成自己的角色",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你帮助他人的方式是什么？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "用鼓励的言语鼓励并给予建议",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "提供具体的解决方案",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "通过行动来示范",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "共情地倾听对方的感受",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 2,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你最有信心的领域是什么？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "语言、文字、表达、讲解",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "数学、科学、逻辑、技术",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "美术、设计、空间感觉",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "节奏、音乐、情感表达",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "面对压力时，你的应对方法是什么？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "与朋友交谈或聚会",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析原因并制定计划",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "运动、跳舞、旅行来活动身体",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "听音乐、冥想、享受安静时光",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你如何描述你的梦想或目标？",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "用详细的言语表达",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "用分步计划和数据整理",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "想象并用图画来表现",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "用感觉和情感来表达",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "下列中你最想要的经历是什么？",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "学习新文化并与他人建立联系",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "学习新技术并解决问题",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "冒险和在大自然中活动",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "创作或欣赏艺术作品",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "linguistic",
+      "title": "用语言与世界交流的你",
+      "description": "你拥有通过言语和文字清晰表达思想的能力。用简洁易懂的方式解释复杂观点，并用打动人心的表达力是你的优势。你在写作、讲故事、讨论和学习外语方面能自然地展现才华。\n\n成长点：同时培养倾听能力。当你倾听他人的故事并理解他们的观点时，你的沟通能力会更加深厚。作家、教育工作者、咨询师、营销人员等各个领域都可以发挥这种才能。",
+      "image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=800&q=80",
+      "tags": [
+        "清晰表达",
+        "沟通能力",
+        "创意写作",
+        "说服力",
+        "故事的力量"
+      ]
+    },
+    {
+      "id": "logical",
+      "title": "用逻辑解决问题的你",
+      "description": "你拥有通过系统分析和逻辑思维清晰解决复杂问题的能力。发现模式、理解因果关系并得出合理结论对你来说很自然。你在编程、研究、工程和数据分析等领域能取得突出成绩。\n\n成长点：也要认可情感和直觉的价值。并非所有情况都能用逻辑单独解决。如果你培养理解和同情他人感受的能力，你的分析力会转化为更温暖、更有效的解决方案。",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "tags": [
+        "系统分析",
+        "逻辑思维",
+        "问题解决",
+        "模式识别",
+        "理性判断"
+      ]
+    },
+    {
+      "id": "spatial",
+      "title": "空间可视化天才",
+      "description": "你以视觉方式认识世界，拥有对空间和形态的出众感觉。你对色彩、构成和排列很敏感，能够通过三维思维想象未来的样子。你在艺术、设计、建筑、视频制作、游戏开发等领域可以展现创造力。你的视觉表达能够阐明抽象概念，引领人们进入美丽而新奇的世界。",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+      "tags": [
+        "创意",
+        "美学感觉",
+        "空间感",
+        "可视化",
+        "设计思维"
+      ]
+    },
+    {
+      "id": "musical",
+      "title": "音乐情感天才",
+      "description": "你对音乐和节奏有深切的敏感度，通过声音表达和传达情感。你具备发达的音乐感、节奏感和听音能力，能在乐器演奏、作曲、歌唱等方面表现出色。音乐敏感度也影响语言的节奏感、声音的音调和情感传达。你的音乐才能触动人们的灵魂，治愈他们的情感，为世界带来感动。",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=800&q=80",
+      "tags": [
+        "节奏感",
+        "音乐敏感度",
+        "情感表达",
+        "创意",
+        "情感传达"
+      ]
+    },
+    {
+      "id": "bodily",
+      "title": "身体运动天才",
+      "description": "你拥有通过身体表达和运动的天赋才能。出众的身体控制、灵活性、力量和平衡感让你在运动、舞蹈、表演、体操等方面闪闪发光。你的手工技能也很强，能在手工艺、烹饪和技术领域展现才能。你的身体感觉转化为行动力和执行力，擅长将想法变为现实。借助这项才能，你可以让世界更加生动美好。",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+      "tags": [
+        "身体感觉",
+        "手工能力",
+        "行动力",
+        "协调能力",
+        "执行力"
+      ]
+    },
+    {
+      "id": "interpersonal",
+      "title": "在人际连接中闪耀的你",
+      "description": "你拥有通过杰出的同理心和社交能力与他人建立有意义关系的天赋。你能敏感地理解他人的情感，通过恰当的言语和行动建立信任。领导团队、调解冲突、促进合作是你的优势。你在咨询、教育、人力资源、销售和领导力角色方面能取得卓越成绩。\n\n成长点：也要珍惜自己的时光。在照顾他人的同时，不要忽视自己。保持平衡能让你更久更健康地维持关系。",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+      "tags": [
+        "同理心",
+        "关系建立",
+        "协作领导力",
+        "倾听",
+        "信任建立"
+      ]
+    },
+    {
+      "id": "intrapersonal",
+      "title": "拥有深入自我理解的你",
+      "description": "你通过出众的自我反思能力能够清晰地理解自己的情感、动机和价值观。你倾听内心的声音，基于自己的哲学追求有意义的人生。高度的自我认识导向个人成长和成熟，也为周围的人带来启发。你在心理学、哲学、咨询和艺术领域能取得深刻的成果。\n\n成长点：有时也要尝试与外部世界连接。不要被自我反思所吸收而陷入孤立。通过与他人的交流获得新的视角，你的内在洞察会变得更加丰富。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "tags": [
+        "自我反思",
+        "情绪智力",
+        "内在探索",
+        "自我认知",
+        "意义追求"
+      ]
+    },
+    {
+      "id": "naturalist",
+      "title": "自然探索观察天才",
+      "description": "你对自然和生命现象具有深切的关心和理解。你对动物、植物和生态系统的观察和分类能力卓越，在大自然中获得深刻的灵感。你能在生物学、环保科学、农业、兽医学、公园设计等与自然相关的领域闪闪发光。你对环境的关心和责任感在保护地球方面起着重要作用。在与自然的和谐关系中，你会过上更有创意和更健康的人生。",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "tags": [
+        "亲近自然",
+        "观察力",
+        "分类能力",
+        "好奇心",
+        "环保意识"
+      ]
+    }
+  ]
+}

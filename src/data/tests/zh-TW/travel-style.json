@@ -1,0 +1,355 @@
+{
+  "id": "travel-style",
+  "title": "旅遊DNA測試：你是哪種旅行者？",
+  "description": "和朋友一起旅遊時吵過架嗎？找到你真正的旅遊風格吧！將測試結果分享給旅行夥伴，你的下次旅行會完全不同！",
+  "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop&q=80",
+  "color": "#009688",
+  "questions": [
+    {
+      "id": 1,
+      "text": "D-7 旅行倒數七天！你現在的狀態是？",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "行程表完成！預訂確認郵件檢查3次！",
+          "scores": {
+            "planner": 2,
+            "spontaneous": 0
+          }
+        },
+        {
+          "text": "只買了機票。其他的到當地再說吧~",
+          "scores": {
+            "planner": 0,
+            "spontaneous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "旅遊地早上9點！你現在在哪裡？",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+      "options": [
+        {
+          "text": "已經抵達景點！一大早人少的時候才是真正的享受！",
+          "scores": {
+            "adventure": 2,
+            "relaxation": 0
+          }
+        },
+        {
+          "text": "在飯店早餐自助區前，為了吃什麼感到幸福地煩惱中！",
+          "scores": {
+            "adventure": 0,
+            "relaxation": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "預訂住宿！你的標準是？",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+      "options": [
+        {
+          "text": "位置好、乾淨就OK！反正要在外面玩！",
+          "scores": {
+            "budget": 2,
+            "luxury": 0
+          }
+        },
+        {
+          "text": "住宿就是旅行的一半！海景無邊際泳池別墅才是真正的度假！",
+          "scores": {
+            "budget": 0,
+            "luxury": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "旅遊地咖啡館裡，當地人跟你搭話了！",
+      "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=600&q=80",
+      "options": [
+        {
+          "text": "成為當地真正朋友的機會！要獲得隱藏美食的情報！",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "微笑打招呼，享受窗外風景和獨處的時光！",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "最後一天自由時間！你想做什麼？",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+      "options": [
+        {
+          "text": "還沒去過的博物館和歷史遺址要逛一下！",
+          "scores": {
+            "culture": 2,
+            "nature": 0
+          }
+        },
+        {
+          "text": "看著海什麼都不做！大自然就是最好的！",
+          "scores": {
+            "culture": 0,
+            "nature": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "飛機突然延誤！行程亂了！你的反應是？",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "options": [
+        {
+          "text": "反而更好！本來不想去的地方現在可以去了！",
+          "scores": {
+            "spontaneous": 2,
+            "planner": 0,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "冷靜啟動備選方案！開始搜尋替代住宿！",
+          "scores": {
+            "spontaneous": 0,
+            "planner": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "旅遊照片，你的記錄風格是？",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "options": [
+        {
+          "text": "完美照片必不可少！角度、燈光、姿勢都要講究！",
+          "scores": {
+            "social": 2,
+            "culture": 1
+          }
+        },
+        {
+          "text": "按一張就可以了！用眼睛記錄的回憶更長久！",
+          "scores": {
+            "solo": 2,
+            "nature": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "旅遊地午餐菜單怎麼決定？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "事先調查完成！評分4.5以上的認證美食！",
+          "scores": {
+            "culture": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "探險當地人多的巷子！發現的樂趣就是美食！",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "最理想的旅行同行者是？",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "options": [
+        {
+          "text": "和多個朋友一起時能量爆表！",
+          "scores": {
+            "social": 2,
+            "relaxation": 1
+          }
+        },
+        {
+          "text": "志同道合的少數人或獨自旅行，按自己的步調！",
+          "scores": {
+            "solo": 2,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "你的旅遊預算哲學是？",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+      "options": [
+        {
+          "text": "節儉長遊！我的目標是環遊世界！",
+          "scores": {
+            "budget": 2,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "難得旅遊一次，就要好好享受！滿足度比CP值更重要！",
+          "scores": {
+            "luxury": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "選擇活動的時間！你想做什麼？",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600&q=80",
+      "options": [
+        {
+          "text": "蹦極跳！跳傘！人生只有一次！",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        },
+        {
+          "text": "在無邊際泳池別墅裡做按摩！這才是真正的放鬆！",
+          "scores": {
+            "relaxation": 2,
+            "luxury": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "從旅遊回來的隔天，你在做什麼？",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "options": [
+        {
+          "text": "正在搜尋下一個旅遊地...要去哪裡呢？",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1,
+            "budget": 1
+          }
+        },
+        {
+          "text": "整理旅遊照片，享受餘韻...真幸福啊...",
+          "scores": {
+            "relaxation": 2,
+            "planner": 1,
+            "culture": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventure-spontaneous",
+      "title": "沒有地圖的自由冒險家！",
+      "description": "你的旅遊武器就是『勇氣』和『期待』！計劃表？那是無聊時才看的東西，真正的旅遊就是隨心所欲！巷子裡無意發現的當地美食、地圖上沒有的隱藏景點、意外認識的朋友...這些『預料之外的瞬間』讓你的旅遊成為傳奇故事！在朋友圈你是『快講講你的旅遊故事！』最常被點名的人，你的旅遊經歷再聽幾次也不會膩。下次旅行要去哪裡？還不知道？那正是你的風格！",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "tags": [
+        "自由靈魂",
+        "冒險DNA",
+        "旅遊故事講述者"
+      ]
+    },
+    {
+      "id": "relaxation-luxury",
+      "title": "給自己最好的禮物！頂級療癒專家",
+      "description": "辛苦工作的你，旅遊時值得好好享受！在海景無邊際泳池別墅迎接早晨，在飯店自助早餐悠閒地享用早午餐，在spa做按摩進行完美療癒...這就是你的『真正休息』！回來後『完全充飽電啦！』，日常生活也更充滿能量的聰明旅行者。朋友們『這裡是哪裡？我也想去！』的訊息不斷，你的療癒旅遊，下次要去哪裡呢？",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+      "tags": [
+        "頂級療癒",
+        "自我護理專家",
+        "悠閒享受型"
+      ]
+    },
+    {
+      "id": "culture-planner",
+      "title": "旅遊地博士！深刻領會文化的知識旅行者",
+      "description": "你的旅遊『深度』不同！不是只拍照就走的觀光客？No！在博物館裡讀懂每件作品的意義，在巷子角落發現歷史，甚至理解當地食物背後的文化——真正的探險家！旅遊回來後就成了那個國家的專家，朋友想去某個地方時最先想到的就是你。你的旅遊評論？比旅遊指南更有料、更有趣！",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=600&q=80",
+      "tags": [
+        "文化探險家",
+        "知識旅行者",
+        "旅遊地博士"
+      ]
+    },
+    {
+      "id": "nature-solo",
+      "title": "在自然中發現自己！療癒冥想旅行者",
+      "description": "對你而言最好的旅遊地不是繁華都市而是寧靜大自然！山頂的風、日出時的海邊、森林裡星光的露營都能療癒你。在獨處時刻中認識真實的自己，與大自然融為一體的經驗！你的旅遊不只尋找外在的風景，更找到內心的平靜。",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "tags": [
+        "自然愛好者",
+        "內心之旅",
+        "療癒專家"
+      ]
+    },
+    {
+      "id": "social-adventure",
+      "title": "全球都有朋友！全球人氣旅行者",
+      "description": "你旅遊的最大亮點就是『人』！在飛機上跟外國人一坐就變朋友，在青年旅館認識的旅行者隔天一起參加導覽，當地咖啡廳老闆還互留聯絡方式！你所在的地方總是充滿笑聲。『那邊有你認識的人嗎？』被問到時能自信地說『有啊，我有朋友！』的人！世界各地都有沙發衝浪的主人朋友，下次旅遊又會遇見誰呢？",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "tags": [
+        "全球人氣",
+        "人脈豐富",
+        "社交高手"
+      ]
+    },
+    {
+      "id": "budget-spontaneous",
+      "title": "環遊世界是目標！精打細算冒險家",
+      "description": "你是用最少預算獲得最多體驗的旅遊天才！廉價航班通知是基本，發掘當地美食，利用免費導覽！長時間多地旅遊是你的目標，你的世界地圖可能已經涂滿一半以上？你的旅遊訣竅是花錢都買不到的寶貴資訊！",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "tags": [
+        "精打細算旅遊天才",
+        "CP值王",
+        "環球旅行者"
+      ]
+    },
+    {
+      "id": "planner-luxury",
+      "title": "完美計劃的傑作！頂級策展人",
+      "description": "你的旅遊計劃表是藝術作品！最好的住宿、美食、動線都計劃周密，完美執行計劃時最開心。以好眼光挑選最上等體驗的頂級策展人！朋友們向你請託旅遊計劃是有原因的。和你一起旅遊保證完美無瑕！",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "tags": [
+        "旅遊策展人",
+        "完美主義者",
+        "頂級企劃力"
+      ]
+    },
+    {
+      "id": "nature-relaxation",
+      "title": "不著急的深度！悠閒旅行者",
+      "description": "對你而言旅遊不是看得多而是感受得深！長時間停留在一個地方，體驗那裡的早晨和傍晚、日常的節奏。在當地咖啡館悠閒喝一杯咖啡、在社區超市購物、在自然裡散步是你的旅遊風格！旅遊後感到真正的休息，那就是真正的旅遊。",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "tags": [
+        "悠閒旅行者",
+        "月租專家",
+        "深度旅遊"
+      ]
+    }
+  ]
+}

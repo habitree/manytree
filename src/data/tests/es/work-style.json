@@ -1,0 +1,353 @@
+{
+  "id": "work-style",
+  "title": "¿Cual es tu verdadera posicion en la empresa? ¡Revelando el ADN oculto del empleado!",
+  "description": "¡Tu verdadero valor que tu jefe no conocia! 8 tipos de empleados analizados por expertos en RR.HH. ¡Confirma tu ADN de carrera y usalo en negociaciones salariales! ¡Compartir con colegas es obligatorio!",
+  "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop&q=80",
+  "color": "#1976D2",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Al llegar la manana del nuevo comienzo de semana, ¿cual es tu primer pensamiento?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Estoy emocionado por la importante reunion de esta semana, es hora de expandir mis ideas!",
+          "scores": {
+            "leader": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "text": "¡Organizare cuidadosamente mi lista de tareas del dia y comenzare de forma estable!",
+          "scores": {
+            "supporter": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¡Reunion de emergencia! '¿No hay ideas para el nuevo proyecto?' pregunta el lider del equipo. ¿Tu reaccion es?",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Levanto la mano enseguida! 'Tengo algunas ideas que he estado considerando!' (tengo 3 ideas preparadas)",
+          "scores": {
+            "creative": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "Primero analizare los datos relevantes, prefiero propuestas basadas en evidencia",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¡Concentracion maxima en el trabajo! ¿En que momento tu productividad explota?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Cuando hago lluvia de ideas con mis compañeros! ¡Ideas brillantes surgen en la conversacion!",
+          "scores": {
+            "team": 2,
+            "creative": 1
+          }
+        },
+        {
+          "text": "¡Cuando me pongo auriculares y entro en mi propia burbuja! ¡No molestarse!",
+          "scores": {
+            "solo": 2,
+            "analytical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¡Tarea urgente que llega de repente! '¡Necesito que lo hagas hoy!' ¿Cual es tu reaccion?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Ajustare el horario existente y reordenare las prioridades! ¡Plan B en marcha!",
+          "scores": {
+            "planner": 2,
+            "analytical": 1
+          }
+        },
+        {
+          "text": "¡OK! ¡Empecemos y veremos que pasa! ¡La solucion llegara mientras trabajo!",
+          "scores": {
+            "flexible": 2,
+            "creative": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¡Problema inesperado durante el proyecto! El ambiente del equipo parece preocupante. ¿Tu movimiento es?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Yo lo resolvere! ¡Identificare la causa del problema y presentare soluciones!",
+          "scores": {
+            "leader": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "¡Accion mas que palabras! ¡Resolvere rapidamente mi parte del problema!",
+          "scores": {
+            "supporter": 2,
+            "solo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¡Finalmente llegó la hora del almuerzo! ¿Cual es tu estilo de almuerzo?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Explorar con mis compañeros el nuevo restaurante que abrio! ¡La charla es terapeutica!",
+          "scores": {
+            "team": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "¡Almuerzo solo o un paseo corto para refrescarme! ¡Prepararse para el trabajo de la tarde!",
+          "scores": {
+            "solo": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Se acerca la temporada de negociacion salarial. ¿Tu enfoque es?",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Organizare datos de desempeño e ir agresivamente a la mesa de negociaciones!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "Confio en que mi desempeño constante sera reconocido naturalmente, ¡espero pacientemente!",
+          "scores": {
+            "balanced": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¡La empresa esta implementando una nueva herramienta! ¿Tu reaccion es?",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Que emocion! ¡Me encanta aprender cosas nuevas! ¡No puedo esperar para probarla!",
+          "scores": {
+            "creative": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "Estoy acostumbrado a la forma antigua... ¿Habra ROI? Primero lo observare",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Mi junior me ha hecho una pregunta sobre el trabajo. ¿Tu estilo de mentoría es?",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+      "options": [
+        {
+          "text": "Me sentare con el y explicare el proceso paso a paso para ayudarlo a entender",
+          "scores": {
+            "supporter": 2,
+            "team": 1
+          }
+        },
+        {
+          "text": "Le mostrare la direccion clave y lo animare a resolverlo por si mismo",
+          "scores": {
+            "solo": 1,
+            "analytical": 1,
+            "leader": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Se acerca la fecha de vencimiento del proyecto importante. ¿Tu pensamiento sobre la gestion del tiempo es?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Estoy dispuesto a invertir tiempo adicional si es necesario para lograr el objetivo!",
+          "scores": {
+            "ambitious": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "¡Completar eficientemente dentro del tiempo establecido es la verdadera competencia!",
+          "scores": {
+            "balanced": 2,
+            "flexible": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Se ha programado un taller de equipo o evento de networking. ¿Tu reaccion es?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Participare activamente y lo vere como una oportunidad de estar mas cerca de mis colegas!",
+          "scores": {
+            "team": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "¡Participare de manera significativa, pero tambien me asegurare de tener tiempo para recargarme!",
+          "scores": {
+            "solo": 1,
+            "balanced": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "En 5 años, ¿como te ves a ti mismo?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "¿Lider de equipo? ¿Ejecutivo? ¡Quiero ser un lider que dirija proyectos mas grandes!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 2
+          }
+        },
+        {
+          "text": "¡Quiero ser reconocido como especialista experto en mi campo!",
+          "scores": {
+            "balanced": 1,
+            "analytical": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "leader-ambitious",
+      "title": "¡Lider nato, candidato a CEO del futuro!",
+      "description": "¡Naciste para liderar una organizacion! Incluso en tiempos de crisis, proporcionas direccion sin vacilar e inspiras a los miembros del equipo. Tienes un liderazgo natural que hace que las cosas sucedan cuando dices que puedes. Armado con poder de decision y dinamica, ¡brillaras en un lugar aun mas alto en 5 años! ¡El CEO del futuro eres tu!",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "tags": [
+        "Material de CEO",
+        "Lider carismatico",
+        "Poder de decision"
+      ]
+    },
+    {
+      "id": "supporter-team",
+      "title": "¡El corazon del equipo! MVP silencioso que todos reconocen",
+      "description": "¡El equipo no puede funcionar sin ti! Te dedicas silenciosamente al equipo y te conviertes en el apoyo de tus colegas. Tu valor quiza no sea visible a primera vista, pero todos saben que estas detras de cada exito. ¡Entiendes el verdadero valor de la colaboracion! Eres el talento mas necesario en cualquier organizacion.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "tags": [
+        "MVP del equipo",
+        "Icono de confianza",
+        "Maestro de la colaboracion"
+      ]
+    },
+    {
+      "id": "creative-flexible",
+      "title": "¡Explosion de ideas! Motor de innovacion de la organizacion",
+      "description": "¡Tu mente es una fabrica de ideas! Cuando todos dicen que no, tu dices '¿Que tal esto?' Eres un verdadero innovador. Respondes con flexibilidad al cambio y no tienes miedo de nuevos desafios. ¡La gente como tu es quien rompe el estancamiento de la empresa! ¡Tu creatividad puede cambiar el futuro de la empresa!",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "tags": [
+        "Explosion de ideas",
+        "Icono de innovacion",
+        "Lider del cambio"
+      ]
+    },
+    {
+      "id": "analytical-planner",
+      "title": "¡Verdadero profesional silencioso que gana con datos!",
+      "description": "¡Eres un verdadero profesional que demuestra con resultados sin palabras llamativas! Con profundo analisis y planificacion sistematica, logras objetivos sin errores. Los datos que revirisas son 100% confiables, y el plan que estableces siempre tiene exito. ¡Eres un verdadero profesional silencioso que mueve la organizacion con carisma!",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "tags": [
+        "Maestro de datos",
+        "Profesional",
+        "Verdadero experto"
+      ]
+    },
+    {
+      "id": "solo-analytical",
+      "title": "Experto insustituible, el maestro de la profundidad",
+      "description": "¡Eres un especialista que destaca con una experiencia abrumadora en tu propio campo! Aunque seas silencioso, cuando hablas todos escuchan y tu palabra se convierte en la conclusion de la reunión. Tu profunda concentracion ha construido una experiencia que nadie puede igualar. ¡Eres insustituible, ese es tu valor real!",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "tags": [
+        "Experto entre expertos",
+        "Maestro de la profundidad",
+        "Insustituible"
+      ]
+    },
+    {
+      "id": "balanced-flexible",
+      "title": "¡Maestro del balance laboral-personal! El empleado mas sabio",
+      "description": "¡Eres un verdadero profesional que trabaja bien y disfruta la vida! Durante el horario laboral eres mas eficiente que nadie, y despues del trabajo disfrutas de tu propio tiempo. ¡Estas creando una carrera sostenible sin agotamiento! Muchas personas pueden envidiar tu forma de vivir. ¡Eres un verdadero ganador en la vida!",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "tags": [
+        "Maestro del balance",
+        "Maestro de la eficiencia",
+        "Ganador de la vida"
+      ]
+    },
+    {
+      "id": "team-creative",
+      "title": "¡La vitamina de la empresa! El colega que todos quieren",
+      "description": "¡Cuando estas aqui, el ambiente del equipo se anima en un 200%! Inyectas vitalidad al equipo con ideas creativas, ¡eres el creador de energia que hace que trabajar juntos sea divertido! Tus colegas quieren estar en el mismo equipo que tu porque eres una fuente de energia positiva y creatividad. ¡El empleado 'insider' que es amado en cualquier organizacion!",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "tags": [
+        "Vitamina de la empresa",
+        "Creador de ambiente",
+        "Insider del equipo"
+      ]
+    },
+    {
+      "id": "ambitious-planner",
+      "title": "¡Estratega ambicioso que tiene el mapa del exito!",
+      "description": "¡Eres un verdadero estratega con objetivos claros y planes meticulosos! Ya has trazado tu mapa de carrera para los proximos 5 y 10 años, avanzando paso a paso de manera constante. ¡Entiendes que el exito es resultado de la planificacion, no de la suerte! ¡El objetivo que estableciste definitivamente se hara realidad! ¡Alguien cuyo futuro es prometedor!",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "tags": [
+        "Estratega",
+        "Personificacion de ambicion",
+        "Exito reservado"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "id": "true-self",
+  "title": "你的真實模樣是？尋找外表與內在一致的透明人",
+  "description": "心理學家榮格(Jung)提出的'人格面具'概念！每個人都會根據情況展現不同的模樣。但你呢？你外在展現的形象與真實內心的自己之間相差多遠？測量一下你的真實性指數吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1554224311-beee415c201f?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "你在職場或學校裡展現出來的模樣怎樣？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "和平時的自己沒有太大區別。自然地展現本來的自己。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "努力展現出適應情況的專業形象。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "顯得開朗活躍，但和獨處時的自己有些不同。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據相處的人和情況展現出不同的模樣。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "當面臨困難情況時，你主要如何應對？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "和信任的人坦誠相談，尋求幫助。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "獨處一段時間，自己梳理後再回到日常生活。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "像往常一樣開朗地表現，不讓人看出自己的困難。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據當時的感受做出不同的反應。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 1,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "和朋友在一起時和獨處時，你的模樣有差異嗎？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "幾乎沒有差別。無論在哪裡都是差不多的模樣。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差別很大。在人前顯得更活躍。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差別。努力展現出適應情況的恰當模樣。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據情況而異。根據相處的人會顯現出不同的一面。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "你的夢想或真實興趣與他人認識的你的形象有多少匹配？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "幾乎完全匹配。所做的事和喜歡的東西自然地聯繫在一起。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差別很大。真實的興趣是保留在個人的領域裡。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差別。在公眾場合努力展現出更恰當的一面。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "還在探索中。興趣在不斷變化。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "你在社交媒體上展現的形象與真實的你相差多少？",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "幾乎沒有差別。自然地分享日常。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "差別很大。社交媒體是精選特殊瞬間展示的空間。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "有些差別。有想展現好的一面的心理。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "時而不同。根據當時的心情和情況分享。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "關於表達自己的觀點或想法，你有什麼感受？",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "表達得很自在。坦誠地說話對我很自然。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "比較謹慎。有時會擔心他人的反應。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "看情況判斷。考慮恰當的時機和方式。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "時而不同。有時也會思考自己的真實想法是什麼。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "初次進入新環境(學校、職場、聚會)時，你的模樣如何？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "和平時差不多，自然地展現自己。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "先觀察情況，傾向於安靜地觀察。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "以禮貌謹慎的姿態開始，熟悉後逐漸放鬆。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據情況和人們的氛圍靈活適應。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "關於'真實地生活'，你的想法是？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "很重要。我努力以本來的樣子生活。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "很重要，但有時為了保護自己，會展現出不同的模樣。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "很重要，但我也認為適應情況的角色也是必要的。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "還在尋找真實的自己的過程中。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "他人的期待或評價對你的行為有多大影響？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "影響不大。按照自己的標準行動。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "影響很大。在意他人的看法。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 1,
+            "protective": 1,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "會參考，但最終決定還是按照自己的判斷。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據情況而異。有時在意，有時不在意。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "如果你的'真實自我'與'社交形象'產生衝突怎麼辦？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "選擇真實的自己。我的人生更重要。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "選擇形象，隱藏真實的自己。這樣更安全。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "努力取得平衡。不想放棄任何一方。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "根據當時的心情和情況選擇。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "如果用一句話描述自己？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "無論在哪都展現一致模樣的誠實的人。",
+          "scores": {
+            "harmonious": 2,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "擁有豐富內心世界的多層次的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 2,
+            "protective": 0,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "能根據情況恰當應對的靈活的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 2,
+            "exploring": 0
+          }
+        },
+        {
+          "text": "不斷成長變化的人。",
+          "scores": {
+            "harmonious": 0,
+            "hidden": 0,
+            "protective": 0,
+            "exploring": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "harmonious",
+      "title": "透明人！外表與內在一致的你",
+      "description": "恭喜你！你是心理學所說的'最健康狀態'的人。你最大的優勢是<b>真實性</b>。無論做什麼都自信地行動，人們信任你並跟隨你。外表與內在一致的人心理健康優秀，在人際關係中受信任，壓力少。像你這樣生活就是最幸福人生的秘訣。你的透明與誠實是世界真正的財富！",
+      "image": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?w=600&q=80",
+      "tags": [
+        "真實性的象徵",
+        "受信任的人",
+        "健康的心理",
+        "本來的生活"
+      ]
+    },
+    {
+      "id": "hidden",
+      "title": "擁有豐富內心世界的人",
+      "description": "你是擁有深厚內心世界的體貼周到的人。相比直接表露一切，你選擇謹慎地表達自己。這是<b>自我保護和謹慎的表現</b>。你的<b>優秀的觀察力</b>和<b>敏銳的感受性</b>讓你能深刻理解情境。成長建議：在信任的關係中，逐步分享真實的自己。真正的聯繫在相互接納對方的本來面目時會更加深化。你分享內心的經歷可能會獲得比預期更溫暖的回應！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "敏銳的觀察",
+        "謹慎的表達",
+        "深厚的感受性",
+        "內在的豐富"
+      ]
+    },
+    {
+      "id": "protective",
+      "title": "聰慧的適應者，情況應對的高手",
+      "description": "你是能靈活適應情況的<b>聰慧適應者</b>。擁有卓越的社交能力和情況判斷力。一邊專業地表現自己，一邊保持真實性的平衡感是你的強項。這種<b>策略性的靈活性</b>在各種環境中成功有很大幫助。一個成長的方向是在舒適的關係中展現更自然的一面。那樣的時間會成為真正的能量補充，讓你更加閃耀！",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&q=80",
+      "tags": [
+        "情況應對能力",
+        "社交智慧",
+        "平衡感",
+        "策略性靈活性"
+      ]
+    },
+    {
+      "id": "exploring",
+      "title": "不斷進化的探索者",
+      "description": "你是正在不斷發現自己的<b>成長型的人</b>！你還沒有完全定義自己是誰，根據情況和人會展現出多個不同的側面。這意味著<b>可能性的豐富</b>。你靈活，適應力強，不害怕接受新事物。你的下一步是'整合'。理解到現在為止發現的自己的各個側面，逐步地將它們整合為一體。自己認識的過程本身就是你最大的資產！",
+      "image": "https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600&q=80",
+      "tags": [
+        "成長中的靈魂",
+        "無限的可能性",
+        "自我發現",
+        "靈活的適應者"
+      ]
+    }
+  ]
+}

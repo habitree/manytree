@@ -1,0 +1,630 @@
+{
+  "id": "love-language",
+  "title": "發現你的愛情語言！5種愛的語言",
+  "description": "透過蓋瑞·查普曼博士的5種愛的語言理論，發現你和親愛的人真正的愛情表達方式吧！同樣的愛為什麼會被不同地接受呢？立即檢查你的愛情語言！",
+  "thumbnail": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&h=600&fit=crop&q=80",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "當伴侶經歷了糟糕的一天時，你的自然反應是什麼？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "你說'你很努力，你做得很好！'這樣的鼓勵話語",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你說'如果有我能幫忙的地方就告訴我'，提出實際幫助",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你說'詳細告訴我'，抽出時間一起分享故事",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你說'過來'，溫暖地擁抱並輕輕拍拍他們",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "當你想安慰壓力大的伴侶時，你自然會採取什麼行動？",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "你握住他們的手或擁抱他們，用溫暖的身體接觸來安慰",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "你為他們準備食物或代替他們做事來實際幫助",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你用鼓勵和支持的話語給他們勇氣",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你坐在他們身邊，抽出時間充分傾聽他們",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "當你向親愛的人表達愛意時，你主要的方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "你經常用'我愛你''謝謝你''你真是最好的'這樣的話來表達",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你透過一起花時間、對話和陪伴來表達",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你選擇他們喜歡的禮物或準備特別的活動",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你透過牽手或擁抱等身體接觸來傳達溫暖",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "如果伴侶有即將到來的重要活動，你的支持方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "你用'你一定會做得很好！'這樣的鼓勵話語給他們信心",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你準備他們需要的東西，實際幫助他們",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你站在他們身邊，抽出時間一起準備",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你透過身體接觸和溫暖的擁抱來緩解他們的緊張並給他們安心",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "當你情緒不好時，什麼最能安慰你？",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "伴侶和你一起花時間",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "他們用溫暖和鼓勵的話語支持你",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "他們握住你的手或擁抱你",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "他們實際幫助你並減輕你的負擔",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "當你裝飾與伴侶共享的空間時，你最關心的是什麼？",
+      "image": "https://images.unsplash.com/photo-1484101403633-571e57aa4ea0?w=600&q=80",
+      "options": [
+        {
+          "text": "創造一個舒適的氛圍來一起度過美好時光",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "反映他們的品味和偏好來創造特別的感動",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "實用地整理，使他們能舒適地放鬆",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "創造一個舒適的空間，他們可以舒適地依偎或一起躺著",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "當伴侶取得成就時，你首先會採取什麼行動？",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "你大聲祝賀，反覆說'了不起！'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你準備祝賀禮物並計劃特別的活動",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你擁抱他們並用歡呼來身體上表達你的喜悅",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "你與他們分享喜悅並傾聽他們的故事",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "在日常生活中，你最自然地表達愛意的方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "你經常自然地進行身體接觸，如牽手和擁抱",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "你準備他們需要的東西並在日常生活中提供幫助",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你喜歡準備小禮物或驚喜活動",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "你重視分享你的一天並花時間在一起",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你何時最能感受到伴侶的愛？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "當他們說'因為你我很幸福''你真的很特別'這樣的話時",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當我忙碌時他們在身邊堅定地幫助和照顧我時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當他們記得我的喜好並給我禮物或準備驚喜時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當他們溫暖地擁抱我或緊緊握住我的手時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "與伴侶一起最令人難忘的時刻是什麼？",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "當他們為我準備了一份我一直想要的特別禮物時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當我們不受打擾地進行深入對話並一起度過時光時",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當伴侶用真誠的話語和鼓勵來激勵我時",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當伴侶擁抱我、握住我的手並透過身體接觸表達愛意時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你何時感到自己愛著伴侶？",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "當伴侶在我身邊，暫停一切只專注於我時",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當伴侶察覺到我的需要並主動幫助我時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當伴侶相信我的可能性並給予鼓勵時",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "當伴侶溫暖地擁抱我並握住我的手時",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "當你在特殊日子被慶祝時，你最喜歡被慶祝的方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "收到有意義的禮物和精心準備的活動",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "聽到真誠的祝賀信息或感人的話語",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "伴侶全身心地抽出時間和我在一起",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "被溫暖的擁抱和身體接觸所慶祝",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "words",
+      "title": "肯定的言語 - 用言語傳達的溫暖愛意",
+      "description": "你是一個相信言語力量的人。你認為'我愛你''謝謝你''你真的很棒'這樣的小話語是最大的禮物。鼓勵、讚美和感謝的話語讓你和你愛的人都感到快樂。你的話語照亮了某人的一天，給了他們信心，並加強了關係。你透過言語表達愛的能力真的是一種特殊的才能！",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "溫暖的話語",
+        "鼓勵和讚美",
+        "感謝表達"
+      ]
+    },
+    {
+      "id": "service",
+      "title": "服侍的言語 - 用行動展示的溫暖心意",
+      "description": "你是一個透過行動表達愛的人。你細心地觀察伴侶的需要，透過實際幫助傳達你的感情。無論是準備食物還是提前準備東西，你的體貼給伴侶深深的安全感。你的每一個行動都承載著'我珍視你'的真心。這種實踐性的愛情表達能力為你的關係建立了堅實的信任基礎。有時透過言語表達你的感情，會讓伴侶更深刻地感受你的愛！",
+      "image": "https://images.unsplash.com/photo-1509355114855-4c02da2f8fce?w=600&q=80",
+      "tags": [
+        "細心的體貼",
+        "實踐性的愛",
+        "信任構建"
+      ]
+    },
+    {
+      "id": "gifts",
+      "title": "贈送禮物的言語 - 用心意傳達的特別",
+      "description": "你是一個把心意放在禮物裡的人。你認為一份有意義的禮物或一場驚喜活動比千言萬語更有力。你選擇的禮物深深地反映了伴侶的品味和感受，讓接收者感到'你真的很了解我'。無論禮物大小，你的禮物總是充滿真誠的感情和體貼。你傳達的溫暖心意的禮物將被永久銘記！",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "tags": [
+        "用心的禮物",
+        "難忘的驚喜",
+        "心意傳達"
+      ]
+    },
+    {
+      "id": "touch",
+      "title": "身體接觸的言語 - 用溫暖接觸傳達的愛",
+      "description": "你是一個透過溫暖身體接觸表達愛的人。牽手、擁抱和溫柔的觸摸是你最真誠的愛情表達方式。你溫暖的身體接觸給伴侶傳達了安全感和舒適感。在你的擁抱中，他們感到被珍視，你的觸摸成為了比言語更深的安慰。這種透過接觸表達愛的能力是建立親密關係的寶貴優勢。有時透過言語表達你的感情，會讓伴侶更豐富地感受你的愛！",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "tags": [
+        "溫暖的接觸",
+        "安全感傳達",
+        "親密連接"
+      ]
+    },
+    {
+      "id": "time",
+      "title": "相處時間的言語 - 陪伴是最好的禮物",
+      "description": "你是一個相信時間最珍貴的人。無論多忙，你都會為愛的人抽出時間，在那段時間裡只專注於那個人。和你在一起的時間是特別的，其中的對話和分享創造了最深的連接。你有能力透過放下手機和眼神接觸與他人交流，讓每個人都感到被珍視。你的時間是給他人最大的愛的表現！",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "高質量的時間",
+        "陪伴的價值",
+        "專注的關係"
+      ]
+    }
+  ]
+}

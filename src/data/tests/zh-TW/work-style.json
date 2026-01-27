@@ -1,0 +1,353 @@
+{
+  "id": "work-style",
+  "title": "你在公司的真正位置是? 揭開隱藏的上班族DNA!",
+  "description": "上司不知道的你的真正價值! HR專家分析的8種上班族類型。確認你的職業DNA,並在薪資談判中活用它!與同事分享必看!",
+  "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop&q=80",
+  "color": "#1976D2",
+  "questions": [
+    {
+      "id": 1,
+      "text": "新的一週開始的早上,你的第一個想法是?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "這週重要的會議在等著,是時候展開我的想法了!",
+          "scores": {
+            "leader": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "text": "一步步整理今天的工作,穩定地開始!",
+          "scores": {
+            "supporter": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "緊急會議! '新項目的想法沒有?' 主任問道。你呢?",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "options": [
+        {
+          "text": "手先舉起來! '我有想到的東西呢!' (準備了3個想法)",
+          "scores": {
+            "creative": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "我先分析相關數據吧,我喜歡有根據的提案",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "工作中集中力MAX! 你的生產力爆發的時刻是?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "與團隊成員進行腦力激盪時! 談話中閃現的想法!",
+          "scores": {
+            "team": 2,
+            "creative": 1
+          }
+        },
+        {
+          "text": "戴上耳機進入自己的泡泡! 請勿打擾!",
+          "scores": {
+            "solo": 2,
+            "analytical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "'今天一定要做好!' 突然飛來的緊急工作! 你的反應是?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "調整現有日程,重新分配優先順序! 啟動計劃B!",
+          "scores": {
+            "planner": 2,
+            "analytical": 1
+          }
+        },
+        {
+          "text": "好的! 先開始,做著做著就看到路了!",
+          "scores": {
+            "flexible": 2,
+            "creative": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "項目進行中出現意外問題! 團隊氣氛不太對。你呢?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "讓我來整理! 找出問題原因並提出解決方案!",
+          "scores": {
+            "leader": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "與其說,不如行動! 先快速解決我負責的部分的問題!",
+          "scores": {
+            "supporter": 2,
+            "solo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "終於是午餐時間! 你的午餐風格是?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "與團隊成員探索新開的美食餐廳! 聊天真的是療癒!",
+          "scores": {
+            "team": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "一個人吃飯或短暫散步來放鬆! 為下午的工作做準備!",
+          "scores": {
+            "solo": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "薪資談判季節即將到來。你的方法是?",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "options": [
+        {
+          "text": "整理績效數據,積極走上談判桌!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "相信持續的績效會自然地被認可,而等待!",
+          "scores": {
+            "balanced": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "公司導入新工具! 你的反應是?",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "options": [
+        {
+          "text": "哦真有趣! 喜歡學習新東西! 想趕快試試看!",
+          "scores": {
+            "creative": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "習慣了現有的方式... 會有ROI嗎? 先看看再說",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "後輩提出了工作相關的問題。你的指導風格是?",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+      "options": [
+        {
+          "text": "坐下來一步步解釋過程,幫助理解!",
+          "scores": {
+            "supporter": 2,
+            "team": 1
+          }
+        },
+        {
+          "text": "告訴核心方向,鼓勵他們自己解決!",
+          "scores": {
+            "solo": 1,
+            "analytical": 1,
+            "leader": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "重要項目的截止日期即將到來。你對時間管理的看法是?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "如果目標達成需要,也願意投入額外時間!",
+          "scores": {
+            "ambitious": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "在規定時間內高效完成才是真正的能力!",
+          "scores": {
+            "balanced": 2,
+            "flexible": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "團隊工作坊或網路交流活動已排定。你呢?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "積極參與,當作與同事更親近的機會!",
+          "scores": {
+            "team": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "有意義地參與,同時也確保個人補充能量的時間!",
+          "scores": {
+            "solo": 1,
+            "balanced": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "5年後的我,想成為什麼樣子?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "團隊主任? 主管? 想成為領導更大項目的領導者!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 2
+          }
+        },
+        {
+          "text": "想成為在自己的領域被認可的專家!",
+          "scores": {
+            "balanced": 1,
+            "analytical": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "leader-ambitious",
+      "title": "天生領導者,未來的CEO候選人!",
+      "description": "你是天生來領導組織的人! 即使在危機情況下,你也堅定不移地指出方向,為團隊成員帶來靈感。你擁有天生的領導力。當你說'可以做到!'時,奇蹟就發生了。你這位擁有決斷力和推進力的人,5年後一定會在更高的地方閃耀! 未來的CEO正是你!",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "tags": [
+        "CEO的料子",
+        "魅力領導者",
+        "決斷力的化身"
+      ]
+    },
+    {
+      "id": "supporter-team",
+      "title": "團隊的心臟! 所有人都認可的隱藏MVP",
+      "description": "沒有你,團隊就轉不了! 默默地為團隊奉獻,成為同事的支柱。你是真正的團隊球員! 你的價值不太容易被看到,但大家都知道每項成就的背後都有你。你懂得協作的真正價值,在任何組織中都是最需要的人才!",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "tags": [
+        "團隊的MVP",
+        "信任的象徵",
+        "協作大師"
+      ]
+    },
+    {
+      "id": "creative-flexible",
+      "title": "想法爆炸! 組織的創新引擎",
+      "description": "你的腦子是想法工廠! 當大家都說'不行'時,你會喊'這個怎麼樣?' 你是真正的創新者。你靈活應對變化,不害怕新的挑戰! 打破公司停滯的正是你這樣的人。你的創意能夠改變公司的未來!",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "tags": [
+        "想法爆炸",
+        "創新象徵",
+        "變化引領者"
+      ]
+    },
+    {
+      "id": "analytical-planner",
+      "title": "用數據說話的沉默實力派!",
+      "description": "即使不華麗地說話,你也用結果來證明。你是真正的專業人士! 憑藉深刻的分析能力和系統化的計畫,你毫無差錯地達成目標。你審查的資料100%值得信賴,你制定的計畫一定會成功。用沉默的魅力推動組織的隱藏實力者!",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "tags": [
+        "數據大師",
+        "專業人士",
+        "實力派"
+      ]
+    },
+    {
+      "id": "solo-analytical",
+      "title": "深度的終極王者,無人能替代的專家",
+      "description": "你是在自己的領域展現壓倒性專業性的專家! 雖然安靜,但當你開口時,所有人都會豎起耳朵。你的一句話常常成為會議的結論。用深度專注力積累的專業性是無人能及的。無法替代的存在,那就是你!",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "tags": [
+        "專家中的專家",
+        "深度的終極王者",
+        "無法替代"
+      ]
+    },
+    {
+      "id": "balanced-flexible",
+      "title": "工作生活平衡大師! 最明智的上班族",
+      "description": "你既能好好工作,又能享受生活。你是真正的專業人士! 工作時間內,你的效率超過所有人,下班後,你享受自己的時間。不會過勞,建立可持續職業的明智選擇! 許多人會羨慕你的生活方式。真正的人生贏家!",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "tags": [
+        "工作生活平衡大師",
+        "效率的終極王者",
+        "人生贏家"
+      ]
+    },
+    {
+      "id": "team-creative",
+      "title": "公司的維生素! 所有人都想要的同事",
+      "description": "有你在,團隊氣氛就活起來200%! 用創意的想法為團隊注入活力。與你一起工作很有趣,是能量製造者! 同事想與你在同一個團隊的理由,就是你的正面能量和創意。在任何組織中都受歡迎的'很受歡迎'上班族!",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "tags": [
+        "公司的維生素",
+        "分為氣氛製造者",
+        "團隊的'很受歡迎'"
+      ]
+    },
+    {
+      "id": "ambitious-planner",
+      "title": "有野心的戰略家,擁有成功路線圖的人!",
+      "description": "你是擁有明確目標和周密計畫的真正戰略家! 你已經制定了5年後、10年後的職業路線圖,並穩步前進。你懂得成功不是意外,而是計畫的結果! 你設定的目標一定會實現。讓人期待未來的人!",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "tags": [
+        "戰略家",
+        "野心的化身",
+        "成功預訂"
+      ]
+    }
+  ]
+}

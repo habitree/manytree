@@ -1,0 +1,687 @@
+{
+  "id": "self-esteem",
+  "title": "Descubre tu Nivel de Autoestima",
+  "description": "Una prueba psicológica para explorar cómo te percibes y te evalúas a ti mismo. A través de la autoestima, la autoaceptación y la autoeficacia, descubre tu estado actual de autoestima y da el primer paso hacia el crecimiento.",
+  "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "En general, estoy satisfecho conmigo mismo.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando enfrento nuevos desafíos, creo en mis habilidades.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Acepto completamente quién soy, incluyendo mis fortalezas y debilidades.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Cuando fallo, intento encontrar mejores formas de hacerlo.",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Muy en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Incluso cuando escucho opiniones diferentes, puedo mantener mis perspectivas y creencias.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Me siento orgulloso de mis habilidades y cualidades.",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Muy en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Independientemente de las opiniones de otros, puedo reconocerme y aceptarme.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Tengo el coraje de enfrentar los desafíos que quiero perseguir.",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Muy en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Incluso después de cometer errores o fallar, puedo tratarme con amabilidad.",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Creo que tengo la capacidad de resolver problemas incluso en situaciones difíciles.",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Muy en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Creo que soy valioso tal como soy.",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Totalmente de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Totalmente en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Tengo confianza en las decisiones que tomo.",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Muy de acuerdo",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "De acuerdo",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "En desacuerdo",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Muy en desacuerdo",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "Tú, con el Poder de Creer en Ti Mismo",
+      "description": "Posees una autoestima saludable al reconocer tu valor y creer en tus habilidades. Esta confianza en ti mismo se convierte en la fuerza para abrazar nuevos desafíos, recuperarte de las dificultades y mantener tus propias creencias.\n\nTus fortalezas:\n- Capacidad para reconocer tu propio valor\n- Actitud positiva hacia los desafíos\n- Autoconfianza estable\n\nPara un crecimiento continuo:\nLa autoestima brilla más cuando se conecta con otros. Comparte tu energía positiva para alentar a los que te rodean y mantén una mente abierta a diferentes perspectivas. El crecimiento en humildad te hará más maduro.",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop",
+      "tags": [
+        "autoconfianza",
+        "actitud positiva",
+        "espíritu de desafío",
+        "estabilidad interna",
+        "mentalidad de crecimiento"
+      ]
+    },
+    {
+      "id": "stable",
+      "title": "Autoestima Estable - Un Yo Equilibrado",
+      "description": "Tienes una actitud positiva hacia ti mismo mientras mantienes una perspectiva realista. Mantienes un nivel apropiado de autoestima, que proporciona una base sólida para relaciones saludables y crecimiento personal.\n\nTus fortalezas:\n- Autoevaluación realista\n- Estado emocional estable\n- Equilibrio entre confianza y humildad\n\nPara un crecimiento continuo:\nEdifica sobre tu fundación estable al establecer y perseguir tus sueños y metas de manera más específica. Acumulando pequeños éxitos, puedes fortalecer tu confianza aún más. Además, busca un significado más profundo en la vida ayudando a otros y teniendo experiencias de mentoría.",
+      "image": "https://images.unsplash.com/photo-1552058544-f6b08422138a?w=500&h=500&fit=crop",
+      "tags": [
+        "estabilidad",
+        "equilibrio",
+        "sentido realista",
+        "madurez",
+        "mejora"
+      ]
+    },
+    {
+      "id": "unstable",
+      "title": "Tú, Creciendo con Flexibilidad",
+      "description": "Tu autoestima cambia con flexibilidad según las circunstancias. Esto significa que eres sensible a tu entorno y te reflexionas profundamente a ti mismo. Muchas personas experimentan patrones de crecimiento similares.\n\nTus fortalezas:\n- Excelente capacidad de autorreflexión\n- Pasión por mejorar\n- Sensibilidad profunda y empatía\n\nConsejos para una confianza más estable:\n1. Registra tus éxitos: Documenta pequeños logros para fortalecer la confianza al reflexionar sobre ellos.\n2. Cambia tu diálogo interno: Cuando surjan pensamientos críticos, reformúlalos suavemente como lo harías al hablar con un amigo.\n3. Acepta la imperfección: Practica aceptar que está bien no ser perfecto cada día.\n4. Construye un círculo de apoyo: Pasa más tiempo con personas que te aceptan tal como eres.\n\nTu flexibilidad es una fortaleza. Construyendo estabilidad sobre ella, brillarás aún más.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "crecimiento flexible",
+        "autorreflexión",
+        "resiliencia",
+        "sensibilidad",
+        "potencial de crecimiento"
+      ]
+    },
+    {
+      "id": "low",
+      "title": "Tú, Descubriendo tu Fuerza Interior",
+      "description": "En este momento, estás en un viaje valioso de autoconocimiento más profundo. El hecho de que hayas tomado esta prueba para reflexionar sobre ti mismo es evidencia de tu deseo de crecer. Muchas personas han descubierto sus propias fortalezas y valor desde puntos de partida similares.\n\nFortalezas que ya posees:\n- Capacidad de autorreflexión\n- Empatía para comprender a otros\n- Deseo de crecer hacia una mejor versión de ti\n\nGuía práctica para construir tu autoestima:\n1. Practica la autocompasión: Háblate a ti mismo con calidez como lo harías con un amigo durante momentos difíciles.\n2. Registra pequeños logros: Mantén un registro de lo que logras diariamente para reconocer tus habilidades.\n3. Descubre tus fortalezas: Encuentra qué haces naturalmente bien y qué disfrutas.\n4. Construye tu red de apoyo: Pasa tiempo con personas que te aceptan tal como eres.\n5. Busca apoyo profesional: Si es necesario, acudir a un consejero es una decisión sabia.\n\nTienes valor tal como eres. Aunque la autoestima no cambia de la noche a la mañana, las acciones pequeñas y consistentes te ayudarán a experimentar cambios reales.",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?w=500&h=500&fit=crop",
+      "tags": [
+        "viaje de crecimiento",
+        "autodescubrimiento",
+        "fuerza interior",
+        "resiliencia",
+        "potencial ilimitado"
+      ]
+    }
+  ]
+}

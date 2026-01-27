@@ -1,0 +1,353 @@
+{
+  "id": "communication-style",
+  "title": "Why can't I talk to this person? Revealing your hidden communication DNA!",
+  "description": "90% didn't know their own conversation habits! Here's why communication was difficult with your partner, friends, and colleagues. Take the first step to improving your relationships and check now!",
+  "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop&q=80",
+  "color": "#00BCD4",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your friend starts sharing a difficult situation and wants your advice. What's your natural reaction?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Listen fully first, empathize with their emotions, and comfort them",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Understand the situation and find practical solutions together",
+          "scores": {
+            "talker": 2,
+            "logical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When you need to deliver important information, what's your communication style?",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "I think it's efficient to communicate the main point clearly",
+          "scores": {
+            "direct": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "I consider the other person's situation and explain things gently",
+          "scores": {
+            "indirect": 2,
+            "emotional": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "At a gathering, you end up sitting next to someone you've never met. What do you do?",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "Greet them first and naturally start a conversation",
+          "scores": {
+            "talker": 2,
+            "offline": 1
+          }
+        },
+        {
+          "text": "Observe their mood and wait for a natural moment to speak",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "During a meeting, someone expresses a different opinion. How do you react?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Present my thoughts clearly with logical reasoning",
+          "scores": {
+            "logical": 2,
+            "direct": 1
+          }
+        },
+        {
+          "text": "Respect their opinion first, then carefully share my perspective",
+          "scores": {
+            "emotional": 2,
+            "indirect": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "You need to contact a friend urgently! Which method do you choose first?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "Text or messaging! It's convenient to type and helps me organize my thoughts!",
+          "scores": {
+            "online": 2,
+            "indirect": 1
+          }
+        },
+        {
+          "text": "Call immediately! This isn't something to text about, I need to say it directly!",
+          "scores": {
+            "offline": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "What's your participation style in group chats?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "I actively participate in conversations and lighten the mood",
+          "scores": {
+            "talker": 2,
+            "casual": 1
+          }
+        },
+        {
+          "text": "I mainly observe and share my thoughts briefly when necessary",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "You notice your friend doesn't look happy. What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Ask immediately what's wrong and show your concern",
+          "scores": {
+            "direct": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Be there comfortably and listen when they're ready to share",
+          "scores": {
+            "indirect": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "During a company meeting, what's your speaking style?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "First, second, third! I organize and present things systematically and clearly!",
+          "scores": {
+            "logical": 2,
+            "formal": 1
+          }
+        },
+        {
+          "text": "Flexible depending on the mood! Being too rigid isn't fun!",
+          "scores": {
+            "emotional": 1,
+            "casual": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "When talking with old friends, what's your style?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "I exchange jokes comfortably and talk freely without formality",
+          "scores": {
+            "casual": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "Even though we're close, I maintain respectful speech",
+          "scores": {
+            "formal": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "When someone is telling a long story, what's your conversation style?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "I listen carefully to the end, empathize, and react",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "I share my thoughts at appropriate moments and keep the conversation going",
+          "scores": {
+            "talker": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "What's your activity style on social media?",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "I actively share posts and comment to communicate",
+          "scores": {
+            "online": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "I mostly observe and prefer communicating through direct messages",
+          "scores": {
+            "offline": 1,
+            "listener": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When you want to express gratitude, what's your style?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "It feels natural to express my gratitude directly in words",
+          "scores": {
+            "direct": 2,
+            "casual": 1,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "I'm more comfortable expressing my feelings through actions or other ways",
+          "scores": {
+            "indirect": 2,
+            "formal": 1,
+            "logical": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "direct-talker-logical",
+      "title": "Clear communicator! Master of efficient communication",
+      "description": "You're a communicator who conveys the core message clearly and accurately. You minimize unnecessary words and organize your thoughts, making it easy for listeners to understand. This style especially shines in work environments. Sometimes considering the emotional context of others can lead to even richer communication. Your logical and efficient communication ability is a great asset to your team and organization!",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "Clear delivery",
+        "Efficient communication",
+        "Logical expression"
+      ]
+    },
+    {
+      "id": "listener-emotional",
+      "title": "Empathy genius! The comforting presence everyone relies on",
+      "description": "You're naturally gifted at empathy! You listen to others with genuine care and feel their emotions together - a warm communicator. Do people often tell you that talking to you puts them at ease? Your simple words like 'I know, that must have been tough' become the greatest comfort for them. Everyone opens their hearts to you, and you become someone's precious sanctuary!",
+      "image": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=600&q=80",
+      "tags": [
+        "Expert in empathy",
+        "Warm listener",
+        "Safe haven"
+      ]
+    },
+    {
+      "id": "talker-casual-offline",
+      "title": "Communicator who connects people with warm energy",
+      "description": "You have the ability to infuse conversations with warm energy and put people at ease. With your friendly communication style, you lead meetings with positivity and enjoy the pleasure of talking face-to-face. Your sociable ability creates new relationships and strengthens existing ones. This connecting ability becomes a great strength in teamwork and collaboration. If you take time to listen more deeply to others' stories, your relationships will gain even richer depth!",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "tags": [
+        "Warm energy",
+        "Relationship connector",
+        "Friendly communication"
+      ]
+    },
+    {
+      "id": "logical-formal",
+      "title": "King of logic! Professional communicator with 100% persuasion",
+      "description": "Logic over emotion, clarity over ambiguity! You're a master of systematic and logical communication. Your statements in meetings and discussions are persuasive, and others easily understand you. You have the power to convince others with well-founded arguments and clear delivery. A professional business communicator - everyone nods at your words!",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80",
+      "tags": [
+        "Logic king",
+        "Excellent persuasion",
+        "Pro communicator"
+      ]
+    },
+    {
+      "id": "indirect-listener",
+      "title": "Master of harmonious communication with thoughtful consideration",
+      "description": "You're a thoughtful communicator who considers the other person's position first. You carefully choose every word and try to understand diverse perspectives. Thanks to your consideration, harmony develops in your relationships, and you find solutions that everyone can accept even in conflicts. As a trusted mediator, you're a valuable presence to your team and organization. Sometimes expressing your own opinions more actively will help more people benefit from your wise perspective!",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "tags": [
+        "Thoughtful consideration",
+        "Harmony building",
+        "Trusted mediator"
+      ]
+    },
+    {
+      "id": "online-indirect",
+      "title": "Master of organized expression, thoughtful digital communicator",
+      "description": "You're a thoughtful communicator who likes to organize your thoughts before sharing. You excel in digital communication through text, conveying your message more accurately and clearly. This style also reflects your care in refining your words so others can accept them comfortably. Communication skills in the digital environment are very important in modern society. Occasionally experiencing the spontaneous warmth of face-to-face communication will enrich your relationships even more!",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "tags": [
+        "Thoughtful expression",
+        "Organized communication",
+        "Considerate delivery"
+      ]
+    },
+    {
+      "id": "emotional-casual",
+      "title": "The key to opening hearts! Warmth-filled emotional healer",
+      "description": "Conversations with you warm the heart and bring comfort! You share emotions honestly and love free-flowing conversations without formality. Preferring heart-to-heart talks over rigid ones - everyone feels healed talking with you. Master of warm and genuine conversation, friend who heals us all!",
+      "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=600&q=80",
+      "tags": [
+        "Emotional healer",
+        "Genuine communication",
+        "Warm conversation"
+      ]
+    },
+    {
+      "id": "formal-listener-logical",
+      "title": "Words carry weight! Trusted life advisor",
+      "description": "You're a thoughtful communicator who values action over words and listening over chatting. You don't speak carelessly, but when needed, you deliver the essential point with impact. Your words have power and weight, and your advice is always helpful. Because you don't speak lightly, people trust you. The reliable life advisor everyone depends on - your words are gold!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "Icon of trust",
+        "Life advisor",
+        "Weighty words"
+      ]
+    }
+  ]
+}

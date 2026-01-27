@@ -1,0 +1,823 @@
+{
+  "id": "hidden-talent",
+  "title": "發現你的隱藏天才",
+  "description": "這是一項心理測試，透過8種多元智能來發現你獨特的天賦。它是以霍華德·加德納理論為基礎創作的。",
+  "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f70504ce0?w=800&q=80",
+  "color": "#8E44AD",
+  "questions": [
+    {
+      "id": 1,
+      "text": "當你嘗試理解新情境中的問題時，最適合你的方法是什麼？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "用言語或文字整理情況，並與他人討論",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "逐步分析並制定系統性計畫",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "在腦海中描繪全局或進行圖表化處理",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "傾聽內心感受和直覺",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "你最喜歡的休閒活動是什麼？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "閱讀、寫作、聽播客",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "解數學題、編程、拼圖",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "欣賞音樂、演奏樂器、唱歌",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "運動、跳舞、烹飪、手工製作",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "你覺得自己最大的優勢是什麼？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "清晰表達思想並與他人溝通的能力",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析複雜問題並找到解決方案的能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "想出新想法並創意表達的能力",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "理解自己並進行審慎判斷的能力",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "學習新東西時，對你最有效的方法是什麼？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "聽或讀說明，並透過與他人討論來理解",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析原理並逐步進行實驗來理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "透過圖表、圖解、思維導圖進行可視化來理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "透過親身體驗或用節奏記憶來理解",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "當遇到意外問題時，你自然傾向的處理方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "與值得信任的人交談並一起尋找解決方案",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "邏輯分析原因並尋求解決方案",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "直接行動並透過試錯解決",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "暫停片刻，傾聽內心的直覺",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "關於自然和環境，你更偏好什麼活動？",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+      "options": [
+        {
+          "text": "觀察動植物並了解生態系統",
+          "scores": {
+            "linguistic": 1,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 3
+          }
+        },
+        {
+          "text": "用攝影或繪畫捕捉自然的美",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 2
+          }
+        },
+        {
+          "text": "戶外運動或進行冒險活動",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "在大自然中靜思或聽音樂",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "在團隊項目中，你的角色是什麼？",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "協調整體並引領團隊氛圍",
+          "scores": {
+            "linguistic": 2,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "系統性地規劃並執行",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "提出創意和新想法",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "靜靜地完成自己的角色",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你幫助他人的方式是什麼？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "用鼓勵的言語鼓勵並給予建議",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "提供具體的解決方案",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "透過行動來示範",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "共情地傾聽對方的感受",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 2,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "你最有信心的領域是什麼？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "語言、文字、表達、講解",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "數學、科學、邏輯、技術",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "美術、設計、空間感覺",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "節奏、音樂、情感表達",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "面對壓力時，你的應對方法是什麼？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "與朋友交談或聚會",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "分析原因並制定計畫",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "運動、跳舞、旅行來活動身體",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "聽音樂、冥想、享受安靜時光",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你如何描述你的夢想或目標？",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "用詳細的言語表達",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "用分步計畫和數據整理",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "想像並用圖畫來表現",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "用感覺和情感來表達",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "下列中你最想要的經歷是什麼？",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "學習新文化並與他人建立聯繫",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "學習新技術並解決問題",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "冒險和在大自然中活動",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "創作或欣賞藝術作品",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "linguistic",
+      "title": "用語言與世界交流的你",
+      "description": "你擁有透過言語和文字清晰表達思想的能力。用簡潔易懂的方式解釋複雜觀點，並用打動人心的表達力是你的優勢。你在寫作、講故事、討論和學習外語方面能自然地展現才華。\n\n成長點：同時培養傾聽能力。當你傾聽他人的故事並理解他們的觀點時，你的溝通能力會更加深厚。作家、教育工作者、諮詢師、行銷人員等各個領域都可以發揮這種才能。",
+      "image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=800&q=80",
+      "tags": [
+        "清晰表達",
+        "溝通能力",
+        "創意寫作",
+        "說服力",
+        "故事的力量"
+      ]
+    },
+    {
+      "id": "logical",
+      "title": "用邏輯解決問題的你",
+      "description": "你擁有透過系統分析和邏輯思維清晰解決複雜問題的能力。發現模式、理解因果關係並得出合理結論對你來說很自然。你在編程、研究、工程和數據分析等領域能取得突出成績。\n\n成長點：也要認可情感和直覺的價值。並非所有情況都能用邏輯單獨解決。如果你培養理解和同情他人感受的能力，你的分析力會轉化為更溫暖、更有效的解決方案。",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "tags": [
+        "系統分析",
+        "邏輯思維",
+        "問題解決",
+        "模式識別",
+        "理性判斷"
+      ]
+    },
+    {
+      "id": "spatial",
+      "title": "空間可視化天才",
+      "description": "你以視覺方式認識世界，擁有對空間和形態的出眾感覺。你對色彩、構成和排列很敏感，能夠透過三維思維想像未來的樣子。你在藝術、設計、建築、視頻製作、遊戲開發等領域可以展現創造力。你的視覺表達能夠闡明抽象概念，引領人們進入美麗而新奇的世界。",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+      "tags": [
+        "創意",
+        "美學感覺",
+        "空間感",
+        "可視化",
+        "設計思維"
+      ]
+    },
+    {
+      "id": "musical",
+      "title": "音樂情感天才",
+      "description": "你對音樂和節奏有深切的敏感度，透過聲音表達和傳達情感。你具備發達的音樂感、節奏感和聽音能力，能在樂器演奏、作曲、歌唱等方面表現出色。音樂敏感度也影響語言的節奏感、聲音的音調和情感傳達。你的音樂才能觸動人們的靈魂，治癒他們的情感，為世界帶來感動。",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=800&q=80",
+      "tags": [
+        "節奏感",
+        "音樂敏感度",
+        "情感表達",
+        "創意",
+        "情感傳達"
+      ]
+    },
+    {
+      "id": "bodily",
+      "title": "身體運動天才",
+      "description": "你擁有透過身體表達和運動的天賦才能。出眾的身體控制、靈活性、力量和平衡感讓你在運動、舞蹈、表演、體操等方面閃閃發光。你的手工技能也很強，能在手工藝、烹飪和技術領域展現才能。你的身體感覺轉化為行動力和執行力，擅長將想法變為現實。借助這項才能，你可以讓世界更加生動美好。",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+      "tags": [
+        "身體感覺",
+        "手工能力",
+        "行動力",
+        "協調能力",
+        "執行力"
+      ]
+    },
+    {
+      "id": "interpersonal",
+      "title": "在人際連接中閃耀的你",
+      "description": "你擁有透過傑出的同理心和社交能力與他人建立有意義關係的天賦。你能敏感地理解他人的情感，透過恰當的言語和行動建立信任。領導團隊、調解衝突、促進合作是你的優勢。你在諮詢、教育、人力資源、銷售和領導力角色方面能取得卓越成績。\n\n成長點：也要珍惜自己的時光。在照顧他人的同時，不要忽視自己。保持平衡能讓你更久更健康地維持關係。",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+      "tags": [
+        "同理心",
+        "關係建立",
+        "協作領導力",
+        "傾聽",
+        "信任建立"
+      ]
+    },
+    {
+      "id": "intrapersonal",
+      "title": "擁有深入自我理解的你",
+      "description": "你透過出眾的自我反思能力能夠清晰地理解自己的情感、動機和價值觀。你傾聽內心的聲音，基於自己的哲學追求有意義的人生。高度的自我認識導向個人成長和成熟，也為周圍的人帶來啟發。你在心理學、哲學、諮詢和藝術領域能取得深刻的成果。\n\n成長點：有時也要嘗試與外部世界連接。不要被自我反思所吸收而陷入孤立。透過與他人的交流獲得新的視角，你的內在洞察會變得更加豐富。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "tags": [
+        "自我反思",
+        "情緒智力",
+        "內在探索",
+        "自我認知",
+        "意義追求"
+      ]
+    },
+    {
+      "id": "naturalist",
+      "title": "自然探索觀察天才",
+      "description": "你對自然和生命現象具有深切的關心和理解。你對動物、植物和生態系統的觀察和分類能力卓越，在大自然中獲得深刻的靈感。你能在生物學、環保科學、農業、獸醫學、公園設計等與自然相關的領域閃閃發光。你對環境的關心和責任感在保護地球方面起著重要作用。在與自然的和諧關係中，你會過上更有創意和更健康的人生。",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "tags": [
+        "親近自然",
+        "觀察力",
+        "分類能力",
+        "好奇心",
+        "環保意識"
+      ]
+    }
+  ]
+}

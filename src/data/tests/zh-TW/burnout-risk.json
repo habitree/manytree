@@ -1,0 +1,571 @@
+{
+  "id": "burnout-risk",
+  "title": "我的心理狀況如何？職業倦怠風險診斷",
+  "description": "據說10個上班族中有7個經歷過職業倦怠！你沒事吧？讀取身心發出的信號，提前預防。透過本測試檢查你目前的職業倦怠風險水平吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop&q=80",
+  "color": "#FF5252",
+  "questions": [
+    {
+      "id": 1,
+      "text": "新的一週開始的早晨，睜眼時的想法是什麼？",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "又是嶄新的一天！想起要做的事情並準備出門",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "週末過得太快了，有點遺憾，但還是起床了",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "上班準備感覺很沉重，沒有精力",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "開始新的一天本身感覺很吃力",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "工作中能維持多少集中力？",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "沉浸其中，經常不知道時間過去了！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "一般來說還可以，但有時會走神",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "經常走神，很難集中注意力",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "工作進不了腦子，也沒什麼動力",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "下班後的你精力狀況如何？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "有精力去享受休閒活動和朋友相聚",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "有點累，但如果有約定可以出去",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "疲勞感很大，需要個人休息時間",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "極度疲勞，即使充分休息也感覺沒有恢復",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "最近的睡眠狀況如何？",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&q=80",
+      "options": [
+        {
+          "text": "睡眠很好，精神煥發地醒來！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "有時翻身，但總體來說還不錯",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "經常醒來，腦子裡想著工作，很難入睡",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "慢性失眠...很累但睡不著",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "對目前的工作有什麼感受？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "感到有意義，獲得成就感",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "沒有特殊感受，平淡地完成",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "有時懷疑，但還在繼續",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "很難找到工作意義，動力大幅下降",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "與同事和上司的關係如何？",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "互相合作，保持積極的關係",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "作為工作關係，保持適當的距離",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "因關係產生壓力，感到沉重",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "感到被排斥，或沒有人可以傾訴",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "你的身體狀況如何？",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "健康活力十足！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "一般。有時累，但在正常範圍內",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "經常頭疼或消化不好",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "慢性疲勞和各種症狀持續...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "你能保證多少個人時間？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "在愛好和休閒上投入充足的時間！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "很忙，但能抽出一些時間給自己",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "幾乎沒有...被工作壓得喘不過氣",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "什麼愛好？想不起來了",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "對成績和認可的滿意度如何？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "獲得充分認可，很滿意！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "應該得到更多，但還可以接受",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "相比努力，認可太少了，感到難過",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "無論做什麼都沒人注意...感到空虛",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "在工作時間之外還會想起工作嗎？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "幾乎不會！能徹底關閉工作模式！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "有時會想到，但很快就忘了",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "經常想到，感到擔心",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "一直在腦子裡揮之不去...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你能很好地緩解壓力嗎？",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "透過運動和愛好很好地管理壓力！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "有時可以釋放，但不是總能做到",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "很難找到緩解辦法",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "除了吃或睡覺外沒有其他辦法",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "你對未來的看法是什麼？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "有目標，感到自己在成長！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "先過好每一天，看看機會",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "感到茫然...未來顯得不確定",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "看不到希望...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "low",
+      "title": "職業倦怠安全區！心理健康優等生",
+      "description": "恭喜！你目前保持著健康的心理狀態！工作與生活平衡得很好，壓力管理得很有效。在保持這種良好狀態的同時，有時也給自己一些小的獎勵吧。你的積極能量也在對周圍的人產生積極影響！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "心理健康",
+        "平衡生活",
+        "正能量"
+      ]
+    },
+    {
+      "id": "moderate",
+      "title": "警戒區！有點疲倦的你",
+      "description": "你好像有點累了。還可以，但壓力信號已經開始顯現。現在是關鍵時刻！不要勉強自己，適度休息，留出充電時間很重要。有意識地確保運動、愛好和與親近的人相處的時間。現在開始管理，就能成功預防職業倦怠！",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "tags": [
+        "需要充電",
+        "壓力管理",
+        "自我照顧"
+      ]
+    },
+    {
+      "id": "high",
+      "title": "需要恢復，是時候照顧自己了",
+      "description": "你的身心在告訴你需要休息。這也是你迄今為止多麼努力工作的信號。現在最重要的是為自己騰出時間。從短假、調整工作量、與可信任的人交談等小的改變開始。有勇氣邁出恢復第一步的你，一定能重新站起來！",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "休息時間",
+        "可以恢復",
+        "自我照顧"
+      ]
+    },
+    {
+      "id": "severe",
+      "title": "你不是一個人，我們能一起解決",
+      "description": "現在一定很辛苦吧？首先，為你坦誠地了解自己狀況的勇氣鼓掌。你所感受到的情感是完全可以理解的自然反應。在這樣的時期，尋求專業人士的幫助是最有效的方法。諮詢心理諮詢師、EAP項目或精神科醫生。尋求幫助不是軟弱，而是愛自己的智慧選擇。你能好轉，在這個過程中有專業人士陪伴你。",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "與專業人士一起",
+        "恢復的開始",
+        "勇敢的選擇"
+      ]
+    }
+  ]
+}

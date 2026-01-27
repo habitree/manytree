@@ -1,0 +1,355 @@
+{
+  "id": "travel-style",
+  "title": "Prueba del ADN de Viajes: ¿Que tipo de viajero eres?",
+  "description": "¿Alguna vez te has peleado con un amigo mientras viajabas? ¡Descubre tu verdadero estilo de viaje! Si compartes los resultados de la prueba con tu compañero de viaje, ¡tu proximo viaje sera diferente!",
+  "thumbnail": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800&h=600&fit=crop&q=80",
+  "color": "#009688",
+  "questions": [
+    {
+      "id": 1,
+      "text": "¡D-7 una semana antes del viaje! ¿Cual es tu estado?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Tabla de horarios completada en Excel! ¡Reviso los correos de confirmacion 3 veces!",
+          "scores": {
+            "planner": 2,
+            "spontaneous": 0
+          }
+        },
+        {
+          "text": "Solo compre el boleto de avion. El resto lo decidire en el destino, ¿que tal?",
+          "scores": {
+            "planner": 0,
+            "spontaneous": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¡9 AM en el destino del viaje! ¿Donde estas ahora?",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Ya llegue a la atraccion! A primera hora cuando esta tranquilo es lo mejor!",
+          "scores": {
+            "adventure": 2,
+            "relaxation": 0
+          }
+        },
+        {
+          "text": "¡Feliz dilema decidiendo que comer en el buffet del desayuno del hotel!",
+          "scores": {
+            "adventure": 0,
+            "relaxation": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¡Reserva de alojamiento! ¿Cual es tu criterio?",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Esta bien si tiene buena ubicacion y esta limpio! De todos modos pasare el dia afuera!",
+          "scores": {
+            "budget": 2,
+            "luxury": 0
+          }
+        },
+        {
+          "text": "¡El alojamiento es lo importante! ¡Villa con vista al oceano, vamos!",
+          "scores": {
+            "budget": 0,
+            "luxury": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¡Un local te hablo en una cafeteria del destino!",
+      "image": "https://images.unsplash.com/photo-1453614512568-c4024d13c247?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Oportunidad de ser amigo de un local! Debo obtener informacion de restaurantes secretos!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "¡Sonrio y saludo, luego disfruto mi tiempo viendo la vista desde la ventana!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¡Ultimo dia con tiempo libre! ¿Que quieres hacer?",
+      "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Debo visitar el museo y los sitios historicos que aun no he visto!",
+          "scores": {
+            "culture": 2,
+            "nature": 0
+          }
+        },
+        {
+          "text": "¡Mirar el mar sin hacer nada! ¡La naturaleza es lo mejor!",
+          "scores": {
+            "culture": 0,
+            "nature": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¡De repente el avion se retrasa! ¡Los planes se desmoronan! ¿Cual es tu reaccion?",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Incluso mejor! ¡Es oportunidad de ir a lugares que no planeaba!",
+          "scores": {
+            "spontaneous": 2,
+            "planner": 0,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "¡Con calma activo el plan B! ¡Comienso a buscar alojamiento alternativo!",
+          "scores": {
+            "spontaneous": 0,
+            "planner": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¡Fotos de viaje, tu estilo de registro es?",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "options": [
+        {
+          "text": "¡La foto perfecta es esencial! ¡Debo cuidar el angulo, iluminacion y pose!",
+          "scores": {
+            "social": 2,
+            "culture": 1
+          }
+        },
+        {
+          "text": "¡Una sola foto esta bien! ¡Los recuerdos en mi corazon duraran mas!",
+          "scores": {
+            "solo": 2,
+            "nature": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Como decides el menu del almuerzo en el destino?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Investigacion previa completada! ¡Restaurantes comprobados con mas de 4.5 estrellas!",
+          "scores": {
+            "culture": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "¡Exploracion de callejones locales! ¡La diversidad es lo que hace delicioso!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿El compañero de viaje ideal es?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Varios amigos que me dan energia cuando estamos juntos!",
+          "scores": {
+            "social": 2,
+            "relaxation": 1
+          }
+        },
+        {
+          "text": "¡Pocos amigos con los que me siento comodo o viajar solo a mi propio ritmo!",
+          "scores": {
+            "solo": 2,
+            "adventure": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Cual es tu filosofia sobre el presupuesto de viaje?",
+      "image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Ahorrar para viajar por mucho tiempo! ¡Mi objetivo es viajar por el mundo!",
+          "scores": {
+            "budget": 2,
+            "adventure": 1
+          }
+        },
+        {
+          "text": "¡Como viajo pocas veces, quiero disfrutarlo completamente! ¡La satisfaccion es mas importante que el precio!",
+          "scores": {
+            "luxury": 2,
+            "relaxation": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¡Hora de elegir actividad! ¿Que quieres hacer?",
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Puenting! ¡Paracaidismo! ¡La vida es una sola!",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1
+          }
+        },
+        {
+          "text": "¡Masaje en la villa de la piscina! ¡Esto es verdadero descanso!",
+          "scores": {
+            "relaxation": 2,
+            "luxury": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "El dia despues de regresar del viaje, ¿que haces?",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "options": [
+        {
+          "text": "Buscando el proximo destino... ¿A donde voy?",
+          "scores": {
+            "adventure": 2,
+            "spontaneous": 1,
+            "budget": 1
+          }
+        },
+        {
+          "text": "Organizando fotos del viaje y disfrutando los recuerdos... Que feliz fue...",
+          "scores": {
+            "relaxation": 2,
+            "planner": 1,
+            "culture": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventure-spontaneous",
+      "title": "¡Aventurero libre sin mapa!",
+      "description": "¡Tu arma de viaje es el coraje y la emocion! ¿Plano? Lo miro cuando estoy aburrido, pero el verdadero viaje es seguir el camino. El restaurante local que descubres por casualidad en un callejon, el punto de vista secreto que no sale en los mapas, el amigo inesperado que conoces... Estos momentos inesperados hacen tu viaje legendario. Eres el numero 1 cuando pides historias de viaje a tus amigos, ¡tus anecdotas de viaje siempre son divertidas! ¿El siguiente viaje? ¿Aun no lo sabes? ¡Eso es exactamente tu estilo!",
+      "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=600&q=80",
+      "tags": [
+        "espiritu libre",
+        "ADN de aventura",
+        "contador de historias de viaje"
+      ]
+    },
+    {
+      "id": "relaxation-luxury",
+      "title": "¡El mejor regalo para ti! El experimentado en relajacion de lujo",
+      "description": "Despues de trabajar duro, mereces disfrutar el viaje. Villa con vista al oceano en la manana, brunch relajado en el buffet del hotel, masaje en el spa para una relajacion perfecta... ¡Esta es tu verdadera paz! Regresas sintiendote completamente cargado y vives el dia a dia con mas energia. Eres un viajero inteligente cuyos amigos te preguntan constantemente, ¿que lugar es ese? ¡Quiero ir! ¿Hacia donde vas en tu proximo viaje de relajacion?",
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
+      "tags": [
+        "relajacion de lujo",
+        "experto en autocuidado",
+        "disfrutador de tranquilidad"
+      ]
+    },
+    {
+      "id": "culture-planner",
+      "title": "¡Experto en destino! Viajero intelectual que comprende la cultura",
+      "description": "¡Tu viaje tiene profundidad! ¿Solo un turista que toma fotos? ¡No! Lees el significado de cada obra en el museo, encuentras la historia en cada rincon, comprendes la cultura en la comida local. ¡Eres un verdadero explorador! Despues de viajar, te conviertes en experto en ese pais, y cuando alguien quiere ir alla, eres el primero en el que piensan. ¡Tu resena de viaje es mas informativa y divertida que una guia!",
+      "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=600&q=80",
+      "tags": [
+        "explorador de cultura",
+        "viajero intelectual",
+        "experto en destinos"
+      ]
+    },
+    {
+      "id": "nature-solo",
+      "title": "¡Encontrar el yo en la naturaleza! Viajero meditativo de curacion",
+      "description": "Para ti, el mejor destino no es una ciudad ajetreada sino la naturaleza tranquila. El viento en la cima de la montaña, el amanecer sobre el mar, las estrellas en el campamento del bosque te curan. En el tiempo a solas, te encuentras contigo mismo y te conviertes en uno con la naturaleza. Tu viaje no solo trae paz externa sino tambien paz interna.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "tags": [
+        "amante de la naturaleza",
+        "viaje interior",
+        "especialista en curacion"
+      ]
+    },
+    {
+      "id": "social-adventure",
+      "title": "¡Con amigos en todo el mundo! Viajero social global",
+      "description": "¡El punto culminante de tu viaje es la gente! Facilmente te haces amigo del extranjero sentado a tu lado en el avion, haces un tour con un viajero que conociste en el albergue al dia siguiente, e incluso intercambias contacto con el dueno de la cafeteria local. Siempre hay risas donde estabas. Cuando alguien pregunta, ¿conoces a alguien alla?, confidentemente respondes: si, tengo amigos! ¡Eres una persona con muchas conexiones en todo el mundo, con sofacurfing hosts! ¿A quien conoceras en tu proximo destino de viaje?",
+      "image": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?w=600&q=80",
+      "tags": [
+        "social global",
+        "persona con muchas conexiones",
+        "maestro de redes sociales"
+      ]
+    },
+    {
+      "id": "budget-spontaneous",
+      "title": "¡Objetivo: viaje por el mundo! Aventurero ahorrativo",
+      "description": "¡Eres un genio de los viajes que obtienes el maximo de experiencia con presupuesto minimo! Alertas de pasajes aereos baratos es lo basico, descubrimiento de restaurantes locales, uso de tours gratuitos. Tu objetivo es viajar durante mucho tiempo, asi que tu mapa mundial puede ya estar mas de la mitad coloreado. ¡Tu conocimiento de viajes es informacion valiosa que no se puede comprar!",
+      "image": "https://images.unsplash.com/photo-1527631746610-bca00a040d60?w=600&q=80",
+      "tags": [
+        "genio de viajes economicos",
+        "rey del valor",
+        "viajero de vuelta al mundo"
+      ]
+    },
+    {
+      "id": "planner-luxury",
+      "title": "¡La obra maestra de la planificacion perfecta! Curador de lujo",
+      "description": "¡Tu itinerario de viaje es una obra de arte! Te sientes mas feliz planificando cuidadosamente el mejor alojamiento, restaurantes y rutas sin dejar nada al azar y luego ejecutando perfectamente ese plan. ¡Un curador de lujo con el ojo para saber lo que es bueno! Hay una razon por la que tus amigos te piden que planifiques sus viajes. ¡Cuando viajas conmigo se garantiza un viaje perfecto sin fracasos!",
+      "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=600&q=80",
+      "tags": [
+        "curador de viajes",
+        "perfeccionista",
+        "capacidad de planificacion de lujo"
+      ]
+    },
+    {
+      "id": "nature-relaxation",
+      "title": "¡Profundidad sin prisa! Viajero lento",
+      "description": "¡Para ti, viajar no es ver mucho sino sentir profundamente! Te quedas en un lugar durante mucho tiempo y experimentas el ritmo diario, manana y noche. Una taza de cafe relajante en una cafeteria local, compras en el mercado local, caminatas por la naturaleza es tu estilo de viaje. Despues del viaje, sientes que realmente descansaste. Eso es verdadero viaje.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+      "tags": [
+        "viajero lento",
+        "especialista en estadias mensuales",
+        "viaje profundo"
+      ]
+    }
+  ]
+}

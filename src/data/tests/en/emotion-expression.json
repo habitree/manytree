@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "My Emotion Expression Style Test",
+  "description": "How do you express yourself when you're happy? When you're angry? We all have different ways of expressing emotions! Find out your unique emotion expression style and compare results with your friends!",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your carefully prepared idea was ignored in the meeting! What do you do?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Express your opinion honestly: 'That's a bit disappointing'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Hold it in and manage your expression professionally!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Think 'I'll persuade better next time!' and see it as a growth opportunity",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Focus on other tasks instead! Forgetting is the best strategy",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When you argue with someone close to you, what's your typical reaction?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Explain your feelings step by step and try to hear the other person's opinion",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try not to show your anger and maintain silence",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to understand the other person's perspective and interpret it positively",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Start doing something else to escape the situation",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "You successfully got tickets to your favorite singer's concert! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "Scream 'Wahhhh!' and immediately brag on SNS!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Feel 'Yes!' inside and smile quietly",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Feel grateful and look forward to the concert with excitement",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Happy but quickly return to everyday life and check your to-do list!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Today is an unusually stressful day! What do you do after work?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Call a friend and vent: 'Today was really...'!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Quietly organize and control your emotions by yourself",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Find what to learn from today and check your growth points!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Change your mood with Netflix/games! Forgetting is the best!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "When you make a mistake, how do you react?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Admit your mistake and offer a sincere apology",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to hide the mistake and handle it quietly",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Learn from the mistake and resolve to do better next time",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to quickly forget the mistake and move on",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "When someone criticizes you, how do you react?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Express your feelings while listening to the other person's feedback",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Pretend you're not hurt and laugh it off superficially",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to find useful advice in the criticism",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Consciously avoid thinking about the criticism",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Spending the weekend alone, you feel a bit lonely! What do you do?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Contact a friend: 'What are you doing? Come out!' and make it happen!",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Accept it as alone time and spend it quietly",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Use it as a self-reflection opportunity! It's my personal time!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Binge YouTube/dramas and chase away the loneliness!",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "When you want a deep emotional connection with someone, how do you act?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Reveal your inner self honestly and share your feelings",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Express feelings but try to maintain an appropriate distance",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to connect with a caring mindset toward the other person",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Focus on being present rather than emotional connection",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Your friend broke their promise again! When anger flares up, what do you do?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Say honestly: 'I'm really disappointed this time'",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Hold it in and calm your mind before talking",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try to understand - my friend probably had a reason",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Just let it go, it's tiring to talk about it",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "When you feel anxious, what's your typical reaction?",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "Share your anxiety with someone and seek reassurance",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Suppress anxiety and try to maintain composure",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Find the root of the anxiety and resolve it step by step",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Push away anxious thoughts and focus on what you're doing now",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "When you feel like you've failed, how do you express it to others?",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Share your feelings and experiences honestly",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Try not to show the failure and change the subject",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Share what you learned from the failure in a positive way",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Don't tell anyone about the failure experience",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When you realize your emotions could hurt someone else, how do you react?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Explain your feelings to the other person and have a sincere conversation",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Be more careful and restraint in expressing emotions",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Understand the other person's feelings and try to express yourself better",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Avoid the entire situation and maintain emotional distance",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "The Honest Expresser Who Doesn't Hide Their Heart!",
+      "description": "You are someone with honest emotions! When you're happy, you show it; when you're sad, you say it - that's your style. That's why people around you see you as 'someone we can understand and feel comfortable with'.\n\nYour attractive points!\n- You don't hide emotions, so stress doesn't build up\n- You quickly become close to people and build deep relationships\n- You earn the trust of 'I can be honest with this person'\n- Your honesty gives courage to people around you!\n\nDon't people often tell you 'I really like how honest you are'? Your sincere expression makes relationships warmer!",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "Honest and Simple",
+        "Mind Reader",
+        "Warm Sincerity"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "The Calm Emotion Master! Expert of the Poker Face",
+      "description": "You are a master of emotion control! Your heart may be storming inside, but you look like a calm sea on the outside - you have that amazing ability. Your composure in any situation is truly admirable!\n\nYour attractive points!\n- You can judge calmly even in crisis situations\n- People trust you and think 'I feel safe around you'\n- You make fewer mistakes because you're not swayed by emotions\n- You're someone who brings stability to those around you!\n\nDon't your friends say 'talking to you makes me feel at ease' when they're going through tough times? Your calm presence is a great source of strength for others. Sometimes sharing your true feelings with trusted people is also wonderful!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "Poker Face",
+        "Icon of Composure",
+        "Dependable Presence"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "The Positive Transformer Who Gets Back Up!",
+      "description": "You're the type who makes 'lemonade from lemons'! You're a person with amazing positive energy who thinks 'What can I learn from this?' even in difficult situations.\n\nYour attractive points!\n- You find growth points in any situation\n- Your resilience is amazing - you bounce back quickly\n- You spread hope and courage to people around you\n- You try to understand even in conflicting situations!\n\nDon't people often ask you 'How are you always so positive?' Your positive perspective is a huge strength to those around you. When people are with you, they feel like 'I think I can do this too!'",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "Positive Energy",
+        "Growth Mindset",
+        "Hope Spreader"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "The Independent Autonomous Who Solves Things Their Way!",
+      "description": "You are an independent person who doesn't get swept away by emotions and solves things your own way! You're a practical type who focuses on 'what needs to be done now' rather than complex emotions.\n\nYour attractive points!\n- You move efficiently without getting pulled by emotions\n- You have strong independence - you solve your own problems\n- You don't burden others emotionally\n- You make practical judgments even in crisis situations!\n\nDon't people often tell you 'you're really independent'? Your autonomous emotion management ability is a great strength. Sometimes sharing your heart with trusted people can be a wonderful experience too, while maintaining your own way!",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "Independence Max",
+        "Pragmatist",
+        "My Own Way"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,823 @@
+{
+  "id": "hidden-talent",
+  "title": "Descubre tus Talentos Ocultos",
+  "description": "Una prueba psicológica que descubre tus talentos únicos a través de 8 tipos de inteligencias múltiples. Fue creada basándose en la teoría de Howard Gardner.",
+  "thumbnail": "https://images.unsplash.com/photo-1516321318423-f06f70504ce0?w=800&q=80",
+  "color": "#8E44AD",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando intentas entender un problema en una situación nueva, ¿cuál es tu enfoque natural?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Organizar la situación con palabras o escritura y discutirla con otros",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Analizar paso a paso y crear un plan sistemático",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Visualizar la situación completa en tu mente o crear un diagrama",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Escuchar tus sentimientos internos e intuición",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¿Cuál es tu actividad de ocio favorita?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Leer libros, escribir, escuchar podcasts",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Resolver problemas matemáticos, programación, rompecabezas",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Disfrutar de música, tocar instrumentos, cantar",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Hacer ejercicio, bailar, cocinar, hacer cosas con las manos",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Cuál consideras que es tu mayor fortaleza?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Capacidad de comunicar ideas claramente y conectar con otros",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Capacidad de analizar problemas complejos y encontrar soluciones",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Capacidad de generar nuevas ideas y expresarlas creativamente",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Capacidad de entenderme a mí mismo y hacer juicios reflexivos",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Cuál es la forma más efectiva para aprender algo nuevo?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Escuchar explicaciones o leer, y entender a través de discusiones",
+          "scores": {
+            "linguistic": 3,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Analizar principios y experimentar paso a paso",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "Visualizar con imágenes, diagramas y mapas mentales",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Hacerlo tú mismo o recordar a través del ritmo",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Cuando surge un problema inesperado, ¿cuál es tu enfoque natural?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Hablar con una persona de confianza y buscar soluciones juntos",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Analizar lógicamente la causa y explorar soluciones",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Actuar directamente y resolver a través de prueba y error",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Hacer una pausa y escuchar tu intuición interior",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Con respecto a la naturaleza y el ambiente, ¿qué actividad prefieres?",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600&q=80",
+      "options": [
+        {
+          "text": "Observar animales y plantas y aprender sobre ecosistemas",
+          "scores": {
+            "linguistic": 1,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 3
+          }
+        },
+        {
+          "text": "Capturar la belleza de la naturaleza a través de fotografía o pintura",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 2
+          }
+        },
+        {
+          "text": "Hacer ejercicio al aire libre o actividades de aventura",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "Meditar o escuchar música en la naturaleza",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "En un proyecto de equipo, ¿cuál es tu rol?",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "Coordinar el todo y liderar la atmósfera del equipo",
+          "scores": {
+            "linguistic": 2,
+            "logical": 1,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Planificar y ejecutar sistemáticamente",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Proponer ideas creativas y nuevas",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Completar silenciosamente tu propio rol",
+          "scores": {
+            "linguistic": 0,
+            "logical": 1,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 2,
+            "naturalist": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Cómo ayudas a otros?",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Animar con palabras de aliento y dar consejos",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Proporcionar soluciones concretas",
+          "scores": {
+            "linguistic": 1,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Mostrar a través de la acción",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 2,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Empatizar y escuchar los sentimientos del otro",
+          "scores": {
+            "linguistic": 1,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 1,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 2,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿En qué área te sientes más seguro?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Lenguaje, escritura, expresión, explicación",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Matemáticas, ciencia, lógica, tecnología",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Arte, diseño, sentido espacial",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 1,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Ritmo, música, expresión emocional",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 3,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Cómo afrontas el estrés?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Hablar con amigos o pasar tiempo juntos",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Analizar la causa y hacer un plan",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Hacer ejercicio, bailar, viajar",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Escuchar música, meditar, pasar tiempo en silencio",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¿Cómo describes tus sueños u objetivos?",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+      "options": [
+        {
+          "text": "Expresar en detalle con palabras",
+          "scores": {
+            "linguistic": 3,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 1,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Organizar a través de planes paso a paso y cifras",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Imaginar y dibujarlo como una imagen",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 3,
+            "musical": 0,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Expresar a través de sentimientos y emociones",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 2,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 3,
+            "naturalist": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "¿Cuál de las siguientes experiencias deseas más?",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=600&q=80",
+      "options": [
+        {
+          "text": "Aprender nuevas culturas y construir relaciones con personas",
+          "scores": {
+            "linguistic": 2,
+            "logical": 0,
+            "spatial": 0,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 3,
+            "intrapersonal": 0,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Aprender nuevas tecnologías y resolver problemas",
+          "scores": {
+            "linguistic": 0,
+            "logical": 3,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 0,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        },
+        {
+          "text": "Aventurarse y participar en actividades en la naturaleza",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 1,
+            "musical": 0,
+            "bodily": 3,
+            "interpersonal": 0,
+            "intrapersonal": 0,
+            "naturalist": 1
+          }
+        },
+        {
+          "text": "Crear u apreciar obras de arte",
+          "scores": {
+            "linguistic": 0,
+            "logical": 0,
+            "spatial": 2,
+            "musical": 2,
+            "bodily": 1,
+            "interpersonal": 0,
+            "intrapersonal": 1,
+            "naturalist": 0
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "linguistic",
+      "title": "Tú Que Te Conectas con el Mundo a Través del Lenguaje",
+      "description": "Posees la capacidad de comunicar tus pensamientos claramente a través de palabras y escritura. Tu fortaleza es explicar ideas complejas de manera comprensible y expresarte de formas que tocan el corazón de las personas. Puedes brillar naturalmente en escritura, narración de historias, discusiones y aprendizaje de idiomas extranjeros.\n\nPunto de Crecimiento: También desarrolla tus habilidades de escucha. Cuando escuchas las historias de otros y entiendes sus perspectivas, tus habilidades de comunicación se profundizan. Puedes demostrar este talento en diversos campos como escritores, educadores, consejeros y especialistas en marketing.",
+      "image": "https://images.unsplash.com/photo-1507842217343-583f20270319?w=800&q=80",
+      "tags": [
+        "Expresión Clara",
+        "Capacidad de Comunicación",
+        "Escritura Creativa",
+        "Persuasión",
+        "El Poder de la Narración"
+      ]
+    },
+    {
+      "id": "logical",
+      "title": "Tú Que Resuelves Problemas con Lógica",
+      "description": "Posees la capacidad de resolver problemas complejos claramente a través del análisis sistemático y el pensamiento lógico. Es natural para ti descubrir patrones, entender relaciones de causa y efecto y llegar a conclusiones racionales. Puedes lograr resultados destacados en programación, investigación, ingeniería y análisis de datos.\n\nPunto de Crecimiento: También reconoce el valor de las emociones e intuición. No todas las situaciones pueden resolverse únicamente con lógica. Si desarrollas la capacidad de entender y empatizar con las emociones de las personas, tu análisis se puede transformar en soluciones más cálidas y efectivas.",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+      "tags": [
+        "Análisis Sistemático",
+        "Pensamiento Lógico",
+        "Resolución de Problemas",
+        "Reconocimiento de Patrones",
+        "Juicio Racional"
+      ]
+    },
+    {
+      "id": "spatial",
+      "title": "Genio de Visualización Espacial",
+      "description": "Percibes el mundo visualmente y posees un excelente sentido del espacio y la forma. Eres sensible a los colores, la composición y la disposición, y puedes imaginar el futuro a través del pensamiento tridimensional. Tu creatividad puede brillar en arte, diseño, arquitectura, producción de video y desarrollo de videojuegos. Tu expresión visual aclara conceptos abstractos y lleva a las personas a mundos hermosos y nuevos.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+      "tags": [
+        "Creatividad",
+        "Sentido Estético",
+        "Sentido Espacial",
+        "Visualización",
+        "Pensamiento de Diseño"
+      ]
+    },
+    {
+      "id": "musical",
+      "title": "Genio Emocional Musical",
+      "description": "Tienes profunda sensibilidad a la música y el ritmo, y expresas y transmites emociones a través del sonido. Tu sentido musical, sentido de ritmo y sensibilidad auditiva están bien desarrollados, permitiéndote sobresalir en la ejecución de instrumentos, composición y canto. Tu sensibilidad musical también afecta el ritmo del lenguaje, tono de voz y transmisión emocional. Tu talento musical toca las almas de las personas, sana sus emociones y trae inspiración al mundo.",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69b13d835?w=800&q=80",
+      "tags": [
+        "Sentido del Ritmo",
+        "Sensibilidad Musical",
+        "Expresión Emocional",
+        "Creatividad",
+        "Comunicación Emocional"
+      ]
+    },
+    {
+      "id": "bodily",
+      "title": "Genio Corporal-Kinestésico",
+      "description": "Posees talento innato para la expresión y el movimiento a través de tu cuerpo. Con excelente control corporal, agilidad, fuerza y sentido del equilibrio, te destacas en deportes, danza, actuación y gimnasia. También eres diestro con tus manos y puedes demostrar tus habilidades en artesanías, cocina y campos técnicos. Tu sentido corporal se traduce en capacidad de acción y ejecución, y eres experto en convertir ideas en realidad. Con este talento, puedes hacer el mundo más dinámico y hermoso.",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+      "tags": [
+        "Sentido Corporal",
+        "Destreza Manual",
+        "Orientado a la Acción",
+        "Capacidad de Coordinación",
+        "Poder de Ejecución"
+      ]
+    },
+    {
+      "id": "interpersonal",
+      "title": "Tú Que Brillas en la Conexión con las Personas",
+      "description": "Posees el talento de formar relaciones significativas con las personas a través de una empatía sobresaliente y habilidades sociales. Entiendes los sentimientos de otros de manera sensible y construyes confianza a través de palabras y acciones apropiadas. Liderar equipos, mediar conflictos y promover la cooperación son tus fortalezas. Puedes lograr resultados excelentes en consejería, educación, recursos humanos, ventas y roles de liderazgo.\n\nPunto de Crecimiento: También valora tu propio tiempo. No descuides tu autocuidado mientras cuidas a otros. Cuando mantienes el equilibrio, puedes sustener tus relaciones por más tiempo y de manera más saludable.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+      "tags": [
+        "Empatía",
+        "Construcción de Relaciones",
+        "Liderazgo Colaborativo",
+        "Escucha Activa",
+        "Construcción de Confianza"
+      ]
+    },
+    {
+      "id": "intrapersonal",
+      "title": "Tú con Profunda Comprensión de Ti Mismo",
+      "description": "Posees el talento de comprender claramente tus propias emociones, motivaciones y valores a través de excelentes habilidades de autorreflexión. Escuchas tu voz interior y buscas una vida significativa basada en tu propia filosofía. La alta autoconciencia conduce al crecimiento personal y madurez, e inspira a quienes te rodean. Puedes lograr resultados profundos en psicología, filosofía, consejería y arte.\n\nPunto de Crecimiento: A veces intenta conectar con el mundo externo también. No te absorbas en la autorreflexión hasta el punto de aislarte. Cuando ganas nuevas perspectivas a través de la interacción con otros, tus percepciones internas se vuelven más ricas.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80",
+      "tags": [
+        "Autorreflexión",
+        "Inteligencia Emocional",
+        "Exploración Interior",
+        "Autoconciencia",
+        "Búsqueda de Significado"
+      ]
+    },
+    {
+      "id": "naturalist",
+      "title": "Genio de Exploración y Observación de la Naturaleza",
+      "description": "Posees profundo interés y comprensión de la naturaleza y los fenómenos naturales. Tu capacidad de observación y clasificación respecto a animales, plantas y ecosistemas es excepcional, y ganas inspiración profunda en la naturaleza. Puedes brillar en campos relacionados con la naturaleza como biología, ciencia ambiental, agricultura, medicina veterinaria y diseño de parques. Tu interés en el ambiente y responsabilidad juegan un papel importante en la protección del planeta. A través de una relación armoniosa con la naturaleza, vivirás una vida más creativa y saludable.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+      "tags": [
+        "Amante de la Naturaleza",
+        "Capacidad de Observación",
+        "Capacidad de Clasificación",
+        "Curiosidad",
+        "Conciencia Ambiental"
+      ]
+    }
+  ]
+}

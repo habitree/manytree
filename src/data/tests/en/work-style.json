@@ -1,0 +1,353 @@
+{
+  "id": "work-style",
+  "title": "What's Your Real Position at Work? Revealing Your Hidden Office Worker DNA!",
+  "description": "Your true value your boss doesn't know! 8 types of office workers analyzed by HR experts. Check your career DNA and use it for salary negotiations! Must share with colleagues!",
+  "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&h=600&fit=crop&q=80",
+  "color": "#1976D2",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Monday morning as a new week begins, your first thought is?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "I'm excited for the important meetings this week, it's time to showcase my ideas!",
+          "scores": {
+            "leader": 2,
+            "ambitious": 1
+          }
+        },
+        {
+          "text": "Let me organize today's tasks step by step and start off on a stable foot!",
+          "scores": {
+            "supporter": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Emergency meeting! 'Does anyone have ideas for the new project?' your team lead asks. What do you do?",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "options": [
+        {
+          "text": "Hand shoots up! 'I have some ideas I've been thinking about!' (3 ideas ready to go)",
+          "scores": {
+            "creative": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "Let me analyze the relevant data first, I prefer evidence-based suggestions",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "When your focus is at MAX during work! When does your productivity explode?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "When brainstorming with team members! Brilliant ideas spark in conversation!",
+          "scores": {
+            "team": 2,
+            "creative": 1
+          }
+        },
+        {
+          "text": "Earbuds in and entering my own bubble! Do not disturb!",
+          "scores": {
+            "solo": 2,
+            "analytical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "'Please get this done urgently!' Sudden urgent work lands on you! How do you react?",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "options": [
+        {
+          "text": "Adjust existing schedule and reprioritize! Activate Plan B!",
+          "scores": {
+            "planner": 2,
+            "analytical": 1
+          }
+        },
+        {
+          "text": "OK! Let's start and see what happens! The path will appear as we go!",
+          "scores": {
+            "flexible": 2,
+            "creative": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "During project progress, unexpected problems arise! The team atmosphere seems off. What do you do?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Let me organize it! Identify the problem source and present solutions!",
+          "scores": {
+            "leader": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "Actions speak louder than words! Let me quickly solve the problem in my area!",
+          "scores": {
+            "supporter": 2,
+            "solo": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Finally, lunch time! What's your lunch style?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "Explore newly opened restaurants with team members! Chatting is healing!",
+          "scores": {
+            "team": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "Solo dining or a quick walk to refresh! Getting ready for afternoon work!",
+          "scores": {
+            "solo": 2,
+            "balanced": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Salary negotiation season is coming. What's your approach?",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "options": [
+        {
+          "text": "Organize performance data and actively step up to the negotiation table!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "Believe that consistent performance will naturally be recognized and wait!",
+          "scores": {
+            "balanced": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "New tools are being introduced at the company! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "options": [
+        {
+          "text": "Oh that sounds fun! I love learning new things! Can't wait to try it out!",
+          "scores": {
+            "creative": 2,
+            "flexible": 1
+          }
+        },
+        {
+          "text": "I'm more used to the existing way... Will there be ROI? Let me observe for now",
+          "scores": {
+            "analytical": 2,
+            "planner": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "A junior colleague has come to you with a work-related question. What's your mentoring style?",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+      "options": [
+        {
+          "text": "Sit together and explain the process step by step to help them understand!",
+          "scores": {
+            "supporter": 2,
+            "team": 1
+          }
+        },
+        {
+          "text": "Share the key direction and encourage them to solve it on their own!",
+          "scores": {
+            "solo": 1,
+            "analytical": 1,
+            "leader": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "An important project deadline is approaching. What's your perspective on time management?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "If needed to achieve goals, I'm willing to invest additional time!",
+          "scores": {
+            "ambitious": 2,
+            "planner": 1
+          }
+        },
+        {
+          "text": "Completing efficiently within set time is true capability!",
+          "scores": {
+            "balanced": 2,
+            "flexible": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "Team workshops or networking events are scheduled. How do you participate?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "Participate actively and use it as an opportunity to get closer to colleagues!",
+          "scores": {
+            "team": 2,
+            "leader": 1
+          }
+        },
+        {
+          "text": "Participate meaningfully while also securing personal energy recharge time!",
+          "scores": {
+            "solo": 1,
+            "balanced": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "What kind of person do you want to be 5 years from now?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Team lead? Executive? I want to become a leader driving bigger projects!",
+          "scores": {
+            "ambitious": 2,
+            "leader": 2
+          }
+        },
+        {
+          "text": "I want to be recognized as a specialist in my field!",
+          "scores": {
+            "balanced": 1,
+            "analytical": 2,
+            "supporter": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "leader-ambitious",
+      "title": "Born Leader, Future CEO Candidate!",
+      "description": "You are someone born to lead! Even in crisis situations, you provide direction without wavering and inspire your team members. You are a natural leader with magical charisma. Armed with decisiveness and drive, you will shine in an even higher position 5 years from now! You are the future CEO!",
+      "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=600&q=80",
+      "tags": [
+        "CEO Material",
+        "Charismatic Leader",
+        "Avatar of Decisiveness"
+      ]
+    },
+    {
+      "id": "supporter-team",
+      "title": "Team's Heart! The Hidden MVP Everyone Recognizes",
+      "description": "The team can't function without you! You selflessly dedicate yourself to the team and are the pillar of support for colleagues. Your value isn't immediately visible, but everyone knows you're behind every success. You understand the true value of teamwork. You are the talent every organization needs!",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "tags": [
+        "Team MVP",
+        "Icon of Trust",
+        "Collaboration Master"
+      ]
+    },
+    {
+      "id": "creative-flexible",
+      "title": "Idea Explosion! Organization's Innovation Engine",
+      "description": "Your mind is an idea factory! You're a true innovator who shouts 'How about this?' when everyone else says 'It's impossible.' You respond flexibly to change and aren't afraid of new challenges! You're the kind of person who breaks organizational stagnation. Your creativity can change your company's future!",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&q=80",
+      "tags": [
+        "Idea Explosion",
+        "Innovation Icon",
+        "Change Maker"
+      ]
+    },
+    {
+      "id": "analytical-planner",
+      "title": "A Quiet Professional Who Succeeds With Data!",
+      "description": "You're a true pro who proves yourself through results without flashy talk. With deep analytical skills and systematic planning, you achieve goals without mistakes. Your reviewed materials are 100% trustworthy, and your plans always succeed. A quietly charismatic hidden expert who moves the organization!",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+      "tags": [
+        "Data Master",
+        "Professional",
+        "Skilled Expert"
+      ]
+    },
+    {
+      "id": "solo-analytical",
+      "title": "King of Depth, Irreplaceable Specialist",
+      "description": "You are a specialist with overwhelming expertise in your own domain! You're quiet, but when you speak, everyone listens, and your words often become the meeting's conclusion. The expertise built through deep focus is incomparable. You are truly irreplaceable!",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "tags": [
+        "Expert of Experts",
+        "King of Depth",
+        "Irreplaceable"
+      ]
+    },
+    {
+      "id": "balanced-flexible",
+      "title": "Work-Life Balance Master! The Wisest Office Worker",
+      "description": "You work well and enjoy life too! You're a true professional - efficient at work and making the most of your personal time after work. Creating a sustainable career without burnout - a wise choice! Many people envy your lifestyle. You are a true winner in life!",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "tags": [
+        "Balance Master",
+        "King of Efficiency",
+        "Life Winner"
+      ]
+    },
+    {
+      "id": "team-creative",
+      "title": "Company's Vitamin! The Colleague Everyone Wants",
+      "description": "When you're around, team atmosphere becomes 200% alive! You breathe creative ideas into the team and are an energy maker that makes working together fun! The reason colleagues want to be on your team is your positive energy and creativity. A popular office worker in any organization!",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "tags": [
+        "Company Vitamin",
+        "Atmosphere Maker",
+        "Team's Popular Member"
+      ]
+    },
+    {
+      "id": "ambitious-planner",
+      "title": "Ambitious Strategist, One Who Has a Success Roadmap!",
+      "description": "You are a true strategist with clear goals and meticulous plans! You've already mapped out your career path for the next 5 and 10 years and are moving forward step by step. You know success comes from planning, not chance! The goals you set will definitely be achieved. A person with a promising future!",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+      "tags": [
+        "Strategist",
+        "Avatar of Ambition",
+        "Success Booked"
+      ]
+    }
+  ]
+}

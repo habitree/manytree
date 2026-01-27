@@ -1,0 +1,351 @@
+{
+  "id": "stress-style",
+  "title": "Your Secret Stress Relief Weapon! Mental Management Tips You Never Knew",
+  "description": "Why don't some stress relief methods work for you? 8 stress coping styles analyzed by psychology experts! Discover the perfect personalized healing method for you right now. Essential to check before burnout strikes!",
+  "thumbnail": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "An unexpected delay happened on your way to work. How do you respond?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Listen to music to calm your mind and accept the situation",
+          "scores": {
+            "emotional": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "Quickly search for alternative routes and try to resolve the situation",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "After a stressful day at work, what's your way to recover after leaving?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Contact a close friend and open up by talking with them",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Take time alone and organize your thoughts through walking or meditation",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "When negative emotions build up, how do you release them?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "Release energy through exercise or active hobbies",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "Rest sufficiently in a comfortable space to recover energy",
+          "scores": {
+            "passive": 2,
+            "escape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "You've arrived home after a difficult day. What's your healing routine?",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "options": [
+        {
+          "text": "Relax comfortably watching your favorite content",
+          "scores": {
+            "escape": 2,
+            "alone": 1
+          }
+        },
+        {
+          "text": "Contact friends to spend time together and change your mood",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Conflict with a colleague/friend! You feel oddly uncomfortable. What do you do?",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Let's talk about it right now! I can't stand feeling uneasy even for a day!",
+          "scores": {
+            "confront": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Let's cool down first... I need time to clear my head before talking!",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "When you're stressed, how does your expression change?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "It shows on my face... I'm transparent even if I try to hide it!",
+          "scores": {
+            "express": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "Calm outside, chaos inside! Maintaining a poker face is my default!",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "When stressed, what small reward do you give yourself?",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "Lift your mood with delicious food or your favorite dessert",
+          "scores": {
+            "emotional": 2,
+            "escape": 1
+          }
+        },
+        {
+          "text": "Invest in things that help with health or self-improvement",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "When you're stressed, how active are you on social media?",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "DMs explode, group chats active! I feel like I need to talk to someone to survive!",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "Read receipts off, endless scrolling or ghosting! (Need to disconnect from the world!)",
+          "scores": {
+            "alone": 2,
+            "suppress": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Major project due in 3 days! How do you handle the pressure?",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Break down the schedule and create a checklist! Conquer things one by one!",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "Just start! The way becomes clear as you go! (Trust your instincts!)",
+          "scores": {
+            "emotional": 2,
+            "active": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Precious weekend! Your plan to reset stress is?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Cancel plans with friends! Mood change through restaurants, cafes, shopping!",
+          "scores": {
+            "social": 2,
+            "active": 1
+          }
+        },
+        {
+          "text": "No going out! Stay home and enjoy my own healing time! (I like being alone!)",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "When times are tough, what someone says that strengthens you more?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "'That must have been tough, you did well' - Empathy and comfort that bring tears!",
+          "scores": {
+            "emotional": 2,
+            "social": 1
+          }
+        },
+        {
+          "text": "'Try doing this!' - Practical solutions that clear your head!",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "When stress keeps you awake, what's your late-night pattern?",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "Bury myself in blankets and force myself to sleep... Sleep is the best medicine!",
+          "scores": {
+            "escape": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "If I won't sleep anyway, might as well do cleaning or exercise!",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "active-social",
+      "title": "Stress Melts Away When Moving Together! Energy-Explosive Social Activist",
+      "description": "Your secret stress relief weapon is 'moving together'! When you go running with friends, join hiking groups, or play team sports, stress evaporates instantly. Your energetic presence always brings vitality, and the sense of accomplishment after sweating together is the best healing! You heal by moving and recharge by sharing - you're a source of positive energy!",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "tags": [
+        "Energy release",
+        "Healing together",
+        "Active socializer"
+      ]
+    },
+    {
+      "id": "active-alone",
+      "title": "My Own Exercise Routine! Self-Healer Who Resets Through Sweat",
+      "description": "Stress? Wash it away with sweat! You're the type for whom solo exercise time is the best healing. The gym, running courses, home workouts... Stress melts away with every drop of sweat. After showering post-workout, you're a completely new person! You're a true self-care expert who resets your body and mind through your own routine!",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "tags": [
+        "Exercise reset",
+        "Solo healing",
+        "Self-care expert"
+      ]
+    },
+    {
+      "id": "social-express",
+      "title": "Talking Heals! Communication Genius Who Heals Through Conversation",
+      "description": "Everything becomes clear when you talk! A phone call with a friend, venting time at a cafe is your best stress relief. When you share instead of keeping things inside, your heart feels so much lighter. To you, friends are like psychiatrists! You're a communication master who heals through conversation, feels understood through empathy, and recharges through sharing!",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "tags": [
+        "Chat therapy",
+        "Empathy recharge",
+        "Communication master"
+      ]
+    },
+    {
+      "id": "alone-passive",
+      "title": "Quiet Time for Myself! Perfect Recharge-Type Insider",
+      "description": "Your best healing is 'time for myself'! In an undisturbed space, reading books, listening to music, or just daydreaming... Your secret to energy recharge is quiet, solitary time. You know how to maintain your own pace in a busy world - you're wise and understand what true rest means! Your quiet healing time is more precious than anything!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Quiet recharge",
+        "Solitary time",
+        "Inner healing"
+      ]
+    },
+    {
+      "id": "escape-emotional",
+      "title": "The Art of Immersion! Healer Who Recharges Through Content",
+      "description": "You have your own special healing method! You're the type who recovers mental energy by immersing in favorite dramas, webtoons, or games. This is what psychology calls 'psychological distancing' - an effective way to temporarily escape stress and regain objective perspective. Your passion and ability to immerse yourself in your interests are your valuable resources! After recharging, you return to daily life with a clearer mind.",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "tags": [
+        "Immersion healing",
+        "Psychological recharge",
+        "Value of hobbies"
+      ]
+    },
+    {
+      "id": "rational-confront",
+      "title": "Problem Solver! Strategist Who Conquers Stress",
+      "description": "You're a true problem solver who confronts stress head-on! Without being swayed by emotions, you analyze situations, grasp the core of problems, and find solutions. You understand that asking 'why am I stressed?' and eliminating the cause also eliminates stress - you're a wise strategist! Your rational and practical coping methods are abilities many people want to learn!",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "tags": [
+        "Problem solver",
+        "Strategic coping",
+        "Triumph of reason"
+      ]
+    },
+    {
+      "id": "emotional-express",
+      "title": "Honest to Your Feelings! Healthy Expresser Who Doesn't Hold Back",
+      "description": "You're a healthy type who expresses feelings honestly! When angry, you say you're angry; when sad, you say you're sad - this honesty is the secret to not accumulating stress. You know that suppressing emotions will eventually explode - you're wise! Honest emotional expression makes relationships healthier and your heart lighter. You're amazing for not holding back!",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "Honest expression",
+        "Emotional release",
+        "Healthy venting"
+      ]
+    },
+    {
+      "id": "suppress-rational",
+      "title": "Calm Observer! Person Who Reflects While Controlling Emotions",
+      "description": "You possess the inner strength to maintain balance even in the waves of emotion. Rather than reacting immediately to stress, you step back, observe the situation, and calmly organize your feelings - you're a reflective type. This approach prevents impulsive decisions and allows wiser choices. However, opening your heart to share emotions with trusted people is also healthy. Your calmness is a precious quality that provides stability to those around you.",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "tags": [
+        "Inner peace",
+        "Reflective strength",
+        "Balanced coping"
+      ]
+    }
+  ]
+}

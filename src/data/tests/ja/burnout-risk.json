@@ -1,0 +1,571 @@
+{
+  "id": "burnout-risk",
+  "title": "今の私のメンタルは？バーンアウトリスク診断",
+  "description": "仕事をしている10人中7人が経験するというバーンアウト！あなたは大丈夫でしょうか？体と心が送っている信号を読み取り、事前に予防しましょう。このテストで現在のバーンアウトリスクをチェックしてみてください！",
+  "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop&q=80",
+  "color": "#FF5252",
+  "questions": [
+    {
+      "id": 1,
+      "text": "新しい一週間が始まる朝、目を覚ました時の考えは？",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "今日も新しい一日！やることを思い出して準備する",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "週末が速く過ぎてしまったようで残念だが、起きる",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "出勤の準備が重く感じられ、エネルギーがない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "一日を始めることそのものが辛く感じられる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "仕事中、どの程度集中力を維持できますか？",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "没頭して時間が経つのを忘れることが多い！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "普通だけど、たまに別のことを考える",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "よくぼっとしていて、集中力がない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "仕事が目に入らず、やる気もない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "退勤後のあなたのエネルギー状態はどうですか？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "レジャー活動や友人との時間を楽しむエネルギーがある",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "少し疲れているが、約束があれば出かけられる",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "疲労感が大きく、個人的な時間が必要だと感じる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "極度の疲労で、十分に休んでも回復しない気がする",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "最近の睡眠状態はどうですか？",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&q=80",
+      "options": [
+        {
+          "text": "ぐっすり寝て、気持ちよく目覚める！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "たまに寝返りをうつが、概ね大丈夫",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "よく目覚め、仕事のことで寝付きにくい",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "慢性的な不眠...疲れているのに眠れない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "現在している仕事についてどう感じていますか？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "意味深く、やりがいを感じている方だ",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "特別な感情もなく淡々としている",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "時々疑問に思うが続けている",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "仕事の意味を見つけることが難しく、モチベーションが大きく低下している",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "職場の同僚や上司との関係はどうですか？",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "相互に協力し、ポジティブな関係を保っている",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "業務上の関係として適切な距離を保っている",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "関係からのストレスがあり、負担に感じられる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "孤立感を感じるか、気持ちを分かち合える人がいないと感じる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "あなたの身体的な調子はどうですか？",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "健康で活気に満ちている！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "普通。たまに疲れるが正常範囲",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "頭痛や消化不良がよくある",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "慢性疲労と様々な症状が続く...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "個人的な時間をどのくらい確保していますか？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "趣味とリラックスに十分な時間を投資中！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "忙しいが、ちょっとずつ自分の時間を持っている",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "ほぼない...仕事に追われている",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "何の趣味？覚えていない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "成果や認められることへの満足度は？",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "十分に認められ、満足している！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "もう少しもらってもいいくらいだが、大丈夫",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "努力に比べて認められていなく、悔しい",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "どれだけやっても気づかれない...虚しい",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "勤務時間以外でも仕事のことが頭に浮かびますか？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "ほぼない！スイッチOFFできる！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "時々浮かぶが、すぐに忘れる",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "よく思い出して気になる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "いつも頭から離れない...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "ストレス解消をうまくしていますか？",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "運動や趣味でストレスをうまく管理中！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "たまに発散するが、いつもではない",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "解消法を見つけることが難しい",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "食べるか寝ること以外に解消法がない",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "未来についてのあなたの考えは？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "目標があり、成長していると感じる！",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "とりあえず毎日を過ごしながら機会を見ている",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "ぼんやりしている...未来が不確実に感じられる",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "希望がなく見える...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "low",
+      "title": "バーンアウト安全地帯！メンタルヘルス優等生",
+      "description": "おめでとうございます！あなたは現在、健康的なメンタル状態を維持しています！仕事と生活のバランスを上手くとり、ストレスを効果的に管理していますね。このいい状態を保ちながら、時々は自分自身に小さなご褒美も与えてください。あなたのポジティブなエネルギーは、周囲の人にもいい影響を与えています！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "メンタルヘルス",
+        "バランスの取れた人生",
+        "ポジティブエネルギー"
+      ]
+    },
+    {
+      "id": "moderate",
+      "title": "注意区間！少し疲れたあなたへ",
+      "description": "少し疲れた状態のようですね。まだ大丈夫ですが、ストレスの信号が少しずつ見えています。今が重要な時点！無理をせず、適度に休みながら充電する時間を持つといいでしょう。運動、趣味、好きな人との時間を意識的に確保してみてください。今管理すれば、バーンアウト予防成功！",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "tags": [
+        "充電が必要",
+        "ストレス管理",
+        "セルフケア"
+      ]
+    },
+    {
+      "id": "high",
+      "title": "回復が必要な時点、自分を大切にする時ですよ",
+      "description": "あなたの体と心は、休息が必要だと言っています。これは、あなたがこれまでどれだけ一生懸命頑張ってきたかを示すシグナルでもあります。今は、自分のための時間を確保することが最も重要です。短い休暇、業務量の調整、信頼できる人との対話など、小さな変化から始めてみてください。回復への第一歩を踏み出す勇気があるあなたなら、絶対に立ち直ることができます！",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "休息の時間",
+        "回復可能",
+        "セルフケア"
+      ]
+    },
+    {
+      "id": "severe",
+      "title": "あなたは一人ではありません、一緒に解決できます",
+      "description": "今、とても大変な思いをしていますね？まず、このように正直に自分の状態を確認してくれたあなたの勇気に拍手を送ります。あなたが感じている感情は、十分に理解できる自然な反応です。このような時期には、専門家の助けを受けることが最も効果的な方法です。心理カウンセラー、EAPプログラム、または精神科医の専門医に相談してみてください。助けを求めることは弱さではなく、自分を愛する賢い選択です。あなたは良くなることができ、その過程で一緒に支援してくれる専門家がいます。",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "専門家と一緒に",
+        "回復の始まり",
+        "勇敢な選択"
+      ]
+    }
+  ]
+}

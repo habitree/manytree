@@ -1,0 +1,355 @@
+{
+  "id": "food-style",
+  "title": "美食DNA测试：你真正的食物性格是什么？",
+  "description": "\"吃什么？\"的烦恼结束了！了解你的食物偏好，菜单选择就变得容易了。与恋人、朋友比较结果吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&h=600&fit=crop&q=80",
+  "color": "#FF9800",
+  "questions": [
+    {
+      "id": 1,
+      "text": "在陌生的旅行地要吃晚餐！你的选择是？",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+      "options": [
+        {
+          "text": "开始探索小巷！寻找只有当地人知道的隐藏美食！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "评分4.5以上认证！相信经过验证的美食餐厅！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "新推出的'辛味拉面'！你的选择是？",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "options": [
+        {
+          "text": "得试试看！我喜欢辛辣味带来的快感！",
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
+        },
+        {
+          "text": "请给我清淡的口味！我喜欢真正品尝到食物的味道！",
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "餐后甜点时间！你的选择是？",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "options": [
+        {
+          "text": "甜点是另一个胃！蛋糕、冰淇淋必须的！",
+          "scores": {
+            "sweet": 2,
+            "savory": 0
+          }
+        },
+        {
+          "text": "甜点？我更喜欢奶酪或小食！",
+          "scores": {
+            "sweet": 0,
+            "savory": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "选择午餐菜单时最重要的标准是什么？",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "options": [
+        {
+          "text": "营养平衡！我想吃对身体有益的食物！",
+          "scores": {
+            "health": 2,
+            "taste": 0
+          }
+        },
+        {
+          "text": "首先是味道！好吃的东西才能让心情变好！",
+          "scores": {
+            "health": 0,
+            "taste": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "发现人生美食！你的下一步行动是？",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "options": [
+        {
+          "text": "立即分享到群聊！好吃的东西分享才是幸福！",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "收藏为我的据点！特殊日子再来一次！",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "社交媒体上热门的新融合美食餐厅！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "options": [
+        {
+          "text": "哦太新鲜了！立即预订，去尝试新的味道！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "很有趣！等评价积累更多了再去吧！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "在家煮拉面时你的个人风格是？",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+      "options": [
+        {
+          "text": "鸡蛋、奶酪、葱等丰富的配菜！我的签名拉面！",
+          "scores": {
+            "adventurous": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "按照包装背面的食谱！原汁原味才是最好的！",
+          "scores": {
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "在咖啡馆选择饮料！你的签名订单是什么？",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "甜甜的星冰乐、焦糖玛奇朵、加鲜奶油！",
+          "scores": {
+            "sweet": 2,
+            "savory": 0,
+            "taste": 1
+          }
+        },
+        {
+          "text": "美式咖啡、浓缩咖啡！清爽才是最好的！",
+          "scores": {
+            "sweet": 0,
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "深夜肚子饿了，你的选择是？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "今天一天辛苦了，该吃想吃的东西！",
+          "scores": {
+            "taste": 2,
+            "health": 0
+          }
+        },
+        {
+          "text": "为了明天，吃得清淡或者忍住吧！",
+          "scores": {
+            "taste": 0,
+            "health": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "吃饭时最喜欢的氛围是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "与朋友热闹非凡！笑声连连才能吃得香！",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "安静专注于食物！独自吃饭也很美味！",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "海外旅行中发现从未见过的食物！你的反应是？",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+      "options": [
+        {
+          "text": "不知道是什么但先尝试！经历就是财富！",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0,
+            "spicy": 1
+          }
+        },
+        {
+          "text": "先用谷歌翻译查一下成分...安全第一！",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "轻松的周末早午餐！你被吸引的菜单是？",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&q=80",
+      "options": [
+        {
+          "text": "松饼、华夫饼、法式吐司！甜蜜的早午餐最棒！",
+          "scores": {
+            "sweet": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "蛋班尼迪克特、沙拉、健康的组合！",
+          "scores": {
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventurous-spicy-social",
+      "title": "美食地图的开拓者！美食探险家",
+      "description": "你的座右铭是'不尝试就不知道'！在陌生食物面前，你毫无恐惧！敢于尝试陌生食物，发现隐藏的美食，然后立即与朋友分享的你！朋友们之间'美食发现就靠你了！'的请求从未间断！与你一起吃饭总是美味的冒险！下一次会发现什么新的味道呢？",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "tags": [
+        "美食开拓者",
+        "美食探险家",
+        "食物冒险王"
+      ]
+    },
+    {
+      "id": "traditional-mild-solo",
+      "title": "温暖一餐！疗愈食物爱好者",
+      "description": "对你来说，食物不仅是一顿饭，而是'心灵的慰藉'！充满真心的家常饭，在熟悉舒适的味道中找到真正幸福的你！懂得独自享受美食的快乐，用食物消解一天疲劳的明智美食家！你的餐桌上总是充满温暖的安慰。'今天也吃得很好！'这一句话就足够了，你真的很棒！",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+      "tags": [
+        "疗愈食物爱好者",
+        "温暖的一餐",
+        "心灵充电型"
+      ]
+    },
+    {
+      "id": "health-savory-solo",
+      "title": "吃什么就成为什么！健康美食家",
+      "description": "你是'我的身体就是我'这一哲学的拥有者！你仔细检查卡路里和营养成分，喜欢用健康材料制作的食物。比起甜甜的甜点，你更喜欢清爽的味道，比起刺激的食物，你选择对身体有益的食物！你的饮食是自我管理的精粹，也是很多人羡慕的生活方式！",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "tags": [
+        "健康美食家",
+        "自我护理大师",
+        "清洁饮食"
+      ]
+    },
+    {
+      "id": "taste-sweet-social",
+      "title": "人生要甜蜜！甜蜜派对制造者",
+      "description": "'人生很短，甜点很甜！'这就是你的人生哲学！在美味蛋糕面前，卡路里计算？那就留给明天的自己去考虑，先吃了再说！新开的甜品咖啡馆没人能比你跑得快，好吃的就立即招集朋友！与你一起的茶点时间总是甜蜜的派对。懂得分享快乐的你，还让周围的人的心情也变甜蜜了！",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "tags": [
+        "甜蜜派对主办者",
+        "甜点猎人",
+        "甜蜜传道者"
+      ]
+    },
+    {
+      "id": "adventurous-health-social",
+      "title": "引领潮流的均衡美食家！",
+      "description": "你是比谁都先掌握最新美食餐厅和食物趋势的趋势引领者！在敢于尝试新食物的同时，也不忽视健康，你拥有完美的平衡感！本能具有Instagram感的食物照片！你的推文充满了美食信息。真正的美食影响者！",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "tags": [
+        "美食网红",
+        "均衡美食",
+        "趋势引领者"
+      ]
+    },
+    {
+      "id": "traditional-taste-social",
+      "title": "经过验证的味道守护者！正宗美食探寻者",
+      "description": "你追求的是传统胜过流行，深层味道胜过华丽！你是真正的美食家，懂得发掘有三代历史的美食餐厅、只有当地人知道的隐藏餐厅的乐趣。好吃的东西必须分享才能尝到真味！你的美食列表是朋友们之间的圣经！",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "tags": [
+        "正宗美食探寻",
+        "经过验证的味道专家",
+        "一起吃的快乐"
+      ]
+    },
+    {
+      "id": "spicy-taste-solo",
+      "title": "辛辣味的征服者！辛辣大师",
+      "description": "对你来说，辛辣味不是'痛苦'而是'快感'！不辣鸡拌面？这是基本的！当朋友们说'这太辣了...'而找水时，你悠闲地又夹一口！那种扑克脸真的很帅！'辛辣味挑战？尽管来！'自信的你！懂得享受舌尖上那股刺激快感的真正辛辣大师！",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "tags": [
+        "辛辣大师",
+        "辛辣味征服者",
+        "爱辛辣100%"
+      ]
+    },
+    {
+      "id": "mild-sweet-health",
+      "title": "感性一勺！咖啡馆感性美食家",
+      "description": "你不仅重视味道，还重视氛围和视觉的感性美食家！在气氛温馨的咖啡馆，与漂亮的甜点一起度过的时光是最大的疗愈。喜欢柔软甜蜜的味道，同时也注意健康的均衡感！你的Instagram已经充满了感性美食餐厅！",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "tags": [
+        "咖啡馆感性",
+        "视觉美食餐厅爱好者",
+        "甜蜜疗愈"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "id": "love-language",
+  "title": "¡Descubre Tu Lenguaje del Amor! Los 5 Lenguajes del Amor",
+  "description": "Descubre tu verdadera forma de expresar amor usando la teoría de los 5 Lenguajes del Amor del Dr. Gary Chapman. ¿Qué sucede si el mismo amor se percibe de manera diferente? ¡Descubre tu lenguaje del amor ahora mismo!",
+  "thumbnail": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&h=600&fit=crop&q=80",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando tu pareja ha tenido un día difícil, ¿cuál es tu reacción natural?",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "Le dices palabras de aliento como, '¡Trabajaste duro, lo estás haciendo bien!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Ofreces ayuda práctica diciendo, 'Cuéntame si hay algo en lo que pueda ayudarte'",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Le pides que te cuente más y escuchas su historia juntos",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Le das un cálido abrazo y lo consuelas suavemente",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Cuando quieres consolar a una pareja estresada, ¿qué haces naturalmente?",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "options": [
+        {
+          "text": "Le tomas la mano o lo abrazas cálidamente para consolarlo",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "Preparas comidas o haces sus tareas para ayudarlo prácticamente",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Lo animas y apoyas con palabras de ánimo",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Te sientas a su lado y dedicas tiempo para escucharlo completamente",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Cuando expresas amor a alguien especial, ¿cuál es tu método principal?",
+      "image": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "options": [
+        {
+          "text": "Frecuentemente lo expresas con palabras como 'Te amo', 'Gracias', 'Eres lo mejor'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Pasas tiempo de calidad juntos, conversando y simplemente estando allí",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Escoges regalos que le encantarán o preparas eventos especiales",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Expresas el calor a través del contacto físico como sostener la mano o abrazar",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Si tu pareja tiene un evento importante próximo, ¿cómo lo apoyas?",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "Aumentas su confianza con palabras de aliento como, '¡Lo harás bien!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Preparas lo que necesita y lo ayudas prácticamente",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Te paras a su lado y dedicas tiempo para prepararse juntos",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Alivias su tensión con afecto físico y abrazos cálidos para tranquilizarlo",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Cuando te sientes deprimido, ¿qué te consuela más?",
+      "image": "https://images.unsplash.com/photo-1495216875107-c6c043eb703f?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando tu pareja dedica tiempo de calidad contigo",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando te apoyan con palabras amables y de ánimo",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando te toman la mano o te abrazan",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "Cuando te ayudan prácticamente y alivian tu carga",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Cuando decoras un espacio para compartir con tu pareja, ¿qué te importa más?",
+      "image": "https://images.unsplash.com/photo-1484101403633-571e57aa4ea0?w=600&q=80",
+      "options": [
+        {
+          "text": "Crear una atmósfera acogedora para pasar tiempo de calidad juntos",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Reflejar su gusto y preferencias para crear algo especial",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Organizarlo prácticamente para que puedan descansar cómodamente",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Crear un espacio cómodo donde puedan acurrucarse y relajarse juntos",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Cuando tu pareja logra algo grande, ¿cuál es tu primera acción?",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "Celebras en voz alta y repites, '¡Es increíble!'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Preparas un regalo de felicitación y planificas un evento especial",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Lo abrazas y expresas tu alegría físicamente con vítores",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "Compartes la alegría juntos y escuchas su historia",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "En la vida cotidiana, ¿cómo expresas naturalmente tu amor?",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Frecuentemente muestras afecto naturalmente a través de sostener la mano y abrazar",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        },
+        {
+          "text": "Preparas lo que necesita y lo ayudas en la vida diaria",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Disfrutas preparando pequeños regalos o eventos sorpresa",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Prioriza compartir tu día y pasar tiempo juntos",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Cuándo sientes más el amor de tu pareja?",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando dicen cosas como, 'Me haces feliz', 'Eres muy especial'",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando está allí para ayudarte y cuidarte cuando estás ocupado",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando recuerdan mis preferencias y me regalan sorpresas",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando me abraza cálidamente o me toma la mano con fuerza",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Cuál es el momento más memorable que has compartido con tu pareja?",
+      "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando prepararon un regalo especial que siempre había querido",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando tuvimos conversaciones profundas sin interrupciones y pasamos tiempo de calidad juntos",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando mi pareja me animó con palabras sinceras y apoyo",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando mi pareja me abrazó, me tomó la mano y expresó amor a través del contacto físico",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¿Cuándo sientes que amas a tu pareja?",
+      "image": "https://images.unsplash.com/photo-1522098635833-216c03d81fbe?w=600&q=80",
+      "options": [
+        {
+          "text": "Cuando mi pareja está a mi lado y detiene todo para enfocarse solo en mí",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando mi pareja sabe lo que necesito y me ayuda sin que lo pida",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 2,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando mi pareja cree en mi potencial y me dice palabras de aliento",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Cuando mi pareja me abraza cálidamente y me toma la mano",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Cuando se celebra un día especial, ¿cómo prefieres ser celebrado?",
+      "image": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=600&q=80",
+      "options": [
+        {
+          "text": "Recibiendo un regalo significativo y un evento especialmente preparado",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 2,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Escuchando felicitaciones sinceras o palabras emocionantes",
+          "scores": {
+            "words": 2,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Teniendo a mi pareja dedicar todo su tiempo para estar conmigo",
+          "scores": {
+            "words": 0,
+            "time": 2,
+            "service": 0,
+            "gifts": 0,
+            "touch": 0
+          }
+        },
+        {
+          "text": "Siendo celebrado con cálidos abrazos y contacto físico",
+          "scores": {
+            "words": 0,
+            "time": 0,
+            "service": 0,
+            "gifts": 0,
+            "touch": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "words",
+      "title": "Palabras de Afirmación - Amor Expresado a Través de Palabras",
+      "description": "Eres alguien que cree en el poder de las palabras. Crees que pequeños gestos como 'Te amo', 'Gracias', 'Eres increíble' son los mejores regalos. Las palabras de aliento, elogio y gratitud hacen felices tanto a ti como a las personas que amas. Tus palabras iluminan el día de alguien, les dan confianza y fortalecen las relaciones. ¡Tu capacidad de expresar amor a través de palabras es realmente un talento especial!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Palabras cálidas",
+        "Aliento y elogio",
+        "Expresión de gratitud"
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Actos de Servicio - Amor Expresado a Través de Acciones",
+      "description": "Eres alguien que expresa amor a través de acciones. Observas cuidadosamente lo que tu pareja necesita y comunicas tus sentimientos a través de ayuda práctica. Ya sea preparando comida o preparando cosas con anticipación, tu consideración le da a tu pareja una profunda sensación de seguridad. Cada una de tus acciones lleva la preocupación genuina que dice 'Te valoro'. Este amor práctico construye una base sólida de confianza en tu relación. ¡A veces expresar tus sentimientos con palabras ayudará a tu pareja a sentir tu amor aún más profundamente!",
+      "image": "https://images.unsplash.com/photo-1509355114855-4c02da2f8fce?w=600&q=80",
+      "tags": [
+        "Cuidado considerado",
+        "Amor práctico",
+        "Construcción de confianza"
+      ]
+    },
+    {
+      "id": "gifts",
+      "title": "Recibir Regalos - Amor Expresado a Través de Presentes Reflexivos",
+      "description": "Eres alguien que pone su corazón en los regalos. Crees que un regalo significativo o un evento sorpresa habla más que mil palabras. Los regalos que eliges reflejan profundamente los gustos y sentimientos de tu pareja, haciéndoles sentir, 'Realmente me conoces bien'. Ya sean grandes o pequeños, tus regalos siempre llevan afecto genuino y consideración. ¡El calor en tus regalos será recordado para siempre!",
+      "image": "https://images.unsplash.com/photo-1531378827481-cad2f70e80b7?w=600&q=80",
+      "tags": [
+        "Regalos reflexivos",
+        "Sorpresas memorables",
+        "Expresión de afecto"
+      ]
+    },
+    {
+      "id": "touch",
+      "title": "Toque Físico - Amor Expresado a Través del Afecto Cálido",
+      "description": "Eres alguien que expresa amor a través del afecto físico cálido. Sostener la mano, abrazar y toque suave son tus formas más sinceras de expresar amor. Tu afecto cálido transmite seguridad y comodidad a tu pareja. En tu abrazo, sienten que son valorados, y tu toque se convierte en un consuelo más profundo que las palabras. Esta capacidad de expresar amor a través del afecto es una fortaleza preciosa para construir relaciones íntimas. ¡A veces expresar tus sentimientos con palabras ayudará a tu pareja a sentir tu amor de una manera aún más rica!",
+      "image": "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=600&q=80",
+      "tags": [
+        "Toque cálido",
+        "Transmitir seguridad",
+        "Construir intimidad"
+      ]
+    },
+    {
+      "id": "time",
+      "title": "Tiempo de Calidad - Amor Expresado a Través de Momentos Compartidos",
+      "description": "Eres alguien que cree que el tiempo es lo más valioso. Sin importar cuán ocupado estés, haces tiempo para las personas que amas, y durante ese tiempo te enfocas únicamente en ellos. El tiempo pasado contigo es especial, y las conversaciones y el compartir dentro de él crean las conexiones más profundas. Tienes la capacidad de hacer que las personas se sientan valoradas dejando tu teléfono y conectando a través del contacto visual. ¡Tu tiempo es la mayor expresión de amor para alguien!",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "tags": [
+        "Tiempo de calidad",
+        "Valor de la compañía",
+        "Relaciones enfocadas"
+      ]
+    }
+  ]
+}

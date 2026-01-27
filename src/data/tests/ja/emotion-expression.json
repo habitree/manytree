@@ -1,0 +1,571 @@
+{
+  "id": "emotion-expression",
+  "title": "私の感情表現スタイルテスト",
+  "description": "嬉しい時はどう表現しますか？怒った時は？私たちはみな感情の表現方法が異なります！あなた独自の感情表現スタイルを知り、友人たちと結果を比較してみましょう！",
+  "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&h=630&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "一生懸命準備したアイデアが会議で無視されました！あなたはどうしますか？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "素直に『それは少し残念ですね』と意見を言う",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "心の中でしまい込んで、表情管理、プロフェッショナルに！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "次はもっとうまく説得しよう！成長の機会として考える",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "とりあえず別の仕事に集中する！忘れるのが上策",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "親しい人と喧嘩した時、あなたの一般的な反応は何ですか？",
+      "image": "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "options": [
+        {
+          "text": "自分の感情を丁寧に説明し、相手の意見も聞こうとする",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "怒りの感情を見せないようにしながら、沈黙を保つ",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "相手の立場を理解しようとして、ポジティブに解釈する",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "その状況から逃げるために、別のことを始める",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "好きな歌手のコンサートチケット取得成功！あなたの反応は？",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+      "options": [
+        {
+          "text": "わあああ！叫びながらSNSで即自慢！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "心の中でガッツ！と思いながら、静かに微笑む",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "感謝の気持ちでコンサートの日まで待ちながら、ワクワクする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "嬉しいけど、すぐに日常に戻って、やることをチェック！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "今日は特にストレスを感じる日！退勤後、あなたは？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "友人に電話して『今日は本当に...』と愚痴を言う！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "一人で静かに整理して、心を落ち着ける",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "今日の仕事から学べることを見つけて、成長ポイントをチェック！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "Netflix/ゲームで気分転換！忘れるのが最高！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "失敗をした時、あなたの反応はどのようなものですか？",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "自分の失敗を認めて、心からの謝罪をする",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗したことが見えないようにしながら、静かに処理する",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗から学んで、次はもっとよくしようと心に決める",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗したこと自体をすぐに忘れて、先に進もうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "誰かがあなたを批判した時、あなたはどのように反応しますか？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "自分の感情を表現しながら、相手のフィードバックを聞く",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "傷付いていないふりをして、表面的に笑いながら流す",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "批判の中から役立つアドバイスがあるか探そうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "その批判について考えないようにしながら、意識的に回避する",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "一人で過ごす週末、なぜか寂しい気分がします！あなたは？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "友人に『何してるの？出かけよう！』と連絡して、会う！",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "一人だけの時間として受け入れて、静かに過ごす",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "自分だけの時間じゃないですか！自己反省の機会として活用！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "YouTube/ドラマのマラソン視聴で寂しさを吹き飛ばす！",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "誰かと深い感情的つながりを望む時、あなたはどう行動しますか？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "自分の内面を素直に見せて、感情をシェアする",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "感情を表現しながらも、適切な距離感を保とうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "相手を思いやる気持ちでつながろうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "感情的なつながりより、今に忠実でありたい",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "友人が約束をまた破りました！怒りが込み上げてくる時、あなたは？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "『今回は本当に残念だ』と素直に言う",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "一度落ち着いてから、心を静めて会話する",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "友人にも事情があったんだろう、理解してみようとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "ただ流してしまう、話しても疲れるから",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "不安を感じる時、あなたの一般的な反応は何ですか？",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "不安な気持ちを誰かとシェアして、安心しようとする",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "不安感を抑え込んで、落ち着きを保とうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "不安の根源を見つけて、段階的に解決しようとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "不安な考えを押し出して、今していることに集中する",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "あなたが失敗したと感じる時、周りの人にどのように表現しますか？",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "自分の感情と経験を素直に話す",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗を見せないようにしながら、別のテーマに変える",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗経験から学んだことをポジティブにシェアする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "失敗経験自体を誰にも話さない",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "あなたの感情が他の人を傷つける可能性があることに気がついた時、どのように反応しますか？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "相手に自分の感情を説明して、心からの対話をする",
+          "scores": {
+            "expressive": 3,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "感情表現をより注意して、抑制しようとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 3,
+            "transformative": 0,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "相手の感情を理解して、より良い方法で表現しようとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 3,
+            "avoidant": 0
+          }
+        },
+        {
+          "text": "その状況全体を避けて、感情的な距離を置こうとする",
+          "scores": {
+            "expressive": 0,
+            "suppressive": 0,
+            "transformative": 0,
+            "avoidant": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "expressive",
+      "title": "心を隠さない正直表現者！",
+      "description": "あなたは感情に素直な人！嬉しければ喜ぶ、悲しければ悲しいと言う、それがあなたのスタイルです。だから周りの人たちはあなたを『気持ちがわかりやすくて、一緒にいると楽な人』と見なすんですね。\n\nあなたの魅力的なポイント！\n- 感情を隠さないから、ストレスが溜まらない\n- 人たちとすぐに親密になり、深い関係を築く\n- 『この人には本心を話してもいい』という信頼を得る\n- あなたの素直さが周りの人たちに勇気をくれる！\n\n友達の間で『あなたは本当に素直でいい！』と言われたことはありませんか？あなたの心からの表現が関係をもっと温かくしています！",
+      "image": "https://images.unsplash.com/photo-1516815231560-8f41ec9ac8d1?w=600&h=600&fit=crop",
+      "tags": [
+        "素直でシンプル",
+        "心読み人",
+        "温かい真心"
+      ]
+    },
+    {
+      "id": "suppressive",
+      "title": "落ち着いた感情マスター！ポーカーフェイスの達人",
+      "description": "あなたは感情コントロールの達人！心の中は嵐でも、外側は穏やかな海のように見える能力者です。どんな状況でも揺らがないあなたの落ち着き、本当に素敵です！\n\nあなたの魅力的なポイント！\n- 危機的な状況でも冷静に判断できる\n- 『あの人がいると安心できる』という信頼を得る\n- 感情に振り回されないから、ミスが少ない\n- 周りの人たちに安定感をもたらす存在！\n\n困っている時に『あなたに話すと心が楽になる』と友達が言いませんか？あなたの落ち着きが周りを安定させる大きな力になっています。時々は信頼できる人に本当の気持ちを見せることも良いですよ！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&h=600&fit=crop",
+      "tags": [
+        "ポーカーフェイス",
+        "落ち着きのアイコン",
+        "信頼できる存在"
+      ]
+    },
+    {
+      "id": "transformative",
+      "title": "何度も起き上がる、ポジティブ変換者！",
+      "description": "あなたは『レモンをもらったらレモネードを作る』タイプ！難しい状況でも『これから何を学べるだろう？』を最初に考える、素晴らしいポジティブエネルギーの持ち主です。\n\nあなたの魅力的なポイント！\n- どんな状況でも成長ポイントを見つけ出す\n- 回復力が素晴らしくて、すぐに立ち直る\n- 周りの人たちに希望と勇気を伝える\n- 葛藤の状況でも相手を理解しようとする！\n\n『どうしていつもそんなに前向きなの？』と言われることはありませんか？あなたの前向きな視点が周りの人たちに大きな力になっています。あなたと一緒にいると『私にもできそう！』という勇気が生まれるんです！",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=600&h=600&fit=crop",
+      "tags": [
+        "ポジティブエネルギー",
+        "成長マインド",
+        "希望の伝播者"
+      ]
+    },
+    {
+      "id": "avoidant",
+      "title": "自分のやり方で解決する独立自律者！",
+      "description": "あなたは感情に振り回されず、自分のやり方で解決する独立的な人！複雑な感情より『今やるべきこと』に集中する実用的なタイプです。\n\nあなたの魅力的なポイント！\n- 感情に引きずられず、効率的に動く\n- 自分の問題は自分で解決する独立心が強い\n- 相手に感情的な負担をかけない\n- 危機的な状況でも実用的な判断をする！\n\n『あなたは本当に独立的だね』と言われたことはありませんか？あなたの自律的な感情管理能力は大きな利点です。自分のやり方を保ちながら、時々は信頼できる人と心をシェアするのも良い経験になるでしょう！",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=600&h=600&fit=crop",
+      "tags": [
+        "独立マックス",
+        "実用主義者",
+        "自分のやり方"
+      ]
+    }
+  ]
+}

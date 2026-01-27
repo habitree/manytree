@@ -1,0 +1,687 @@
+{
+  "id": "self-esteem",
+  "title": "Understanding My Self-Esteem Level",
+  "description": "A psychological test to explore how you perceive and evaluate yourself. Through self-worth, self-acceptance, and self-efficacy, discover your current self-esteem state and take the first step toward growth.",
+  "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Overall, I am satisfied with myself.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "When facing new challenges, I believe in my abilities.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "I accept myself entirely, including my strengths and weaknesses.",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "When I experience failure, I try to find better ways to approach it.",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Even when hearing different opinions, I can maintain my perspective and beliefs.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "I feel proud of my abilities and qualities.",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Regardless of others' evaluations, I can acknowledge and accept myself.",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "I have the courage to face challenges I want to pursue.",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Even after making mistakes or failing, I can treat myself kindly.",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "I believe I have the ability to solve problems even in difficult situations.",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "I believe I am valuable just as I am.",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "I am confident in the decisions I make.",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "Strongly agree",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "Agree",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "Neutral",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "Disagree",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "Strongly disagree",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "You Have the Strength to Believe in Yourself",
+      "description": "You possess healthy self-esteem by recognizing your worth and believing in your abilities. This self-trust becomes the strength to embrace new challenges, recover from difficulties, and maintain your own standards.\n\nYour strengths:\n- Ability to recognize your own value\n- Positive attitude toward challenges\n- Stable self-confidence\n\nFor further growth:\nSelf-esteem shines brightest in connection with others. Share your positive energy to encourage those around you, and maintain an open mind to diverse perspectives. Growing humility will help you mature even further.",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop",
+      "tags": [
+        "self-trust",
+        "positive attitude",
+        "challenging spirit",
+        "inner stability",
+        "growth mindset"
+      ]
+    },
+    {
+      "id": "stable",
+      "title": "Stable Self-Esteem - A Balanced Self",
+      "description": "You have a positive yet realistic view of yourself. You maintain an appropriate level of self-esteem, which provides a solid foundation for healthy relationships and personal growth.\n\nYour strengths:\n- Realistic self-assessment\n- Stable emotional state\n- Balance between confidence and humility\n\nFor continuous growth:\nBuild upon your stable foundation by setting and pursuing your dreams and goals more specifically. By accumulating small successes, you can further strengthen your confidence. Additionally, find deeper meaning in life through helping others and mentoring experiences.",
+      "image": "https://images.unsplash.com/photo-1552058544-f6b08422138a?w=500&h=500&fit=crop",
+      "tags": [
+        "stability",
+        "balance",
+        "realism",
+        "maturity",
+        "improvement"
+      ]
+    },
+    {
+      "id": "unstable",
+      "title": "You Growing Flexibly",
+      "description": "Your self-esteem changes flexibly depending on circumstances. This means you respond sensitively to your environment and reflect deeply on yourself. Many people experience similar growth patterns.\n\nYour strengths:\n- Excellent self-reflection ability\n- Passion for improvement\n- Deep sensitivity and empathy\n\nTips for more stable confidence:\n1. Record successes: Document small achievements to build confidence by reflecting on them.\n2. Change inner dialogue: When critical thoughts arise, gently reframe them as you would speak to a friend.\n3. Accept imperfection: Practice accepting that it's okay to not be perfect every day.\n4. Build a support circle: Spend more time with people who accept you as you are.\n\nYour flexibility is a strength. Building stability on top of it will help you shine even brighter!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "flexible growth",
+        "self-reflection",
+        "resilience",
+        "sensitivity",
+        "growth potential"
+      ]
+    },
+    {
+      "id": "low",
+      "title": "You Discovering Your Inner Strength",
+      "description": "Right now, you're on a meaningful journey to understand yourself more deeply. The very fact that you took this test to reflect on yourself is evidence of your desire to grow. Many people have discovered their own strengths and value from similar starting points.\n\nStrengths you already possess:\n- Ability to reflect on yourself\n- Empathy to understand others\n- Desire to grow toward a better self\n\nPractical guide to building self-esteem:\n1. Practice self-compassion: Speak to yourself with warmth as you would to a friend during difficult moments.\n2. Record small achievements: Keep track of daily accomplishments to recognize your abilities.\n3. Discover your strengths: Find what you do naturally well and what you enjoy.\n4. Build a support network: Spend time with people who accept you as you are.\n5. Seek professional support: If needed, reaching out to a counselor is a wise choice.\n\nYou are valuable just as you are. While self-esteem doesn't change overnight, small consistent actions will help you experience real change.",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?w=500&h=500&fit=crop",
+      "tags": [
+        "growth journey",
+        "self-discovery",
+        "inner strength",
+        "resilience",
+        "limitless potential"
+      ]
+    }
+  ]
+}

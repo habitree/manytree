@@ -1,0 +1,355 @@
+{
+  "id": "food-style",
+  "title": "Gourmet DNA Test: What's Your True Food Personality?",
+  "description": "No more 'What should I eat?' dilemmas! Once you know your food preferences, menu choices become easy. Compare your results with your lover or friends!",
+  "thumbnail": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800&h=600&fit=crop&q=80",
+  "color": "#FF9800",
+  "questions": [
+    {
+      "id": 1,
+      "text": "It's dinnertime in an unfamiliar travel destination! What's your choice?",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+      "options": [
+        {
+          "text": "Start exploring the back alleys! I want to find the hidden local gems that only locals know!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "Verified with 4.5+ stars! I'll go to a trusted restaurant!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "A new menu item 'Spicy Ramen' just launched! What's your choice?",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "options": [
+        {
+          "text": "Let me give it a try! I love the thrill that spicy food brings!",
+          "scores": {
+            "spicy": 2,
+            "mild": 0
+          }
+        },
+        {
+          "text": "Make it mild, please! I like to really taste the flavor!",
+          "scores": {
+            "spicy": 0,
+            "mild": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Time for dessert after your meal! What's your choice?",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "options": [
+        {
+          "text": "Dessert has its own place in my stomach! Cake and ice cream are a must!",
+          "scores": {
+            "sweet": 2,
+            "savory": 0
+          }
+        },
+        {
+          "text": "Dessert? I'd rather have some cheese or snacks!",
+          "scores": {
+            "sweet": 0,
+            "savory": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "What's the most important criterion when choosing a lunch menu?",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "options": [
+        {
+          "text": "Nutritional balance! I want to eat healthy food!",
+          "scores": {
+            "health": 2,
+            "taste": 0
+          }
+        },
+        {
+          "text": "Taste first! Everything tastes better when it's delicious!",
+          "scores": {
+            "health": 0,
+            "taste": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "You've discovered your life-changing restaurant! What's your next move?",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "options": [
+        {
+          "text": "Share it immediately in the group chat! Sharing delicious food brings happiness!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "Save it as my secret hideout! I'll visit again on special occasions!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "A trendy new fusion restaurant is all the buzz on SNS! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "options": [
+        {
+          "text": "Wow, that's fresh! Let me book right away and try this new flavor!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0
+          }
+        },
+        {
+          "text": "Interesting! I'll go once the reviews build up a bit more!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "When you cook ramen at home, what's your signature style?",
+      "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+      "options": [
+        {
+          "text": "Load it with toppings - eggs, cheese, green onions, and more! My signature ramen!",
+          "scores": {
+            "adventurous": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "Follow the recipe on the back of the package! Original taste is the best!",
+          "scores": {
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Choosing a drink at a cafe! What's your signature order?",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "Sweet frappuccino, caramel macchiato, with extra whipped cream!",
+          "scores": {
+            "sweet": 2,
+            "savory": 0,
+            "taste": 1
+          }
+        },
+        {
+          "text": "Americano or espresso! Clean and simple is best!",
+          "scores": {
+            "sweet": 0,
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Late night hunger strikes! What's your choice?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "options": [
+        {
+          "text": "I worked hard all day, so I should eat what I want!",
+          "scores": {
+            "taste": 2,
+            "health": 0
+          }
+        },
+        {
+          "text": "For tomorrow's sake, I'll eat light or skip it!",
+          "scores": {
+            "taste": 0,
+            "health": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "What's your favorite atmosphere when eating?",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "Bustling with friends! Laughing and talking makes it taste better!",
+          "scores": {
+            "social": 2,
+            "solo": 0
+          }
+        },
+        {
+          "text": "Quiet focus on the food! Solo dining is a treat!",
+          "scores": {
+            "social": 0,
+            "solo": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "You discover a never-before-seen food while traveling abroad! What's your reaction?",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+      "options": [
+        {
+          "text": "I don't know what it is, but let's eat it anyway! Experience is treasure!",
+          "scores": {
+            "adventurous": 2,
+            "traditional": 0,
+            "spicy": 1
+          }
+        },
+        {
+          "text": "Let me check the ingredients with Google Translate first... Safety first!",
+          "scores": {
+            "adventurous": 0,
+            "traditional": 2,
+            "mild": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "A relaxed weekend brunch! What menu draws you in?",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&q=80",
+      "options": [
+        {
+          "text": "Pancakes, waffles, French toast! Sweet brunch is the best!",
+          "scores": {
+            "sweet": 2,
+            "taste": 1
+          }
+        },
+        {
+          "text": "Eggs Benedict, salad, healthy combinations!",
+          "scores": {
+            "savory": 2,
+            "health": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "adventurous-spicy-social",
+      "title": "Pioneer of the Food Map! Gourmet Explorer",
+      "description": "Your motto is 'You won't know unless you try!' You have no fear when facing new foods! You boldly challenge unfamiliar dishes and eagerly share your hidden gem discoveries with friends! Requests from friends never stop: 'You find the good restaurants for us!' Dining with you is always a delicious adventure! What new flavor will you discover next?",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+      "tags": [
+        "Restaurant Pioneer",
+        "Gourmet Explorer",
+        "Food Adventure King"
+      ]
+    },
+    {
+      "id": "traditional-mild-solo",
+      "title": "One Meal That Comforts the Heart! Healing Food Lover",
+      "description": "For you, food isn't just a meal but 'comfort for the heart!' You find true happiness in a home-cooked meal full of care and familiar, comforting flavors. You know how to enjoy a meal alone and have the wisdom to ease the day's fatigue through food. Your table always comes with warm comfort. You're satisfied with just 'I had a delicious meal today!' You're truly wonderful!",
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+      "tags": [
+        "Healing Food Lover",
+        "Warm Meal",
+        "Heart-Warming Type"
+      ]
+    },
+    {
+      "id": "health-savory-solo",
+      "title": "What You Eat Makes You! Health-Conscious Gourmet",
+      "description": "You hold the philosophy 'I am what I eat!' You meticulously check calories and nutrients and prefer food made with healthy ingredients. Clean taste over sugary sweets, wholesome food over stimulating food! Your diet is the essence of self-care, and many envy your lifestyle!",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "tags": [
+        "Health-Conscious Gourmet",
+        "Self-Care Master",
+        "Clean Eating"
+      ]
+    },
+    {
+      "id": "taste-sweet-social",
+      "title": "Life is Sweet! Sweet Party Maker",
+      "description": "'Life is short and desserts are sweet!' That's your life philosophy! Calorie counting before delicious cake? Leave that for tomorrow-me and eat now! You're the first to rush to new dessert cafes, and if it's tasty, you immediately call your friends! Teatime with you is always a sweet party. You know how to share happiness, and you make everyone around you feel sweet too!",
+      "image": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=600&q=80",
+      "tags": [
+        "Sweet Party Organizer",
+        "Dessert Hunter",
+        "Sweet Evangelist"
+      ]
+    },
+    {
+      "id": "adventurous-health-social",
+      "title": "Balanced Foodie Leading the Trend!",
+      "description": "You're a trendsetter who catches the latest restaurants and food trends before anyone else! You boldly challenge new foods while maintaining your health - a true sense of balance! Instagram-worthy food photos are standard for you! Your feed is full of restaurant information. A true food influencer!",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=600&q=80",
+      "tags": [
+        "Food Influencer",
+        "Balanced Gourmet",
+        "Trendsetter"
+      ]
+    },
+    {
+      "id": "traditional-taste-social",
+      "title": "Guardian of Verified Taste! Traditional Restaurant Explorer",
+      "description": "You pursue tradition over trends, depth of flavor over flashiness - a true gourmet! You understand the joy of discovering restaurants that have been around for generations or hidden gems only locals know. Good food is best when shared! Your restaurant list is a bible among friends!",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=600&q=80",
+      "tags": [
+        "Traditional Restaurant Explorer",
+        "Verified Taste Expert",
+        "Joy of Sharing"
+      ]
+    },
+    {
+      "id": "spicy-taste-solo",
+      "title": "Conqueror of Spice! Spicy Master",
+      "description": "For you, spicy food is not 'pain' but 'pleasure!' Fire-roasted chicken noodles? That's just the beginning! While your friends are searching for water saying 'this is too spicy,' you're coolly reaching for another bite! That poker face of yours is really cool! 'Spicy challenge? Bring it on!' Your confidence is admirable! You truly understand the thrill that spicy food brings - a true spicy master!",
+      "image": "https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?w=600&q=80",
+      "tags": [
+        "Spicy Master",
+        "Spice Conqueror",
+        "100% Spice Pride"
+      ]
+    },
+    {
+      "id": "mild-sweet-health",
+      "title": "One Spoonful of Sentiment! Sensibility Gourmet",
+      "description": "You're a sensibility gourmet who values not just taste but atmosphere and visuals! Time spent in a cozy cafe with beautiful desserts is the ultimate healing for you. You prefer soft, sweet flavors while maintaining your health - true balance! Your Instagram is already filled with aesthetic restaurants!",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "tags": [
+        "Cafe Aesthetic",
+        "Visual Restaurant Lover",
+        "Sweet Healing"
+      ]
+    }
+  ]
+}

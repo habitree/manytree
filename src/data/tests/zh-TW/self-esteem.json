@@ -1,0 +1,687 @@
+{
+  "id": "self-esteem",
+  "title": "了解我的自尊心水平",
+  "description": "這是一項心理測試,旨在探索你如何認識和評估自己。透過自我價值、自我接納和自我效能感,了解你當前的自尊心狀態,邁出成長的第一步。",
+  "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "總的來說,我對自己感到滿意。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "當面臨新的挑戰時,我相信自己的能力。",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "我接納自己的全部,包括優點和缺點。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "經歷失敗時,我會努力尋找更好的方法。",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "強烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "即使聽到不同的意見,我仍能堅持自己的觀點和信念。",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "我為自己的能力和品質感到自豪。",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "強烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "不管他人的評價如何,我都能認可和接納自己。",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "我有勇氣去追求自己想做的事。",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "強烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "即使犯了錯誤或經歷失敗,我也能善待自己。",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "即使在困難的情況下,我也相信自己有能力解決問題。",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "強烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "我相信自己本來的樣子就是有價值的。",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "非常同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "非常不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "我對自己做出的決定充滿信心。",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "強烈同意",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "不同意",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強烈不同意",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "擁有相信自己力量的你",
+      "description": "你具備健康的自尊心,能夠認識自己的價值並相信自己的能力。這種自我信任成為你接受新挑戰、在困難中恢復並堅持自己信念的力量。\n\n你的優勢:\n- 能夠認可自己的價值\n- 對挑戰持積極態度\n- 穩定的自我確信\n\n進一步成長的建議:\n自尊心在與他人的聯繫中更加閃耀。用你的積極能量去鼓勵周圍的人,並對不同的觀點保持開放的心態。隨著謙虛的成長,你會變得更加成熟。",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop",
+      "tags": [
+        "自我信任",
+        "積極態度",
+        "挑戰精神",
+        "內在穩定",
+        "成長心態"
+      ]
+    },
+    {
+      "id": "stable",
+      "title": "穩定的自尊心 - 平衡的自己",
+      "description": "你對自己既有積極的態度,又保持現實的眼光。你維持著適當水平的自尊心,這為健康的人際關係和個人成長奠定了良好基礎。\n\n你的優勢:\n- 現實的自我評估\n- 穩定的情緒狀態\n- 自信與謙虛的平衡\n\n持續成長的建議:\n在穩定的基礎之上,更具體地設定並追求你的夢想和目標。透過累積小的成功經驗,你可以進一步增強信心。此外,透過幫助他人和導師經歷來尋找更深層的人生意義。",
+      "image": "https://images.unsplash.com/photo-1552058544-f6b08422138a?w=500&h=500&fit=crop",
+      "tags": [
+        "穩定性",
+        "平衡",
+        "現實感",
+        "成熟",
+        "進步"
+      ]
+    },
+    {
+      "id": "unstable",
+      "title": "靈活成長的你",
+      "description": "你的自尊心會根據不同情況靈活變化。這意味著你對環境反應敏感,並能深入地反思自己。許多人都經歷過類似的成長過程。\n\n你的優勢:\n- 出色的自我反思能力\n- 追求進步的熱情\n- 敏銳的感受性和同理心\n\n建立更穩定自信的技巧:\n1. 記錄成功:記錄小的成就,回顧時建立信心。\n2. 改變內心對話:當出現批評性思想時,用對朋友說話的方式溫和地調整它。\n3. 接納不完美:每天練習接受自己不完美也沒關係。\n4. 建立支持圈:與信任你的人花更多時間。\n\n你的靈活性是優勢。在其上建立穩定性,你會更加閃耀!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "靈活成長",
+        "自我反思",
+        "恢復力",
+        "敏感性",
+        "成長潛力"
+      ]
+    },
+    {
+      "id": "low",
+      "title": "發現內在力量的你",
+      "description": "現在的你正在進行一段寶貴的自我理解之旅。你做這個測試去反思自己這個事實本身,就是你渴望成長的證明。許多人從相似的起點出發,發現了自己的優勢和價值。\n\n你已經擁有的優勢:\n- 自我反思的能力\n- 理解他人的同理心\n- 追求成長的意願\n\n建立自尊心的實踐指南:\n1. 練習自我關懷:在困難時刻,像對朋友一樣溫柔地對自己說話。\n2. 記錄小成就:每天記錄你的成就,認識自己的能力。\n3. 發現優勢:找到你自然擅長的事和你喜歡的事。\n4. 建立支持網絡:與那些無條件接納你的人相處。\n5. 尋求專業幫助:如果需要,尋求心理諮詢師的幫助是明智的選擇。\n\n你本來的樣子就很珍貴。雖然自尊心不會一夜改變,但小的堅持實踐會讓你逐步感受到變化。",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?w=500&h=500&fit=crop",
+      "tags": [
+        "成長之旅",
+        "自我發現",
+        "內在力量",
+        "恢復力",
+        "無限可能"
+      ]
+    }
+  ]
+}

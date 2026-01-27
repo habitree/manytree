@@ -1,0 +1,353 @@
+{
+  "id": "communication-style",
+  "title": "为什么我和这个人话不投机？隐藏的沟通DNA大公开！",
+  "description": "90%的人不知道自己的对话习惯！和恋人、朋友、同事沟通困难的原因就在这里。改善人际关系的第一步，现在就来确认吧！",
+  "thumbnail": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop&q=80",
+  "color": "#00BCD4",
+  "questions": [
+    {
+      "id": 1,
+      "text": "朋友说遇到了困难想向你倾诉。你的自然反应是？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "先充分倾听，对他们的感受表示同情和安慰",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "了解情况，和他一起找出能帮助的解决方案",
+          "scores": {
+            "talker": 2,
+            "logical": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "当你需要传达重要信息时，你的沟通方式是？",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "options": [
+        {
+          "text": "认为直接清楚地表达核心内容是最高效的",
+          "scores": {
+            "direct": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "考虑对方的处境，温和地传达信息",
+          "scores": {
+            "indirect": 2,
+            "emotional": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "在聚会上坐在了一位陌生人旁边，你的反应是？",
+      "image": "https://images.unsplash.com/photo-1496337589254-7e19d01cec44?w=600&q=80",
+      "options": [
+        {
+          "text": "主动打招呼，自然地开始对话",
+          "scores": {
+            "talker": 2,
+            "offline": 1
+          }
+        },
+        {
+          "text": "观察对方的情绪，等待自然的交流时机",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "会议中出现与自己不同的意见时，你的反应是？",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "用逻辑论据清晰地传达自己的想法",
+          "scores": {
+            "logical": 2,
+            "direct": 1
+          }
+        },
+        {
+          "text": "先尊重对方的意见，再谨慎地分享自己的观点",
+          "scores": {
+            "emotional": 2,
+            "indirect": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "需要急着联系朋友！你首先选择的方式是？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "发信息或微信！打字更方便，还能理清思路！",
+          "scores": {
+            "online": 2,
+            "indirect": 1
+          }
+        },
+        {
+          "text": "直接打电话！这种事不该发信息，必须直接说！",
+          "scores": {
+            "offline": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "在群聊中，你的参与风格是？",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "积极参与聊天，带动气氛",
+          "scores": {
+            "talker": 2,
+            "casual": 1
+          }
+        },
+        {
+          "text": "主要观察，必要时发表简洁的意见",
+          "scores": {
+            "listener": 2,
+            "formal": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "发现朋友表情不太好时，你的反应是？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "直接问发生了什么，表示你的关心",
+          "scores": {
+            "direct": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "舒适地陪在他身边，等他准备好时再倾听",
+          "scores": {
+            "indirect": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "公司会议时间，你的发言风格是？",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+      "options": [
+        {
+          "text": "第一点、第二点、第三点！系统地整理后清晰表达！",
+          "scores": {
+            "logical": 2,
+            "formal": 1
+          }
+        },
+        {
+          "text": "根据气氛灵活发言！太死板就没意思了！",
+          "scores": {
+            "emotional": 1,
+            "casual": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "和老朋友谈话时，你的风格是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "轻松地开玩笑，不拘束地自由聊天",
+          "scores": {
+            "casual": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "即使亲近也保持相互尊重的说话方式",
+          "scores": {
+            "formal": 2,
+            "listener": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "当别人讲长故事时，你的对话风格是？",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "专心倾听到底，表示共鸣和反应",
+          "scores": {
+            "listener": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "在适当的时机分享自己的想法，继续对话",
+          "scores": {
+            "talker": 2,
+            "direct": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "你在社交媒体上的活动风格是？",
+      "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&q=80",
+      "options": [
+        {
+          "text": "积极分享帖子、评论，主动沟通",
+          "scores": {
+            "online": 2,
+            "talker": 1
+          }
+        },
+        {
+          "text": "主要观看内容，倾向用私信进行沟通",
+          "scores": {
+            "offline": 1,
+            "listener": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "当你想表达感谢时，你的风格是？",
+      "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "options": [
+        {
+          "text": "直接用言语表达感谢对我来说很自然",
+          "scores": {
+            "direct": 2,
+            "casual": 1,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "用行动或其他方式传达感受对我来说更舒适",
+          "scores": {
+            "indirect": 2,
+            "formal": 1,
+            "logical": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "direct-talker-logical",
+      "title": "清晰传达力！高效沟通的大师",
+      "description": "你是一位能准确传达核心内容的清晰沟通者。你省略不必要的话语，整理要点后表达，使听众容易理解。这种风格在工作环境中特别出众。有时考虑对方的情感背景，会让沟通变得更加丰富。你逻辑清晰、高效的沟通能力是团队和组织的宝贵资产！",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "清晰表达",
+        "高效沟通",
+        "逻辑表达"
+      ]
+    },
+    {
+      "id": "listener-emotional",
+      "title": "共情天才！众人依靠的心灵港湾",
+      "description": "你天生具有共情能力！你全心全意地倾听对方的话语，和他们一起感受情感——一位温暖的沟通者。你经常听到人们说，和你谈话会让心情平复吗？你简单的一句话「我理解，那肯定很难」就成了别人最好的安慰。每个人都向你敞开心扉，你就是某个人珍贵的心灵港湾！",
+      "image": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?w=600&q=80",
+      "tags": [
+        "共情高手",
+        "温暖倾听者",
+        "心灵安息地"
+      ]
+    },
+    {
+      "id": "talker-casual-offline",
+      "title": "用温暖能量连接人心的沟通者",
+      "description": "你有能力为对话注入温暖的能量，让人们感到舒适。你用亲切的沟通风格正面引导聚会气氛，享受面对面交流的快乐。你的社交能力创造新的关系，巩固既有的关系。这种连接能力在团队合作中成为巨大优势。有时多花时间深入倾听他人的故事，你的人际关系会获得更加丰富的内涵！",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "tags": [
+        "温暖能量",
+        "关系连接",
+        "亲切沟通"
+      ]
+    },
+    {
+      "id": "logical-formal",
+      "title": "逻辑之王！说服力100%的专业沟通者",
+      "description": "理性胜于感情，明确胜于模糊！你是一位体系化和逻辑性强的沟通大师。在会议或讨论中，你的发言具有说服力，别人也容易理解。你用有据可查的论证和清晰的表达力说服对方。专业的商务沟通者，每个人都对你的话点头赞同！",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&q=80",
+      "tags": [
+        "逻辑之王",
+        "说服力强",
+        "专业沟通者"
+      ]
+    },
+    {
+      "id": "indirect-listener",
+      "title": "营造和谐的细心沟通大师",
+      "description": "你是一位首先考虑对方立场的细心沟通者。你谨慎地选择每一个词语，努力理解不同的观点。你的体贴让周围关系和谐，甚至在冲突中也能找到各方都能接受的解决方案。作为受信任的调解者，你是团队和组织的宝贵财富。有时更主动地表达自己的意见，你的睿智观点会帮助更多人！",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "tags": [
+        "细心体贴",
+        "营造和谐",
+        "信任调解"
+      ]
+    },
+    {
+      "id": "online-indirect",
+      "title": "有序表达的大师，考虑周周的数字沟通者",
+      "description": "你是一位喜欢整理思路后再表达的体贴沟通者。在文字沟通中，你能更准确清晰地传达意思，在信息交流中发挥优势。这种风格也反映了你的细心——选择言辞让对方能舒适地接受。数字环境中的沟通能力在现代社会非常关键。有时体验面对面沟通的即兴温暖，你的人际关系会更加丰富！",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "tags": [
+        "考虑周周的表达",
+        "有序沟通",
+        "体贴传达"
+      ]
+    },
+    {
+      "id": "emotional-casual",
+      "title": "打开心扉的钥匙！充满真心的感性治愈师",
+      "description": "和你聊天会让心情变得温暖舒适！你坦诚地分享情感，喜欢不拘束的自由对话。比起生硬的交谈，你追求心心相通的沟通！周围的人和你谈话都会感到被治愈。掌握真诚温暖对话的大师，大家的治愈朋友！",
+      "image": "https://images.unsplash.com/photo-1516534775068-ba3e7458af70?w=600&q=80",
+      "tags": [
+        "感性治愈师",
+        "真心沟通",
+        "温暖对话"
+      ]
+    },
+    {
+      "id": "formal-listener-logical",
+      "title": "言论有分量！受信任的人生顾问",
+      "description": "你是一位重视行动胜过言辞、重视倾听胜过闲聊的沉实沟通者！你不会轻易说话，但在必要时刻，你会说出点中要害的一句。因此你的话语有力有重，建议总是有帮助。正因为你不轻言，人们信任你。大家都能依靠的值得信赖的人生顾问，你的一句话是金玉之言！",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "tags": [
+        "信任象征",
+        "人生顾问",
+        "言论分量"
+      ]
+    }
+  ]
+}

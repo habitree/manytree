@@ -1,0 +1,351 @@
+{
+  "id": "stress-style",
+  "title": "你的压力释放秘密武器！不为人知的心理管理法公开",
+  "description": "为什么某些解压法对你没有效果？心理专家分析的8种压力应对类型！立即发现完全适合你的定制治疗方法。必须在倦怠来临前检查！",
+  "thumbnail": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=600&fit=crop&q=80",
+  "color": "#9C27B0",
+  "questions": [
+    {
+      "id": 1,
+      "text": "上班路上出现了意外延误。你的应对方式是？",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "听音乐让心情平静，接受现实",
+          "scores": {
+            "emotional": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "快速搜索替代路线，试图解决问题",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "工作中感到压力的一天，下班后你的恢复方法是？",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600&q=80",
+      "options": [
+        {
+          "text": "联系亲密的朋友，通过谈话释放情感",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "独自思考，通过散步或冥想整理思绪",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "当负面情绪堆积时，你如何释放？",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "通过运动或积极的爱好释放能量",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "在舒适的空间充分休息，恢复能量",
+          "scores": {
+            "passive": 2,
+            "escape": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "经过艰难的一天后，到家了。你的治疗程序是？",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "options": [
+        {
+          "text": "观看喜欢的内容，享受舒适的休息时间",
+          "scores": {
+            "escape": 2,
+            "alone": 1
+          }
+        },
+        {
+          "text": "联系朋友一起共度时光，转换心情",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "与同事/朋友意见分歧！心情有些不适，你会？",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "现在就谈！不适感一天都忍受不了！",
+          "scores": {
+            "confront": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "先冷静一下...冷静后再对话！",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "压力下你的表情会怎样？",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "全写在脸上...再想隐瞒也会看出来！",
+          "scores": {
+            "express": 2,
+            "emotional": 1
+          }
+        },
+        {
+          "text": "表面平静，内心暴风！保持扑克脸是基本！",
+          "scores": {
+            "suppress": 2,
+            "rational": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "感到压力时，你给自己的小奖励是？",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=80",
+      "options": [
+        {
+          "text": "用美食或喜欢的甜点转换心情",
+          "scores": {
+            "emotional": 2,
+            "escape": 1
+          }
+        },
+        {
+          "text": "投资有助于健康或自我完善的事物",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "感到压力时，你的社交媒体活跃度如何？",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+      "options": [
+        {
+          "text": "私信炸裂，群聊活跃！不和某人聊天就活不了！",
+          "scores": {
+            "social": 2,
+            "express": 1
+          }
+        },
+        {
+          "text": "已读不回模式开启，无限滚动或消失！（需要与世界断联！）",
+          "scores": {
+            "alone": 2,
+            "suppress": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "大型项目截止日期倒计时3天！压力下你的应对方式是？",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "分解日程制作清单！逐一攻克！",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        },
+        {
+          "text": "开始做吧！做着做着路就出现了！（依靠本能！）",
+          "scores": {
+            "emotional": 2,
+            "active": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "宝贵的周末，你的压力重置计划是？",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "取消和朋友的约！通过美食、咖啡、购物转换心情！",
+          "scores": {
+            "social": 2,
+            "active": 1
+          }
+        },
+        {
+          "text": "不出门！宅在家享受独自治疗时间！（喜欢独处！）",
+          "scores": {
+            "alone": 2,
+            "passive": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "困难时，某人的话能给你更多力量？",
+      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "options": [
+        {
+          "text": "'你一定很累，辛苦了' 同情和安慰刺激泪腺！",
+          "scores": {
+            "emotional": 2,
+            "social": 1
+          }
+        },
+        {
+          "text": "'试试这样！' 实际的解决方案让你头脑清晰！",
+          "scores": {
+            "rational": 2,
+            "confront": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "压力导致失眠，你的午夜模式是？",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "options": [
+        {
+          "text": "蜷缩在被子里强迫自己睡觉...睡眠是良药！",
+          "scores": {
+            "escape": 2,
+            "passive": 1
+          }
+        },
+        {
+          "text": "反正也睡不着，那就打扫卫生或运动！",
+          "scores": {
+            "active": 2,
+            "confront": 1
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "active-social",
+      "title": "一起运动压力就消散！能量爆表社交活动家",
+      "description": "你的压力释放秘密武器是'一起运动'！和朋友跑步、登山、打团队运动时，压力瞬间蒸发。充满能量的你，周围总是充满活力，一起流汗后的成就感是最好的治疗！你在运动中治疗自己，在分享中充电——你是正能量的源头！",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "tags": [
+        "能量释放",
+        "共同治疗",
+        "活跃的社交人"
+      ]
+    },
+    {
+      "id": "active-alone",
+      "title": "属于我的运动程序！用汗水重启的自我治疗者",
+      "description": "压力？用汗水冲洗！你是那种独自运动时间是最好治疗的类型。健身房、跑步路线、家庭健身...一滴汗珠，压力就消失。运动后洗澡，你就是完全新的人！用自己的程序重置身心，你是真正的自我关怀高手！",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "tags": [
+        "运动重启",
+        "独自治疗",
+        "自我关怀专家"
+      ]
+    },
+    {
+      "id": "social-express",
+      "title": "聊天是良药！用对话治愈的沟通天才",
+      "description": "一聊就豁然开朗的你！和朋友的一通电话，在咖啡馆的倾诉时刻是你最好的压力释放。不藏在心里，分享出去心就轻了。对你来说，朋友就像心理医生！你是通过对话整理情感、通过共鸣充电的沟通大师！",
+      "image": "https://images.unsplash.com/photo-1543807535-eceef0bc6599?w=600&q=80",
+      "tags": [
+        "聊天疗法",
+        "共鸣充电",
+        "沟通大师"
+      ]
+    },
+    {
+      "id": "alone-passive",
+      "title": "属于我的安静时间！完美的充电型内向者",
+      "description": "你最好的治疗是'属于我的时间'！在没有打扰的空间里看书、听音乐或发呆...独处的安静时刻是能量补充的秘密。你懂得在忙碌的世界中保持自己的步调——你是明智的，懂得真正的休息是什么！你的安静治疗时间比任何东西都珍贵！",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "安静充电",
+        "独处时间",
+        "内在治疗"
+      ]
+    },
+    {
+      "id": "escape-emotional",
+      "title": "沉浸的艺术！通过内容重充电的治疗者",
+      "description": "你有自己独特的治疗方法！你通过沉浸在喜欢的电视剧、网漫或游戏等内容中来恢复心理能量。这是心理学所说的'心理距离'，是从压力情景中暂时脱离、重新获得客观视角的有效方法。你对感兴趣事物的热情和沉浸能力是你宝贵的资源！充电后你能以更清晰的心态回到日常生活。",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80",
+      "tags": [
+        "沉浸治疗",
+        "心理重充电",
+        "爱好的价值"
+      ]
+    },
+    {
+      "id": "rational-confront",
+      "title": "问题解决者！征服压力的战略家",
+      "description": "你是直面压力根源的真正解决者！不被情感左右，分析形势，抓住问题核心找到解决方案。你明白问下'为什么压力'和消除原因就能消除压力——你是睿智的战略家！你那理性实用的应对方法是许多人想学的能力！",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "tags": [
+        "问题解决者",
+        "战略应对",
+        "理性的胜利"
+      ]
+    },
+    {
+      "id": "emotional-express",
+      "title": "对情感坦诚！不压抑的健康表达者",
+      "description": "你是坦诚表达情感的健康类型！生气就说生气，伤心就说伤心——这种坦诚正是不累积压力的秘诀。你明白压抑情感最终会爆发——你很明智！坦诚的情感表达让关系更健康，也让心更轻松。你不压抑自己真棒！",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "坦诚表达",
+        "情感释放",
+        "健康的发泄"
+      ]
+    },
+    {
+      "id": "suppress-rational",
+      "title": "平静的观察者！在控制情感中思考的人",
+      "description": "你拥有在情感波澜中保持平衡的内在力量。面对压力时不是立即反应，而是退一步观察形势，平静地整理自己的情感——你是省思型的。这种方法防止冲动决定，让你能做出更聪慧的选择。不过，有时向信任的人敞开心扉分享情感也是健康的做法。你的平静是给周围人带来稳定感的珍贵品质。",
+      "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+      "tags": [
+        "内在平和",
+        "思考的力量",
+        "平衡的应对"
+      ]
+    }
+  ]
+}

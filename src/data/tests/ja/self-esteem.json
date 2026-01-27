@@ -1,0 +1,687 @@
+{
+  "id": "self-esteem",
+  "title": "私の自己肯定感レベルを知る",
+  "description": "自分自身をどのように認識し、評価しているかを探究する心理テストです。自己価値感、自己受容、自己効力感を通じて、あなたの現在の自己肯定感の状態を把握し、成長への第一歩を踏み出してみてください。",
+  "thumbnail": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+  "color": "#FF6B9D",
+  "questions": [
+    {
+      "id": 1,
+      "text": "全体的に、私は自分自身に満足している。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "新しい課題に挑戦する時、私は自分の能力を信じている。",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "長所と短所を含めて、自分自身全体を受け入れている。",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "失敗を経験する時、私はより良い方法を見つけようと努力する。",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "options": [
+        {
+          "text": "強く同意する",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意する",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立である",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "同意しない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強く同意しない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "異なる意見を聞いても、自分の見方と信念を維持することができる。",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "私は自分の能力と資質に対して誇りを感じている。",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "強く同意する",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意する",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立である",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "同意しない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強く同意しない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "私は他人の評価に関わらず、自分自身を認めることができる。",
+      "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "私がやりたいことに挑戦する勇気がある。",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "強く同意する",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意する",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立である",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "同意しない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強く同意しない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "失敗や間違いを経験した後でも、自分自身に優しく接することができる。",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "困難な状況でも、問題を解決する能力があると思う。",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+      "options": [
+        {
+          "text": "強く同意する",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意する",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立である",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "同意しない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強く同意しない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "私は自分自身にあるがままの価値があると思う。",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "非常にそう思う",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "そう思う",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "どちらでもない",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "そう思わない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "全くそう思わない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "私が下す決定に自信がある。",
+      "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&q=80",
+      "options": [
+        {
+          "text": "強く同意する",
+          "scores": {
+            "high": 2,
+            "stable": 1,
+            "unstable": 0,
+            "low": -1
+          }
+        },
+        {
+          "text": "同意する",
+          "scores": {
+            "high": 1,
+            "stable": 1,
+            "unstable": 0,
+            "low": 0
+          }
+        },
+        {
+          "text": "中立である",
+          "scores": {
+            "high": 0,
+            "stable": 0,
+            "unstable": 1,
+            "low": 0
+          }
+        },
+        {
+          "text": "同意しない",
+          "scores": {
+            "high": -1,
+            "stable": 0,
+            "unstable": 1,
+            "low": 1
+          }
+        },
+        {
+          "text": "強く同意しない",
+          "scores": {
+            "high": -2,
+            "stable": -1,
+            "unstable": 1,
+            "low": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "自分自身を信じる力を持つあなた",
+      "description": "あなたは自分の価値を認識し、能力を信じる健全な自己肯定感を持っています。この自己信頼は、新しい課題を受け入れ、困難の中で回復し、自分自身の基準を維持する力となります。\n\nあなたの強み:\n- 自分の価値を認める能力\n- 課題に対する肯定的な態度\n- 安定した自己確信\n\nさらなる成長のために:\n自己肯定感は他者とのつながりの中でより輝きます。あなたのポジティブなエネルギーで周囲の人々を励まし、多様な視点に心を開いてみてください。成長する謙虚さがあなたをより成熟させるでしょう。",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=500&h=500&fit=crop",
+      "tags": [
+        "自己信頼",
+        "肯定的態度",
+        "挑戦精神",
+        "内的安定感",
+        "成長マインドセット"
+      ]
+    },
+    {
+      "id": "stable",
+      "title": "安定した自己肯定感 - バランスの取れた自分",
+      "description": "あなたは自分自身に対して肯定的でありながらも、現実的な視点を持っています。適切なレベルの自己肯定感を維持しており、これは健全な対人関係と個人の成長のための良い基礎です。\n\nあなたの強み:\n- 現実的な自己評価\n- 安定した感情状態\n- 自信と謙虚さのバランス\n\n継続的な成長のために:\nあなたの安定した基礎の上で、自分の夢と目標をより具体的に設定し、追求してみてください。小さな成功経験を積み重ねることで、さらに自信を高めることができます。また、他者を助け、メンタリングの経験を通じて、人生の意味をより深く感じてみてください。",
+      "image": "https://images.unsplash.com/photo-1552058544-f6b08422138a?w=500&h=500&fit=crop",
+      "tags": [
+        "安定性",
+        "バランス",
+        "現実感覚",
+        "成熟",
+        "改善"
+      ]
+    },
+    {
+      "id": "unstable",
+      "title": "柔軟に成長するあなた",
+      "description": "あなたの自己肯定感は状況に応じて柔軟に変化します。これはあなたが環境に敏感に反応し、自分自身を深く省みるという意味でもあります。多くの人々が同様の経験を通じて成長します。\n\nあなたの強み:\n- 優れた自己反省能力\n- より良くなろうとする情熱\n- 深い感受性と共感能力\n\nより安定した自信のためのヒント:\n1. 成功経験を記録する:小さな成就を記録し、振り返ることで自信を築いてみてください。\n2. 内部対話を変える:批判的な思考が浮かんだとき、友人に話すように優しく言い直してみてください。\n3. あるがままを受け入れる:完璧でなくても大丈夫だということを毎日練習してみてください。\n4. サポートグループを作る:あなたを信じてくれる人々とより多くの時間を過ごしてください。\n\nあなたの柔軟性は強みです。その上に安定性を築いていけば、さらに輝くでしょう!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=500&h=500&fit=crop",
+      "tags": [
+        "柔軟な成長",
+        "自己反省",
+        "レジリエンス",
+        "感受性",
+        "成長の可能性"
+      ]
+    },
+    {
+      "id": "low",
+      "title": "内面の力を発見していくあなた",
+      "description": "今、あなたは自分自身をより深く理解する貴重な旅の途上にいます。このテストを通じて自分を振り返ろうとしたという事実そのものが、成長しようとする意志の証です。多くの人々が同様のスタート地点から自分の強みと価値を発見してきました。\n\nあなたがすでに持っている強み:\n- 自分自身を振り返る能力\n- 他者の心を理解する共感能力\n- より良い自分へ向かう成長の意志\n\n自己肯定感を築いていくための実践ガイド:\n1. 自己思いやりの練習:困難な時に、友人に話しかけるように自分自身に温かい言葉をかけてみてください。\n2. 小さな成就を記録する:毎日達成したことを記録して、自分の能力を確認してみてください。\n3. 強みを発見する:あなたが自然にうまくできること、楽しむことを探してみてください。\n4. サポートネットワークを作る:あなたをありのまま受け入れてくれる人々と時間を過ごしてください。\n5. 専門的サポートを求める:必要であれば、カウンセラーの助けを求めることも賢い選択です。\n\nあなたはありのままの姿で貴重な存在です。自己肯定感は一夜にして変わりませんが、小さな実践が積み重なれば、確実に変化を感じるようになるでしょう。",
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3af4abd8?w=500&h=500&fit=crop",
+      "tags": [
+        "成長の旅",
+        "自己発見",
+        "内面の強さ",
+        "レジリエンス",
+        "無限の可能性"
+      ]
+    }
+  ]
+}

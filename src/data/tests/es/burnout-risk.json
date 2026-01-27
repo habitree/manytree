@@ -1,0 +1,571 @@
+{
+  "id": "burnout-risk",
+  "title": "¿Cómo está mi salud mental? Diagnóstico de riesgo de agotamiento laboral",
+  "description": "¡Se dice que 7 de cada 10 trabajadores de oficina experimentan agotamiento! ¿Estás bien? Lee las señales que envían tu cuerpo y mente, y prevén esto de antemano. ¡Realiza esta prueba para verificar tu nivel actual de riesgo de agotamiento!",
+  "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=600&fit=crop&q=80",
+  "color": "#FF5252",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Cuando abres los ojos por la mañana al inicio de una nueva semana, ¿cuál es tu primer pensamiento?",
+      "image": "https://images.unsplash.com/photo-1495653797063-114787b77b23?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Otro día nuevo! Pienso en lo que debo hacer y me preparo",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "El fin de semana pasó muy rápido, es una lástima, pero me levanto",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Prepararse para el trabajo se siente pesado y no tengo energía",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Empezar el día en sí mismo se siente agotador",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "¿Cuánta concentración puedes mantener durante el trabajo?",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+      "options": [
+        {
+          "text": "A menudo me concentro tanto que pierdo la noción del tiempo!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Generalmente está bien, pero a veces me distraigo",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Frecuentemente me quedo en blanco y me cuesta concentrarme",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "El trabajo no me entra en la cabeza y no tengo motivación",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "¿Cuál es tu nivel de energía después de salir del trabajo?",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "options": [
+        {
+          "text": "Tengo energía para disfrutar de actividades de ocio y pasar tiempo con amigos",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Estoy algo cansado, pero puedo salir si tengo planes",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Siento mucho cansancio y siento que necesito tiempo personal",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Agotamiento extremo - no me siento recuperado ni con suficiente descanso",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "¿Cómo es tu calidad de sueño recientemente?",
+      "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=600&q=80",
+      "options": [
+        {
+          "text": "Duermo profundamente y me despierto renovado!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "A veces me doy vueltas, pero en general está bien",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Me despierto frecuentemente y es difícil dormir con trabajo en mente",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Insomnio crónico... estoy cansado pero no puedo dormir",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "¿Cómo te sientes respecto al trabajo que estás haciendo actualmente?",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+      "options": [
+        {
+          "text": "Lo encuentro significativo y gratificante",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Lo hago con calma sin ningún sentimiento particular",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "A veces dudo, pero continúo",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Es difícil encontrar significado en mi trabajo y mi motivación ha bajado mucho",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "¿Cómo son tus relaciones con colegas y supervisores en el trabajo?",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+      "options": [
+        {
+          "text": "Cooperamos y mantenemos relaciones positivas",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Mantenemos una distancia apropiada como relaciones laborales",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Hay estrés relacional y se siente incómodo",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Me siento aislado o como si no tuviera nadie con quien compartir",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "¿Cómo es tu condición física?",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Saludable y lleno de energía!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Normal. A veces cansado, pero dentro de lo normal",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Frecuentemente tengo dolores de cabeza o indigestión",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Cansancio crónico y varios síntomas persisten...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "text": "¿Cuánto tiempo personal estás asegurando?",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Estoy invirtiendo suficiente tiempo en pasatiempos y descanso!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Estoy ocupado, pero encuentro mi propio tiempo aquí y allá",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Casi nada... estoy enterrado en trabajo",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "¿Qué pasatiempo? No lo recuerdo",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "text": "¿Cuán satisfecho estás con tus logros y reconocimiento?",
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Estoy suficientemente reconocido y satisfecho!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Podría recibir más, pero está bien",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Comparado con mi esfuerzo, recibo muy poco reconocimiento - es frustrante",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "No importa lo que haga, no se nota... me siento vacío",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "text": "¿Piensas en el trabajo incluso fuera del horario laboral?",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Casi nunca! ¡Puedo desconectar completamente!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "A veces viene a la mente, pero rápidamente olvido",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "A menudo pienso en ello y me preocupa",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Nunca se va de mi mente...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "text": "¿Estás manejando bien el estrés?",
+      "image": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Estoy manejando bien el estrés a través del ejercicio y pasatiempos!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "A veces desahogo, pero no siempre",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Es difícil encontrar formas de aliviar el estrés",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "No tengo alivio además de comer o dormir",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "text": "¿Cuál es tu perspectiva sobre el futuro?",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+      "options": [
+        {
+          "text": "¡Tengo metas y siento que estoy creciendo!",
+          "scores": {
+            "low": 2,
+            "moderate": 0,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Voy a vivir día a día por ahora y buscar oportunidades",
+          "scores": {
+            "low": 0,
+            "moderate": 2,
+            "high": 0,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Se siente desolador... El futuro se siente incierto",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 2,
+            "severe": 0
+          }
+        },
+        {
+          "text": "Se ve sin esperanza...",
+          "scores": {
+            "low": 0,
+            "moderate": 0,
+            "high": 0,
+            "severe": 2
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "low",
+      "title": "¡Zona libre de agotamiento! Estrella de oro de salud mental",
+      "description": "¡Felicidades! Actualmente estás manteniendo un estado mental saludable. Estás equilibrando bien el trabajo y la vida, y manejando el estrés de manera efectiva. Mantén este buen estado y date pequeñas recompensas de vez en cuando. ¡Tu energía positiva también está teniendo un impacto positivo en quienes te rodean!",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+      "tags": [
+        "Salud mental",
+        "Vida equilibrada",
+        "Energía positiva"
+      ]
+    },
+    {
+      "id": "moderate",
+      "title": "¡Zona de alerta! Tú estás un poco cansado",
+      "description": "Parece que estás algo agotado. Aún está bien, pero las señales de estrés están comenzando a aparecer. ¡Ahora es un momento importante! Es bueno descansar moderadamente sin excederte y tomarte tiempo para recargarte. Intenta asegurar conscientemente tiempo para hacer ejercicio, disfrutar pasatiempos y pasar tiempo con personas que amas. Si lo manejas ahora, ¡podrás prevenir el agotamiento exitosamente!",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+      "tags": [
+        "Necesidad de recargar",
+        "Manejo del estrés",
+        "Autocuidado"
+      ]
+    },
+    {
+      "id": "high",
+      "title": "Tiempo para recuperación, es hora de cuidarte",
+      "description": "Tu cuerpo y mente te están diciendo que necesitan descanso. Esto también es una señal de cuán duro has trabajado hasta ahora. Ahora, asegurar tiempo para ti mismo es lo más importante. Comienza con pequeños cambios como un descanso corto, ajustar tu carga de trabajo o hablar con alguien en quien confías. Tu valor para dar el primer paso hacia la recuperación es una señal de que definitivamente puedes volver a levantarte!",
+      "image": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+      "tags": [
+        "Tiempo para descansar",
+        "Recuperación posible",
+        "Autocuidado"
+      ]
+    },
+    {
+      "id": "severe",
+      "title": "No estás solo, podemos resolver esto juntos",
+      "description": "Debe ser muy difícil en este momento, ¿verdad? Primero, déjame darte un aplauso por tu valor al verificar honestamente tu condición de esta manera. Los sentimientos que experimentas son completamente comprensibles y reacciones naturales. En tiempos como este, buscar ayuda de un profesional es el enfoque más efectivo. Consulta con un psicoterapeuta, un programa EAP o un psiquiatra. Pedir ayuda no es debilidad, sino una elección sabia de amor propio. Puedes mejorar, y hay profesionales listos para apoyarte en ese viaje.",
+      "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+      "tags": [
+        "Con profesionales",
+        "Inicio de recuperación",
+        "Elección valiente"
+      ]
+    }
+  ]
+}

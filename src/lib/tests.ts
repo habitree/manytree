@@ -24,6 +24,17 @@ import dogPersonalityEn from "@/data/tests/en/dog-personality.json";
 import loveStyleEn from "@/data/tests/en/love-style.json";
 import attachmentStyleEn from "@/data/tests/en/attachment-style.json";
 import innerAnimalEn from "@/data/tests/en/inner-animal.json";
+import workStyleEn from "@/data/tests/en/work-style.json";
+import travelStyleEn from "@/data/tests/en/travel-style.json";
+import foodStyleEn from "@/data/tests/en/food-style.json";
+import stressStyleEn from "@/data/tests/en/stress-style.json";
+import communicationStyleEn from "@/data/tests/en/communication-style.json";
+import loveLanguageEn from "@/data/tests/en/love-language.json";
+import burnoutRiskEn from "@/data/tests/en/burnout-risk.json";
+import hiddenTalentEn from "@/data/tests/en/hidden-talent.json";
+import selfEsteemEn from "@/data/tests/en/self-esteem.json";
+import trueSelfEn from "@/data/tests/en/true-self.json";
+import emotionExpressionEn from "@/data/tests/en/emotion-expression.json";
 
 // 일본어
 import sampleMbtiJa from "@/data/tests/ja/sample-mbti.json";
@@ -31,6 +42,17 @@ import dogPersonalityJa from "@/data/tests/ja/dog-personality.json";
 import loveStyleJa from "@/data/tests/ja/love-style.json";
 import attachmentStyleJa from "@/data/tests/ja/attachment-style.json";
 import innerAnimalJa from "@/data/tests/ja/inner-animal.json";
+import workStyleJa from "@/data/tests/ja/work-style.json";
+import travelStyleJa from "@/data/tests/ja/travel-style.json";
+import foodStyleJa from "@/data/tests/ja/food-style.json";
+import stressStyleJa from "@/data/tests/ja/stress-style.json";
+import communicationStyleJa from "@/data/tests/ja/communication-style.json";
+import loveLanguageJa from "@/data/tests/ja/love-language.json";
+import burnoutRiskJa from "@/data/tests/ja/burnout-risk.json";
+import hiddenTalentJa from "@/data/tests/ja/hidden-talent.json";
+import selfEsteemJa from "@/data/tests/ja/self-esteem.json";
+import trueSelfJa from "@/data/tests/ja/true-self.json";
+import emotionExpressionJa from "@/data/tests/ja/emotion-expression.json";
 
 // 중국어 간체
 import sampleMbtiZhCN from "@/data/tests/zh-CN/sample-mbti.json";
@@ -38,6 +60,17 @@ import dogPersonalityZhCN from "@/data/tests/zh-CN/dog-personality.json";
 import loveStyleZhCN from "@/data/tests/zh-CN/love-style.json";
 import attachmentStyleZhCN from "@/data/tests/zh-CN/attachment-style.json";
 import innerAnimalZhCN from "@/data/tests/zh-CN/inner-animal.json";
+import workStyleZhCN from "@/data/tests/zh-CN/work-style.json";
+import travelStyleZhCN from "@/data/tests/zh-CN/travel-style.json";
+import foodStyleZhCN from "@/data/tests/zh-CN/food-style.json";
+import stressStyleZhCN from "@/data/tests/zh-CN/stress-style.json";
+import communicationStyleZhCN from "@/data/tests/zh-CN/communication-style.json";
+import loveLanguageZhCN from "@/data/tests/zh-CN/love-language.json";
+import burnoutRiskZhCN from "@/data/tests/zh-CN/burnout-risk.json";
+import hiddenTalentZhCN from "@/data/tests/zh-CN/hidden-talent.json";
+import selfEsteemZhCN from "@/data/tests/zh-CN/self-esteem.json";
+import trueSelfZhCN from "@/data/tests/zh-CN/true-self.json";
+import emotionExpressionZhCN from "@/data/tests/zh-CN/emotion-expression.json";
 
 // 중국어 번체
 import sampleMbtiZhTW from "@/data/tests/zh-TW/sample-mbti.json";
@@ -45,6 +78,17 @@ import dogPersonalityZhTW from "@/data/tests/zh-TW/dog-personality.json";
 import loveStyleZhTW from "@/data/tests/zh-TW/love-style.json";
 import attachmentStyleZhTW from "@/data/tests/zh-TW/attachment-style.json";
 import innerAnimalZhTW from "@/data/tests/zh-TW/inner-animal.json";
+import workStyleZhTW from "@/data/tests/zh-TW/work-style.json";
+import travelStyleZhTW from "@/data/tests/zh-TW/travel-style.json";
+import foodStyleZhTW from "@/data/tests/zh-TW/food-style.json";
+import stressStyleZhTW from "@/data/tests/zh-TW/stress-style.json";
+import communicationStyleZhTW from "@/data/tests/zh-TW/communication-style.json";
+import loveLanguageZhTW from "@/data/tests/zh-TW/love-language.json";
+import burnoutRiskZhTW from "@/data/tests/zh-TW/burnout-risk.json";
+import hiddenTalentZhTW from "@/data/tests/zh-TW/hidden-talent.json";
+import selfEsteemZhTW from "@/data/tests/zh-TW/self-esteem.json";
+import trueSelfZhTW from "@/data/tests/zh-TW/true-self.json";
+import emotionExpressionZhTW from "@/data/tests/zh-TW/emotion-expression.json";
 
 // 스페인어
 import sampleMbtiEs from "@/data/tests/es/sample-mbti.json";
@@ -52,6 +96,17 @@ import dogPersonalityEs from "@/data/tests/es/dog-personality.json";
 import loveStyleEs from "@/data/tests/es/love-style.json";
 import attachmentStyleEs from "@/data/tests/es/attachment-style.json";
 import innerAnimalEs from "@/data/tests/es/inner-animal.json";
+import workStyleEs from "@/data/tests/es/work-style.json";
+import travelStyleEs from "@/data/tests/es/travel-style.json";
+import foodStyleEs from "@/data/tests/es/food-style.json";
+import stressStyleEs from "@/data/tests/es/stress-style.json";
+import communicationStyleEs from "@/data/tests/es/communication-style.json";
+import loveLanguageEs from "@/data/tests/es/love-language.json";
+import burnoutRiskEs from "@/data/tests/es/burnout-risk.json";
+import hiddenTalentEs from "@/data/tests/es/hidden-talent.json";
+import selfEsteemEs from "@/data/tests/es/self-esteem.json";
+import trueSelfEs from "@/data/tests/es/true-self.json";
+import emotionExpressionEs from "@/data/tests/es/emotion-expression.json";
 
 // 로케일별 테스트 데이터 맵
 type LocaleTestMap = Record<string, Test>;
@@ -81,6 +136,17 @@ const testsByLocale: Record<string, LocaleTestMap> = {
     "love-style": loveStyleEn as unknown as Test,
     "attachment-style": attachmentStyleEn as unknown as Test,
     "inner-animal": innerAnimalEn as unknown as Test,
+    "work-style": workStyleEn as unknown as Test,
+    "travel-style": travelStyleEn as unknown as Test,
+    "food-style": foodStyleEn as unknown as Test,
+    "stress-style": stressStyleEn as unknown as Test,
+    "communication-style": communicationStyleEn as unknown as Test,
+    "love-language": loveLanguageEn as unknown as Test,
+    "burnout-risk": burnoutRiskEn as unknown as Test,
+    "hidden-talent": hiddenTalentEn as unknown as Test,
+    "self-esteem": selfEsteemEn as unknown as Test,
+    "true-self": trueSelfEn as unknown as Test,
+    "emotion-expression": emotionExpressionEn as unknown as Test,
   },
   ja: {
     "sample-mbti": sampleMbtiJa as unknown as Test,
@@ -88,6 +154,17 @@ const testsByLocale: Record<string, LocaleTestMap> = {
     "love-style": loveStyleJa as unknown as Test,
     "attachment-style": attachmentStyleJa as unknown as Test,
     "inner-animal": innerAnimalJa as unknown as Test,
+    "work-style": workStyleJa as unknown as Test,
+    "travel-style": travelStyleJa as unknown as Test,
+    "food-style": foodStyleJa as unknown as Test,
+    "stress-style": stressStyleJa as unknown as Test,
+    "communication-style": communicationStyleJa as unknown as Test,
+    "love-language": loveLanguageJa as unknown as Test,
+    "burnout-risk": burnoutRiskJa as unknown as Test,
+    "hidden-talent": hiddenTalentJa as unknown as Test,
+    "self-esteem": selfEsteemJa as unknown as Test,
+    "true-self": trueSelfJa as unknown as Test,
+    "emotion-expression": emotionExpressionJa as unknown as Test,
   },
   "zh-CN": {
     "sample-mbti": sampleMbtiZhCN as unknown as Test,
@@ -95,6 +172,17 @@ const testsByLocale: Record<string, LocaleTestMap> = {
     "love-style": loveStyleZhCN as unknown as Test,
     "attachment-style": attachmentStyleZhCN as unknown as Test,
     "inner-animal": innerAnimalZhCN as unknown as Test,
+    "work-style": workStyleZhCN as unknown as Test,
+    "travel-style": travelStyleZhCN as unknown as Test,
+    "food-style": foodStyleZhCN as unknown as Test,
+    "stress-style": stressStyleZhCN as unknown as Test,
+    "communication-style": communicationStyleZhCN as unknown as Test,
+    "love-language": loveLanguageZhCN as unknown as Test,
+    "burnout-risk": burnoutRiskZhCN as unknown as Test,
+    "hidden-talent": hiddenTalentZhCN as unknown as Test,
+    "self-esteem": selfEsteemZhCN as unknown as Test,
+    "true-self": trueSelfZhCN as unknown as Test,
+    "emotion-expression": emotionExpressionZhCN as unknown as Test,
   },
   "zh-TW": {
     "sample-mbti": sampleMbtiZhTW as unknown as Test,
@@ -102,6 +190,17 @@ const testsByLocale: Record<string, LocaleTestMap> = {
     "love-style": loveStyleZhTW as unknown as Test,
     "attachment-style": attachmentStyleZhTW as unknown as Test,
     "inner-animal": innerAnimalZhTW as unknown as Test,
+    "work-style": workStyleZhTW as unknown as Test,
+    "travel-style": travelStyleZhTW as unknown as Test,
+    "food-style": foodStyleZhTW as unknown as Test,
+    "stress-style": stressStyleZhTW as unknown as Test,
+    "communication-style": communicationStyleZhTW as unknown as Test,
+    "love-language": loveLanguageZhTW as unknown as Test,
+    "burnout-risk": burnoutRiskZhTW as unknown as Test,
+    "hidden-talent": hiddenTalentZhTW as unknown as Test,
+    "self-esteem": selfEsteemZhTW as unknown as Test,
+    "true-self": trueSelfZhTW as unknown as Test,
+    "emotion-expression": emotionExpressionZhTW as unknown as Test,
   },
   es: {
     "sample-mbti": sampleMbtiEs as unknown as Test,
@@ -109,6 +208,17 @@ const testsByLocale: Record<string, LocaleTestMap> = {
     "love-style": loveStyleEs as unknown as Test,
     "attachment-style": attachmentStyleEs as unknown as Test,
     "inner-animal": innerAnimalEs as unknown as Test,
+    "work-style": workStyleEs as unknown as Test,
+    "travel-style": travelStyleEs as unknown as Test,
+    "food-style": foodStyleEs as unknown as Test,
+    "stress-style": stressStyleEs as unknown as Test,
+    "communication-style": communicationStyleEs as unknown as Test,
+    "love-language": loveLanguageEs as unknown as Test,
+    "burnout-risk": burnoutRiskEs as unknown as Test,
+    "hidden-talent": hiddenTalentEs as unknown as Test,
+    "self-esteem": selfEsteemEs as unknown as Test,
+    "true-self": trueSelfEs as unknown as Test,
+    "emotion-expression": emotionExpressionEs as unknown as Test,
   },
 };
 
