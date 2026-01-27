@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 import { locales, languages, type Locale } from "@/i18n/config";
 import KakaoScript from "@/components/KakaoScript";
 import LanguageSelector from "@/components/LanguageSelector";
+import MobileMenu from "@/components/MobileMenu";
 import { Link } from "@/i18n/routing";
 import "../globals.css";
 
@@ -194,15 +195,14 @@ export default async function LocaleLayout({
                 {/* 언어 선택 */}
                 <LanguageSelector />
 
-                {/* 모바일 메뉴 버튼 */}
-                <div className="md:hidden">
-                  <Link
-                    href="/"
-                    className="p-2 text-gray-600 hover:text-forest-green rounded-lg transition-colors"
-                  >
-                    {NavIcons.home}
-                  </Link>
-                </div>
+                {/* 모바일 메뉴 */}
+                <MobileMenu
+                  navItems={[
+                    { href: "/", label: nav.home, icon: NavIcons.home },
+                    { href: "/about/", label: nav.about, icon: NavIcons.about },
+                    { href: "/contact/", label: nav.contact, icon: NavIcons.contact },
+                  ]}
+                />
               </div>
             </div>
           </header>
