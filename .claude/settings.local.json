@@ -34,7 +34,9 @@
       "Bash(__NEW_LINE_d202dc2691d51de0__ echo \"Checking scores structure \\(unchanged\\)...\")",
       "Bash(__NEW_LINE_d202dc2691d51de0__ grep '\"\"low\"\": 2' \"C:/Users/N100274/OneDrive/2.PJT/manytree/src/data/tests\"/{en,ja,zh-CN,zh-TW,es}/burnout-risk.json)",
       "Bash(__NEW_LINE_1f379aa510104cf2__ grep '\"\"id\"\": \"\"burnout-risk\"\"' \"C:/Users/N100274/OneDrive/2.PJT/manytree/src/data/tests/en/burnout-risk.json\")",
-      "Bash(__NEW_LINE_1f379aa510104cf2__ echo \"✓ All languages checked\")"
+      "Bash(__NEW_LINE_1f379aa510104cf2__ echo \"✓ All languages checked\")",
+      "Bash(git fetch:*)",
+      "Bash(tr:*)"
     ]
   }
 }
